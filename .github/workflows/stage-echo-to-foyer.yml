@@ -1,0 +1,89 @@
+name: Stage echo (cache|tent) → /foyer/ for review
+
+on:
+  workflow_dispatch:
+    inputs:
+      echo_source:
+        description: "Echo source to stage (echo/cache or echo/tent)"
+        required: true
+        default: "echo/cache"
+      file_pattern:
+        description: "Optional glob (relative to echo source) to select files (default: all)"
+        required: false
+        default: "**/*"
+
+jobs:
+  stage-echo-to-foyer:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout repository (no persisted credentials)
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Configure git user
+        run: |
+          git config user.name "caravan-bot"
+          git config user.email "caravan-bot@example.com"
+
+      - name: Resolve inputs
+        id: inputs
+        run: |
+          echo "source=${{ github.event.inputs.echo_source }}" >> $GITHUB_OUTPUT
+          echo "pattern=${{ github.event.inputs.file_pattern }}" >> $GITHUB_OUTPUT
+
+      - name: Stage matching echo files into /foyer/
+        id: copy
+        run: |
+          SRC="${{ steps.inputs.outputs.source }}"
+          PATTERN="${{ steps.inputs.outputs.pattern }}"
+          echo "Source: $SRC"
+          echo "Pattern: $PATTERN"
+
+          mkdir -p foyer
+          if [ -d "$SRC" ]; then
+            if command -v rsync >/dev/null 2>&1; then
+              if [ "$PATTERN" = "**/*" ] || [ -z "$PATTERN" ]; then
+                rsync -a "$SRC"/ foyer/ || true
+              else
+                (cd "$SRC" && eval "shopt -s globstar; for f in $PATTERN; do [ -f \"$f\" ] && rsync -R \"\$f\" ../foyer/ || true; done") || true
+              fi
+            else
+              cp -a "$SRC"/. foyer/ || true
+            fi
+          else
+            echo "Source directory '$SRC' not present; nothing to stage."
+          fi
+
+          git add foyer || true
+          if git diff --staged --quiet; then
+            echo "no_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "no_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit staged foyer files
+        if: steps.copy.outputs.no_changes == 'false'
+        run: |
+          git commit -m "Bot: stage echo → /foyer/ for human review (run ${{ github.run_id }})" || true
+
+      - name: Create PR for foyer staging
+        if: steps.copy.outputs.no_changes == 'false'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.BOT_PAT }}
+          commit-message: "Bot: stage echo → /foyer/ for review"
+          branch: "bot/stage-foyer-${{ github.run_id }}"
+          title: "Stage echo artifacts to /foyer/ for review"
+          body: |
+            This PR stages artifacts from ${{ github.event.inputs.echo_source }} into /foyer/ for human review.
+            Do NOT promote to /policies/ or to repository root without SEARCH‑AND‑INSERT + explicit Owner confirmation.
+          labels: "auto-stage, needs-review"
+
+      - name: Report nothing staged
+        if: steps.copy.outputs.no_changes == 'true'
+        run: echo "No artifacts staged; no PR created."

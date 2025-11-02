@@ -1,0 +1,89 @@
+name: Stage echo (cache|tent) → /echo/policies/ for policy preview
+
+on:
+  workflow_dispatch:
+    inputs:
+      echo_source:
+        description: "Echo source to stage (echo/cache or echo/tent)"
+        required: true
+        default: "echo/cache"
+      file_pattern:
+        description: "Optional glob (relative to echo source) to select files (default: all)"
+        required: false
+        default: "**/*"
+
+jobs:
+  stage-echo-policies:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Configure git user
+        run: |
+          git config user.name "caravan-bot"
+          git config user.email "caravan-bot@example.com"
+
+      - name: Resolve inputs
+        id: inputs
+        run: |
+          echo "source=${{ github.event.inputs.echo_source }}" >> $GITHUB_OUTPUT
+          echo "pattern=${{ github.event.inputs.file_pattern }}" >> $GITHUB_OUTPUT
+
+      - name: Stage matching echo files into /echo/policies/
+        id: copy
+        run: |
+          SRC="${{ steps.inputs.outputs.source }}"
+          PATTERN="${{ steps.inputs.outputs.pattern }}"
+          echo "Source: $SRC"
+          echo "Pattern: $PATTERN"
+
+          mkdir -p echo/policies
+          if [ -d "$SRC" ]; then
+            if command -v rsync >/dev/null 2>&1; then
+              if [ "$PATTERN" = "**/*" ] || [ -z "$PATTERN" ]; then
+                rsync -a "$SRC"/ echo/policies/ || true
+              else
+                (cd "$SRC" && eval "shopt -s globstar; for f in $PATTERN; do [ -f \"$f\" ] && rsync -R \"\$f\" ../echo/policies/ || true; done") || true
+              fi
+            else
+              cp -a "$SRC"/. echo/policies/ || true
+            fi
+          else
+            echo "Source directory '$SRC' not present; nothing to stage."
+          fi
+
+          git add echo/policies || true
+          if git diff --staged --quiet; then
+            echo "no_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "no_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit echo/policies staging
+        if: steps.copy.outputs.no_changes == 'false'
+        run: |
+          git commit -m "Bot: stage echo → /echo/policies/ for policy preview (run ${{ github.run_id }})" || true
+
+      - name: Create PR for echo/policies staging
+        if: steps.copy.outputs.no_changes == 'false'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.BOT_PAT }}
+          commit-message: "Bot: stage echo → /echo/policies/ for preview"
+          branch: "bot/stage-echo-policies-${{ github.run_id }}"
+          title: "Stage echo artifacts to /echo/policies/ for policy preview"
+          body: |
+            This PR stages artifacts from ${{ github.event.inputs.echo_source }} into /echo/policies/ for human review and SEARCH‑AND‑INSERT preparation.
+            Do NOT promote to /policies/ without explicit Owner confirmation.
+          labels: "auto-stage, needs-policy-review"
+
+      - name: Report nothing staged
+        if: steps.copy.outputs.no_changes == 'true'
+        run: echo "No artifacts staged; no PR created."
