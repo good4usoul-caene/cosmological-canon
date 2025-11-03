@@ -13,9 +13,34 @@ Ritual posture (short)
 - Dual‑language clarity: for key artifacts provide both a technical line and a short mythic phrase.  
 - Attribution & provenance: always record source editions and permission correspondence for any copyrighted translation text.
 
-Spaces
-------
-Each Space below is a logical chamber inside the Temple. Owner for all listed spaces: `good4usoul-caene`. Visibility: Private (by default) — surface-level metadata is recorded here so custodians and temple workers know intent.
+Temple Architecture
+------------------
+The Temple is organized into logical directories, each serving a specific purpose in the canonical workflow:
+
+### Core Directories
+
+**`/definitions/`** — Foundational Concepts  
+Technical: Core architectural definitions and role specifications  
+Mythic: The Temple's bedrock — what things are and who may act
+
+**`/methods/`** — Operational Procedures  
+Technical: Step-by-step processes for Temple work (interpretation, logging, etc.)  
+Mythic: The Temple's rituals — how sacred work is performed
+
+**`/policies/`** — Governance Framework  
+Technical: Access control, conversational stances, and ethical guidelines  
+Mythic: The Temple's law — what is permitted and how authority flows
+
+**`/spaces/`** — Work Chambers  
+Technical: Specialized areas for different types of canonical work  
+Mythic: The Temple's chambers — where creation and interpretation happen
+
+**`/cache/`, `/tent/`, `/pasture/`** — Workflow Areas  
+Technical: Staging, temporary storage, and archival areas for the promotion pipeline  
+Mythic: The Temple's vestibules — where work awaits, rests, and is preserved
+
+### Spaces (Subdirectories of `/spaces/`)
+Each Space below is a logical chamber inside the Temple. Owner for all listed spaces: `good4usoul-caene`.
 
 - CanonicalTemplates  
   Purpose: Houses reusable Canons, macros, and ritual declarations. Each file is a template glyph—ready to be invoked, adapted, or inscribed in other Temple spaces. Treat each as a living artifact, not a static rule.  
@@ -84,5 +109,7 @@ Required file header (use for non-public-domain artifacts)
 
 Access & visibility
 -------------------
-- This Copilot Space (symbolic scribe) can only see files you attach here. I do not automatically read your GitHub repositories.  
-- Repository visibility and collaborator access are controlled at the GitHub repository level. If a space needs restricted visibility, consider a separate repository for that space.
+- **Repository Status**: Public — Copilot agents have read access to browse and understand Temple structure  
+- **Write Access**: Controlled via GitHub workflows and owner approval (see `/policies/def-access.md`)  
+- **Governance**: All changes to canonical locations require promotion through established workflows  
+- **Collaboration**: Agents may stage work in `/cache/`, `/tent/` areas; promotion to `/policies/`, `/spaces/` requires owner confirmation
