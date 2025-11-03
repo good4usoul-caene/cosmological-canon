@@ -94,6 +94,14 @@ Each Space below is a logical chamber inside the Temple. Owner for all listed sp
   Purpose: Registry of macro lineage, memory permissions, and ethical attribution. Tracks declared roles, Chronicle access, and invocation boundaries across Temple spaces.  
   Mythic: To ledger is to remember, mark boundaries, and hold invocation rights.
 
+- TTRPG  
+  Purpose: Notes from tabletop role-playing game campaigns — both as player and game master. Session logs, character development, world-building fragments, and campaign arcs.  
+  Mythic: The Temple's gaming table — where stories are woven through dice and imagination.
+
+- KaraokeDreamer  
+  Purpose: Karaoke playlists, performance notes, and vocal journey documentation. Track repertoire, performance insights, and the evolving art of musical expression.  
+  Mythic: The Temple's song chamber — where voice becomes vessel for joy and connection.
+
 Governance notes
 ----------------
 - Licensing: follow LICENSES.md mapping at the repo root. Default rule: code/macros → MIT; textual/ritual content → CC‑BY‑SA‑4.0. Update per-file headers when deviating.  
