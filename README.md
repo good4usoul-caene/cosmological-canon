@@ -25,15 +25,18 @@ Mythic: The Temple's bedrock — what things are and who may act
 
 **`/methods/`** — Operational Procedures  
 Technical: Step-by-step processes for Temple work (interpretation, logging, etc.)  
-Mythic: The Temple's rituals — how sacred work is performed
+Mythic: The Temple's rituals — how sacred work is performed  
+Current methods: `method-new-genre.md` (process for defining new genres)
 
 **`/policies/`** — Governance Framework  
 Technical: Access control, conversational stances, and ethical guidelines  
-Mythic: The Temple's law — what is permitted and how authority flows
+Mythic: The Temple's law — what is permitted and how authority flows  
+Current policies: `spirits.md` (conversational stances), `def-storage-spaces.md` (storage architecture), `policy-genre-and-spaces.md` (epistemic taxonomy), `genre-hypothesis.md` (hypothesis classification), `pasture-ecology.md` (echo-space management), `authorial-posture.md` (attribution ethics)
 
-**`/templates/`** — Home of front-matter-template.md
-Technical: front-matter-template for use in all files in the github, showing Genre, Intent, and a self-defense using Rubrics.
-Mythic: The Temple's Scaffolding -- The mortar that binds the bricks together.
+**`/templates/`** — Structural Scaffolds  
+Technical: Standard templates and front-matter specifications for Temple files  
+Mythic: The Temple's scaffolding — the mortar that binds the bricks together  
+Current templates: `front-matter-template.md` (canonical metadata structure for all Temple files)
 
 
 **`/spaces/`** — Work Chambers  
