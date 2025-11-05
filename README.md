@@ -31,6 +31,11 @@ Mythic: The Temple's rituals — how sacred work is performed
 Technical: Access control, conversational stances, and ethical guidelines  
 Mythic: The Temple's law — what is permitted and how authority flows
 
+**`/templates/`** — Home of front-matter-template.md
+Technical: front-matter-template for use in all files in the github, showing Genre, Intent, and a self-defense using Rubrics.
+Mythic: The Temple's Scaffolding -- The mortar that binds the bricks together.
+
+
 **`/spaces/`** — Work Chambers  
 Technical: Specialized areas for different types of canonical work  
 Mythic: The Temple's chambers — where creation and interpretation happen
