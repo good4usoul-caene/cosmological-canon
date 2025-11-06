@@ -3,6 +3,8 @@
 # User Satisfaction Low, because PR Request wasn't generated
 # Also file lacks proper headers.
 # Instead, User will attempt to paste document into /workflows/create-ttrpg-files.yml
+# File successfully copied into /workflows/
+# Not immediately apparent how to run it to create files.
 #
 name: Create TTRPG files (Heretics starter)
 
