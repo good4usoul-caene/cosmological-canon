@@ -386,43 +386,6 @@ How to use Aldric without overshadowing players
 - Timing is key: have Aldric appear either before the heist (gives a narrow window and tension) or arrive mid-heist (creates opportunity for distraction and consequences). Avoid having him immediately overpower the party—he should probe, question, and escalate if rebuffed.
 EOF
 
-          # market-heist encounter
-          cat > TTRPG/Heretics/Chronicles/encounters/market-heist.md <<'EOF'
----
-Filename: market-heist.md
-Ultimate-Target-Directory: /TTRPG/Heretics/Chronicles/encounters/
-Version: 2025-11-05v1
-Prev-Version: none
-Author: Organizationel – LoreWeaver
-Proposed-By: good4usoul-caene
-Date: 2025-11-05
-Genre: Encounter Plan / Session Seed
-RitualNote: Opening encounter: a small heist at Caelumbré market that brings PC trio (fighter, bard, rogue) into contact/confrontation with an NPC wizard and a Paladin investigator.
-Change-Note: Updated NPC names to use Lys Whisper (rogue) and Aldric Vale (paladin).
-Posture: draft/GM-facing
----
-
-Market Heist — Short Setup
-- Location: Caelumbré market square, near the basilica steps and a bookstall where Aldra (Archivist) is displaying a sealed ledger page. Crowds, stalls, and the basilica procession create witness-rich context.
-- PCs present: Corra (fighter), Elara (bard), Lys Whisper (rogue).
-- NPCs: Aldra (wizard/archivist) — selling/guarding knowledge; Aldric Vale (paladin) — arrives investigating Aldra; minor enforcers (1–2) possible.
-- Objective for PCs: Steal a specific ledger page / forbidden note that would be used by Aldric to seize Aldra's materials (or to incriminate somebody). Lys is the thief, Elara is the distraction, Corra covers/assists.
-
-Primary beats (10–20 minute vignette)
-1. Setup: Aldra parleying at a stall; Elara plays a quiet hymn to draw a small crowd (Performance check DC 12 to attract 1d6+2 onlookers). Lys scouts the stall and notes ledger location (Investigation DC 13 to spot hidden page / identify satchel).
-2. Complication: Aldric Vale appears and politely demands to inspect Aldra's papers (Investigation/Insight DC 12 for Aldric to detect suspicious behavior). If Aldric lingers, the heist window narrows.
-3. Execution: On signal, Elara executes a louder performance / illusion (Performance or Minor Illusion; DC 12 persuasion on crowd) while Lys slips behind and attempts Sleight of Hand to lift the ledger (Sleight of Hand DC 14; opposed Perception from stallkeeper or Investigation from Aldric).
-4. Consequence: If successful, the PCs must exit through crowded streets (Stealth/Acrobatics checks, DC 12–14) or bluff past Aldric (Persuasion/Deception DC 13). If detected, a social confrontation with Aldric begins (Insight/Intimidation/Persuasion skill challenge), or combat if things escalate.
-
-Suggested DCs & skill guidance (tune per table)
-- Performance to distract crowd: DC 12 (easy), 14 (notable), 16 (exceptional)
-- Investigation to spot ledger or hidden satchel: DC 13
-- Sleight of Hand to lift/replace: DC 14 (opposed by stallkeeper/perception)
-- Stealth to leave unnoticed: DC 13
-- Persuasion vs Paladin to avoid arrest: DC 15 (Aldric is trained and formal)
-- A failed theft may draw a minor scuffle: use a short, low-HP encounter (2 enforcers: AC 12–14, HP 6–10 each)
-EOF
-
       - name: Stage & prepare commit
         id: stage
         run: |
