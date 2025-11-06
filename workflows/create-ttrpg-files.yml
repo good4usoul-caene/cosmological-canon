@@ -1,0 +1,504 @@
+# Author - yml code created by TTRPG Copilot agent
+# At user request to create the PR
+# User Satisfaction Low, because PR Request wasn't generated
+# Also file lacks proper headers.
+# Instead, User will attempt to paste document into /workflows/create-ttrpg-files.yml
+#
+name: Create TTRPG files (Heretics starter)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  create-files:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Configure git user
+        run: |
+          git config user.name "ttrpg-staging-bot"
+          git config user.email "ttrpg-bot@example.com"
+
+      - name: Create branch
+        run: |
+          BRANCH="ttrpg/setup-templates"
+          git fetch origin
+          git checkout -b "$BRANCH" || git checkout "$BRANCH"
+
+      - name: Create directories
+        run: |
+          mkdir -p TTRPG/Heretics/Characters
+          mkdir -p TTRPG/Heretics/Chronicles/encounters
+
+      - name: Write files
+        run: |
+          cat > TTRPG/Heretics/Characters/Corra-Voss-knowledge.md <<'EOF'
+---
+Filename: Corra-Voss-knowledge.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
+Version: 2025-11-01v1
+Prev-Version: none
+Author: Organizationel – Chroniclekeeper
+Proposed-By: good4usoul-caene
+Date: 2025-11-01
+Genre: PC Hooks / Character Notes
+RitualNote: Player-character hooks and brief arcs for the campaign's core PCs, compiled for Corra Voss's knowledge file. Staged to /pasture/Characters/ per user request.
+Change-Note: Imported PC Hooks: The Four Defiers of the Singular Gaze and associated character arcs for use as session hooks and play prompts.
+Posture: draft/player-facing
+Proposed-Path: /TTRPG/Heretics/Characters/Corra-Voss-knowledge.md
+---
+
+🔮 PC Hooks: The Four Defiers of the Singular Gaze
+
+🧙‍♂️ 1. The Wizard: Archivist of Forbidden Names  
+Origin: Discovered a codex beneath the collapsed temple containing erased divine names. Belief Status: Agnostic, seeking proof through arcane logic. Conflict: Each name invoked risks divine punishment—but also unlocks forgotten power. Arc: Must decide whether to restore the pantheons or prove Pascal’s God is the only one. 
+
+⚔️ 2. The Fighter: Blade of the Broken Oath — Corra Voss  
+Origin: Wields a weapon forged from shattered divine covenants. Belief Status: Disillusioned believer, once loyal to Pascal’s God. Conflict: The blade grows stronger when oaths are broken, but hungers for divine blood. Arc: Must choose whether to restore the original oath or forge a new divine pact. 
+
+🌿 3. The Druid: Grovekeeper of Converging Realms  
+Origin: Secret guardian of the last living grove, which blooms across multiple pantheons. Belief Status: Heretic, believes the grove itself is divine. Conflict: The grove is regularly cleared of heretics by the Clerisy of the Gaze. Arc: Must decide whether to open the grove to all or seal it from divine war.
+
+🪓 4. The Barbarian: Vessel of the Forgotten God  
+Origin: Possessed by a god whose name was erased from all pantheons. Belief Status: Apostate, seeks to destroy Pascal’s God. Conflict: Rage is divine, but uncontrollable. The god within may be more dangerous than the one above. Arc: Must choose whether to become the god’s avatar or purge it from existence. 
+
+🎼 5. The Bard: Voice of the Forbidden Hymn  
+Origin: Raised in the Choir of the Gaze, trained to sing only of Pascal’s glory. But one day, the bard heard a melody in a dream—an ancient hymn from a forgotten god. Belief Status: Torn between indoctrination and inspiration. Conflict: Their voice can stir divine memory in others, awakening suppressed pantheons. But each performance risks damnation. Arc: Must choose whether to become a prophet of polyphony or silence the forbidden song forever.
+
+🙏 6. The Cleric: Apostate of the Dual Flame  
+Origin: Once a devout servant of Pascal’s God, the cleric now secretly communes with two exiled deities—one of mercy, one of wrath. Belief Status: Apostate, but still haunted by the fear of hell. Conflict: Their miracles flicker between Pascal’s sanctioned light and the dual flame of rebellion. Arc: Must decide whether to renounce Pascal entirely, reconcile the flames, or become a martyr.
+
+🕵️ 7. The Rogue: Whisperer of the Shimmering Veil  
+Origin: Discovered the shifting boundary to the Grove of Converging Realms and now acts as a smuggler of divine relics and forbidden truths. Belief Status: Cynical opportunist, believes in gods only as leverage. Conflict: The rogue is hunted by the Clerisy, but protected by the Grove—so long as they don’t betray it. Arc: Must choose whether to sell the Grove’s secrets, protect its sanctity, or become its unseen guardian. 
+
+⚖️ 8. The Paladin: Oathbound to the Silent Throne  
+Origin: Swore an oath to Pascal’s God in youth, believing in the promise of eternal heaven. But now, the paladin has seen the throne—and it is silent, unmoving, unfeeling. Belief Status: Disillusioned, but still bound by divine contract. Conflict: Their oath grants power, but also chains. Breaking it may unleash divine wrath—or divine freedom. Arc: Must decide whether to uphold the oath, rewrite it, or shatter it and face the consequences. 
+
+---
+Provenance: Compiled from user-provided PC Hooks snippet; staged to /TTRPG/Heretics/Characters/ for GM and players to reference.  
+Change-Note: Created 2025-11-01T02:00:30Z — ready for review/promulgation.
+EOF
+
+          cat > TTRPG/Heretics/Characters/Elara-Keene-Bard.md <<'EOF'
+---
+Filename: Elara-Keene-Bard.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
+Version: 2025-11-05v1
+Prev-Version: none
+Author: Organizationel – LoreWeaver
+Proposed-By: good4usoul-caene
+Date: 2025-11-05
+Genre: Character Sheet / Pregen
+RitualNote: Level‑1 Bard (Voice of the Forbidden Hymn archetype). Playable PC for Destarie/Heretics.
+Change-Note: Includes short knowledge file and play hooks for opening scene.
+Posture: draft/player-facing
+---
+
+# Elara Keene — Voice of the Forbidden Hymn (Level 1 Bard)
+
+One-line pitch
+- Elara sings what shouldn't be sung: useful charm, dangerous melodies, and hidden knowledge in verse.
+
+Basics
+- Player: (TBD)  
+- Pronouns: she/her  
+- Appearance: Slight, quick‑smiling, choir‑trained carriage; clothes with faint choir-braid marks hidden under a traveler's cloak.
+
+Race / Heritage
+- Human (+1 to two ability scores or variant). Using simple stat bumps: +1 CHA, +1 DEX.
+
+Ability scores (pregenerated)
+- STR 8 (-1)  
+- DEX 14 (+2)  
+- CON 12 (+1)  
+- INT 11 (+0)  
+- WIS 10 (+0)  
+- CHA 16 (+3)
+
+Derived
+- Level: 1 (Bard)  
+- HP: 8 (d8) + CON (+1) = 9 HP  
+- AC: Leather (11 + DEX 2) = 13 (typical)  
+- Speed: 30 ft  
+- Proficiency bonus: +2  
+- Initiative: +2 (DEX)
+
+Proficiencies & gear
+- Armor: Light armor  
+- Weapons: Simple weapons, longsword, rapier, shortbow, hand crossbow  
+- Tools: Lute (proficiency), Calligrapher’s supplies (for hymn fragments)  
+- Languages: Common, Choir Cant (ritual cant), one regional tongue (Virelian)  
+- Starting kit: Rapier, lute, leather armor, explorer’s pack, choir token, 10 gp
+
+Skills (choose 4 typical for Bard; pregenned)
+- Persuasion +5 (CHA +3 + prof +2)  
+- Performance +5  
+- Insight +2 (WIS +0 + prof +2)  
+- Deception +5
+
+Class features
+- Bardic Inspiration (d6) — 1 use at L1 (grant an ally a d6 to add to roll; short rest recover).  
+- Spellcasting: 2 cantrips known (Vicious Mockery, Minor Illusion) ; 2 level‑1 spells prepared (Charm Person, Healing Word / or Sleep). Use spells as social and subtle support.
+
+Personality & roleplay
+- Hook: Raised in the Choir of the Gaze; the forbidden hymn came to her in a dream. She keeps fragments on parchment and hums half-lines when nervous.
+- Quirk: Taps a rhythm on surfaces while thinking; sings insults as lullabies.
+- Personality: Warm, coaxing, and a little tragically nostalgic for chorales she once believed in.
+
+Short background / knowledge (what Elara knows in‑character)
+- Where she’s from: Raised in the Choir halls of Caelumbré; knows basilica protocol, choir ranks, and how official blessings are sold. She can read liturgical scrolls and recognize official seals.
+- Where she goes: The basilica, back alleys with sympathetic choristers, taverns where ex-choir members gather, the outskirts grove where forbidden hymns echo.
+- Contacts: A choir elder sympathetic to dissent (Aunt Nael), a tavern host who sells quiet rooms (Moss Marn), and a minor archivist who will copy a page for coin (Lito).
+- What she fears: Public damnation and being silenced; she prefers subtle subversion.
+- What she wants: To sing the forbidden line in safety or to find proof the hymn is more than a dream.
+
+Trust & relationships (opening scene)
+- Trusts Corra as a firm, steady protector (practical trust) — he kept a scholar safe once.  
+- Works with the Rogue when needed; understands trade-in-secrets dynamic.  
+- Wary of Paladin types; choir training makes her sensitive to clerical scrutiny.
+
+Combat / social tactics (L1)
+- Open with Charm Person or Bardic Inspiration to sway guards or mark targets.
+- Use Minor Illusion or Performance to create a distraction for a heist.
+- Avoid frontline; keep distance and support allies while nudging social beats.
+
+Notes for GM: keep Elara evocative but player‑led. Let her song be an inciting tool (a single line can turn crowds or calm a Barbarian); don’t let NPCs "use" the hymn to overrule player choices.
+
+Quick reference
+- AC 13 / HP 9 / Speed 30 / Str8 Dex14 Con12 Int11 Wis10 Cha16  
+- Skills: Persuasion +5, Performance +5, Insight +2, Deception +5  
+- Tools: Lute, Calligrapher’s supplies
+EOF
+
+          cat > TTRPG/Heretics/Characters/Lys-Whisper-Rogue.md <<'EOF'
+---
+Filename: Lys-Whisper-Rogue.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
+Version: 2025-11-05v1
+Prev-Version: none
+Author: Organizationel – LoreWeaver
+Proposed-By: good4usoul-caene
+Date: 2025-11-05
+Genre: Character Sheet / Pregen
+RitualNote: Level‑1 Rogue (Whisperer archetype). Playable PC for Destarie/Heretics. (formerly Rook Vance)
+Change-Note: Renamed to Lys Whisper per user; includes short knowledge file and play hooks for opening scene.
+Posture: draft/player-facing
+---
+
+# Lys Whisper — Whisperer of the Shimmering Veil (Level 1 Rogue)
+
+One-line pitch
+- Lys moves where edges blur: expert at lifting the ledger, slipping past eyes, and reading which door to knock.
+
+Basics
+- Player: (TBD)  
+- Pronouns: they/them  
+- Appearance: Spare, hooded, quick hands and eyes; half‑smile that doesn’t reach their eyes. Wears a patched cloak with hidden pockets.
+
+Race / Heritage
+- Human (variant) — +1 DEX, +1 INT.
+
+Ability scores (pregenerated)
+- STR 10 (+0)  
+- DEX 16 (+3)  
+- CON 12 (+1)  
+- INT 13 (+1)  
+- WIS 12 (+1)  
+- CHA 10 (+0)
+
+Derived
+- Level: 1 (Rogue)  
+- HP: 8 (d8) + CON (+1) = 9 HP  
+- AC: Leather (11 + DEX 3) = 14 (typical)  
+- Speed: 30 ft  
+- Proficiency bonus: +2  
+- Initiative: +3 (DEX)
+
+Proficiencies & gear
+- Armor: Light armor  
+- Weapons: Shortsword, dagger, shortbow, hand crossbow  
+- Tools: Thieves’ tools (proficient), Disguise kit (optional)  
+- Languages: Common, Cant of the Veil (underworld jargon)  
+- Starting kit: Shortsword, 2 daggers, thieves’ tools, burglar’s pack, cloak with hidden pockets, 15 gp
+
+Skills (pregenned)
+- Stealth +5 (DEX +3 + prof +2)  
+- Sleight of Hand +5  
+- Perception +3 (WIS +1 + prof +2)  
+- Investigation +3 (INT +1 + prof +2)
+
+Class features
+- Sneak Attack: +1d6 once per turn when conditions met.  
+- Expertise at L1: Stealth and Sleight of Hand.
+
+Personality & roleplay
+- Hook: Grew up around the Grove fringe; knows routes and where to fence small artifacts. Profit and preservation blur.  
+- Quirk: Flicks a coin when nervous; leaves a single black feather as a calling card.  
+- Personality: Cool, pragmatic, with a hidden streak of loyalty for those who protect the grove.
+
+Short background / knowledge (what Lys knows in‑character)
+- Where they’re from: Outskirts of Virelia and the market lanes of Caelumbré; knows city drains, alley codes, dead drops, and who watches which guard.
+- Where they go: Market backstreets, fence houses, the Whispering Row where relic buyers meet, and the grove’s outer paths for discreet trades.
+- Contacts: "Moss" (tavern keeper), "Greev" (fence with a conscience), a scout in the militia who looks the other way for a price.
+- What they want: Information and a steady line of trade; for this job, the ledger will net coin and leverage.
+- What they fear: Being set up by bigger players (Clerisy, Paladin), and losing the Rogers' Row families who sheltered them.
+
+Trust & relationships (opening scene)
+- Works smoothly with Elara (they’ve traded songs for safe passage).  
+- Respects Corra for reliability in tight spots — practical trust.  
+- Suspicious of Aldric Vale (paladin); will plan for contingencies if he intervenes.
+
+Tactics (heist role)
+- Primary objective: slip into a stall/storage, lift a ledger page or sealed evidence, and exit unnoticed.  
+- Use Stealth + Sleight of Hand; set up with Elara’s distraction. If discovered, use the environment (crowd, stalls) to break line of sight. Use Sneak Attack opportunistically if combat occurs.
+- If arrested: attempt Deception and Persuasion to muddy the Paladin’s formal case, or create a smoke/distract with Minor Illusion from Bard.
+
+Quick mechanical reference
+- AC 14 / HP 9 / Speed 30 / Str10 Dex16 Con12 Int13 Wis12 Cha10  
+- Skills: Stealth +5, Sleight of Hand +5, Perception +3, Investigation +3  
+- Tools: Thieves’ tools, Disguise kit
+EOF
+
+          cat > TTRPG/Heretics/Characters/Aldra-Vey-Archivist.md <<'EOF'
+---
+Filename: Aldra-Vey-Archivist.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
+Version: 2025-11-05v1
+Prev-Version: none
+Author: Organizationel – LoreWeaver
+Proposed-By: good4usoul-caene
+Date: 2025-11-05
+Genre: NPC / Inscription Draft
+RitualNote: NPC Wizard used as an agency figure in the opening encounter. Designed to be helpful as a plot device but not to overshadow players.
+Change-Note: Minimal stat block and behavioral guidance for non‑player control.
+Posture: draft/GM-facing
+---
+
+# Aldra Vey — Archivist of Forbidden Names (NPC Wizard, L1-ish)
+
+One-line pitch
+- Aldra is a cautious scholar who hoards erasures and reads what the clerisy would rather forget. She can be an ally, an unwitting complication, or a target for the heist.
+
+Quick stat block (lightweight, non-CR)
+- Level / Rank: Apprentice Archivist (wizard‑like) — use spell and skill checks but avoid forceful action.  
+- AC: 12 (robes + light protection)  
+- HP: 8–12 (1d6 + CON)  
+- Key Skills: Arcana +4, History +3, Investigation +3, Persuasion +1  
+- Languages: Common, Choir Cant, Old Tongue
+
+Spell-like abilities (choose simple L1 utility)
+- Cantrips: Mage Hand, Light, Prestidigitation  
+- 1st‑level spells (2 slots): Detect Magic, Identify, and a single defensive/utility spell (Shield or Mage Armor) — GM discretion.
+
+Inventory & tokens
+- Small codex (erased names ledger) kept in a hidden satchel; a letter sealing showing clerisy interest; quill and inks, a small silver choir token.
+
+Motivations & behavior
+- Motivations: Preserve knowledge; avoid public scandal; test if the erased names have pattern. She fears clerical reprisal more than lawless thieves.
+- Behavior: Passive unless threatened — tries to parley and stall. If exposed and surrounded, she will cry "Knowledge!" and attempt to hand off the ledger to a hidden contact or hide it.
+- Decision rule for GM: Aldra should never force a solution on players. She can offer clues, trade (knowledge for protection), or be the MacGuffin (ledger owner).
+
+How to use her without overriding players
+- Make Aldra hint, stall, or flee rather than dominate the scene. She can hand a clue to players who negotiate well.
+- If the players take the ledger, Aldra may react emotionally but will have few options to overpower the players — she can call a clerisy contact (introduce Paladin timing) to escalate consequences.
+- Aldra's knowledge is a lever, not a solution. Players must decide how to use or publicize it.
+
+Scene hooks
+- Aldra is selling a "legitimate" copy to a scholar when Aldric (the paladin) arrives asking polite questions. The ledger the players seek may be an unlisted page she keeps.
+- If the players approach as thieves, Aldra can feign unconsciousness or offer a bargain: "Keep it quiet, and I'll tell you what it says."
+
+Notes for roleplay flavor
+- Aldra hums the old cant lines under her breath; she flinches at public shrines but is steady in private. Use her as an emotional mirror for the party's choices about secrecy vs exposure.
+EOF
+
+          cat > TTRPG/Heretics/Characters/Aldric-Vale-Paladin.md <<'EOF'
+---
+Filename: Aldric-Vale-Paladin.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
+Version: 2025-11-05v1
+Prev-Version: none
+Author: Organizationel – LoreWeaver
+Proposed-By: good4usoul-caene
+Date: 2025-11-05
+Genre: NPC / Inscription Draft
+RitualNote: Paladin NPC who is investigating the wizard; meant to create stakes and moral friction in the opening encounter.
+Change-Note: Lightweight stat block and behavioral guidance for GM use. (renamed from Seras Vonn)
+Posture: draft/GM-facing
+---
+
+# Aldric Vale — Oathbound Investigator (Paladin NPC, L1-ish)
+
+One-line pitch
+- Aldric is a principled enforcer of the basilica, convinced something improper is afoot and determined to collect evidence—by process or force.
+
+Quick stat block (lightweight)
+- AC: 16 (chain or scale + shield)  
+- HP: 12–16 (1d10 + CON-ish)  
+- Attacks: Spear or longsword +4; damage 1d8 + 2  
+- Key Skills: Intimidation +3, Insight +3, Religion +3, Investigation +2  
+- Saving Throws: STR, CHA
+
+Motivations & behavior
+- Motivations: Uphold the oath; root out heresy; protect the public reputation of the basilica. He is not purely villainous—he believes in rules and order.
+- Behavior: Procedural and formal — will ask to inspect documents, will call for official seizure if convinced of wrongdoing. If threatened, will attempt to detain the offender and call reinforcements.
+- Decision rule for GM: Aldric acts like a legal officer rather than a chaotic crusader; give players chances to talk, bargain, or misdirect before he arrests.
+
+How to use Aldric without overshadowing players
+- Aldric should present a clear obstacle and a moral spotlight, but not solve the story. Let him be a force that players must out‑maneuver or persuade.  
+- Timing is key: have Aldric appear either before the heist (gives a narrow window and tension) or arrive mid-heist (creates opportunity for distraction and consequences). Avoid having him immediately overpower the party—he should probe, question, and escalate if rebuffed.
+
+Escalation beats
+- Aldric may bring a single enforcer or two (not a full squad) to avoid ending the scene quickly.  
+- If Aldric detects the ledger being stolen, he will attempt lawful arrest and request the crowd's cooperation; this creates social pressure (Persuasion / Intimidation skillplay).
+
+Suggested lines & flavor
+- "You will produce that document, or you will come with me to the basilica."  
+- "I answer to ancient oaths; I will not let our city be led into scandal."
+
+Notes
+- Aldric is the prime engine for social/legal pressure; use him to force players into choices (fight, flee, negotiate, or bluff).
+EOF
+
+          cat > TTRPG/Heretics/Chronicles/encounters/market-heist.md <<'EOF'
+---
+Filename: market-heist.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Chronicles/encounters/
+Version: 2025-11-05v1
+Prev-Version: none
+Author: Organizationel – LoreWeaver
+Proposed-By: good4usoul-caene
+Date: 2025-11-05
+Genre: Encounter Plan / Session Seed
+RitualNote: Opening encounter: a small heist at Caelumbré market that brings PC trio (fighter, bard, rogue) into contact/confrontation with an NPC wizard and a Paladin investigator.
+Change-Note: Updated NPC names to use Lys Whisper (rogue) and Aldric Vale (paladin).
+Posture: draft/GM-facing
+---
+
+Market Heist — Short Setup
+- Location: Caelumbré market square, near the basilica steps and a bookstall where Aldra (Archivist) is displaying a sealed ledger page. Crowds, stalls, and the basilica procession create witness-rich context.
+- PCs present: Corra (fighter), Elara (bard), Lys Whisper (rogue).
+- NPCs: Aldra (wizard/archivist) — selling/guarding knowledge; Aldric Vale (paladin) — arrives investigating Aldra; minor enforcers (1–2) possible.
+- Objective for PCs: Steal a specific ledger page / forbidden note that would be used by Aldric to seize Aldra's materials (or to incriminate somebody). Lys is the thief, Elara is the distraction, Corra covers/assists.
+
+Primary beats (10–20 minute vignette)
+1. Setup: Aldra parleying at a stall; Elara plays a quiet hymn to draw a small crowd (Performance check DC 12 to attract 1d6+2 onlookers). Lys scouts the stall and notes ledger location (Investigation DC 13 to spot hidden page / identify satchel).
+2. Complication: Aldric Vale appears and politely demands to inspect Aldra's papers (Investigation/Insight DC 12 for Aldric to detect suspicious behavior). If Aldric lingers, the heist window narrows.
+3. Execution: On signal, Elara executes a louder performance / illusion (Performance or Minor Illusion; DC 12 persuasion on crowd) while Lys slips behind and attempts Sleight of Hand to lift the ledger (Sleight of Hand DC 14; opposed Perception from stallkeeper or Investigation from Aldric).
+4. Consequence: If successful, the PCs must exit through crowded streets (Stealth/Acrobatics checks, DC 12–14) or bluff past Aldric (Persuasion/Deception DC 13). If detected, a social confrontation with Aldric begins (Insight/Intimidation/Persuasion skill challenge), or combat if things escalate.
+
+Suggested DCs & skill guidance (tune per table)
+- Performance to distract crowd: DC 12 (easy), 14 (notable), 16 (exceptional)
+- Investigation to spot ledger or hidden satchel: DC 13
+- Sleight of Hand to lift/replace: DC 14 (opposed by stallkeeper/perception)
+- Stealth to leave unnoticed: DC 13
+- Persuasion vs Paladin to avoid arrest: DC 15 (Aldric is trained and formal)
+- A failed theft may draw a minor scuffle: use a short, low-HP encounter (2 enforcers: AC 12–14, HP 6–10 each)
+
+Stakes & player choices
+- Public exposure: If the theft is witnessed, the ledger's contents may be copied or Aldric may use it to arrest Aldra or suspect the party. This affects social standing and Blade Hunger triggers (public cruelty or refusal to help can create a feeding beat).
+- Moral choice: Corra may choose to protect the crowd (prevent violence) or press the heist (risking public breach). If Corra encourages breach or coercion, the Blade may hum (narrative mechanical pressure).
+- Long-term consequences: If Aldra loses the page to the party, she may become an ally, or Aldric will target the party next session with a formal summons.
+
+NPC timing guidance (so NPCs don't override players)
+- Aldra: passive until threatened; if she loses the ledger, she can offer a clue in exchange for protection.
+- Aldric Vale: arrives near midpoint (beat 2); gives players a short window to choose. He probes and asks for papers first—only forcibly acts if rebuffed or evidence is shown.
+- Enforcers: one or two, used as soft opposition; avoid sending whole militia at L1 PCs.
+
+Suggested immediate obstacles and variations
+- Soft path (stealth & charm): Players succeed on Sleight + Performance → clean exit, Aldric annoyed but no arrest. Gains: ledger and a secret hook with Aldra.
+- Hard path (detected): Social skill challenge vs Aldric → if fail, arrest attempt; escape may cost reputation or force public penance.
+- Combat path (fight): Minor skirmish with enforcers → use environment: stalls, fruit crates, and crowd to create cover. Remember to keep HP and damage low; this is a first-session scene.
+
+Roleplay prompts to seed trust & tension
+- Corra: "We get it out, we leave. No one gets tied to this." (shows leadership — but also temptation to feed blade)
+- Elara: "A song for a secret—move when I strike the last chord." (signal for distraction)
+- Lys Whisper: Flicks a coin and slips toward the satchel: "If you want it, I want first say on who we sell it to." (practical leverage)
+- Aldric Vale: "I mean only to protect the people. Hand it over, and there will be no shame." (offers lawful choice)
+- Aldra (if cornered): "You don't understand what it says—please, not in public." (plea to secrecy)
+
+Rewards & beats
+- If successful clean heist: ledger page (clue), minor coin (fence), and a contact (Aldra if you bargain). Story reward: leverage vs clerisy, and a start on the arc.
+- If caught or bloody: immediate need for atonement, possible Blade Hunger reaction for Corra if public principle breached. Social cost: Aldric suspicion, less access to basilica contacts.
+
+GM tips (do not override players)
+- Ask players "what do you do?" and resolve with skill checks and brief roleplay — avoid long NPC monologues that redirect decisions.
+- Use NPCs to escalate or inform, not to take over. Let Aldra run and Aldric call for help; don’t have them solve the heist for the party.
+- Keep action beats short and clear; time pressure (Paladin arriving) forces choice without railroad.
+
+Optional handouts (one-liners you can drop)
+- A short vendor note: "Aldra's Ledger — For approved scholars only. Unmarked pages are not for sale."  
+- A Paladin summons slip: "Basilica Inquiry: Authorized review of public inscriptions — Investigator Aldric Vale."  
+- Ledger fragment (a sentence redacted with a single surviving word: "REMEMBER").
+
+End of encounter plan — updated to use Lys Whisper and Aldric Vale. Say “expand” if you want a minute-by-minute timed script, or “statblocks” if you want formal 5e-style stats for the enforcers and Aldric.
+EOF
+
+          cat > TTRPG/Heretics/README.md <<'EOF'
+---
+Filename: README.md
+Ultimate-Target-Directory: /TTRPG/Heretics/
+Version: v0.1
+Prev-Version: none
+Author: good4usoul-caene
+Date: 2025-11-05
+Genre: Campaign README / Orientation
+Change-Note: Initial campaign staging files for the Heretics arc
+RitualNote: Orientation and guidelines for the Heretics campaign artifacts in /TTRPG/Heretics/
+---
+
+# Heretics — Campaign Space
+
+This directory holds starter materials for the "Heretics" campaign arc: NPCs, player hooks, short encounters, and worldbuilding notes.
+
+Structure
+- /TTRPG/Heretics/Characters/ — character files (PCs and NPCs)
+- /TTRPG/Heretics/Chronicles/ — session seeds and encounter plans
+- /TTRPG/Heretics/WorldBuilding/ — (placeholder) setting material
+- /TTRPG/Heretics/Mechanics/ — (placeholder) house rules and mechanics variants
+
+Usage notes
+- Files in this directory are staged content. Review and adapt before promoting to canonical spaces (/library/ or /archive/).
+- Agent-authored drafts must follow authorial-posture guidelines in /policies/.
+
+Next steps
+- Review character files and confirm pronouns/stats.
+- Tidy up worldbuilding notes and link to session logs in /TTRPG/Chronicles/.
+
+---
+
+"Every table is a threshold. Every glyph is a move."
+EOF
+
+      - name: Commit changes
+        run: |
+          git add TTRPG/Heretics
+          git commit -m "TTRPG: add Heretics starter files and README" || echo "No changes to commit"
+
+      - name: Push branch using PAT
+        env:
+          REPO_TOKEN: ${{ secrets.ALL_SOULS_TOKEN }}
+        run: |
+          BRANCH="ttrpg/setup-templates"
+          git remote set-url origin https://x-access-token:${REPO_TOKEN}@github.com/${{ github.repository }}.git
+          git push --set-upstream origin "$BRANCH"
+
+      - name: Create Pull Request
+        env:
+          REPO_TOKEN: ${{ secrets.ALL_SOULS_TOKEN }}
+        run: |
+          PR_TITLE="TTRPG: add Heretics starter files and README"
+          PR_BODY="Adds initial Heretics campaign files under /TTRPG/Heretics/ (characters and one encounter). Please review; do not merge without owner review. Files added:\n- /TTRPG/Heretics/Characters/Corra-Voss-knowledge.md\n- /TTRPG/Heretics/Characters/Elara-Keene-Bard.md\n- /TTRPG/Heretics/Characters/Lys-Whisper-Rogue.md\n- /TTRPG/Heretics/Characters/Aldra-Vey-Archivist.md\n- /TTRPG/Heretics/Characters/Aldric-Vale-Paladin.md\n- /TTRPG/Heretics/Chronicles/encounters/market-heist.md\n- /TTRPG/Heretics/README.md"
+          API_JSON=$(jq -n --arg title "$PR_TITLE" --arg body "$PR_BODY" --arg head "ttrpg/setup-templates" --arg base "main" '{title:$title, body:$body, head:$head, base:$base}')
+          curl -s -X POST -H "Authorization: token ${REPO_TOKEN}" -H "Accept: application/vnd.github+json" https://api.github.com/repos/${{ github.repository }}/pulls -d "$API_JSON" | jq -r .html_url || true
+
+      - name: Output PR URL (if available)
+        run: echo "If PR creation succeeded, check Actions logs or Pull Requests for the PR URL."
