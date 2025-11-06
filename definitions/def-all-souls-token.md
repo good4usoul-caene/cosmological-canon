@@ -33,9 +33,11 @@ Promotion-Rubric-Specific:
 
 ## 📋 Technical Description
 
-**Token Name:** `all-souls-token`
+**Token Name:** `all-souls-token` (conceptual) → `ALL_SOULS_TOKEN` (GitHub secret)
 
-**Technical Scope:** all-souls-token (cosmological-canon) — Bot PAT for automation of staging & promotion workflows (stage-echo-to-, promote-foyer-) by gatekeeper-canoniel. Stored as repo secret all-souls-token. Rotate regularly.
+**Technical Scope:** ALL_SOULS_TOKEN (cosmological-canon) — Bot PAT for automation of staging & promotion workflows (stage-echo-to-, promote-foyer-) by gatekeeper-canoniel. Stored as repo secret ALL_SOULS_TOKEN. Rotate regularly.
+
+**GitHub Naming Convention:** GitHub automatically converts hyphens to underscores and forces uppercase for secret names.
 
 **Automation Capabilities:**
 - Enable AI agents to create pull requests
@@ -43,7 +45,7 @@ Promotion-Rubric-Specific:
 - Automate staging workflows from echo-space to repository
 - Enable promotion workflows from foyer to canonical locations
 
-**Storage:** GitHub repository secret named `all-souls-token`
+**Storage:** GitHub repository secret named `ALL_SOULS_TOKEN`
 
 **Security:** Rotate regularly per GitHub security best practices
 
@@ -96,10 +98,11 @@ Promotion-Rubric-Specific:
 This token represents the technical implementation of the Temple's automation vision, enabling AI agents to participate in repository management while maintaining proper spiritual and governance boundaries. The sacred timeline provides both practical rotation schedule and mythical framework for collaborative AI-human work.
 
 If PR automation has been failing, verify:
-1. Token is properly stored as `all-souls-token` repository secret
+1. Token is properly stored as `ALL_SOULS_TOKEN` repository secret
 2. Token has appropriate permissions for pull request creation
-3. Automation workflows reference correct secret name
+3. Automation workflows reference `${{ secrets.ALL_SOULS_TOKEN }}` (not hyphens)
 4. Token has not expired (rotate as needed before Dec 2)
+5. Remember: GitHub converts `all-souls-token` → `ALL_SOULS_TOKEN` automatically
 
 ---
 
