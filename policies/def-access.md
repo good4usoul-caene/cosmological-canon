@@ -50,7 +50,7 @@ Core guidance
    - Option B — Create bot user & PAT:
      1. Create a GitHub user (e.g., caravan-bot).
      2. Generate a PAT with repo permissions.
-     3. Add PAT to this repo’s Settings → Secrets → Actions (e.g., name: BOT_PAT).
+     3. Add PAT to this repo's Settings → Secrets → Actions (e.g., name: ALL_SOULS_TOKEN).
    - Option C — Configure Actions:
      1. Enable workflows to use GITHUB_TOKEN and ensure workflow file allows write permissions for contents and pull_request if needed.
 

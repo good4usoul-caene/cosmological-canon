@@ -21,7 +21,7 @@ Promotion flow (summary)
 Owner responsibilities
 - Confirm SEARCH‑AND‑INSERT edits before running promotion workflows.
 - Maintain branch-protection rules requiring human reviewers for merges to main or /policies/.
-- Add a repository secret `BOT_PAT` (or install a GitHub App) to enable workflows to push PR branches. Rotate/revoke secrets after testing.
+- Add a repository secret `ALL_SOULS_TOKEN` (or install a GitHub App) to enable workflows to push PR branches. Rotate/revoke secrets after testing.
 
 Notes
 - Do NOT bypass foyer or echo/policies staging when promoting policy files.
