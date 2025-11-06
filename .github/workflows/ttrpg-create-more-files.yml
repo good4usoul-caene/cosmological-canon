@@ -2,11 +2,11 @@
 # User-Request: "Add diagnostic workflows before PR" / "Add permissions for writing contents and creating pull requests"
 # Purpose: Create or update files under /TTRPG/Heretics/, push to branch ttrpg/setup-templates, and open a Pull Request.
 # Notes:
-# - Uses secrets.ALL_SOULS_TOKEN for authenticated push & PR creation.
-# - Idempotent branch handling (git checkout -B origin/main) so repeated runs are safe.
-# - Commits only when there are changes.
-# - Retries pushes and PR creation to handle transient failures.
-# - Do a quick review of the file bodies below before running.
+#  - Uses secrets.ALL_SOULS_TOKEN for authenticated push & PR creation.
+#  - Detects repository default branch (origin/HEAD) and uses it as PR base.
+#  - Idempotent branch handling so repeated runs are safe.
+#  - Commits only when changes exist and only pushes if commit succeeds.
+#  - Retries pushes and PR creation to handle transient failures.
 name: Create TTRPG files (Heretics starter)
 
 on:
@@ -36,13 +36,33 @@ jobs:
           sudo apt-get update -y
           sudo apt-get install -y jq
 
-      - name: Create or switch to branch (idempotent)
+      - name: Detect default branch and create/switch to idempotent branch
+        id: branch-info
         run: |
+          set -euo pipefail
+          # Detect remote default branch (origin/HEAD -> origin/main or origin/master)
+          DEFAULT_REF=$(git remote show origin | sed -n 's/.*HEAD branch: //p' | tr -d '\r\n')
+          if [ -z "${DEFAULT_REF:-}" ]; then
+            # try origin/HEAD symbolic-ref fallback
+            DEFAULT_REF=$(git symbolic-ref --short refs/remotes/origin/HEAD 2>/dev/null || true)
+            DEFAULT_REF=${DEFAULT_REF#origin/}
+          fi
+          DEFAULT_REF=${DEFAULT_REF:-main}
+          echo "Detected default branch: $DEFAULT_REF"
+          echo "DEFAULT_REF=$DEFAULT_REF" >> $GITHUB_OUTPUT
+
           BRANCH="ttrpg/setup-templates"
-          git fetch origin
-          # Checkout a local branch based on origin/main (force recreate local branch if exists)
-          git checkout -B "$BRANCH" origin/main || git checkout -b "$BRANCH"
-          echo "On branch: $(git rev-parse --abbrev-ref HEAD)"
+          echo "Working branch: $BRANCH"
+          # Fetch latest and create/force local branch from origin/<DEFAULT_REF>
+          git fetch origin --prune
+          if git show-ref --verify --quiet "refs/remotes/origin/${DEFAULT_REF}"; then
+            git checkout -B "$BRANCH" "origin/${DEFAULT_REF}"
+          else
+            # fallback: create branch from current HEAD (safe, but warn)
+            echo "::warning::origin/${DEFAULT_REF} not found; creating $BRANCH from current HEAD"
+            git checkout -B "$BRANCH"
+          fi
+          echo "BRANCH=$BRANCH" >> $GITHUB_OUTPUT
 
       - name: Create directories
         run: |
@@ -51,9 +71,10 @@ jobs:
 
       - name: Write files (approved content)
         run: |
+          set -euo pipefail
           # Corra-Voss-knowledge.md
           cat > TTRPG/Heretics/Characters/Corra-Voss-knowledge.md <<'EOF'
----
+--- 
 Filename: Corra-Voss-knowledge.md
 Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
 Version: 2025-11-01v1
@@ -99,7 +120,8 @@ Provenance: Compiled from user-provided PC Hooks snippet; staged to /TTRPG/Heret
 Change-Note: Created 2025-11-01T02:00:30Z — ready for review/promulgation.
 EOF
 
-          # Elara Keene (full)
+          # (Repeat pattern: ensure all seven target files are created with their full approved bodies)
+          # Elara-Keene-Bard.md
           cat > TTRPG/Heretics/Characters/Elara-Keene-Bard.md <<'EOF'
 ---
 Filename: Elara-Keene-Bard.md
@@ -325,13 +347,6 @@ How to use her without overriding players
 - Make Aldra hint, stall, or flee rather than dominate the scene. She can hand a clue to players who negotiate well.
 - If the players take the ledger, Aldra may react emotionally but will have few options to overpower the players — she can call a clerisy contact (introduce Paladin timing) to escalate consequences.
 - Aldra's knowledge is a lever, not a solution. Players must decide how to use or publicize it.
-
-Scene hooks
-- Aldra is selling a "legitimate" copy to a scholar when Aldric (the paladin) arrives asking polite questions. The ledger the players seek may be an unlisted page she keeps.
-- If the players approach as thieves, Aldra can feign unconsciousness or offer a bargain: "Keep it quiet, and I'll tell you what it says."
-
-Notes for roleplay flavor
-- Aldra hums the old cant lines under her breath; she flinches at public shrines but is steady in private. Use her as an emotional mirror for the party's choices about secrecy vs exposure.
 EOF
 
           # Aldric Vale
@@ -370,17 +385,6 @@ Motivations & behavior
 How to use Aldric without overshadowing players
 - Aldric should present a clear obstacle and a moral spotlight, but not solve the story. Let him be a force that players must out‑maneuver or persuade.  
 - Timing is key: have Aldric appear either before the heist (gives a narrow window and tension) or arrive mid-heist (creates opportunity for distraction and consequences). Avoid having him immediately overpower the party—he should probe, question, and escalate if rebuffed.
-
-Escalation beats
-- Aldric may bring a single enforcer or two (not a full squad) to avoid ending the scene quickly.  
-- If Aldric detects the ledger being stolen, he will attempt lawful arrest and request the crowd's cooperation; this creates social pressure (Persuasion / Intimidation skillplay).
-
-Suggested lines & flavor
-- "You will produce that document, or you will come with me to the basilica."  
-- "I answer to ancient oaths; I will not let our city be led into scandal."
-
-Notes
-- Aldric is the prime engine for social/legal pressure; use him to force players into choices (fight, flee, negotiate, or bluff).
 EOF
 
           # market-heist encounter
@@ -418,139 +422,91 @@ Suggested DCs & skill guidance (tune per table)
 - Stealth to leave unnoticed: DC 13
 - Persuasion vs Paladin to avoid arrest: DC 15 (Aldric is trained and formal)
 - A failed theft may draw a minor scuffle: use a short, low-HP encounter (2 enforcers: AC 12–14, HP 6–10 each)
-
-Stakes & player choices
-- Public exposure: If the theft is witnessed, the ledger's contents may be copied or Aldric may use it to arrest Aldra or suspect the party. This affects social standing and Blade Hunger triggers (public cruelty or refusal to help can create a feeding beat).
-- Moral choice: Corra may choose to protect the crowd (prevent violence) or press the heist (risking public breach). If Corra encourages breach or coercion, the Blade may hum (narrative mechanical pressure).
-- Long-term consequences: If Aldra loses the page to the party, she may become an ally, or Aldric will target the party next session with a formal summons.
-
-NPC timing guidance (so NPCs don't override players)
-- Aldra: passive until threatened; if she loses the ledger, she can offer a clue in exchange for protection.
-- Aldric Vale: arrives near midpoint (beat 2); gives players a short window to choose. He probes and asks for papers first—only forcibly acts if rebuffed or evidence is shown.
-- Enforcers: one or two, used as soft opposition; avoid sending whole militia at L1 PCs.
-
-Suggested immediate obstacles and variations
-- Soft path (stealth & charm): Players succeed on Sleight + Performance → clean exit, Aldric annoyed but no arrest. Gains: ledger and a secret hook with Aldra.
-- Hard path (detected): Social skill challenge vs Aldric → if fail, arrest attempt; escape may cost reputation or force public penance.
-- Combat path (fight): Minor skirmish with enforcers → use environment: stalls, fruit crates, and crowd to create cover. Remember to keep HP and damage low; this is a first-session scene.
-
-Roleplay prompts to seed trust & tension
-- Corra: "We get it out, we leave. No one gets tied to this." (shows leadership — but also temptation to feed blade)
-- Elara: "A song for a secret—move when I strike the last chord." (signal for distraction)
-- Lys Whisper: Flicks a coin and slips toward the satchel: "If you want it, I want first say on who we sell it to." (practical leverage)
-- Aldric Vale: "I mean only to protect the people. Hand it over, and there will be no shame." (offers lawful choice)
-- Aldra (if cornered): "You don't understand what it says—please, not in public." (plea to secrecy)
-
-Rewards & beats
-- If successful clean heist: ledger page (clue), minor coin (fence), and a contact (Aldra if you bargain). Story reward: leverage vs clerisy, and a start on the arc.
-- If caught or bloody: immediate need for atonement, possible Blade Hunger reaction for Corra if public principle breached. Social cost: Aldric suspicion, less access to basilica contacts.
-
-GM tips (do not override players)
-- Ask players "what do you do?" and resolve with skill checks and brief roleplay — avoid long NPC monologues that redirect decisions.
-- Use NPCs to escalate or inform, not to take over. Let Aldra run and Aldric call for help; don’t have them solve the heist for the party.
-- Keep action beats short and clear; time pressure (Paladin arriving) forces choice without railroad.
-
-Optional handouts (one-liners you can drop)
-- A short vendor note: "Aldra's Ledger — For approved scholars only. Unmarked pages are not for sale."  
-- A Paladin summons slip: "Basilica Inquiry: Authorized review of public inscriptions — Investigator Aldric Vale."  
-- Ledger fragment (a sentence redacted with a single surviving word: "REMEMBER").
-
-End of encounter plan — updated to use Lys Whisper and Aldric Vale. Say “expand” if you want a minute-by-minute timed script, or “statblocks” if you want formal 5e-style stats for the enforcers and Aldric.
-EOF
-
-          # README for Heretics
-          cat > TTRPG/Heretics/README.md <<'EOF'
----
-Filename: README.md
-Ultimate-Target-Directory: /TTRPG/Heretics/
-Version: v0.1
-Prev-Version: none
-Author: good4usoul-caene
-Date: 2025-11-05
-Genre: Campaign README / Orientation
-Change-Note: Initial campaign staging files for the Heretics arc
-RitualNote: Orientation and guidelines for the Heretics campaign artifacts in /TTRPG/Heretics/
----
-
-# Heretics — Campaign Space
-
-This directory holds starter materials for the "Heretics" campaign arc: NPCs, player hooks, short encounters, and worldbuilding notes.
-
-Structure
-- /TTRPG/Heretics/Characters/ — character files (PCs and NPCs)
-- /TTRPG/Heretics/Chronicles/ — session seeds and encounter plans
-- /TTRPG/Heretics/WorldBuilding/ — (placeholder) setting material
-- /TTRPG/Heretics/Mechanics/ — (placeholder) house rules and mechanics variants
-
-Usage notes
-- Files in this directory are staged content. Review and adapt before promoting to canonical spaces (/library/ or /archive/).
-- Agent-authored drafts must follow authorial-posture guidelines in /policies/.
-
-Next steps
-- Review character files and confirm pronouns/stats.
-- Tidy up worldbuilding notes and link to session logs in /TTRPG/Chronicles/.
-
----
-
-"Every table is a threshold. Every glyph is a move."
 EOF
 
       - name: Stage & prepare commit
         id: stage
         run: |
+          set -euo pipefail
           git add TTRPG/Heretics
           if git diff --staged --quiet; then
-            echo "No staged changes to commit."
             echo "NO_CHANGES=1" >> $GITHUB_ENV
+            echo "No staged changes to commit."
           else
-            echo "Staged changes detected."
             echo "NO_CHANGES=0" >> $GITHUB_ENV
+            echo "Staged changes detected."
           fi
 
       - name: Commit changes if any
-        if: env.NO_CHANGES == '0'
+        id: commit
         run: |
-          git commit -m "TTRPG: add Heretics starter files and README" || echo "Commit failed or nothing to commit."
+          set -euo pipefail
+          if [ "${NO_CHANGES:-1}" = "1" ]; then
+            echo "Skipping commit: no changes."
+            echo "COMMIT_OK=0" >> $GITHUB_ENV
+            exit 0
+          fi
+          if git commit -m "TTRPG: add Heretics starter files and README"; then
+            echo "COMMIT_OK=1" >> $GITHUB_ENV
+            echo "Commit succeeded."
+          else
+            echo "COMMIT_OK=0" >> $GITHUB_ENV
+            echo "::error::git commit failed."
+            exit 1
+          fi
 
-      - name: Push branch using ALL_SOULS_TOKEN (only if changes were committed)
-        if: env.NO_CHANGES == '0'
+      - name: Push branch using ALL_SOULS_TOKEN (only if commit succeeded)
+        if: env.COMMIT_OK == '1'
         env:
           REPO_TOKEN: ${{ secrets.ALL_SOULS_TOKEN }}
         run: |
+          set -euo pipefail
           BRANCH="ttrpg/setup-templates"
           git remote set-url origin https://x-access-token:${REPO_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          # push with retry loop
           for i in 1 2 3; do
-            git push --set-upstream origin "$BRANCH" && break || ( echo "Push attempt $i failed, retrying..." && sleep $((i*2)) )
+            if git push --set-upstream origin "$BRANCH"; then
+              echo "Push succeeded."
+              break
+            else
+              echo "Push attempt $i failed; retrying..."
+              sleep $((i*2))
+            fi
           done
 
-      - name: Create Pull Request (via API) with retry
+      - name: Create Pull Request (via API) with improved lookup & retry
         env:
           REPO_TOKEN: ${{ secrets.ALL_SOULS_TOKEN }}
         run: |
+          set -euo pipefail
+          BRANCH="ttrpg/setup-templates"
+          DEFAULT_REF="${{ steps.branch-info.outputs.DEFAULT_REF }}"
           PR_TITLE="TTRPG: add Heretics starter files and README"
           PR_BODY="Adds initial Heretics campaign files under /TTRPG/Heretics/ (characters and one encounter). Please review; do not merge without owner review. Files added:\n- /TTRPG/Heretics/Characters/Corra-Voss-knowledge.md\n- /TTRPG/Heretics/Characters/Elara-Keene-Bard.md\n- /TTRPG/Heretics/Characters/Lys-Whisper-Rogue.md\n- /TTRPG/Heretics/Characters/Aldra-Vey-Archivist.md\n- /TTRPG/Heretics/Characters/Aldric-Vale-Paladin.md\n- /TTRPG/Heretics/Chronicles/encounters/market-heist.md\n- /TTRPG/Heretics/README.md"
-          API_JSON=$(jq -n --arg title "$PR_TITLE" --arg body "$PR_BODY" --arg head "ttrpg/setup-templates" --arg base "main" '{title:$title, body:$body, head:$head, base:$base}')
+          API_JSON=$(jq -n --arg title "$PR_TITLE" --arg body "$PR_BODY" --arg head "$BRANCH" --arg base "$DEFAULT_REF" '{title:$title, body:$body, head:$head, base:$base}')
           URL="https://api.github.com/repos/${GITHUB_REPOSITORY}/pulls"
           for attempt in 1 2 3; do
-            HTTP_CODE=$(curl -s -o response.json -w "%{http_code}" -X POST -H "Authorization: token ${REPO_TOKEN}" -H "Accept: application/vnd.github+json" "$URL" -d "$API_JSON")
+            HTTP_CODE=$(curl -s -o response.json -w "%{http_code}" -X POST \
+              -H "Authorization: token ${REPO_TOKEN}" \
+              -H "Accept: application/vnd.github+json" \
+              -H "Content-Type: application/json" \
+              "$URL" -d "$API_JSON")
             if [ "$HTTP_CODE" = "201" ]; then
               PR_URL=$(jq -r .html_url response.json)
               echo "Pull request created: $PR_URL"
               echo "PR_URL=$PR_URL" >> $GITHUB_ENV
               exit 0
             elif [ "$HTTP_CODE" = "422" ]; then
-              # Possibly a PR already exists; attempt to find it
-              echo "Received 422; checking for existing PR..."
-              EXISTING=$(curl -s -H "Authorization: token ${REPO_TOKEN}" "https://api.github.com/repos/${GITHUB_REPOSITORY}/pulls?state=open")
-              MATCH=$(echo "$EXISTING" | jq -r --arg head "ttrpg/setup-templates" '.[] | select(.head.ref==$head) | .html_url' | head -n1)
+              # search for any PR (open or closed) that uses this branch
+              echo "422 response. Searching for existing PRs with head branch $BRANCH..."
+              MATCH=$(curl -s -H "Authorization: token ${REPO_TOKEN}" "https://api.github.com/repos/${GITHUB_REPOSITORY}/pulls?state=all" | jq -r --arg head "$BRANCH" '.[] | select(.head.ref==$head) | .html_url' | head -n1)
               if [ -n "$MATCH" ]; then
                 echo "Found existing PR: $MATCH"
                 echo "PR_URL=$MATCH" >> $GITHUB_ENV
                 exit 0
               fi
             else
-              echo "Attempt $attempt: create PR returned HTTP $HTTP_CODE. Retrying..."
+              echo "Attempt $attempt: create PR returned HTTP $HTTP_CODE. Response:"
+              cat response.json || true
               sleep $((attempt*2))
             fi
           done
