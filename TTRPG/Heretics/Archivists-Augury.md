@@ -30,14 +30,18 @@ This encounter takes place in **Thornehold** at the **Riven Stage** (a tavern an
     - 7: The Chariot 
     - 11: Justice (Associated with the Clerisy)
     - 13: Death (Associated with Pascal's Heaven)
-    - 17: The Star: Forbidden:  (Sometimes associated with Lucifer; The morning star) 
+    - 17: The Star: Forbidden:  (Sometimes associated with Lucifer; The morning star)
     - 23: The Tree: (half blooming/half plagued)  
-      - Discovered Secret Knowledge by Callisto (Represents Legion)
+      - Discovered Secret Knowledge by Callisto (Represents Legion) 
+    - 22 is the highest known card of Clerisy,
+      - 14-22 are Forbidden Glyphs
+      - 13 (Death) is highest Arcana card in Standard Decks
 
   - The 13 Houses:
     - Aldra Vey can create one of these as an 8 hour ritual
     - They are scrolls depicting patterns of stars once known as "the Zodiac"
     - All 12 traditional zodiac signs are depicted
+    - Star maps with connecting lines and names of constellations or gods are Forbidden.
     - Forbidden #13: The snake-bearer: Ophiuchus, Moses, Tiresias, Nicodemus
 
   ## Corra's role (PC - Jeremy)
@@ -51,6 +55,7 @@ This encounter takes place in **Thornehold** at the **Riven Stage** (a tavern an
     - Subtle enchantments, "nothing-to-see-here" for non-clients and clerisy
     - Apparent role: busker, playing for tips
     - Location: Set up near the Riven Stage side entrance (Hara Lin has given permission)
+    - Portents and augury's have led her to purchase a fourth-level scroll "Summon Modrons" which she will use on sensing Aldric's entry.
 
   ## Elara's role (PC or NPC - Bard)
     - Maintains constant ritual augury with Legion
@@ -73,15 +78,21 @@ This encounter takes place in **Thornehold** at the **Riven Stage** (a tavern an
     - Lys Whisper is in the middle of trade negotiations with Aldra, (All artifacts are layed out and being discussed)
     - Aldric Vale and Clerisy inquisitors arrive finding all the evidence laid out.
     - Clerisy inquisitors attempt to arrest Lys and Elara, or rattle summoning beads if Elara and Corra get involved.
-    - Results of Aldra's continuing augury manifest as Modron's standing in Aldric's way...  Blocking his way.  He must choose to engage each monodrone, (kill it) by accepting the augural principle, or to dismiss each monodrone by rejecting the augural principle.  This will delay him for three rounds.  
+    - Results of Aldra's continuing augury manifest as Modron's standing in Aldric's way...  Blocking his way.  
+    - The Modron's here protect the Clerisy's Law.  The Law of Pascal's Wager.  
+    He must choose to engage each monodrone, (kill it) by accepting the augural principle, or to dismiss each monodrone by rejecting the augural principle.  This will delay him for three rounds.  
 
-## 🔮 Augural Principles
+## 🔮 Augural Principles 
 
-1. **"Proof of a Crime may mean Proof of a Concept"**
+1a  **Doubt is crime against God.** (Dismiss the Monodrone)
+1b. **"Proof of a Crime may mean Proof of a Concept"** (Fight the Monodrone)
 
-2. **"Faith must have Hope"**
+2. **Faith is belief in the unseen**(Dismiss the Monodrone)
+2. **"Faith must have Hope"**(Fight the Monodrone)
 
-3. **Without Branches, a tree cannot grow or take root**
+
+3. **There Can Be Only One**(Dismiss the Monodrone)
+3. **Without Branches, a tree cannot grow or take root**(Fight the Monodrone)
 
 These will serve as Aldric Vale's rationale for breaking his oath to Pascal's God.
 
