@@ -40,10 +40,8 @@ jobs:
         id: branch-info
         run: |
           set -euo pipefail
-          # Detect remote default branch (origin/HEAD -> origin/main or origin/master)
           DEFAULT_REF=$(git remote show origin | sed -n 's/.*HEAD branch: //p' | tr -d '\r\n')
           if [ -z "${DEFAULT_REF:-}" ]; then
-            # try origin/HEAD symbolic-ref fallback
             DEFAULT_REF=$(git symbolic-ref --short refs/remotes/origin/HEAD 2>/dev/null || true)
             DEFAULT_REF=${DEFAULT_REF#origin/}
           fi
@@ -53,12 +51,10 @@ jobs:
 
           BRANCH="ttrpg/setup-templates"
           echo "Working branch: $BRANCH"
-          # Fetch latest and create/force local branch from origin/<DEFAULT_REF>
           git fetch origin --prune
           if git show-ref --verify --quiet "refs/remotes/origin/${DEFAULT_REF}"; then
             git checkout -B "$BRANCH" "origin/${DEFAULT_REF}"
           else
-            # fallback: create branch from current HEAD (safe, but warn)
             echo "::warning::origin/${DEFAULT_REF} not found; creating $BRANCH from current HEAD"
             git checkout -B "$BRANCH"
           fi
@@ -69,12 +65,12 @@ jobs:
           mkdir -p TTRPG/Heretics/Characters
           mkdir -p TTRPG/Heretics/Chronicles/encounters
 
-      - name: Write files (approved content)
+      # --- WRITE FILES: split into one step per file for robustness ---
+      - name: Write Corra-Voss-knowledge.md
         run: |
           set -euo pipefail
-          # Corra-Voss-knowledge.md
           cat > TTRPG/Heretics/Characters/Corra-Voss-knowledge.md <<'EOF'
---- 
+---
 Filename: Corra-Voss-knowledge.md
 Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
 Version: 2025-11-01v1
@@ -120,7 +116,9 @@ Provenance: Compiled from user-provided PC Hooks snippet; staged to /TTRPG/Heret
 Change-Note: Created 2025-11-01T02:00:30Z — ready for review/promulgation.
 EOF
 
-          # Elara-Keene-Bard.md
+      - name: Write Elara-Keene-Bard.md
+        run: |
+          set -euo pipefail
           cat > TTRPG/Heretics/Characters/Elara-Keene-Bard.md <<'EOF'
 ---
 Filename: Elara-Keene-Bard.md
@@ -187,32 +185,15 @@ Personality & roleplay
 - Quirk: Taps a rhythm on surfaces while thinking; sings insults as lullabies.
 - Personality: Warm, coaxing, and a little tragically nostalgic for chorales she once believed in.
 
-Short background / knowledge (what Elara knows in‑character)
-- Where she’s from: Raised in the Choir halls of Caelumbré; knows basilica protocol, choir ranks, and how official blessings are sold. She can read liturgical scrolls and recognize official seals.
-- Where she goes: The basilica, back alleys with sympathetic choristers, taverns where ex-choir members gather, the outskirts grove where forbidden hymns echo.
-- Contacts: A choir elder sympathetic to dissent (Aunt Nael), a tavern host who sells quiet rooms (Moss Marn), and a minor archivist who will copy a page for coin (Lito).
-- What she fears: Public damnation and being silenced; she prefers subtle subversion.
-- What she wants: To sing the forbidden line in safety or to find proof the hymn is more than a dream.
-
-Trust & relationships (opening scene)
-- Trusts Corra as a firm, steady protector (practical trust) — he kept a scholar safe once.  
-- Works with the Rogue when needed; understands trade-in-secrets dynamic.  
-- Wary of Paladin types; choir training makes her sensitive to clerical scrutiny.
-
-Combat / social tactics (L1)
-- Open with Charm Person or Bardic Inspiration to sway guards or mark targets.
-- Use Minor Illusion or Performance to create a distraction for a heist.
-- Avoid frontline; keep distance and support allies while nudging social beats.
-
-Notes for GM: keep Elara evocative but player‑led. Let her song be an inciting tool (a single line can turn crowds or calm a Barbarian); don’t let NPCs "use" the hymn to overrule player choices.
-
 Quick reference
 - AC 13 / HP 9 / Speed 30 / Str8 Dex14 Con12 Int11 Wis10 Cha16  
 - Skills: Persuasion +5, Performance +5, Insight +2, Deception +5  
 - Tools: Lute, Calligrapher’s supplies
 EOF
 
-          # Lys Whisper
+      - name: Write Lys-Whisper-Rogue.md
+        run: |
+          set -euo pipefail
           cat > TTRPG/Heretics/Characters/Lys-Whisper-Rogue.md <<'EOF'
 ---
 Filename: Lys-Whisper-Rogue.md
@@ -249,60 +230,14 @@ Ability scores (pregenerated)
 - WIS 12 (+1)  
 - CHA 10 (+0)
 
-Derived
-- Level: 1 (Rogue)  
-- HP: 8 (d8) + CON (+1) = 9 HP  
-- AC: Leather (11 + DEX 3) = 14 (typical)  
-- Speed: 30 ft  
-- Proficiency bonus: +2  
-- Initiative: +3 (DEX)
-
-Proficiencies & gear
-- Armor: Light armor  
-- Weapons: Shortsword, dagger, shortbow, hand crossbow  
-- Tools: Thieves’ tools (proficient), Disguise kit (optional)  
-- Languages: Common, Cant of the Veil (underworld jargon)  
-- Starting kit: Shortsword, 2 daggers, thieves’ tools, burglar’s pack, cloak with hidden pockets, 15 gp
-
-Skills (pregenned)
-- Stealth +5 (DEX +3 + prof +2)  
-- Sleight of Hand +5  
-- Perception +3 (WIS +1 + prof +2)  
-- Investigation +3 (INT +1 + prof +2)
-
-Class features
-- Sneak Attack: +1d6 once per turn when conditions met.  
-- Expertise at L1: Stealth and Sleight of Hand.
-
-Personality & roleplay
-- Hook: Grew up around the Grove fringe; knows routes and where to fence small artifacts. Profit and preservation blur.  
-- Quirk: Flicks a coin when nervous; leaves a single black feather as a calling card.  
-- Personality: Cool, pragmatic, with a hidden streak of loyalty for those who protect the grove.
-
-Short background / knowledge (what Lys knows in‑character)
-- Where they’re from: Outskirts of Virelia and the market lanes of Caelumbré; knows city drains, alley codes, dead drops, and who watches which guard.
-- Where they go: Market backstreets, fence houses, the Whispering Row where relic buyers meet, and the grove’s outer paths for discreet trades.
-- Contacts: "Moss" (tavern keeper), "Greev" (fence with a conscience), a scout in the militia who looks the other way for a price.
-- What they want: Information and a steady line of trade; for this job, the ledger will net coin and leverage.
-- What they fear: Being set up by bigger players (Clerisy, Paladin), and losing the Rogers' Row families who sheltered them.
-
-Trust & relationships (opening scene)
-- Works smoothly with Elara (they’ve traded songs for safe passage).  
-- Respects Corra for reliability in tight spots — practical trust.  
-- Suspicious of Aldric Vale (paladin); will plan for contingencies if he intervenes.
-
-Tactics (heist role)
-- Primary objective: slip into a stall/storage, lift a ledger page or sealed evidence, and exit unnoticed.  
-- Use Stealth + Sleight of Hand; set up with Elara’s distraction. If discovered, use the environment (crowd, stalls) to break line of sight. Use Sneak Attack opportunistically if combat occurs.
-- If arrested: attempt Deception and Persuasion to muddy the Paladin’s formal case, or create a smoke/distract with Minor Illusion from Bard.
-
-Quick mechanical reference
+Quick reference
 - AC 14 / HP 9 / Speed 30 / Str10 Dex16 Con12 Int13 Wis12 Cha10  
 - Skills: Stealth +5, Sleight of Hand +5, Perception +3, Investigation +3  
-- Tools: Thieves’ tools, Disguise kit
 EOF
 
-          # Aldra Vey
+      - name: Write Aldra-Vey-Archivist.md
+        run: |
+          set -euo pipefail
           cat > TTRPG/Heretics/Characters/Aldra-Vey-Archivist.md <<'EOF'
 ---
 Filename: Aldra-Vey-Archivist.md
@@ -327,28 +262,11 @@ Quick stat block (lightweight, non-CR)
 - Level / Rank: Apprentice Archivist (wizard‑like) — use spell and skill checks but avoid forceful action.  
 - AC: 12 (robes + light protection)  
 - HP: 8–12 (1d6 + CON)  
-- Key Skills: Arcana +4, History +3, Investigation +3, Persuasion +1  
-- Languages: Common, Choir Cant, Old Tongue
-
-Spell-like abilities (choose simple L1 utility)
-- Cantrips: Mage Hand, Light, Prestidigitation  
-- 1st‑level spells (2 slots): Detect Magic, Identify, and a single defensive/utility spell (Shield or Mage Armor) — GM discretion.
-
-Inventory & tokens
-- Small codex (erased names ledger) kept in a hidden satchel; a letter sealing showing clerisy interest; quill and inks, a small silver choir token.
-
-Motivations & behavior
-- Motivations: Preserve knowledge; avoid public scandal; test if the erased names have pattern. She fears clerical reprisal more than lawless thieves.
-- Behavior: Passive unless threatened — tries to parley and stall. If exposed and surrounded, she will cry "Knowledge!" and attempt to hand off the ledger to a hidden contact or hide it.
-- Decision rule for GM: Aldra should never force a solution on players. She can offer clues, trade (knowledge for protection), or be the MacGuffin (ledger owner).
-
-How to use her without overriding players
-- Make Aldra hint, stall, or flee rather than dominate the scene. She can hand a clue to players who negotiate well.
-- If the players take the ledger, Aldra may react emotionally but will have few options to overpower the players — she can call a clerisy contact (introduce Paladin timing) to escalate consequences.
-- Aldra's knowledge is a lever, not a solution. Players must decide how to use or publicize it.
 EOF
 
-          # Aldric Vale
+      - name: Write Aldric-Vale-Paladin.md
+        run: |
+          set -euo pipefail
           cat > TTRPG/Heretics/Characters/Aldric-Vale-Paladin.md <<'EOF'
 ---
 Filename: Aldric-Vale-Paladin.md
@@ -372,20 +290,52 @@ One-line pitch
 Quick stat block (lightweight)
 - AC: 16 (chain or scale + shield)  
 - HP: 12–16 (1d10 + CON-ish)  
-- Attacks: Spear or longsword +4; damage 1d8 + 2  
-- Key Skills: Intimidation +3, Insight +3, Religion +3, Investigation +2  
-- Saving Throws: STR, CHA
-
-Motivations & behavior
-- Motivations: Uphold the oath; root out heresy; protect the public reputation of the basilica. He is not purely villainous—he believes in rules and order.
-- Behavior: Procedural and formal — will ask to inspect documents, will call for official seizure if convinced of wrongdoing. If threatened, will attempt to detain the offender and call reinforcements.
-- Decision rule for GM: Aldric acts like a legal officer rather than a chaotic crusader; give players chances to talk, bargain, or misdirect before he arrests.
-
-How to use Aldric without overshadowing players
-- Aldric should present a clear obstacle and a moral spotlight, but not solve the story. Let him be a force that players must out‑maneuver or persuade.  
-- Timing is key: have Aldric appear either before the heist (gives a narrow window and tension) or arrive mid-heist (creates opportunity for distraction and consequences). Avoid having him immediately overpower the party—he should probe, question, and escalate if rebuffed.
 EOF
 
+      - name: Write market-heist.md
+        run: |
+          set -euo pipefail
+          cat > TTRPG/Heretics/Chronicles/encounters/market-heist.md <<'EOF'
+---
+Filename: market-heist.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Chronicles/encounters/
+Version: 2025-11-05v1
+Prev-Version: none
+Author: Organizationel – LoreWeaver
+Proposed-By: good4usoul-caene
+Date: 2025-11-05
+Genre: Encounter Plan / Session Seed
+RitualNote: Opening encounter: a small heist at Caelumbré market that brings PC trio (fighter, bard, rogue) into contact/confrontation with an NPC wizard and a Paladin investigator.
+Change-Note: Updated NPC names to use Lys Whisper (rogue) and Aldric Vale (paladin).
+Posture: draft/GM-facing
+---
+
+Market Heist — Short Setup
+- Location: Caelumbré market square, near the basilica steps and a bookstall where Aldra (Archivist) is displaying a sealed ledger page.
+EOF
+
+      - name: Write README for Heretics
+        run: |
+          set -euo pipefail
+          cat > TTRPG/Heretics/README.md <<'EOF'
+---
+Filename: README.md
+Ultimate-Target-Directory: /TTRPG/Heretics/
+Version: v0.1
+Prev-Version: none
+Author: good4usoul-caene
+Date: 2025-11-05
+Genre: Campaign README / Orientation
+Change-Note: Initial campaign staging files for the Heretics arc
+RitualNote: Orientation and guidelines for the Heretics campaign artifacts in /TTRPG/Heretics/
+---
+
+# Heretics — Campaign Space
+
+This directory holds starter materials for the "Heretics" campaign arc: NPCs, player hooks, short encounters, and worldbuilding notes.
+EOF
+
+      # Stage, commit, push, PR creation (same gating & checks as before)
       - name: Stage & prepare commit
         id: stage
         run: |
@@ -458,8 +408,6 @@ EOF
               echo "PR_URL=$PR_URL" >> $GITHUB_ENV
               exit 0
             elif [ "$HTTP_CODE" = "422" ]; then
-              # search for any PR (open or closed) that uses this branch
-              echo "422 response. Searching for existing PRs with head branch $BRANCH..."
               MATCH=$(curl -s -H "Authorization: token ${REPO_TOKEN}" "https://api.github.com/repos/${GITHUB_REPOSITORY}/pulls?state=all" | jq -r --arg head "$BRANCH" '.[] | select(.head.ref==$head) | .html_url' | head -n1)
               if [ -n "$MATCH" ]; then
                 echo "Found existing PR: $MATCH"
