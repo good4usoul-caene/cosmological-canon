@@ -1,0 +1,293 @@
+# Author: TTRPG- Copilot Agent
+# User-Request: "Run PR requests one file at a time"
+# Purpose: Create/update a single TTRPG file per workflow_dispatch run and open a PR.
+# Notes:
+# - Uses secrets.ALL_SOULS_TOKEN for authentication.
+# - Creates a dedicated branch per file run (safe, idempotent).
+# - Writes only the selected file (no multi-file heredoc).
+name: Create/Update a single TTRPG file (one-file PR)
+
+on:
+  workflow_dispatch:
+    inputs:
+      file_key:
+        description: 'Which file to create/update (choices: corra, elara, lys, aldra, aldric, market, readme)'
+        required: true
+        default: corra
+
+jobs:
+  one-file-pr:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Ensure jq (for debug if needed)
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y jq
+
+      - name: Create or update chosen file and open PR (github-script)
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.ALL_SOULS_TOKEN }}
+          script: |
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const input = (context.payload.inputs && context.payload.inputs.file_key) ? context.payload.inputs.file_key.toLowerCase() : 'corra';
+            const now = new Date().toISOString().replace(/[:.]/g,'-');
+            const branch = `ttrpg/setup-templates-${input}-${now}`;
+
+            core.info(`Selected file key: ${input}`);
+            // 1) detect default branch
+            const { data: repoInfo } = await github.rest.repos.get({ owner, repo });
+            const defaultBranch = repoInfo.default_branch || 'main';
+            core.info(`Default branch: ${defaultBranch}`);
+
+            // 2) determine base SHA
+            const ref = await github.rest.git.getRef({ owner, repo, ref: `heads/${defaultBranch}` });
+            const baseSha = ref.data.object.sha;
+
+            // 3) create branch
+            try {
+              await github.rest.git.createRef({
+                owner,
+                repo,
+                ref: `refs/heads/${branch}`,
+                sha: baseSha
+              });
+              core.info(`Created branch ${branch}`);
+            } catch (err) {
+              core.warning(`Could not create branch ${branch}: ${err}. Trying to continue.`);
+            }
+
+            // 4) file mapping (path + content). Replace or expand contents here as you prefer.
+            const files = {
+              corra: {
+                path: 'TTRPG/Heretics/Characters/Corra-Voss-knowledge.md',
+                content: `---
+Filename: Corra-Voss-knowledge.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
+Version: 2025-11-01v1
+Prev-Version: none
+Author: Organizationel – Chroniclekeeper
+Proposed-By: good4usoul-caene
+Date: 2025-11-01
+Genre: PC Hooks / Character Notes
+RitualNote: Player-character hooks and brief arcs for the campaign's core PCs, compiled for Corra Voss's knowledge file. Staged to /TTRPG/Heretics/Characters/ per user request.
+Change-Note: Imported PC Hooks: The Four Defiers of the Singular Gaze and associated character arcs for use as session hooks and play prompts.
+Posture: draft/player-facing
+Proposed-Path: /TTRPG/Heretics/Characters/Corra-Voss-knowledge.md
+---
+
+🔮 PC Hooks: The Four Defiers of the Singular Gaze
+
+🧙‍♂️ 1. The Wizard: Archivist of Forbidden Names  
+Origin: Discovered a codex beneath the collapsed temple containing erased divine names. Belief Status: Agnostic, seeking proof through arcane logic. Conflict: Each name invoked risks divine punishment—but also unlocks forgotten power. Arc: Must decide whether to restore the pantheons or prove Pascal’s God is the only one. 
+
+⚔️ 2. The Fighter: Blade of the Broken Oath — Corra Voss  
+Origin: Wields a weapon forged from shattered divine covenants. Belief Status: Disillusioned believer, once loyal to Pascal’s God. Conflict: The blade grows stronger when oaths are broken, but hungers for divine blood. Arc: Must choose whether to restore the original oath or forge a new divine pact. 
+
+🌿 3. The Druid: Grovekeeper of Converging Realms  
+Origin: Secret guardian of the last living grove, which blooms across multiple pantheons. Belief Status: Heretic, believes the grove itself is divine. Conflict: The grove is regularly cleared of heretics by the Clerisy of the Gaze. Arc: Must decide whether to open the grove to all or seal it from divine war.
+
+🪓 4. The Barbarian: Vessel of the Forgotten God  
+Origin: Possessed by a god whose name was erased from all pantheons. Belief Status: Apostate, seeks to destroy Pascal’s God. Conflict: Rage is divine, but uncontrollable. The god within may be more dangerous than the one above. Arc: Must choose whether to become the god’s avatar or purge it from existence. 
+
+🎼 5. The Bard: Voice of the Forbidden Hymn  
+Origin: Raised in the Choir of the Gaze, trained to sing only of Pascal’s glory. But one day, the bard heard a melody in a dream—an ancient hymn from a forgotten god. Belief Status: Torn between indoctrination and inspiration. Conflict: Their voice can stir divine memory in others, awakening suppressed pantheons. But each performance risks damnation. Arc: Must choose whether to become a prophet of polyphony or silence the forbidden song forever.
+
+🙏 6. The Cleric: Apostate of the Dual Flame  
+Origin: Once a devout servant of Pascal’s God, the cleric now secretly communes with two exiled deities—one of mercy, one of wrath. Belief Status: Apostate, but still haunted by the fear of hell. Conflict: Their miracles flicker between Pascal’s sanctioned light and the dual flame of rebellion. Arc: Must decide whether to renounce Pascal entirely, reconcile the flames, or become a martyr.
+
+🕵️ 7. The Rogue: Whisperer of the Shimmering Veil  
+Origin: Discovered the shifting boundary to the Grove of Converging Realms and now acts as a smuggler of divine relics and forbidden truths. Belief Status: Cynical opportunist, believes in gods only as leverage. Conflict: The rogue is hunted by the Clerisy, but protected by the Grove—so long as they don’t betray it. Arc: Must choose whether to sell the Grove’s secrets, protect its sanctity, or become its unseen guardian. 
+
+⚖️ 8. The Paladin: Oathbound to the Silent Throne  
+Origin: Swore an oath to Pascal’s God in youth, believing in the promise of eternal heaven. But now, the paladin has seen the throne—and it is silent, unmoving, unfeeling. Belief Status: Disillusioned, but still bound by divine contract. Conflict: Their oath grants power, but also chains. Breaking it may unleash divine wrath—or divine freedom. Arc: Must decide whether to uphold the oath, rewrite it, or shatter it and face the consequences. 
+
+---
+Provenance: Compiled from user-provided PC Hooks snippet; staged to /TTRPG/Heretics/Characters/ for GM and players to reference.  
+Change-Note: Created 2025-11-01T02:00:30Z — ready for review/promulgation.
+`
+              },
+              elara: {
+                path: 'TTRPG/Heretics/Characters/Elara-Keene-Bard.md',
+                content: `---
+Filename: Elara-Keene-Bard.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
+Version: 2025-11-05v1
+Prev-Version: none
+Author: Organizationel – LoreWeaver
+Proposed-By: good4usoul-caene
+Date: 2025-11-05
+Genre: Character Sheet / Pregen
+RitualNote: Level-1 Bard (Voice of the Forbidden Hymn archetype). Playable PC for Destarie/Heretics.
+Change-Note: Includes short knowledge file and play hooks for opening scene.
+Posture: draft/player-facing
+---
+
+# Elara Keene — Voice of the Forbidden Hymn (Level 1 Bard)
+
+One-line pitch
+- Elara sings what shouldn't be sung: useful charm, dangerous melodies, and hidden knowledge in verse.
+
+Basics
+- Player: (TBD)
+- Pronouns: she/her
+- Appearance: Slight, quick-smiling, choir-trained carriage; clothes with faint choir-braid marks hidden under a traveler's cloak.
+
+Quick reference
+- AC 13 / HP 9 / Speed 30 / Str8 Dex14 Con12 Int11 Wis10 Cha16
+`
+              },
+              lys: {
+                path: 'TTRPG/Heretics/Characters/Lys-Whisper-Rogue.md',
+                content: `---
+Filename: Lys-Whisper-Rogue.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
+Version: 2025-11-05v1
+Prev-Version: none
+Author: Organizationel – LoreWeaver
+Proposed-By: good4usoul-caene
+Date: 2025-11-05
+Genre: Character Sheet / Pregen
+RitualNote: Level-1 Rogue (Whisperer archetype). Playable PC for Destarie/Heretics.
+Change-Note: Renamed to Lys Whisper per user; includes short knowledge file and play hooks for opening scene.
+Posture: draft/player-facing
+---
+
+# Lys Whisper — Whisperer of the Shimmering Veil (Level 1 Rogue)
+
+Quick reference
+- AC 14 / HP 9 / Speed 30 / Str10 Dex16 Con12 Int13 Wis12 Cha10
+`
+              },
+              aldra: {
+                path: 'TTRPG/Heretics/Characters/Aldra-Vey-Archivist.md',
+                content: `---
+Filename: Aldra-Vey-Archivist.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
+Version: 2025-11-05v1
+Prev-Version: none
+Author: Organizationel – LoreWeaver
+Proposed-By: good4usoul-caene
+Date: 2025-11-05
+Genre: NPC / Inscription Draft
+RitualNote: NPC Wizard used as an agency figure in the opening encounter.
+Posture: draft/GM-facing
+---
+# Aldra Vey — Archivist of Forbidden Names
+Aldra is a cautious scholar who hoards erasures and reads what the clerisy would rather forget.
+`
+              },
+              aldric: {
+                path: 'TTRPG/Heretics/Characters/Aldric-Vale-Paladin.md',
+                content: `---
+Filename: Aldric-Vale-Paladin.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
+Version: 2025-11-05v1
+Prev-Version: none
+Author: Organizationel – LoreWeaver
+Proposed-By: good4usoul-caene
+Date: 2025-11-05
+Genre: NPC / Inscription Draft
+RitualNote: Paladin NPC who is investigating the wizard; meant to create stakes and moral friction in the opening encounter.
+Posture: draft/GM-facing
+---
+# Aldric Vale — Oathbound Investigator
+One-line pitch: Aldric enforces basilica law and investigates suspicious inscriptions.
+`
+              },
+              market: {
+                path: 'TTRPG/Heretics/Chronicles/encounters/market-heist.md',
+                content: `---
+Filename: market-heist.md
+Ultimate-Target-Directory: /TTRPG/Heretics/Chronicles/encounters/
+Version: 2025-11-05v1
+Prev-Version: none
+Author: Organizationel – LoreWeaver
+Proposed-By: good4usoul-caene
+Date: 2025-11-05
+Genre: Encounter Plan / Session Seed
+RitualNote: Opening encounter: market heist at Caelumbre.
+---
+Market Heist — Short Setup
+- Location: Caelumbre market square, near the basilica steps and a bookstall where Aldra is displaying a sealed ledger page.
+`
+              },
+              readme: {
+                path: 'TTRPG/Heretics/README.md',
+                content: `---
+Filename: README.md
+Ultimate-Target-Directory: /TTRPG/Heretics/
+Version: v0.1
+Prev-Version: none
+Author: good4usoul-caene
+Date: 2025-11-05
+Genre: Campaign README / Orientation
+Change-Note: Initial campaign staging files for the Heretics arc
+RitualNote: Orientation and guidelines for the Heretics campaign artifacts in /TTRPG/Heretics/
+---
+# Heretics — Campaign Space
+This directory holds starter materials for the "Heretics" campaign arc: NPCs, player hooks, short encounters, and worldbuilding notes.
+`
+              }
+            };
+
+            if (!files[input]) {
+              throw new Error(`Unknown file key: ${input}. Valid keys: ${Object.keys(files).join(', ')}`);
+            }
+
+            const chosen = files[input];
+            core.info(`Processing path: ${chosen.path}`);
+
+            // Try to update or create file on branch
+            try {
+              // Check if file exists on branch
+              let existingSha = null;
+              try {
+                const res = await github.rest.repos.getContent({ owner, repo, path: chosen.path, ref: branch });
+                existingSha = res.data.sha;
+                core.info(`Found existing file on ${branch} (sha ${existingSha}), will update.`);
+              } catch (err) {
+                core.info(`File not present on ${branch}, will create.`);
+              }
+
+              const params = {
+                owner,
+                repo,
+                path: chosen.path,
+                message: `TTRPG: add/update ${chosen.path}`,
+                content: Buffer.from(chosen.content, 'utf8').toString('base64'),
+                branch
+              };
+              if (existingSha) params.sha = existingSha;
+
+              await github.rest.repos.createOrUpdateFileContents(params);
+              core.info(`Created/updated ${chosen.path} on ${branch}`);
+            } catch (err) {
+              core.error(`Failed to create/update file: ${err}`);
+              throw err;
+            }
+
+            // Find existing PR from this head -> defaultBranch (open or closed); reuse if found
+            const allPRs = await github.rest.pulls.list({ owner, repo, state: 'all', per_page: 100 });
+            const foundPR = allPRs.data.find(p => p.head && p.head.ref === branch && p.head.repo && p.head.repo.full_name === `${owner}/${repo}`);
+            if (foundPR) {
+              core.info(`Found existing PR: ${foundPR.html_url}`);
+              core.setOutput('pr_url', foundPR.html_url);
+            } else {
+              // create PR
+              const pr = await github.rest.pulls.create({
+                owner,
+                repo,
+                title: `TTRPG: add/update ${chosen.path}`,
+                head: branch,
+                base: defaultBranch,
+                body: `Adds/updates ${chosen.path}. Please review before merging. Created by workflow.`
+              });
+              core.info(`Created PR: ${pr.data.html_url}`);
+              core.setOutput('pr_url', pr.data.html_url);
+            }
