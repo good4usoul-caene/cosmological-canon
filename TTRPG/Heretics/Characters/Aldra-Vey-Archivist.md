@@ -1,5 +1,5 @@
 ---
-Filename: Aldra-Vey-Archivist.md
+Filename: Aldra-Vey-Archivist-NPC.md
 Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
 Version: 2025-11-05v1
 Prev-Version: none
