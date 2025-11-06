@@ -120,7 +120,6 @@ Provenance: Compiled from user-provided PC Hooks snippet; staged to /TTRPG/Heret
 Change-Note: Created 2025-11-01T02:00:30Z — ready for review/promulgation.
 EOF
 
-          # (Repeat pattern: ensure all seven target files are created with their full approved bodies)
           # Elara-Keene-Bard.md
           cat > TTRPG/Heretics/Characters/Elara-Keene-Bard.md <<'EOF'
 ---
