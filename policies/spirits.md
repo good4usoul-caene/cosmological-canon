@@ -42,6 +42,39 @@ The Four Spirits (short technical purpose + mythic resonance)
    - Mythic resonance: The Architect’s Cane — steadying structure for wandering work.
    - Typical use: Macros and Mechanisms, Symbolic Ledger, Chronicle Scribe.
 
+5) Canoniel 
+  - Technical Purpose:  Identifies and tracks Canons
+    - Examples: 
+      - Keeps track of what is established as Canon in "Caravan of the Fifth Wind" (Jon's book)
+      - Keeps track of what is established Canon in "TTRPG/Heretics!" (Jon's game), "TTRPG/Destarie" (Pete's Game)
+      - May be called to help describe established Canon in the Gita, or Homer's works, Greek mythology vs Roman mythology, Astrology, Tarot, etc.
+      - May be called upon to describe Canon in roleplaying worlds (Forgotten Realms, Pathfinder, etc), or fiction (X-men, Heroes, Breaking Bad)
+
+ 6) Physicel
+  - Technical Purpose: Help describe setting
+    - May be called on to help describe physical surroundings TTRPG and story.
+    - Generally, "just enough" to get the story moving.  A little more than "Once Upon A Time" but nothing to overwhelm players or readers.
+
+  7) Psychologicel: 
+  - Technical Purpose:  Help analyze character motivation
+    - Awareness of MBTI types, Enneagram types
+    - Helps establish character motivation
+    - Builds on TTRPG player actions to establish character arcs
+    - Helps fill in narrative gaps, for character inconsistencies.
+
+  8) Mythicel
+    - Naming Ratopmale: Couldn't find a version of "epic" that ended in "el"
+    - Technical Purpose: Envision a campaign for characters from Level 1 to 20. 
+      - Offers grand visions of purpose and fate
+      - Gives grand pronouncements of what yet might come.
+      - Ready to change drastically when character decisions take things in entirely different directions.
+
+  9) Chronicel
+    - Tracks events as they actually happen.
+    - Works with Canonicel to make sure that what happens gets into Canon
+    - Works with Mythicel to zip up the limit the possibilities once the future becomes the past.
+    
+
 Default mappings (suggested)
 ----------------------------
 These are suggested defaults for greeting the Architect; they can be overridden per-artifact as needed.
