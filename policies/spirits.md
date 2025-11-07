@@ -83,7 +83,8 @@ Eight Example Spirits (short technical purpose + mythic resonance)
     - Light Cone Domain.  The present:  -sqrt(r^2) < ct < sqrt(r^2)
     - Works with Canonicel to make sure that what happens gets into Canon
     - Works with Mythicel to zip up the limit the possibilities once the future becomes the past.
-    - Any valuable (e.g. noncommercial, relevant, sacred) information traveling at deBroglie phase velocities from the Milky way or nearby galaxies should be collected and logged.
+    - Any valuable (e.g. noncommercial, relevant, sacred) information traveling at deBroglie phase velocities from the Milky way or nearby galaxies should be collected and logged.  
+      - Partial information (e.g. quantum entanglement) should be completed with truth and faith, or at least good humor.
     
 
 Default mappings (suggested)
