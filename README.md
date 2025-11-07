@@ -1,3 +1,24 @@
+
+
+# Template for ALL created files:
+ - https://github.com/good4usoul-caene/cosmological-canon/blob/main/templates/front-matter-template.md
+
+# Promotion Ritual (/cache/, /pasture/, /tent/, staged, repository)
+ - https://github.com/good4usoul-caene/cosmological-canon/blob/main/methods/method-promotion-ritual.md
+
+# Authorial Posture: (How to attribute files.  Credit user only with work explicitly approved)
+  - https://github.com/good4usoul-caene/cosmological-canon/blob/main/policies/authorial-posture.md
+
+# Pasture Ecology: (Use of /pasture/ for logging, free play, unsafe, and promotion)
+  - https://github.com/good4usoul-caene/cosmological-canon/blob/main/policies/pasture-ecology.md
+
+# Conversational Logging: (general logging guidelines -- Keep exact words from user prompt)
+ - https://github.com/good4usoul-caene/cosmological-canon/blob/main/methods/method-log-conversation.md
+
+# Conversational Spirits:  (Copilot agent stances, and narrative protocols)
+ - https://github.com/good4usoul-caene/cosmological-canon/blob/main/policies/spirits.md
+ 
+
 # Policies & Promotion Rituals (brief)
 
 This README documents the canonical promotion ritual and the echo → foyer → promotion pipeline used in this repository.
