@@ -140,7 +140,7 @@ This scroll presents the Twelve Tribes of Israel as a maternal utterance, a genr
 
 | Figure                | Notes                      |
 |-----------------------|----------------------------|
-| Job                   | Blessed with what he never prayed for. |
+| Job                   | Blessed beyond his prayers |
 | Gad                   | Named for luck or troop    |
 
 ---
