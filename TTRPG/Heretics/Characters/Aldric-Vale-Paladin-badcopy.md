@@ -1,5 +1,5 @@
 ---
-Filename: Aldric-Vale-Paladin.md
+Filename: Aldric-Vale-Paladin-badcopy.md
 Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
 Version: 2025-11-05v1
 Prev-Version: none
