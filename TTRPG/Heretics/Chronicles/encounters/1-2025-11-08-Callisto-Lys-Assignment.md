@@ -1,7 +1,7 @@
 ```markdown
 ---
 title: "Callisto → Lys: Assignment to Acquire 13 Zodiacal Scrolls"
-file: TTRPG/Heretics/Notes/01-Callisto-Lys-Assignment.md
+file: TTRPG/Heretics/Notes/01-2025-11-08-Callisto-Lys-Assignment.md
 location: /TTRPG/Heretics/Notes/
 author: Lorekeeper (for good4usoul-caene)
 date: 2025-11-08
