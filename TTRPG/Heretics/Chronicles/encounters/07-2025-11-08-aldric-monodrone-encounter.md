@@ -7,6 +7,7 @@ author: Lorekeeper (for good4usoul-caene)
 date: 2025-11-08T15:29:24Z
 tags: [footsteps, aldric, monodrone, combat, riven-stage, canonical]
 summary: "Verbatim log of the temporal-transition scene: Aldric's divine sense, Monodrone apparition, combat rounds, arrests/escapes, and immediate aftermath."
+Change-Note: Added some Canonical clarifications, and refinements.
 ---
 
 Exact words:
@@ -101,26 +102,41 @@ Exact words:
 
   “Probably no better than a one, doc.”
 
+Canonical clarification:
+  Three monodrones manifested as a result of the spell cast from Aldra's scroll at the beginning of the encounter.  The first and third monodrone were attacked and killed by Aldric.  The second, bearing the pre-existing notion "Faith is belief in things you don't see." was acknowledged by Aldric, "Duh! I know that."  It stepped aside, and remained intact, and passive for the duration of the spell; approximately 10 combat rounds.  The others laid in crumpled heaps until the duration was complete.
+
+  - Why this is important:  Aldric neither clearly heard, nor accepted the heretical principle "Faith requires hope." This is a devastating principle to belief in Pascal's God, as no rational person would "hope" God's only role is to guard the gate of heaven with such a stupid requirement.
+
+- Canonical refinement:  Lys gathered a few more Zodiacal scrolls before the escape, including Ophiuchus.  Meanwhile, Aldra grabbed cards 17, and 23.  Between the two of them, they left some problematic glyphs; constellations and tarot cards, but none of the deeply heretical glyphs.  Cards 2, 3, 5, 7, 11, 13 remain to be discovered by Mara, and reported to the Clerisy, unless Aldric stops them.  These cards might be traced back to Callisto.  
+
+- Canonical Clarification: Callisto and Lys have no receipts for the Clerisy to find.  
+
+- TBD: Did Aldra or Elara leave anything else behind in their rush to flee?  Purses, equipment?
 ---
 
 GM notes (do not change the canonical transcript above)
 - Canonical: the verbatim transcript above is the table-recorded, canonical account of what occurred during the temporal-transition beat in-session.
-- Immediate recorded mechanicals (as the table ran them):
-  - Monodrones: 3 manifested via Aldra/Elara's augury trigger. All three were engaged and destroyed by Aldric by the end of Round 4.
-  - Aldric: attacked and destroyed Monodrone 1 (11 damage, sliced), Monodrone 3 destroyed on Round 4. He engaged with all three and did not "accept" any principle (no Doubt/Compromise marks recorded).
+- Immediate recorded mechanicals (as the table ran them, corrected):
+  - Monodrones: Three manifested via Aldra/Elara's augury trigger.
+    - Monodrone 1: Attacked and destroyed during Round 1 (Aldric hit; crumpled heap).
+    - Monodrone 2: Bore the principle "Faith is belief in things you don't see." Aldric verbally acknowledged the principle ("Duh! I know that.") and did not attack it. It remained passive and intact for the duration of Aldra's augury (~10 combat rounds) and did not behave aggressively.
+    - Monodrone 3: Engaged and destroyed by Aldric by Round 4 (crumpled heap).
+  - Aldric: Did not accept any monodrone principle as a narrative "Doubt/Compromise" mark; he destroyed Monodrones 1 and 3 and acknowledged (but did not fight) Monodrone 2.  
+    - Clarification:  He neither heard, nor accepted the heretical principle "Faith requires hope." which is a devastating requirement for Pascal's God, as no rational person would "hope" God's only role is to guard the gate of heaven with such a stupid wager.
   - Joren Kade (Inquisitor): Took multiple hits and was reduced to bleeding-out condition by the end of the skirmish (left bleeding unconscious on the floor). Recorded HP changes in-table: took 4 damage from Aldra's intervention (down to 6), then subsequently was dropped by Lys (bleeding out).
-  - Lys Whisper (PC): managed to seize 4 of the 13 Zodiacal scrolls during Round 1; later gathered papers and escaped with Aldra through a hidden door when it opened. Suffered a "bad wound" from Joren's attack but remained alive and mobile.
-  - Aldra Vey (NPC): read an incantation to prime augury, then opened a hidden exit and evacuated with scrolls when the opportunity arose.
-  - Elara Keene (NPC): distracted Mara, then disengaged and fled once the skirmish favored Lys/Aldra.
-  - Inquisitor Mara Thes (Inquisitor): attempted restraints; grappled/released Elara; pursued but failed to intercept the escaping party before the door was shut.
+  - Lys Whisper (PC): Managed to seize 4 of the 13 Zodiacal scrolls during Round 1; later gathered papers and escaped with Aldra through a hidden door when it opened. Suffered a "bad wound" from Joren's attack but remained alive and mobile.
+  - Aldra Vey (NPC): Read an incantation to prime augury, then opened a hidden exit and evacuated with scrolls when the opportunity arose.
+  - Elara Keene (NPC): Distracted Mara, then disengaged and fled once the skirmish favored Lys/Aldra.
+  - Inquisitor Mara Thes (Inquisitor): Attempted restraints; grappled/released Elara; pursued but failed to intercept the escaping party before the door was shut.
   - Summoning beads: Mara shook beads in Round 1 (escalation trigger). No explicit reinforcements were recorded arriving in this canonical log.
+    - Clarification: Mara took out the summoning beads but was distracted by Elara Keene, whose immediate "surrender" made him pause from calling reinforcements.
 - Inventory/state changes (table-canonical):
   - Of the 13 Zodiacal scrolls laid out, Lys obtained 4 (physical possession noted at escape).
   - The Eight Prime Arcana remained with Lys (hidden satchel) and were not publicly confiscated during the skirmish.
   - Joren is bleeding and requires immediate aid (medicine/stabilization) to prevent death.
 - Narrative consequences to flag for future sessions:
   - The Clerisy have evidence that a meeting with forbidden glyphs occurred at the Riven Stage; Joren was engaged and wounded — the incident will draw report, inquiry, and possible escalation from the Clerisy.
-  - Callisto’s involvement is still traceable in earlier logs (transaction for the Eight Prime Arcana). If the Clerisy trace the passage of cards or the escape route, larger political consequences may occur.
+  - Callisto’s involvement is still traceable in earlier logs (transaction for the Eight Prime Arcana). If the Clerisy trace the passage of cards or the escape route, larger political consequences may occur.  
   - Aldra and Elara escaped via a secret exit; their immediate whereabouts are unknown but likely to be in Veilstep Alley network or staged safehouses.
   - Lys currently holds 4 Zodiacal scrolls and the Eight Prime Arcana (hidden) — he is now a higher-value target for pursuers.
 - Suggested immediate GM bookkeeping:
@@ -128,4 +144,5 @@ GM notes (do not change the canonical transcript above)
   - Mark the Riven Stage as a hot site: increased clerisy patrols, inquisitorial visits, and potential search warrants.
   - Note Callisto's ledger/transaction as politically sensitive—consider how the Clerisy may leverage network tracing (couriers, receipts).
 - File saved verbatim to /pasture/footsteps/2025-11-08-aldric-monodrone-encounter.md
+```
 ```
