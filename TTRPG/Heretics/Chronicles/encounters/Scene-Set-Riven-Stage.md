@@ -9,7 +9,12 @@ summary: "Read-aloud and GM cues describing the exterior, interior, stage, and A
 ---
 
 Read-aloud opener (short)
-The Riven Stage squats between a pair of narrow workshops like a throat between two shoulders — a wide carved door, a painted sign half-lost to soot, and a lantern that buzzes with a dull, constant light. Music leaks through the cracks, and every face in the doorway looks like it has something to hide or something to sell. The smell of fried bread and oil-matted wool hangs in the air. Tonight, the Stage promises spectacle — and hidden business.
+The Riven Stage sits between two narrow workshops: a wide carved door, a painted sign patched by soot, and a lantern that hums with dull light. Music slips through the cracks; people in the doorway keep their faces folded against the night. The smell of fried bread and oil-matted wool hangs in the air. Tonight, the Stage promises spectacle — and hidden business.
+
+Read-aloud options (pick one)
+- Neutral, short: "The Riven Stage stands with its door open and its lights lit; music spills into the street."
+- Quietly ominous: "Lantern light and lute strings leak from the doorway. The Stage looks ordinary enough—until you look for what it hides."
+- Minimal cue: "Noise, light, and a thin curtain. That is the Riven Stage."
 
 Exterior (what the players see and hear)
 - Street: cobbled lane, gutter-running with rain from earlier, merchant carts pushed to the side, a pair of brazier-sellers arguing two doors down.
