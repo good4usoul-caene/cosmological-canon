@@ -19,7 +19,7 @@ One-line pitch
 
 Basics
 - Player: (TBD)  
-- Pronouns: they/them  
+- Pronouns: he/him  
 - Appearance: Lean and watchful, dressed in dark grays and greens that blend into crowds or shadows; carries a satchel with hidden compartments.
 
 Race / Heritage
@@ -75,8 +75,8 @@ Personality & Hooks
 
 Play Notes
 - Lys excels at infiltration, information gathering, and precision strikes.
-- Their connection to the Grove gives them access to rare items and information.
-- They're pragmatic and self-interested but have a soft spot for underdogs.
+- His connection to the Grove gives them access to rare items and information.
+- He's pragmatic and self-interested but has a soft spot for underdogs.
 
 Knowledge File Summary
 Lys stumbled upon the Grove of Converging Realms while fleeing the Clerisy years ago. The Grove saved their life, and in return, they became its unacknowledged guardian—smuggling relics out of danger, helping fugitives escape, and keeping its location secret. The Clerisy hunts them, but Lys is too clever to be caught. For now.
