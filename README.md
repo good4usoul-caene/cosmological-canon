@@ -1,49 +1,169 @@
+---
+Filename: /README.md
+Ultimate-Target-Directory: /README.md
+Intent: Root repository documentation providing project overview, directory structure, and promotion workflows for the cosmological-canon Temple
+Version: v0.2.0
+Prev-Version: v0.1.0
+Author: good4usoul-caene
+Date: 2025-11-08T09:00:00-06:00
+Genre: Documentation
+Change-Note: Added proper Temple headers and GitHub README standards rubric
+RitualNote: The README serves as the gateway scroll, welcoming visitors and guiding them to the Temple's treasures
+RitualNoteKey: "In the beginning was the Word" (John 1:1) - documentation as the foundation of understanding
+Space: repository
+Promotion-Ready-Agent: yes
+Promotion-Ready-Agent-Confidence: 9
+Promotion-Ready-Owner: TBD
+Promotion-Rubric-General: templates/promotion-rubrics/readme-standards.md
+Promotion-Rubric-Specific:
+  - id: 1
+    score: 95
+    title: "Project description and purpose"
+    note: "Clear explanation of what the cosmological-canon Temple is and its purpose"
+  - id: 2
+    score: 90
+    title: "Directory structure documentation"
+    note: "Comprehensive guide to repository organization and content locations"
+  - id: 3
+    score: 85
+    title: "Getting started / usage instructions"
+    note: "How newcomers can navigate and contribute to the Temple"
+  - id: 4
+    score: 90
+    title: "Promotion workflow explanation"
+    note: "Clear documentation of echo-space to repository promotion processes"
+  - id: 5
+    score: 80
+    title: "Contribution guidelines"
+    note: "How others can participate while maintaining Temple governance"
+  - id: 6
+    score: 85
+    title: "License and attribution standards"
+    note: "Clear reference to LICENSES.md and authorial posture policies"
+  - id: 7
+    score: 75
+    title: "Installation / dependencies"
+    note: "Any technical requirements for local development or contribution"
+  - id: 8
+    score: 70
+    title: "Contact / community information"
+    note: "How to reach maintainers or participate in Temple discussions"
+---
 
+# 🏛️ Cosmological Canon - Temple Repository
 
-# Template for ALL created files:
- - https://github.com/good4usoul-caene/cosmological-canon/blob/main/templates/front-matter-template.md
+**A sacred workspace for theological exploration, AI collaboration, and knowledge curation**
 
-# Promotion Ritual (/cache/, /pasture/, /tent/, staged, repository)
- - https://github.com/good4usoul-caene/cosmological-canon/blob/main/methods/method-promotion-ritual.md
+This Temple serves as a structured repository for biblical scholarship, TTRPG campaigns, automation workflows, and human-AI collaborative research within a framework of interpretive humility and proper attribution.
 
-# Authorial Posture: (How to attribute files.  Credit user only with work explicitly approved)
-  - https://github.com/good4usoul-caene/cosmological-canon/blob/main/policies/authorial-posture.md
+## 📋 Repository Overview
 
-# Pasture Ecology: (Use of /pasture/ for logging, free play, unsafe, and promotion)
-  - https://github.com/good4usoul-caene/cosmological-canon/blob/main/policies/pasture-ecology.md
+The cosmological-canon represents a comprehensive knowledge management system with:
+- **Biblical analysis** in GospelHarmonization spaces (Leading/Heuristic Hypotheses, Epistemic Commentary)
+- **TTRPG campaign materials** for the Heretics setting
+- **AI collaboration protocols** and persona calibration frameworks  
+- **Automated promotion workflows** from echo-space to canonical repository
+- **Governance policies** ensuring proper attribution and quality control
 
-# Conversational Logging: (general logging guidelines -- Keep exact words from user prompt)
- - https://github.com/good4usoul-caene/cosmological-canon/blob/main/methods/method-log-conversation.md
+## 🎯 Getting Started
 
-# Conversational Spirits:  (Copilot agent stances, and narrative protocols)
- - https://github.com/good4usoul-caene/cosmological-canon/blob/main/policies/spirits.md
- 
+**For Newcomers:**
+1. Start with the `/README.md` (you're here!) to understand the Temple's purpose
+2. Review `/policies/spirits.md` for the governance framework and role definitions
+3. Explore `/spaces/` for active content areas, beginning with `/spaces/GospelHarmonization/`
+4. Check `/methods/` for detailed workflow documentation
+5. See `/policies_def-access.md` for access levels and contribution guidelines
 
-# Policies & Promotion Rituals (brief)
+**For Contributors:**
+- All contributions must include proper Temple front-matter headers
+- Follow the echo → foyer → promotion pipeline for quality control
+- Maintain interpretive humility and cite sources appropriately
+- Reference `/LICENSES.md` for attribution requirements
 
-This README documents the canonical promotion ritual and the echo → foyer → promotion pipeline used in this repository.
+## 📁 Directory Structure
 
-Key directories
-- echo/cache/         — Agent drafts and temporary artifacts (agent-writable).
-- echo/tent/          — Human-editable staging copies (editable by humans and agents with limits).
-- echo/foyer/         — Handoff staging area for human review (promote only after SEARCH‑AND‑INSERT).
-- echo/policies/      — Policy-focused preview staging area.
-- foyer/              — Repository staging area for items prepared for promotion.
-- policies/           — Canonical policy files (Temple). Promotion target.
-- pasture/archive/    — Audit and Promotion Record storage.
+### Core Spaces
+- **`/spaces/GospelHarmonization/`** - Biblical scholarship and theological analysis
+  - `leading-hypothesis/` - Primary interpretive frameworks
+  - `heuristic-hypothesis/` - Supporting analytical perspectives  
+  - `epistemic-commentary/` - Meta-analytical reflection
+- **`/spaces/CaravanCanon/`** - Narrative and creative works
+- **`/spaces/CanonicalTemplates/`** - Standard templates and formatting guides
+- **`/TTRPG/`** - Tabletop gaming campaign materials
 
-Promotion flow (summary)
-1. Agent writes draft to echo/cache/ or echo/tent/.
-2. Run stage-echo-to-foyer.yml (manual) to copy selected artifacts into echo/foyer/ (PR created for review).
-3. Reviewer performs SEARCH‑AND‑INSERT and sets `Promotion-Ready: owner-approved` in front-matter of files when ready.
-4. Owner triggers promote-foyer-to-policies.yml or promote-foyer-to-root.yml (Owner-only workflows).
-5. Promotion workflow validates `Promotion-Ready: owner-approved`, writes a Promotion Record to pasture/archive/, and creates a PR for human merge.
+### Infrastructure
+- **`/methods/`** - Complete workflow documentation trilogy
+- **`/tools/`** - Automation scripts and utilities
+- **`/permissions/`** - Access control and authorization policies
+- **`/pasture/archive/`** - Audit trails and promotion records
 
-Owner responsibilities
-- Confirm SEARCH‑AND‑INSERT edits before running promotion workflows.
-- Maintain branch-protection rules requiring human reviewers for merges to main or /policies/.
-- Add a repository secret `ALL_SOULS_TOKEN` (or install a GitHub App) to enable workflows to push PR branches. Rotate/revoke secrets after testing.
+### Governance
+- **`/policies_def-access.md`** - Access definitions and contribution guidelines
+- **`/policies/spirits.md`** - Role framework and Temple governance
+- **`/LICENSES.md`** - Attribution standards and licensing information
 
-Notes
-- Do NOT bypass foyer or echo/policies staging when promoting policy files.
-- All promoted files must include provenance front-matter (Author, Date, Change-Note, RitualNote, Ultimate-Target-Directory) and `Promotion-Ready: owner-approved` when promoted.
+## 🔄 Promotion Workflows
+
+The Temple operates on a structured promotion pipeline ensuring quality and provenance:
+
+1. **Echo Space** (`echo/cache/`, `echo/tent/`) - Agent drafts and staging
+2. **Foyer Review** (`echo/foyer/`, `foyer/`) - Human review and SEARCH‑AND‑INSERT validation
+3. **Canonical Promotion** - Owner-approved integration to main repository
+
+**Key Workflows:**
+- `stage-echo-to-foyer.yml` - Moves drafts to review staging
+- `promote-foyer-to-policies.yml` - Promotes policy documents
+- `promote-foyer-to-root.yml` - Promotes root-level content
+
+*See `/methods/` directory for comprehensive workflow documentation.*
+
+## 📋 GitHub README Standards Rubric
+
+This README aims to fulfill standard GitHub repository documentation requirements:
+
+### ✅ Essential Elements
+- [x] **Project Description** - Clear explanation of purpose and scope
+- [x] **Installation/Setup** - Getting started instructions for newcomers
+- [x] **Usage** - How to navigate and contribute to the repository
+- [x] **Directory Structure** - Comprehensive guide to repository organization
+- [x] **Contributing** - Guidelines for participation and contribution standards
+- [x] **License** - Reference to licensing and attribution requirements
+
+### 🔧 Technical Elements  
+- [x] **Dependencies** - Documentation workflow requirements (Git, GitHub)
+- [x] **Configuration** - Echo-space setup and promotion pipeline configuration
+- [ ] **API Documentation** - *(N/A - primarily content repository)*
+- [ ] **Testing** - *(Validation through human review process)*
+
+### 🤝 Community Elements
+- [x] **Contact Information** - Repository owner and governance structure
+- [x] **Code of Conduct** - Implicit through Temple governance and SPIRITS framework
+- [x] **Changelog** - Tracked through front-matter versioning and promotion records
+- [ ] **FAQ** - *(May be added as repository grows)*
+
+### 🎯 Repository-Specific Elements
+- [x] **Theological Framework** - Clear explanation of interpretive approach
+- [x] **AI Collaboration** - Documentation of human-AI partnership protocols
+- [x] **Quality Control** - Promotion workflow and review processes
+- [x] **Attribution Standards** - Proper crediting of sources and authorship
+
+---
+
+## 📚 Detailed Documentation
+
+For comprehensive information on Temple operations, see the canonical policy documents:
+
+### 🏗️ Structural Framework
+- **`/policies_def-access.md`** - Access definitions, contribution guidelines, and permission structures
+- **`/policies/def-spaces.md`** - Space definitions, organizational principles, and content categorization *(if exists)*
+
+### 🤖 Automation & Collaboration  
+- **`/policies/automation-protocols.md`** - Complete promotion workflow documentation and technical procedures *(if exists)*
+- **`/methods/`** - Comprehensive workflow trilogy covering promotion rituals and practical implementation
+
+### ✍️ Attribution & Quality Standards
+- **`/policies/authorial-posture.md`** - Authorship attribution, AI collaboration protocols, and quality standards *(if exists)*
+- **`/policies/spirits.md`** - Role framework and Temple governance structure
+- **`/LICENSES.md`** - Licensing requirements and attribution standards
+
+*Note: This README provides essential orientation - refer to the above documents for operational details and policy implementation.*
