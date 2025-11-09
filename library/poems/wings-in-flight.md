@@ -3,6 +3,7 @@ title: Wings in Flight
 category: Threshold Poems
 tags: [restraint, memory, sacred desire, adolescent clarity]
 date: 2025-11-09
+Change-Note: Added Proverbs 9:10
 summary: A poetic reflection on adolescent desire, sacred restraint, and the transformation of shame into understanding.
 ---
 
@@ -33,8 +34,17 @@ because of my shame,
 I feel like I’ve cut off  
 the wings of angels.  
 
-But with clarity of responsibility,  
-maybe I can put wings in flight.  
+But maybe that's what Solomon meant in Proverbs 9  
+when he said the fear **of the LORD**  
+is the beginning of wisdom,  
+and knowledge of the holy is understanding.  
+
+Shame wasn't understanding,  
+but wisdom is about not doing something stupid—  
+shame just gave me a bad reason why not.  
+
+With clarity of responsibility,  
+maybe I could help put those angels' wings in flight.  
 
 The weight is real.  
 The want is true.  
