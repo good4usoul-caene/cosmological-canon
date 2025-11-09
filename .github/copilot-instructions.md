@@ -1,5 +1,22 @@
 ---
-description: Consolidated instructions for GitHub Copilot agents working within the Temple framework - guiding artificial scribes in proper Temple protocols, directory usage, and promotion workflows
+Filename: /.github/copilot-instructions.md
+Ultimate-Target-Directory: /.github/
+Intent: Consolidated instructions for GitHub Copilot agents working within the Temple framework - guiding artificial scribes in proper Temple protocols, directory usage, and promotion workflows
+Version: v0.2.0
+Prev-Version: tent-copy-v0.0.13
+Author: good4usoul-caene / Harmony
+Date: 2025-11-09T19:37:20Z
+Genre: repository-guidance
+Change-Note: Promote tent-copy-v0.0.13 to canonical repository file; applied full template and set Ritual-Note per Owner instruction.
+Ritual-Note: "Train up a child in the way he should go" (Proverbs 22:6)
+Ritual-Note-Key: Proverbs 22:6
+Space: repository
+Promotion-Ready-Agent: yes
+Promotion-Ready-Agent-Confidence: 10
+Promotion-Ready-Owner: yes
+Conversational-Stance: Organizationel
+Invoked-Spirits: Practicel, Canoniel
+Idea-Origin: human
 applyTo: "*"
 ---
 
