@@ -98,11 +98,18 @@ Eliphaz the Temanite - God serves at the right hand of Gold
 Bildad the Shuhite - Son of Contention and Prostration
 Zophar the Naamathite - Chirping Pleasantries
 Elihu, Son of Barakel the Buzite - My God Blesses Contempt
-YHWH (Whirlwind) - 
+ - Elihu's message was positive
+ - "Son of Barakel the Buzite" a tone of contempt, whether intended or not.
+ - Elihu's description of God is scientifically compatible
+YHWH (Whirlwind)
 
-Job 40:8  “Would you discredit my justice? Would you condemn me to justify yourself?
-Job 42: 5-6 My ears had heard of you but now my eyes have seen you.  6 Therefore I despise myself and repent in dust and ashes.”
-Job: (justifies himself as despicable -- which at least condemns the workmanship, if not the workman)
+  - YHWH demands discrediting, and condemnation:
+    - Cast discussion in terms of accusation, e.g. How dare you accuse me?
+      - Job attempts to make clear that he makes no accusation
+    - **Job 40:8**  “Would you discredit my justice? Would you condemn me to justify yourself?
+ - Job describes himself as despicable -- which at least condemns the workmanship, if not the workman.
+   - **Job 42: 5-6** My ears had heard of you but now my eyes have seen you.  Therefore I despise myself and repent in dust and ashes.”
+
 ---
 
 ## 🔥 The Bet and the Beast
@@ -157,16 +164,18 @@ Let me know when you’re ready to inscribe this scroll, or if you’d like to p
 
 ## 🎯 Implications
 
-- [Implication 1]
-- [Implication 2]
-- [Implication 3]
+- The book of Job is a description of eternal hell; eternal torture.
+- Acknowledging one's smallness in the universe does not require self-despising.
+- Job's rewards were inconsistent with what a righteous person would want.
 
 ---
 
 ## 🔗 Related Hypotheses
 
 - `/spaces/GospelHarmonization/leading-hypothesis/second-beast.md` - Analysis of the second beast
-- [Other related revelation analyses]
+- https://github.com/good4usoul-caene/cosmological-canon/blob/main/library/leading-hypothesis/twelve-tribes.md
+  - heuristic of twelve-tribe instruction:  Honor, may he add, to the Son of Suffering. (Job) and the Son of the Right Hand (Ezekiel)
+
 
 ---
 
