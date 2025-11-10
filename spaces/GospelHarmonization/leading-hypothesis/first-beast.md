@@ -91,6 +91,18 @@ Each “head” speaks praise or accusation, but none offer relief. Their names 
 | 6 | **Zophar**          | Third friend                | צוֹפַר (*Tsofar*) – “chirping”           | Speaks with hollow certainty. Praises without listening. |
 | 7 | **YHWH (Whirlwind)**| Final speaker in Job 38–41 | יְהוָה (*YHWH*) – “I Am / He Is”         | Silences Job without resolution. Offers power, not justice. May be God breaking the wager—**more likely Satan impersonating Him.** |
 
+Job - Hated
+Job’s Wife - Hated Wife
+Satan - Adversary
+Eliphaz the Temanite - God serves at the right hand of Gold
+Bildad the Shuhite - Son of Contention and Prostration
+Zophar the Naamathite - Chirping Pleasantries
+Elihu, Son of Barakel the Buzite - My God Blesses Contempt
+YHWH (Whirlwind) - 
+
+Job 40:8  “Would you discredit my justice? Would you condemn me to justify yourself?
+Job 42: 5-6 My ears had heard of you but now my eyes have seen you.  6 Therefore I despise myself and repent in dust and ashes.”
+Job: (justifies himself as despicable -- which at least condemns the workmanship, if not the workman)
 ---
 
 ## 🔥 The Bet and the Beast
