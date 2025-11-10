@@ -1,0 +1,74 @@
+name: "Repo smoke checks (manual)"
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Environment
+        run: |
+          echo "GITHUB_REPOSITORY=$GITHUB_REPOSITORY"
+          echo "GITHUB_REF=$GITHUB_REF"
+          echo "RUN_BY=$GITHUB_ACTOR"
+
+      - name: Check branch protection (main)
+        run: |
+          owner=$(echo "$GITHUB_REPOSITORY" | cut -d'/' -f1)
+          repo=$(echo "$GITHUB_REPOSITORY" | cut -d'/' -f2)
+          echo "Calling branch protection endpoint for $owner/$repo..."
+          resp=$(curl -s -w "%{http_code}" -H "Accept: application/vnd.github+json" -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/repos/$owner/$repo/branches/main/protection")
+          len=${#resp}
+          code=${resp:len-3}
+          body=${resp:0:len-3}
+          echo "HTTP status: $code"
+          if [ "$code" -eq 200 ]; then
+            echo "Branch protection JSON:";
+            echo "$body" | jq '.' || echo "$body"
+          else
+            echo "Branch protection endpoint returned status $code. Body: "$body""
+          fi
+
+      - name: Check .github/CODEOWNERS presence
+        run: |
+          owner=$(echo "$GITHUB_REPOSITORY" | cut -d'/' -f1)
+          repo=$(echo "$GITHUB_REPOSITORY" | cut -d'/' -f2)
+          echo "Checking CODEOWNERS in $owner/$repo..."
+          resp=$(curl -s -w "%{http_code}" -H "Accept: application/vnd.github+json" -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/repos/$owner/$repo/contents/.github/CODEOWNERS")
+          len=${#resp}
+          code=${resp:len-3}
+          body=${resp:0:len-3}
+          echo "HTTP status: $code"
+          if [ "$code" -eq 200 ]; then
+            echo "CODEOWNERS metadata:";
+            echo "$body" | jq '.' || echo "$body"
+            # extract and decode content
+            echo "$body" | jq -r '.content' | base64 --decode || true
+          else
+            echo "CODEOWNERS endpoint returned status $code. Body: "$body""
+          fi
+
+      - name: Attempt to get repo installation object
+        run: |
+          owner=$(echo "$GITHUB_REPOSITORY" | cut -d'/' -f1)
+          repo=$(echo "$GITHUB_REPOSITORY" | cut -d'/' -f2)
+          echo "Attempting to fetch installation object for $owner/$repo..."
+          resp=$(curl -s -w "%{http_code}" -H "Accept: application/vnd.github+json" -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/repos/$owner/$repo/installation")
+          len=${#resp}
+          code=${resp:len-3}
+          body=${resp:0:len-3}
+          echo "HTTP status: $code"
+          if [ "$code" -eq 200 ]; then
+            echo "Installation object:";
+            echo "$body" | jq '.' || echo "$body"
+          else
+            echo "Installation endpoint returned status $code. Body: "$body""
+          fi
+
+      - name: Summary
+        run: |
+          echo "Smoke checks completed. Review logs above for details."
