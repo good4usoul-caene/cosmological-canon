@@ -91,24 +91,22 @@ Each “head” speaks praise or accusation, but none offer relief. Their names 
 | 6 | **Zophar**          | Third friend                | צוֹפַר (*Tsofar*) – “chirping”           | Speaks with hollow certainty. Praises without listening. |
 | 7 | **YHWH (Whirlwind)**| Final speaker in Job 38–41 | יְהוָה (*YHWH*) – “I Am / He Is”         | Silences Job without resolution. Offers power, not justice. May be God breaking the wager—**more likely Satan impersonating Him.** |
 
-Job - Hated
-Job’s Wife - Hated Wife
-Satan - Adversary
-Eliphaz the Temanite - God serves at the right hand of Gold
-Bildad the Shuhite - Son of Contention and Prostration
-Zophar the Naamathite - Chirping Pleasantries
-Elihu, Son of Barakel the Buzite - My God Blesses Contempt
+ - Job - Hated
+ - Job’s Wife - Hated Wife
+ - Satan - Adversary
+ - Eliphaz the Temanite - God serves at the right hand of Gold
+ - Bildad the Shuhite - Son of Contention and Prostration
+ - Zophar the Naamathite - Chirping Pleasantries
+ - Elihu, Son of Barakel the Buzite - My God Blesses Contempt
  - Elihu's message was positive
- - "Son of Barakel the Buzite" a tone of contempt, whether intended or not.
- - Elihu's description of God is scientifically compatible
-YHWH (Whirlwind)
-
-  - YHWH demands discrediting, and condemnation:
-    - Cast discussion in terms of accusation, e.g. How dare you accuse me?
-      - Job attempts to make clear that he makes no accusation
-    - **Job 40:8**  “Would you discredit my justice? Would you condemn me to justify yourself?
- - Job describes himself as despicable -- which at least condemns the workmanship, if not the workman.
-   - **Job 42: 5-6** My ears had heard of you but now my eyes have seen you.  Therefore I despise myself and repent in dust and ashes.”
+   - "Son of Barakel the Buzite" a tone of contempt, whether intended or not.
+   - Elihu's description of God is scientifically compatible
+ - YHWH (Whirlwind) demands discrediting, and condemnation:
+   - Cast discussion in terms of accusation, e.g. How dare you accuse me?
+     - **Job 40:8**  “Would you discredit my justice? Would you condemn me to justify yourself?
+     - Job attempts to make clear that he makes no accusation, but only questions.
+   - Job describes himself as despicable -- which at least condemns the workmanship, if not the workman.
+     - **Job 42: 5-6** My ears had heard of you but now my eyes have seen you.  Therefore I despise myself and repent in dust and ashes.”
 
 ---
 
@@ -158,10 +156,6 @@ It enforces a gospel of endurance without reward, praise without truth, and weal
 
 ---
 
-Let me know when you’re ready to inscribe this scroll, or if you’d like to pair it with a ritual glyph or README update. We could also prepare a lookup-scroll.md that maps both beasts to Job’s archetypes and gospel substitutions.
-
----
-
 ## 🎯 Implications
 
 - The book of Job is a description of eternal hell; eternal torture.
@@ -181,9 +175,10 @@ Let me know when you’re ready to inscribe this scroll, or if you’d like to p
 
 ## 📝 Notes
 
-[Any additional notes, considerations, or context for this analysis]
+
  - Quora discussion:
    - https://www.quora.com/Where-does-the-number-666-come-from-I-know-its-in-the-Book-of-Revelation-but-whats-the-story/answer/Jonathan-Doolin
+ - [Any additional notes, considerations, or context for this analysis]
 ---
 
 ## 🔗 Suggested Tags
