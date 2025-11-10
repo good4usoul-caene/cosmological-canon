@@ -89,18 +89,20 @@ This document outlines various methods for promoting content from your local Ech
   - History will not re-order to put session window near top 
 - Initial explorations of interface suggest that user may not add new files or directories, but may only edit existing files
   - Troubleshooting Suggestions
-    - [] Edit and save an existing file, if possible
-    - [] Add a new directory, if possible
-    - [] Create a new file, if possible
-    - [] Paste in a new file, if possible
-    - [] Save new file, if possible
+    - [x] Edit and save an existing file, if possible
+    - [x] Add a new directory, if possible 
+      - (enter directory/ in filename box for new file)
+    - [x] Create a new file, if possible
+    - [x] Paste in a new file, if possible
+    - [x] Save new file, if possible
 - Interface is difficult to navigate (not impossible)
   - Troubleshooting Suggestion
     - user keeps on paper navigation paths to 
-      - [] copilot agents
-      - [] New Repo Secret
-      - [] Repo Secret Pasting Area
-      - [] github repository file-editing area
+      - [x] copilot agents
+      - [x] New Repo Secret
+      - [x] Repo Secret Pasting Area
+      - [x] github repository file-editing area
+      - Still difficult to navigate on phone interface; 
 
 ---
 
