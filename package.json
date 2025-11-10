@@ -1,0 +1,22 @@
+{
+  "name": "cosmological-canon-tools",
+  "version": "0.1.0",
+  "description": "Tooling for scanning and chunking canon files (non-destructive).",
+  "private": true,
+  "bin": {
+    "scan-markup": "tools/scan-markup.js",
+    "chunk-book": "tools/chunker.js"
+  },
+  "scripts": {
+    "scan-markup": "node tools/scan-markup.js --dir library/books --out .build/markup_scan_results.csv",
+    "chunk-queen": "node tools/chunker.js --file library/books/queen-of-the-south.md --out .build/queen"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "glob": "^10.2.7",
+    "jsdom": "^22.1.0",
+    "markdown-it": "^13.0.1",
+    "mammoth": "^1.5.0",
+    "yargs": "^17.7.2"
+  }
+}
