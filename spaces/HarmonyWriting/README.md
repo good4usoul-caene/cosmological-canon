@@ -9,7 +9,7 @@ Date: 2025-11-10T15:20:00Z
 Genre: Documentation
 Change-Note: Initial creation of HarmonyWriting space documentation
 RitualNote: Creative expression as sacred gift - writing that flows from personal experience and spiritual reflection
-RitualNoteKey: "Let the words of my mouth and the meditation of my heart be acceptable in your sight" (Psalm 19:14)
+RitualNoteKey: '"Let the words of my mouth and the meditation of my heart be acceptable in your sight" (Psalm 19:14)'
 Space: repository
 Promotion-Ready-Agent: yes
 Promotion-Ready-Agent-Confidence: 9

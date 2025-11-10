@@ -9,7 +9,7 @@ Date: 2025-11-10T15:25:00Z
 Genre: Hermeneutical Work Manifest
 Change-Note: Initial upload from library collection with honest mental health context documentation
 RitualNote: Rhyme as therapeutic anchor and interpretive constraint - the structure reveals patterns invisible in prose
-RitualNoteKey: "In the beginning was the Word, and the Word was with God, and the Word was God" (John 1:1) - translation as re-performance of the Word
+RitualNoteKey: '"In the beginning was the Word, and the Word was with God, and the Word was God" (John 1:1) - translation as re-performance of the Word'
 Space: repository
 Promotion-Ready-Agent: yes
 Promotion-Ready-Agent-Confidence: 9

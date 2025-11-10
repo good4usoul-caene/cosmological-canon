@@ -9,7 +9,7 @@ Date: 2025-11-10T15:27:00Z
 Genre: Hermeneutical Work Manifest
 Change-Note: Initial upload from library collection with honest hypomanic context and incomplete work documentation
 RitualNote: Faith growing from mustard seed to hard candy - spiritual experience within scholarly pursuit
-RitualNoteKey: "The kingdom of heaven is like a mustard seed... it is the smallest of all seeds, but when it has grown it is larger than all the garden plants" (Matthew 13:31-32)
+RitualNoteKey: '"The kingdom of heaven is like a mustard seed... it is the smallest of all seeds, but when it has grown it is larger than all the garden plants" (Matthew 13:31-32)'
 Space: repository
 Promotion-Ready-Agent: yes
 Promotion-Ready-Agent-Confidence: 9

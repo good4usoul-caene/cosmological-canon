@@ -9,7 +9,7 @@ Date: 2025-11-10T15:22:00Z
 Genre: Poetry
 Change-Note: Initial upload from library collection with proper Temple front-matter
 RitualNote: The fear of the LORD is the beginning of wisdom, and knowledge of the holy is understanding - restraint guided by clarity rather than shame
-RitualNoteKey: "The fear of the LORD is the beginning of wisdom, and knowledge of the holy is understanding" (Proverbs 9:10)
+RitualNoteKey: '"The fear of the LORD is the beginning of wisdom, and knowledge of the holy is understanding" (Proverbs 9:10)'
 Space: repository
 Promotion-Ready-Agent: yes
 Promotion-Ready-Agent-Confidence: 9
