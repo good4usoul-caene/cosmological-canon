@@ -183,8 +183,8 @@ It enforces a gospel of endurance without reward, praise without truth, and weal
 
 ## 🔗 Related Hypotheses
 
-- `/spaces/GospelHarmonization/leading-hypothesis/second-beast.md` - Analysis of the second beast
-- `/spaces/GospelHarmonization/leading-hypothesis/twelve-tribes.md` - Twelve tribes heuristic analysis
+- https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/GospelHarmonization/leading-hypothesis/second-beast.md - Analysis of the second beast
+- https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/GospelHarmonization/leading-hypothesis/twelve-tribes.md - Twelve tribes heuristic analysis
   - heuristic of twelve-tribe instruction:  Honor, may he add, to the Son of Suffering. (Job) and the Son of the Right Hand (Ezekiel)
 
 

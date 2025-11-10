@@ -1,6 +1,6 @@
 ---
-Filename: /library/leading-hypothesis/second-beast.md
-Ultimate-Target-Directory: /library/leading-hypothesis/second-beast.md
+Filename: /spaces/GospelHarmonization/leading-hypothesis/second-beast.md
+Ultimate-Target-Directory: /spaces/GospelHarmonization/leading-hypothesis/second-beast.md
 Version: v0.1.0
 Prev-Version: none
 Author: good4usoul-caene
@@ -52,7 +52,7 @@ This "wine" may be the issuance from the idol of jealousy. Those unworthy of the
 
 ## 🔗 Related Hypotheses
 
-- `/spaces/GospelHarmonization/leading-hypothesis/first-beast.md` - Analysis of the first beast from Revelation 13
-- `/spaces/GospelHarmonization/leading-hypothesis/twelve-tribes.md` - Twelve tribes heuristic analysis
+- https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/GospelHarmonization/leading-hypothesis/first-beast.md - Analysis of the first beast from Revelation 13
+- https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/GospelHarmonization/leading-hypothesis/twelve-tribes.md - Twelve tribes heuristic analysis
 
 ---
