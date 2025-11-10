@@ -1,6 +1,6 @@
 ---
-Filename: /spaces/BibleStudy/analysis/riddles-of-barabbas.pdf
-Ultimate-Target-Directory: /spaces/BibleStudy/analysis/
+Filename: /library/books/riddles-of-barabbas.pdf
+Ultimate-Target-Directory: /library/books/
 Intent: Analysis of the biblical figure Barabbas and theological riddles surrounding his story
 Version: v1.0.0
 Prev-Version: none
@@ -29,16 +29,16 @@ Staging-Location: /tent/riddles-of-barabbas-staging.pdf
 **Focus**: The figure of Barabbas in Gospel narratives  
 
 ## Content Description
-This PDF document contains theological analysis examining the biblical figure of Barabbas, exploring the theological and narrative significance of his story within the Gospel accounts of Jesus' trial and crucifixion. The work investigates the "riddles" or theological puzzles surrounding this character who was released instead of Jesus.
+This PDF document contains 90 pages of line-by-line translation of John's Gospel into rhyming verse. The constraint of rhyme served as both interpretive heuristic and therapeutic anchor, allowing completion of the work without major bipolar episodes. The rhyming structure reveals patterns and meanings not visible in prose, while keeping the author grounded during intense scriptural engagement. The work investigates theological "riddles" that emerge when John's narrative is forced into poetic form.
 
 ## Promotion Notes
 - **Binary File**: This is a PDF document that requires binary handling during promotion
 - **Staged Copy**: Available at `/tent/riddles-of-barabbas-staging.pdf` for owner review
-- **Target Space**: Recommended for `/spaces/BibleStudy/analysis/` as scholarly biblical content
+- **Target Space**: Recommended for `/library/books/` as substantial book-length hermeneutical work
 - **File Integrity**: Original file size 288KB, created 2025-11-10
 
 ## Theological Significance
-The Barabbas narrative presents profound theological questions about substitution, justice, and divine providence within the Passion narrative. This analysis contributes to the repository's biblical scholarship collection.
+This work represents a successful completion despite mental health challenges - rhyme structure providing cognitive stability during scriptural engagement. The poetic constraint functions as both hermeneutical tool and therapeutic discipline. Post-completion depression from lack of reception highlights the isolation of creating meaningful work without community engagement. The work contributes innovative interpretive methodology to biblical scholarship.
 
 ---
 
