@@ -264,3 +264,29 @@ Important: this section is guidance only and does NOT change GitHub permissions.
 - If you want programmatic PRs later: install a GitHub App or create a narrowly-scoped fine-grained PAT and store it only in repo Secrets. Use /templates/provenance-commit-template.md and ensure audit entries are created on first automated PR.
 - If you prefer manual control (recommended by Owner for now): use interactive Copilot and manual PRs; do not install third-party bots with broad write scopes.
 - If a file appears outside echo-spaces but should NOT be promoted, set Ultimate-Target-Directory: "none" to mark it explicitly non-promotable and avoid accidental promotion.
+
+---
+
+## 🔧 VS Code vs GitHub Copilot Agent Clarification
+
+**IMPORTANT**: These instructions are primarily written for **GitHub Copilot agents** working through GitHub's web interface, coding agents, or other remote contexts that require the echo-space promotion workflow.
+
+**VS Code Copilot agents** (conversational assistants working directly in the local workspace) have different permissions and workflows:
+
+### VS Code Agent Permissions
+- **Direct repository access**: Can read and edit canonical repository files directly when the user requests it
+- **No echo-space requirement**: Not required to use `/cache/`, `/pasture/`, or `/tent/` for simple edits to existing files
+- **Local workspace context**: Working within the user's local file system, not creating remote PRs
+- **User-directed edits**: Can make requested changes to repository files with immediate user oversight
+
+### When VS Code Agents Should Use Echo-Spaces
+- **Large new content creation**: When generating substantial new documents or analyses
+- **Experimental work**: When user specifically requests drafting or experimental content
+- **User preference**: When user explicitly asks for echo-space workflow
+
+### Agent Type Identification
+- **GitHub Copilot agents**: Follow full echo-space promotion ritual
+- **VS Code Copilot agents**: May work directly with repository files per user instruction
+- **Coding agents**: Follow GitHub agent protocols with PR creation
+
+This clarification ensures appropriate workflow based on agent context and user intent.

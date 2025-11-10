@@ -71,9 +71,9 @@ This scroll interprets the **first beast of Revelation 13** through the lens of 
 |---------------|-------------|
 | 42 months     | 42 chapters |
 | 10 horns      | 10 children of Job |
-| 7 heads with blasphemous names | Job, Job’s wife, Satan, Eliphaz, Bildad, Zophar, YHWH (Whirlwind) |
+| 7 heads with blasphemous names | Job, Job's wife, Satan, Eliphaz, Bildad, Zophar, YHWH (Whirlwind) |
 
-Each “head” speaks praise or accusation, but none offer relief. Their names are blasphemous not because they curse God, but because they **defend him against testimony**.
+Each "head" speaks praise or accusation, but none offer relief. Their names are blasphemous not because they curse God, but because they **defend him against testimony**.
 
 ---
 
@@ -81,15 +81,32 @@ Each “head” speaks praise or accusation, but none offer relief. Their names 
 
 | # | Name               | Role in Job               | Hebrew Name / Meaning                  | Blasphemous Function |
 |---|--------------------|----------------------------|-----------------------------------------|-----------------------|
-| — | **God (YHWH)**      | Creator, initiator of wager | יְהוָה (*YHWH*) – “I Am / He Is”         | **N/A** — Accepts the terms of the wager. Terms: No intervention. For God to win, Job must be tortured by Satan without dying or cursing God to His face. |
-| — | **Elihu**           | Young speaker, genre insert | אֱלִיהוּ (*Elihu*) – “He is my God”      | **N/A** — Offers reverent praise and cosmic insight. Though editorially ambiguous, his speech affirms divine justice without silencing testimony. |
-| 1 | **Job**             | The afflicted               | אִיּוֹב (*Iyyov*) – “hated”              | Curses God by despising himself as divine workmanship. His suffering becomes a critique of divine design. |
-| 2 | **Job’s Wife**      | The tempter                 | אִיּוֹב אִשָּׁה (*Iyyov Ishah*) – “Hated woman” | Urges Job to curse God and die. Embodies despair and genre collapse. |
-| 3 | **Satan**           | The accuser                 | שָׂטָן (*Satan*) – “adversary”           | Orchestrates eternal torment. Never relinquishes control. |
-| 4 | **Eliphaz**         | First friend                | אֱלִיפַז (*Eliphaz*) – “God is fine gold” | Offers polished praise that invalidates Job’s testimony. |
-| 5 | **Bildad**          | Second friend               | בִּלְדַּד (*Bildad*) – “son of contention” | Accuses Job of hidden sin. Defends God by attacking Job. |
-| 6 | **Zophar**          | Third friend                | צוֹפַר (*Tsofar*) – “chirping”           | Speaks with hollow certainty. Praises without listening. |
-| 7 | **YHWH (Whirlwind)**| Final speaker in Job 38–41 | יְהוָה (*YHWH*) – “I Am / He Is”         | Silences Job without resolution. Offers power, not justice. May be God breaking the wager—**more likely Satan impersonating Him.** |
+| — | **God (YHWH)**      | Creator, initiator of wager | יְהוָה (*YHWH*) – "I Am / He Is"         | **N/A** — Accepts the terms of the wager. Terms: No intervention. For God to win, Job must be tortured by Satan without dying or cursing God to His face. |
+| — | **Elihu**           | Young speaker, genre insert | אֱלִיהוּ (*Elihu*) – "He is my God"      | **N/A** — Offers reverent praise and cosmic insight. Though editorially ambiguous, his speech affirms divine justice without silencing testimony. |
+| 1 | **Job**             | The afflicted               | אִיּוֹב (*Iyyov*) – "hated"              | Curses God by despising himself as divine workmanship. His suffering becomes a critique of divine design. |
+| 2 | **Job's Wife**      | The tempter                 | אִיּוֹב אִשָּׁה (*Iyyov Ishah*) – "Hated woman" | Urges Job to curse God and die. Embodies despair and genre collapse. |
+| 3 | **Satan**           | The accuser                 | שָׂטָן (*Satan*) – "adversary"           | Orchestrates eternal torment. Never relinquishes control. |
+| 4 | **Eliphaz**         | First friend                | אֱלִיפַז (*Eliphaz*) – "God is fine gold" | Offers polished praise that invalidates Job's testimony. |
+| 5 | **Bildad**          | Second friend               | בִּלְדַּד (*Bildad*) – "son of contention" | Accuses Job of hidden sin. Defends God by attacking Job. |
+| 6 | **Zophar**          | Third friend                | צוֹפַר (*Tsofar*) – "chirping"           | Speaks with hollow certainty. Praises without listening. |
+| 7 | **YHWH (Whirlwind)**| Final speaker in Job 38–41 | יְהוָה (*YHWH*) – "I Am / He Is"         | Silences Job without resolution. Offers power, not justice. May be God breaking the wager—**more likely Satan impersonating Him.** |
+
+ - Job - Hated
+ - Job's Wife - Hated Wife
+ - Satan - Adversary
+ - Eliphaz the Temanite - God serves at the right hand of Gold
+ - Bildad the Shuhite - Son of Contention and Prostration
+ - Zophar the Naamathite - Chirping Pleasantries
+ - Elihu, Son of Barakel the Buzite - My God Blesses Contempt
+ - Elihu's message was positive
+   - "Son of Barakel the Buzite" a tone of contempt, whether intended or not.
+   - Elihu's description of God is scientifically compatible
+ - YHWH (Whirlwind) demands discrediting, and condemnation:
+   - Cast discussion in terms of accusation, e.g. How dare you accuse me?
+     - **Job 40:8**  "Would you discredit my justice? Would you condemn me to justify yourself?
+     - Job attempts to make clear that he makes no accusation, but only questions.
+   - Job describes himself as despicable -- which at least condemns the workmanship, if not the workman.
+     - **Job 42: 5-6** My ears had heard of you but now my eyes have seen you.  Therefore I despise myself and repent in dust and ashes."
 
  - Job - Hated
  - Job’s Wife - Hated Wife
@@ -112,14 +129,14 @@ Each “head” speaks praise or accusation, but none offer relief. Their names 
 
 ## 🔥 The Bet and the Beast
 
-- God and Satan wager over Job’s integrity.
+- God and Satan wager over Job's integrity.
 - Satan is given full control—except the right to kill.
 - Job begs for death. His friends accuse him of blasphemy.
 - Elihu praises God, but offers no help.
-- Job finally says: *“I see you now, and therefore I despise myself.”*
+- Job finally says: *"I see you now, and therefore I despise myself."*
 
 This is the mildest curse Job can offer: a critique of divine workmanship.  
-It fulfills Satan’s requirement.  
+It fulfills Satan's requirement.  
 But there is no denouement.  
 No meeting.  
 No settlement.
@@ -129,7 +146,7 @@ No settlement.
 ## 💰 The Bitter Rich Man
 
 - Satan never relinquishes control.
-- Job’s poverty ends, but his torment does not.
+- Job's poverty ends, but his torment does not.
 - His beloved are dead.
 - His new family is beautiful, but soulless.
 - He collects gold, not love.
@@ -149,7 +166,7 @@ It enforces a gospel of endurance without reward, praise without truth, and weal
 
 ## 🪶 Ritual Resolution
 
-> Satan, posing as God, accepts Job’s curse,  
+> Satan, posing as God, accepts Job's curse,  
 > and rewards him by applying more torture.  
 > Riches and beauty in service to monopoly and extraction—  
 > not in service to God.
@@ -167,7 +184,7 @@ It enforces a gospel of endurance without reward, praise without truth, and weal
 ## 🔗 Related Hypotheses
 
 - `/spaces/GospelHarmonization/leading-hypothesis/second-beast.md` - Analysis of the second beast
-- https://github.com/good4usoul-caene/cosmological-canon/blob/main/library/leading-hypothesis/twelve-tribes.md
+- `/spaces/GospelHarmonization/leading-hypothesis/twelve-tribes.md` - Twelve tribes heuristic analysis
   - heuristic of twelve-tribe instruction:  Honor, may he add, to the Son of Suffering. (Job) and the Son of the Right Hand (Ezekiel)
 
 

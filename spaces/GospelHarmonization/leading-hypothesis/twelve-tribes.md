@@ -1,6 +1,6 @@
 ---
-Filename: /library/leading-hypothesis/twelve-tribes.md
-Ultimate-Target-Directory: /library/leading-hypothesis/twelve-tribes.md
+Filename: /spaces/GospelHarmonization/leading-hypothesis/twelve-tribes.md
+Ultimate-Target-Directory: /spaces/GospelHarmonization/leading-hypothesis/twelve-tribes.md
 Version: v0.1.0
 Prev-Version: none
 Author: good4usoul-caene

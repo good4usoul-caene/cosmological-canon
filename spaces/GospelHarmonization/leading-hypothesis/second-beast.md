@@ -46,5 +46,13 @@ The climax comes in Revelation 14:9–10:
 
 > “If anyone worships the beast and its image and receives its mark on their forehead or on their hand, he too will drink of the wine of God’s wrath…”
 
-This “wine” may be the issuance from the idol of jealousy. Those unworthy of the water of life are instead fit to receive the torrent of wrath—perhaps even the runoff of bull urine, poured out into the basin of death.
+This "wine" may be the issuance from the idol of jealousy. Those unworthy of the water of life are instead fit to receive the torrent of wrath—perhaps even the runoff of bull urine, poured out into the basin of death.
+
+---
+
+## 🔗 Related Hypotheses
+
+- `/spaces/GospelHarmonization/leading-hypothesis/first-beast.md` - Analysis of the first beast from Revelation 13
+- `/spaces/GospelHarmonization/leading-hypothesis/twelve-tribes.md` - Twelve tribes heuristic analysis
+
 ---
