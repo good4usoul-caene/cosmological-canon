@@ -182,7 +182,8 @@ Let me know when you’re ready to inscribe this scroll, or if you’d like to p
 ## 📝 Notes
 
 [Any additional notes, considerations, or context for this analysis]
-
+ - Quora discussion:
+   - https://www.quora.com/Where-does-the-number-666-come-from-I-know-its-in-the-Book-of-Revelation-but-whats-the-story/answer/Jonathan-Doolin
 ---
 
 ## 🔗 Suggested Tags
