@@ -1,6 +1,6 @@
 ---
-Filename: /spaces/BibleStudy/gospels/queen-of-the-south.docx
-Ultimate-Target-Directory: /spaces/BibleStudy/gospels/
+Filename: /library/books/queen-of-the-south.docx
+Ultimate-Target-Directory: /library/books/
 Intent: Analysis of the Queen of the South biblical narrative and its theological implications
 Version: v1.0.0
 Prev-Version: none
@@ -29,17 +29,23 @@ Staging-Location: /tent/queen-of-the-south-staging.docx
 **Focus**: The Queen of the South (Queen of Sheba) in biblical texts  
 
 ## Content Description
-This Word document contains comprehensive analysis of the Queen of the South narrative as referenced in both the Hebrew Bible (1 Kings 10) and the New Testament (Matthew 12:42, Luke 11:31). The work explores the theological significance of this figure in Jesus' teaching about judgment and wisdom-seeking.
+This Word document contains light-hearted eschatological analysis structured as a trial proceeding, where angels weigh scriptural evidence to build a case regarding the Pisces age. The work emerged during a hypomanic creative period and remains unfinished. The trial framework serves as an interpretive heuristic for discovering hidden meanings in scripture, making bold hermeneutical claims about prophetic timelines and divine judgment.
+
+A great task was undertaken within this document to consolidate the gospels.  Matthew in boldface, Mark underlined, Luke in italics,  John in red.  Author invoked the meaning of "Doolin" "Dubhflahnn" meaning Black/Red as extra prophetic influence that the red was needed.  
+
+A "miracle" was observed by the author when his faith grew from the size of mustard seeds to the size of hard candies.
+
+Establishment of "metaphoriel" as the angel of Euphamism in the story, became a constant companion for the author.  Leading to some awkward moments, and eventual bipolar medication prescription for aziprapole, which ended any inappropriate behaviors, but also cut off any feelings of joy or usefulness, and ended progress on this work.  After a few months, it was agreed by advocate's doctor and parents to end that particular prescription.  
 
 ## Promotion Notes
 - **Binary File**: This is a Word document (.docx) requiring binary handling during promotion
 - **Staged Copy**: Available at `/tent/queen-of-the-south-staging.docx` for owner review
-- **Target Space**: Recommended for `/spaces/BibleStudy/gospels/` as Gospel-related scholarship
+- **Target Space**: Recommended for `/library/books/` as substantial book-length hermeneutical work
 - **File Integrity**: Original file size 2.2MB, created 2025-11-10
 - **Large Document**: Substantial content requiring careful review before promotion
 
 ## Theological Significance
-The Queen of the South represents the wisdom-seeking Gentile who will judge the unbelieving generation, making this narrative central to Jesus' teaching about judgment, wisdom, and the inclusion of the nations. This analysis contributes valuable scholarship to the repository's Gospel study collection.
+This unfinished work represents creative exploration during elevated mood states, where the sense of cosmic significance felt authentic and urgent. Subsequent medical intervention (aziprapole) affected both the perceived importance of the work and the author's sense of life significance. The trial format offers innovative approach to eschatological interpretation, though its incompletion reflects the intersection of creativity, mental health, and pharmaceutical intervention in spiritual work.
 
 ## Notes on "vs." in Filename
 The original filename contains "(original) The Queen of the South vs.docx" - the "vs." likely indicates comparative analysis or contrast elements within the document content.

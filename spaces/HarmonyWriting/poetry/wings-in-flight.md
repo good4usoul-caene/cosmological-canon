@@ -1,26 +1,42 @@
 ---
 Filename: /spaces/HarmonyWriting/poetry/wings-in-flight.md
-Ultimate-Target-Directory: /spaces/HarmonyWriting/poetry/
-Intent: Poetic reflection on adolescent desire, sacred restraint, and the transformation of shame into understanding through biblical wisdom
+Ultimate-Target-Directory: /spaces/HarmonyWriting/poetry/wings-in-flight.md
+Intent: Threshold poem exploring adolescent desire, sacred restraint, and the transformation from shame to understanding through biblical wisdom
 Version: v1.0.0
 Prev-Version: none
-Author: good4usoul-caene / Harmony
-Date: 2025-11-09T19:45:00Z
+Author: good4usoul-caene
+Date: 2025-11-10T15:22:00Z
 Genre: Poetry
-Change-Note: Promoting from library to repository with proper Temple front-matter
-RitualNote: "The fear of the LORD is the beginning of wisdom" (Proverbs 9:10)
+Change-Note: Initial upload from library collection with proper Temple front-matter
+RitualNote: The fear of the LORD is the beginning of wisdom, and knowledge of the holy is understanding - restraint guided by clarity rather than shame
+RitualNoteKey: '"The fear of the LORD is the beginning of wisdom, and knowledge of the holy is understanding" (Proverbs 9:10)'
 Space: repository
 Promotion-Ready-Agent: yes
 Promotion-Ready-Agent-Confidence: 9
 Promotion-Ready-Owner: TBD
-Conversational-Stance: Mysticel
-Invoked-Spirits: Physicel, Psychologicel, Mysticel
-Idea-Origin: human
+Promotion-Rubric-Specific:
+  - id: 1
+    score: 95
+    title: "Theological depth and biblical integration"
+    note: "Direct engagement with Proverbs 9:10 as interpretive framework"
+  - id: 2
+    score: 90
+    title: "Honest treatment of restraint vs shame"
+    note: "Distinguishes between shame-based avoidance and responsibility-based restraint"
+  - id: 3
+    score: 85
+    title: "Threshold poem category"
+    note: "Explores liminal space of adolescent experience and emerging wisdom"
+  - id: 4
+    score: 90
+    title: "Personal authenticity"
+    note: "Vulnerable reflection on lived experience without sensationalism"
 ---
 
 # Wings in Flight
 
-*A poetic reflection on adolescent desire, sacred restraint, and the transformation of shame into understanding*
+**Category**: Threshold Poems  
+**Tags**: restraint, memory, sacred desire, adolescent clarity
 
 She stood in the doorway,  
 half-dressed, half-divine.  
@@ -63,9 +79,14 @@ maybe I could help put those angels' wings in flight.
 
 The weight is real.  
 The want is true.  
+And the restraint—  
+is sacred.  
+But so are the wings.
 
 ---
 
-*Category: Threshold Poems*  
-*Tags: restraint, memory, sacred desire, adolescent clarity*  
-*Original Date: 2025-11-09*
+## Reflection
+
+This poem explores the distinction between shame-based avoidance and responsibility-based restraint. The biblical wisdom of Proverbs 9:10 reframes restraint not as denial driven by shame, but as understanding that recognizes the sacred weight of desire and the responsibility that comes with it.
+
+The "wings of angels" metaphor suggests that inappropriate restraint (driven by shame rather than understanding) can clip the potential for something beautiful to take flight - but appropriate restraint (driven by wisdom and responsibility) can help those wings soar.
