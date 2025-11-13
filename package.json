@@ -12,11 +12,15 @@
     "chunk-queen": "node tools/chunker.js --file library/books/queen-of-the-south.md --out .build/queen"
   },
   "dependencies": {
+    "@octokit/rest": "^22.0.1",
+    "adm-zip": "^0.5.16",
     "csv-writer": "^1.6.0",
     "glob": "^10.2.7",
     "jsdom": "^22.1.0",
-    "markdown-it": "^13.0.1",
     "mammoth": "^1.5.0",
+    "markdown-it": "^13.0.1",
+    "minimist": "^1.2.8",
+    "pdf-parse": "^2.4.5",
     "yargs": "^17.7.2"
   }
 }

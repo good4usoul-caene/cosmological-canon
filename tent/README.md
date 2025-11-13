@@ -16,7 +16,7 @@ Purpose
 The /tent/ directory is for tentatively composed drafts—partial policies, early canonical text, or intermediate artifacts that are explicitly created at the user's request. Tent files are closer to canonical form than pasture/cache drafts but still require Owner confirmation prior to promotion.
 
 Principles
-- Keep the /tent/ repository directory PERFECTLY CLEAN except for THIS README.md file.
+- Keep the /tent/ repository and VS Code local directories should be PERFECTLY CLEAN except for THIS README.md file.
 - Files in /tent/ should be created or modified only with explicit user instruction.
 - Each tent file must include front matter describing the proposed Ultimate-Target-Directory and a clear Change-Note.
 - Promotion from /tent/ to canonical locations (/policies/, /methods/, etc.) requires SEARCH‑AND‑INSERT, Owner confirmation, and passing validation checks.
