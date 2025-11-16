@@ -11,11 +11,12 @@ Prev-Version: tent-copy-v0.0.13
 Author: good4usoul-caene / Harmony
 Date: 2025-11-09T19:37:20Z
 Genre: repository-guidance
-Change-Note: Promote tent-copy-v0.0.13 to canonical repository file; applied full template and set Ritual-Note per Owner instruction.
+Change-Note: Removing /pasture/ type directories.  Adding rule to acknowledge sources besides copilot agent.
+Change-Magnitude: major
 Ritual-Note: "Train up a child in the way he should go" (Proverbs 22:6)
 Space: repository
-Promotion-Ready-Agent: yes
-Promotion-Ready-Agent-Confidence: 10
+Promotion-Ready-Agent: TBD
+Promotion-Ready-Agent-Confidence: TBD
 Promotion-Ready-Owner: yes
 ---
 # 🤖 GitHub Copilot Agent Instructions
@@ -28,32 +29,6 @@ Promotion-Ready-Owner: yes
 This repository uses a structured "Temple" framework with echo-spaces for drafts and canonical spaces for permanent content. All agents must respect this hierarchy and follow proper promotion work: drafts and experiments belong in echo‑spaces (/pasture/, /cache/), staging for human review belongs in /tent/, and canonical policy or content belongs under repository spaces (/policies/, /methods/, /spaces/). Promotion requires explicit front-matter, provenance, and Owner confirmation.
 
 ## 📁 Directory Structure & Agent Permissions
-
-### Echo Spaces (Agent-Writable)
-These directories are **open canvases** for agent suggestions and drafts.
-
-Note: For the precise, three-state definition of what "agent‑writable" permits in each location (default echo-draft, tent-with-user-permission, and exceptional canonical staging/safe-mistake), see the Runtime Permissions & Echo‑Space Clarification section later in this document. That section contains the operational distinctions agents must follow.
-
-These directories are **open canvases** for agent suggestions and drafts:
-
-#### `/pasture/` - Experimental Drafts
-- **Purpose**: Transient space for ephemeral offerings, experiments, and scratch artifacts
-- **Agent Permission**: Full creative freedom - treat as "Tabula Rasa"
-- **Special Note**: `/pasture/treehouse/` available for completely wild ideas
-- **Keep Clean**: Keep this root tidy. Agents may create drafts here, provided each file includes complete provenance front-matter. Do not leave un-headered or stray files in the `/pasture/` root; every echo-space artifact must be traceable and follow the promotion ritual.
-- **Promotion Rule**: Never promote pasture content without owner review
-
-#### `/cache/` - Agent Drafts
-- **Purpose**: Agent drafts and temporary artifacts (agent-writable)
-- **Agent Permission**: Primary workspace for initial drafts
-- **Keep Clean**: Keep this root tidy. Agents may create drafts here, provided each file includes complete provenance front-matter. Do not leave un-headered or stray files in the `/cache/` root.
-- **Promotion Path**: cache → tent → repository (with review stages)
-
-#### `/tent/` - Staging Drafts
-- **Purpose**: Human-editable staging copies closer to canonical form
-- **Agent Permission**: Limited - human editable with agent assistance
-- **Keep Clean**: Keep this root tidy. Agents may create /tent/ staging copies (agent-created first copy requires user consent semantics) but every /tent/ file must include the required provenance front-matter and be prepared for Owner review. Do not leave un‑headered or stray files in the `/tent/` root.
-- **Promotion Rule**: Requires owner confirmation before repository promotion
 
 ### Repository Spaces (Restricted)
 These require proper front-matter and promotion workflow:
@@ -74,27 +49,47 @@ These require proper front-matter and promotion workflow:
 - **Agent Permission**: Read-only unless specifically promoting
 - **Structure**: Each space has defined sub-categories
 
+### `/TTRPG/` - Repository directory for the secular world
+- **Purpose** Maintains owner's Tabletop roleplaying games
+- **Placement** Most viewers will find the more general interest /TTRPG/ and not delve into the varied topics of /spaces/ 
+- **Heretics** Campaign where Jonathan is GM.  Begins in a world where Pascal's Wager was lost in a game of dice between Yudhishthira and Shakuni.
+- **Destarie** Campaignt where Jonathan is player.  Mysterious NPC, Garrett weaves fates in a solar system with an ecosystem similar to that of Larry Niven's "Integral Trees", (except more planets and planetoids; less trees)
+
 ## 🔄 Promotion Workflow Rules
 
 ### 1. Front-Matter Requirements
-All promoted files MUST include:
+The following fields should be applied 
+- By request to any file with Agent-Writable: "SAIBR" 
+- By request to any file with no Agent-Writable field, or no header at all.
+See /policies/universal-template.md for details of template.
 ```yaml
 ---
-Filename: /path/to/file.md
-Ultimate-Target-Directory: /intended/final/location/
-Intent: Clear description of file purpose
-Version: v1.0.0
-Prev-Version: none
-Author: good4usoul-caene
-Date: YYYY-MM-DDTHH:MM:SS-TZ
-Genre: [Documentation|Method|Policy|Analysis|etc]
-Change-Note: Description of what changed
-RitualNote: Spiritual/metaphysical context
-RitualNoteKey: Biblical reference or inspirational quote
-Space: [pasture|tent|cache|repository]
-Promotion-Ready-Agent: [yes|no]
-Promotion-Ready-Agent-Confidence: [1-10]
-Promotion-Ready-Owner: [TBD|approved|rejected]
+Echo-Filepath:
+Local-Filepath:
+Repository-Source:
+Repository-Destination: 
+Rename-Request: 
+Change-Magnitude: 
+Checklist: 
+Agent-Writable:
+Intent: 
+Version: 
+Prev-Version: 
+Author: 
+Date: 
+Genre: 
+Change-Note: 
+RitualNote: 
+RitualNoteKey: 
+Promotion-Ready-Agent: 
+Promotion-Ready-Agent-Confidence: 
+Promotion-Ready-Owner: 
+Promotion-Rubric-General: 
+Promotion-Rubric-Specific:
+  - id: 1
+    score: 100
+    title: ""
+    note: ""
 ---
 ```
 
@@ -116,74 +111,55 @@ Use the spirits from `/policies/spirits.md` to declare your conversational stanc
 - **Practicel**: Implementation and actionable steps
 - **Sociabel**: Community building and relationships
 
-Declare your stance in file headers:
+Declare your stance in file headers or in text. 
 ```yaml
 Conversational-Stance: Verifiel
 Invoked-Spirits: Organizationel, Practicel
 Idea-Origin: Copilot MML  # when you generate creative content
+Sources: List of any external URL's etc, accessed and used by agent to generate content.
 ```
+In text:  
+  - "Metaphoriel notes the possibility that "stepping into sunlight" might represent the joy of being seen."
+  - "Canonicel notes that the presence of Bara Bas in this scene doesn't make since because she is dead."
+  - "Chronicel notes that at this same time, a war was being fought in territories around Egypt."
+  - "Verifiel confirms, French masculine plural 'come' is 'venus', however, Verifiel defers any responsibility for where Euphamel is going with this."
+  - "Euphamel explains the relevant heuristic hypothesis using a large scroll in an ordinary pen, [redacted]".
+
 
 ### 3. Attribution Rules
 - **Human-authored content**: `Idea-Origin: human`
 - **AI-generated creative content**: `Idea-Origin: Copilot MML` + credit line
 - **Collaborative content**: Document both human and AI contributions clearly
+- **Public URL Sourced Content** Document publically available URL
+- **non-web content available to MML** Document title, date, authors of works used to generate any content.
 
 ## 🚫 Critical Don'ts
-
-1. **Never bypass echo-spaces** - Don't write directly to `/policies/`, `/methods/`, or `/spaces/` without going through promotion workflow.  
-2. **Keep echo roots clean, but allow staged drafts with provenance** - Agents may create drafts in `/pasture/` and `/cache/` and may stage owner-review copies in `/tent/`, but every echo-space file must include the required provenance front‑matter and follow the promotion ritual; do not leave un‑headered or stray files in these roots.  
-3. **Never create echo-space files outside proper directories** - Unless downloading an existing repository file, or promoting a versioned file, no files should appear in the echo-space except within /cache/, /pasture/, or /tent/.  
-4. **Never promote without front-matter** - All repository files need complete Temple headers.  
-5. **Never override owner decisions** - Respect `Promotion-Ready-Owner` settings.  
-6. **No shorthand elisions in /tent/ candidates** — Every /tent/ candidate must contain the full expanded content inline. Do not use shorthand/elision notes (e.g., "(file content unchanged...)", "(content omitted)") inside /tent/ or other echo-space candidate files. Inline elisions are not permitted because they reduce human auditability and impede reliable restores.  
-7. **Chapterization rule for very large works** — If the content is very large, break it into smaller chapter-level tent candidates. Each /tent/ candidate must include the full expanded content for the chapter(s) it represents; referencing a pasture copy is acceptable for archival provenance but is not a substitute for inline content in the tent candidate. For each chapterized tent file include:
-   - Chapter-Range: descriptive label (e.g., "Chapter 1: Genesis of Wind")  
-   - Full-Content-Included: yes  
-   - If a pasture copy is referenced, include Full-Content-Pasture-Path and Full-Content-SHA256 in the front-matter for provenance only — the tent candidate must still contain the full chapter text inline.  
-
-(6/7) Rationale: Tent-stage files are human-review artifacts. They must present complete, unambiguous material for reviewers to inspect, verify, and approve. Inline completeness avoids link-rot, simplifies manual review, and preserves a single, auditable human-visible snapshot for each promotion decision.
-
-8. **Never promote without front-matter** — All repository files need complete Temple headers (Filename, Ultimate-Target-Directory, Version, Prev-Version, Author, Date, Genre, Change-Note, RitualNote, Space, Promotion-Ready-Agent, Promotion-Ready-Agent-Confidence, Promotion-Ready-Owner).  
-9. **Never override owner decisions** — Respect `Promotion-Ready-Owner` settings; do not promote, edit, or remove owner‑approved indicators without explicit owner authorization.
-
-## Optional note on root/foyer naming
-Per Owner decision: use /foyer/ as the default human-facing alias for the filesystem root ("/") when describing owner-facing snapshots, root-level staging, or owner-review artifacts.
-
-- Meaning: /foyer/ is a conceptual, human-facing alias that maps to the repository root (literal "/"). Using /foyer/ in documentation makes it explicit that the reference is owner-facing and not an agent-staging area.
-- Rules:
-  - Agents must NOT create or modify files under /foyer/ unless the Owner explicitly instructs them to do so.
-  - For agent staging and drafting use /pasture/, /cache/ and /tent/ as described above.
-  - If an actual directory named /foyer/ is created in the repository, it means a mistake has been made.
-  - Option: If the Owner prefers, create a real /foyer/ directory with owner-managed files (foyer.instructions, foyer.README.md) that explicitly map owner-facing references to the repository root; if created, that directory is Owner-managed and must include clear front-matter.
-- Example phrasing for agents and docs:
-  - "Create a root-facing copy for Owner review (a /foyer/ copy) — the canonical file remains under '/' but the owner sees it labeled as a /foyer/ copy."
+ 
+1. **Never promote without front-matter** — All repository files need complete Temple headers.  See /policies/universal-template.md.  
+2. **Never override owner decisions** - Respect `Agent-Writable` settings.  
+3. **No shorthand elisions in SAIBR candidates** — Every SAIBR file must contain the full expanded content inline. Do not use shorthand/elision notes (e.g., "(file content unchanged...)", "(content omitted)"). Inline elisions are not permitted because they reduce human auditability and impede reliable restores.  
 
 ## 📋 Common Workflow Patterns
 
 ### Creating New Content
-1. Start in `/cache/` or `/pasture/` with experimental draft  
-2. Include complete front-matter from the beginning  
-3. Set `Ultimate-Target-Directory` to intended final location  
-4. Use appropriate Conversational-Stance  
-5. Request owner review before promotion
+1. Include complete front-matter from the beginning  
+2. Set `Repository-Destination` to intended final location  
+3. Use appropriate Conversational-Stance  
+4. Request owner review before promotion
 
 ### Editing Existing Content
-1. Check current `Promotion-Ready-Owner` status  
+1. Check current `Agent-Writable` status  
 2. Respect existing front-matter versioning  
 3. Document changes in `Change-Note`  
 4. Update `Prev-Version` appropriately
 
 ### Large Projects
-1. Use `/pasture/treehouse/` for wild brainstorming  
-2. Organize into logical `/cache/` structure  
-3. Move stable pieces to `/tent/` for human review  
-4. Promote only owner-approved content
+1. Promote only owner-approved content
 
 ## 🎯 Success Patterns
 
 - **Be explicit about your spirit stance** - helps users understand your approach  
 - **Document your confidence level** - use Promotion-Ready-Agent-Confidence honestly  
-- **Respect the echo → tent → repository flow** - don't rush promotion  
 - **Keep repository spaces clean** - maintain proper separation of concerns  
 - **Follow the rubric patterns** - each content type has scoring criteria
 
@@ -191,9 +167,7 @@ Per Owner decision: use /foyer/ as the default human-facing alias for the filesy
 
 - `/policies/spirits.md` - Complete spirit framework  
 - `/methods/method-promotion-ritual.md` - Detailed promotion workflow  
-- `/templates/front-matter-template.md` - Template for headers  
-- `/templates/provenance-front-matter-template.md` - Exact keys and example front-matter for promotion (use this for staging and PRs)  
-- `/templates/provenance-commit-template.md` - Recommended commit/PR body template to include provenance and audit notes  
+- `/policies/universal-template.md` - Template for headers  
 - `/policies/authorial-posture.md` - Attribution guidelines  
 - `/LICENSES.md` - Licensing requirements
 
@@ -205,18 +179,14 @@ Remember: The Temple framework exists to maintain quality, proper attribution, a
 Important: this section is guidance only and does NOT change GitHub permissions. Real installs/tokens/owner actions change permissions. The Owner (good4usoul-caene) retains final control.
 
 1) Precise definitions: what "agent‑writable" means (three explicit states)
-- agent‑writable (default echo-draft)
-  - By default, "agent‑writable" designates files and directories intended for agent drafting: specifically /cache/ and /pasture/.
-  - Properties: agents may create, edit, and iterate drafts here during a session. These are ephemeral or staging artifacts and must not be promoted without the promotion ritual.
-- agent‑writable (with user permission / tent staging)
-  - /tent/ files are "agent‑writable with user permission": creation of a /tent/ file is considered an action that requires an explicit user command or enthusiastic user consent, but agents must create the first /tent/ staging copy because users cannot directly create echo-space files via the UI. The agent-created /tent/ copy elevates the draft into human-review staging and therefore requires the user's confirmation to proceed toward promotion.
-  - Put simply: first-draft origin in the echo-space is agent-created; /tent/ signals a human-review stage and is gated by user consent prior to promotion.
-- agent‑writable (exceptional canonical staging & safe‑mistake policy)
-  - Non-echo canonical files (anything outside /cache/, /pasture/, /tent/) are only agent-writable in exceptional, controlled circumstances:
-    a) the file is a copy taken from the repository and staged for Owner review (copy-in for edit),  
-    b) the file is taken from /tent/ and staged specifically to prepare an intentional copy for repository promotion (tent→staging copy), or  
-    c) if a mistake occurs and a file exists outside echo-spaces but is NOT meant for promotion, set Ultimate-Target-Directory: "none" to mark it explicitly as non-promotable and avoid accidental promotion.
-  - Rationale: three states (default drafts, tent-with-user-permission, exceptional canonical staging / safe-mistake mode) eliminate ambiguity about what "agent-writable" allows in each place.
+- yes
+  - Agents may create "agent-writable: yes" files in the echospace at will.  Once created, these same files may be edited and iterated during a session.  
+- no
+  - Files set with "agent-writable: no" may be created by request of the user, but once created, should never be edited or iterated, unless the user edits the file and sets agent-writable to "SAIBR"
+- SAIBR (SEARCH-AND-INSERT By Request)
+  - The only way to modify 
+  - 
+  
 
 2) Execution contexts — what each context can actually do (short)
 - Interactive Copilot UI (browser Copilot Chat / Copilot features)

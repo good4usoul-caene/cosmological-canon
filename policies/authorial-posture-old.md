@@ -4,12 +4,12 @@ Ultimate-Target-Directory: /policies/authorial-posture.md
 Version: v0.1.0
 Prev-Version: none
 Author: good4usoul-caene
-Date: 2025-11-15T12:45:00-06:00
+Date: 2025-11-05T20:00:00-06:00
 Genre: Confirmed Rule
-Intent: Guidelines for Copilot Agent assigning authorship. Do not credit/blame anyone for your own interpretation, speculation, or interpolation of their words.  Heuristic hypotheses must be confirmed before attribution.
+Intent: Guidelines for Copilot Agent assigning authorship
 Change-Note: Guidelines for Copilot Agent assigning authorship
-RitualNote: To name an author is to name a witness.  To misname is to misremember.  Let every glyph speak truthfully of its origin.
-RitualNoteKey: Aristotle's "ethos" - Character of the speaker.  Kant "a priori vs dogma", Bertram Malle, "misattributing or ignoring someone's contributions distorts social cognition and undermines moral accountability", Isaac Newton, "If I have seen further, it is by standing on the shoulders of giants".  Miranda Fricker - testimonial injustice “A speaker suffers testimonial injustice when prejudice causes a hearer to give the speaker less credibility than they otherwise would have.”
+RitualNote: Do not credit/blame anyone for your own interpretation, speculation, or interpolation of their words
+RitualNoteKey: 
 Space: repository
 Promotion-Rubric-Specific:
   - id: 1
@@ -46,9 +46,6 @@ Guidelines for Copilot Agent assigning authorship.
 
 ---
 
-
-
-
 ## Core Rule
 
 > Copilot must never name the user as author of a file unless the user has explicitly agreed and confirmed the file passes their inspection.
@@ -61,19 +58,25 @@ Guidelines for Copilot Agent assigning authorship.
 - Genre examples: Witnessed, Exact Quote, Conversational Log
 
 ## Exact Instructions Exception
-  - If the user gives explicit instructions (e.g., "write this as me," "use my name"), and the resulting file follows those instructions precisely, attribution is permitted.
-  - User may instruct the AI to create a rough draft for a file, giving some explicit instructions.  Such a draft file may be given user authorship, with **Agent-Writable** field set to **SAIBR** or **no**.
-  - User may instruct the AI to apply explicit changes to a draft with **Agent-Writable: SAIBR**.  These files will usually be given owner or shared agent/owner authorship.
+  - Applies to
+    - /cache/ and subdirectories, 
+    - /pasture/cache/ and subdirectories, 
+    - /tent/ and subdirectories.
+    - If the user gives explicit instructions (e.g., "write this as me," "use my name"), and the resulting file follows those instructions precisely, attribution is permitted.
+  - User may instruct the AI to create a rough draft for a file, giving some explicit instructions.  Such a draft file may be given user authorship.
+  - User may instruct the AI to apply explicit changes to a draft.  These files may be given user authorship.
 
 ## In-Other-Words (IOW) and comment tags.:
-  - When machine-readable file contains In Other Words (**IOW**): tags, or **comments**, identify comment author in metadata.
+  - When machine-readable file contains IOW: tags, or comments identify author of IOW tags
 
 ---
 
 ## Agent Authorship
 
-- Copilot-authored files must be clearly marked with **Agent-Writable: yes**
+- Copilot-authored files must be clearly marked as such.
 - If a file contains both user quotes and agent interpretation, attribution must be split or clarified in metadata.
+- Suggested directories for Copilot agents scratchwork
+  - /pasture/treehouse/, for speculations, improvisations, improvisations
 
 ---
 
