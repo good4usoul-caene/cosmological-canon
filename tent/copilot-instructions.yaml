@@ -1,0 +1,19 @@
+---
+description: Copilot agent instructions for Temple framework, staged for review and revision.
+applyTo: "*"
+---
+
+# Copilot Agent Instructions (Staged YAML)
+
+This file is a YAML-formatted staging copy of copilot-instructions.md. It retains only the required headers (`description`, `applyTo`) as supported for instructions/configuration files.
+
+## Notes:
+- Only `description` and `applyTo` are valid headers for instructions/configuration files.
+- Full Markdown formatting and universal-template fields are not supported in `.yaml` instructions files for Copilot agent configuration.
+- Use `.md` for documentation and `.instructions` for agent directives.
+
+## Next Steps:
+- Review and revise the content below as plain text or simple lists.
+- If you need rich formatting or full front-matter, use a Markdown file instead.
+
+...existing code...

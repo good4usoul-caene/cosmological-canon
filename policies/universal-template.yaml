@@ -1,0 +1,33 @@
+
+# policies/universal-template.yaml (Options Reference)
+# More info at: policies/universal-template.md
+
+Echo-Filepath: <string>         # Full path in echo-space, or 'none'
+Local-Filepath: <string>        # Full local path, or 'none'
+Repository-Source: <string>     # Full path of source file, or 'none'
+Repository-Destination: <string> # Full path for promotion, or 'none'
+SAIBR-Target: <string>          # Target path for SEARCH-AND-INSERT, or 'none'
+Rename-Request: <string>        # New filename if renaming, or 'none'
+Change-Magnitude: [none|minor|major|huge] # Enum
+Checklist: <string>             # Path to checklist file, or text
+Agent-Writable: [no|SAIBR|yes]  # Enum
+Completeness: [full|insert|thought|snippet] # Enum
+Intent: <string>                # Description of file intent
+Version: <string>               # e.g., v0.2.0
+Prev-Version: <string>          # Previous version, or 'none'
+Author: <string>                # Author name(s)
+Date: <ISO 8601 string>         # e.g., 2025-11-04T19:16:00-06:00
+Genre: <string>                 # See policy-genre-and-spaces.md
+Change-Note: <string>           # Short description of change
+RitualNote: <string>            # Scriptural/philosophical support
+RitualNoteKey: <string>         # Reference for RitualNote
+Space: <string> # Optional echo-space, repository, or source-file, genre/file-type prefix. Regexp Pattern "^(s|e|r)-([a-z]+)-?$"
+Promotion-Ready-Agent: [yes|no|TBD]
+Promotion-Ready-Agent-Confidence: <number 0-10>
+Promotion-Ready-Owner: [yes|no|TBD]
+Promotion-Rubric-General: <string> # Path to rubric file, or 'none'
+Promotion-Rubric-Specific:         # List of rubric items
+  - id: <number>
+    score: <number or string>
+    title: <string>
+    note: <string>

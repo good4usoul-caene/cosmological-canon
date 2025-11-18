@@ -27,12 +27,12 @@ Promotion-Rubric-Specific:
     title: ""
     note: ""
 ---
- - [x]-[x] Check format [local]-[repo]
- - [x]-[] Major work on universal-template.md
+ - Check format [local]-[repo];  [p]=partially complete
+ - [x]-[x] Major work on universal-template.md
    - []-[] link to /policies/promotion-rubric-general.md
    - []-[] link to /methods/saibr-guidelines.md
- - []-[] Remove /cache/, /tent/ /pasture/ directories.
-   - []-[] Update /.github/copilot-instructions.md 
+ - [x]-[x] Remove /cache/, /tent/ /pasture/ directories.  Leave local /tent/ but not repository.  
+   - [x]-[] Update /.github/copilot-instructions.md 
    - []-[] Modify any policies and README's regarding /cache/ /tent/ /pasture/ 
      - []-[] Root README
 	 - []-[] Policies README

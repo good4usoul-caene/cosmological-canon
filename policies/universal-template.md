@@ -3,17 +3,19 @@ Echo-Filepath: none #
 Local-Filepath: /policies/universal-template.md
 Repository-Source: /templates/front-matter-template.md
 Repository-Destination:  /policies/universal-template.md
+SAIBR-Target: none
 Rename-Request: none  
+SAIBR-Target: none
 Change-Magnitude:  huge #none|minor|major|huge
 Checklist: /policies/Checklist-2025-11-15.md
 Agent-Writable: no #no|SAIBR|yes Determines whether copilot agent may Search And Insert (without truncation) By Request.  "none" means no changes are allowed.  "any" means the file may be changed at will by the copilot agent.
 Intent: Establish owner authority over file-naming and file-promotion by use of the Agent-Writable tag.  Establish clarity of naming and storage in echo-space, local-space, and repository space, based on observed default behavior of agents.
-Version: v0.2.0
+Version: v0.2.1
 Prev-Version: front-matter-template.md v0.1.16
 Author: good4usoul-caene
 Date: 2025-11-04T19:16:00-06:00
-Genre: Tentative Rule
-Change-Note: 
+Genre: Confirmed Rule
+Change-Note: Added `SAIBR-Target` field.  Changed "Space" field.
 RitualNote: God grant me the serenity to accept the things I cannot change, Courage to change the things I can, And wisdom to know the difference.
 RitualNoteKey: Reinhold Niebuhr: Serenety Prayer - Alcoholics Anonymous
 Space: staged # This was an Agent-requested field, and I believe it is redundant - Jonathan
@@ -78,16 +80,22 @@ Promotion-Rubric-Specific:
 # Body begins here
 
 Definitions
-- **Full Path** Includes both path and filename
+- **Full Path** Includes both path and filename.
 - **SAIBR** Search-And-Insert-By-Request:  When SAIBR is allowed, Copilot agent may apply changes to the SAIBR marked file via a SEARCH-AND-INSERT.  
 - **Agent-Writable**  Set to "yes", "no" or "SAIBR", determines whether and how an agent may apply changes to a file.  
 
 Required Fields:
-- **Echo-Filepath** Type:  Full Path.  Relevance: github copilots accessed through "Spaces" on website.  What is the full path of the file in this echo-space? (or none)
-- **Local-Filepath**  Type:  Full Path.   Relevance: github copilot accessed through VS Code on user's computer.  What is full path of the file called on user's computer? (or none)
-**Repository-Source**  Type:  Full Path.  Relevance: Is there an existing file in the repository, which this file is emulating or copied from?  Give the full path of that file. (or none)
-**Repository-Destination** Type:  Full Path.  Relevance:  If this file is intended for promotion to the repository, enter it's full path here.
-**Rename-Request**: Type:  Full Path.  Relevance: If the file's intent is inconsistent with the filename, this field serves as a request to create a copy of the file with a new name, and a reminder of what the file was called, should this file be opened later.
+- **Rename-Request**: Type:  Full Path.  Relevance: If the file's intent is inconsistent with the filename, 
+  - this field serves as a request to create a copy of the file with a new name, and 
+  - a reminder of what the file was called, should this file be opened later.  
+  - This entry comes first, because if the file has been renamed, any study of the obsolete file is wasted time.
+- (1A) **Echo-Filepath** Type:  Full Path.  Relevance: github copilots accessed through "Spaces" on website.  What is the full path of the file in this echo-space? (or none)
+- (1B) **Local-Filepath**  Type:  Full Path.   Relevance: github copilot accessed through VS Code on user's computer.  What is full path of the file called on user's computer? (or none)
+  - Either 1A or 1B is required.  If both are included, the irrelevant one should be "none"
+**Repository-Source**  Required.  Type:  Full Path.  Relevance: Is there an existing file in the repository, which this file is emulating or copied from?  Give the full path of that file. (or none)
+**Repository-Destination** Required.  Type:  Full Path.  Relevance:  If this file is intended for promotion to the repository, enter it's full path here.  
+  - Usually Repository-Destination and Repository-Source will be the same.)
+**SAIBR-Target**:  Type: Full Path.  Relevance:  If the file's intent or Change-note is about performing a SEARCH-AND-INSERT from this source file to another file in the echo-space or local-space, this entry gives a clear reference to that target. 
 **Change-Magnitude**:  Type: enum.  Relevance: Compared to the last version, if any, does this new document make any change?  "none"-trivial changes.  "minor" - a change that makes a significant clarification.  "major" - a change that represents a "change-of-mind", e.g. a correction.  "huge" - a change that will require further changes in one or many other files.
 **Checklist**: Type:  Text or Full Path.  Give text or a link to a file containing a checklist of other updates that need to be made, relevant to this file.  
 **Agent-Writable**: no #no|SAIBR|yes Determines whether copilot agent may Search And Insert (without truncation) By Request.  "no" means no changes are allowed.  "yes" means the file may be changed at will by the copilot agent.
@@ -101,7 +109,7 @@ Required Fields:
 - **Change-Note**: Type: Text - required (short): one-line human-readable explanation of the most recent change. For SEARCH-AND-INSERT proposals include the intended insertion target/path here.
 - **RitualNote**: Type: Text - required: any scriptural or philosophical support for the Intent of the file.
 - **RitualNoteKey**: Type: Text - required. Leave space for a reference to any scripture or philosophical writing.
-- **Space**: Type: enum - optional: possibly redundant: declarative convenience field for echo-space artifacts (cache/tent/pasture/staged/repository). Make it required only for echo-space drafts, optional for final/canonical files.
+- **Space**: Type: Text Regexp Pattern "^(s|e|r)-([a-z]+)-?$" Enum: [s]ource, [e]cho, [r]epository.  String genre/file-type prefix.  Optional: declarative convenience field for echo-space artifacts. Make it required only for echo-space drafts, and files intended to be stored in "offering-basket" for all sessions in a given space.   Optional for final/canonical files for repository.   Optional echo-space, repository, or source-file,  
 - **Promotion-Rubric-General** Type: filepath Relevance: We might have a universal rubric, and/or rubrics that apply to certain types of files.  If this field is empty, assume only default promotion requirements.
 - **Promotion-Rubric-Specific** Type: yaml list; required: A structured list of specific requirements (id/score/title/note) that together determine Promotion-Ready status.  If no rubrics have been determined, include a placeholder:
   - id: 1
