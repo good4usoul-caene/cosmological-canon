@@ -1,0 +1,52 @@
+---
+Echo-Filepath: none
+Local-Filepath: library/books/rommel/README.md
+Repository-Source: ResearchGate
+Repository-Destination: library/books/rommel/README.md
+SAIBR-Target: none
+Rename-Request: none
+Change-Magnitude: initial
+Checklist: "[x] Downloaded from ResearchGate, [ ] Copilot-readable version, [ ] Permission from Mr. Rommel, [ ] Text conversion, [ ] Full reading, [ ] Advocate analysis"
+Agent-Writable: yes
+Intent: Document provenance and workflow for obtaining a Copilot-readable version of Mr. Rommel's book.
+Version: v0.1.0
+Prev-Version: none
+Author: Jonathan Doolin
+Date: 2025-11-19
+Genre: Provenance, Workflow, ResearchGate, Rommel
+Change-Note: Initial header for provenance and workflow documentation.
+RitualNote: "Downloaded with respect to Mr. Rommel's open source policies. Intend to obtain Copilot-readable version for analysis."
+RitualNoteKey: "Advocate in John 16: Has the role been achieved, or are ambiguities still to be resolved?"
+Space: library/books/rommel
+Promotion-Ready-Agent: yes
+Promotion-Ready-Agent-Confidence: 9
+Promotion-Ready-Owner: yes
+Promotion-Rubric-General: none
+Promotion-Rubric-Specific:
+  - id: 1
+    score: 100
+    title: "Provenance and workflow documented"
+    note: "Explains source, intent, and next steps for Copilot analysis."
+  - id: 2
+    score: 100
+    title: "Advocate hypothesis flagged"
+    note: "Highlights interest in Rommel's interpretation of the Advocate in John 16."
+---
+
+URL:  https://github.com/good4usoul-caene/cosmological-canon/tree/main/library/books/rommel/README.md
+
+# README: Book of Rommel (ResearchGate Download)
+
+This file documents the provenance and workflow for obtaining a Copilot-readable version of Mr. Rommel's book, downloaded from ResearchGate in accordance with his open source policies.
+
+**Intent:**
+- To obtain a version of the book that Copilot agents can read and analyze.
+- To seek permission from Mr. Rommel or use software tools to convert the book to text.
+- To request Copilot agent assistance in reading and interpreting the full "Book of Rommel".
+- To analyze Rommel's view on ambiguities, especially regarding the role of the "Advocate" in John 16.
+
+**Key Research Question:**
+- Does Rommel believe the role of the Advocate in John 16 has already been achieved?
+- Is there room for the hypothesis that the Advocate will address unresolved ambiguities?
+
+Further steps will be documented as the workflow progresses.
