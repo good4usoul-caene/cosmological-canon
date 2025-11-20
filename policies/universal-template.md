@@ -13,7 +13,7 @@ Intent: Establish owner authority over file-naming and file-promotion by use of 
 Version: v0.2.1
 Prev-Version: front-matter-template.md v0.1.16
 Author: good4usoul-caene
-Date: 2025-11-04T19:16:00-06:00
+Date: 2025-11-04 19:16:00 CST
 Genre: Confirmed Rule
 Change-Note: Added `SAIBR-Target` field.  Changed "Space" field.
 RitualNote: God grant me the serenity to accept the things I cannot change, Courage to change the things I can, And wisdom to know the difference.

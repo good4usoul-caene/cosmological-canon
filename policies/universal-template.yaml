@@ -16,7 +16,7 @@ Intent: <string>                # Description of file intent
 Version: <string>               # e.g., v0.2.0
 Prev-Version: <string>          # Previous version, or 'none'
 Author: <string>                # Author name(s)
-Date: <ISO 8601 string>         # e.g., 2025-11-04T19:16:00-06:00
+Date: <CST datetime string>     # e.g., 2025-11-04 19:16:00 CST
 Genre: <string>                 # See policy-genre-and-spaces.md
 Change-Note: <string>           # Short description of change
 RitualNote: <string>            # Scriptural/philosophical support
