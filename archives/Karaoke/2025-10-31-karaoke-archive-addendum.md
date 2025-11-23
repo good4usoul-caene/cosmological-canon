@@ -12,7 +12,8 @@ I left alone, and saw the police truck across the parking lot.  I didn't figure 
  - Breathalizer...  I breathed into the breathalizer and passed, pretty easily, I think.  If I looked drunk it was probably because I'd only slept from midnight to three the night before.  It wasn't due to the alcohol.
  - Let me off with a verbal warning.  Noted:  Don't go 40 in the 30, even when there's zero traffic.  (Perhaps, especially when you're being tail-gated by somebody with their brights on.)
  - Good news:  I can drink two margaritas without worrying about tripping the breathalizer.  
- - Thanked police officer for keeping people safe, and went home.
+ - He thanked me for being cooperative, and I thanked him for keeping people safe, and went home.
+ - They took quite a long time out of their night to not give a ticket.  I definitely appreciate the "not-giving-a-ticket" part.  
  
  
  

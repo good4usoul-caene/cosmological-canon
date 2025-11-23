@@ -20,13 +20,14 @@
 (1):  Blonde who sang Four-Non-Blondes, "What's going On" (Was it with Joey?)
 (2):  Tattooed lady in the little black dress.  Sang "Bohemian Rhapsody" with (1).  Surrounded by admirers and friends.
 **Mars**: Mars did a nice job on "Take Me to Church" and whatever songs he selected.  
-(3): Tall guy who was shouting to me during "thousand years"
+(3): Tall guy who was shouting to me during "thousand years".  Later told me I "killed it", which is a good thing.  
 (4): Corner bar guys
 (5): Female Bartender: Tall pretty lady, whose face is cherubic; hardly looks old enough to work here.  
 (6): Male Bartender, who always asks me "You want a drink that tastes exactly like a margarita?"   
 (7): The guy that's been there every Friday, Halloween to now.  Sang "All of Me" as last song of night.
 (8): The (guy?) that maybe doesn't realize (his?) talent do, and his (girlfriend?).  
 (9): The protestants.  (From 11/14, not present on 11/21).  A lovely retired couple.  She was a nurse, and he was (I forget what), but it was a career that didn't let him unwind.  He said he liked to go overboard, sometimes, with the drink, and count on grace to put him back on track.  
+(10): Kyra Dean's nephew.  Cool guy, but I can't remember what he said or what he looked like, for sure.  I think he was tall.  I'm not sure if this was the same guy as (3) or a different guy.  I barely know Kyra Dean, but I do follow her on facebook, and introduced myself to her last Saturday at the Cafe.
 
 ## Definitions:
  - "took the fifth" The fifth amendment protects an individual against self incrimination.  
