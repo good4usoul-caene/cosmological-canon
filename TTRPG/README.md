@@ -5,9 +5,9 @@ Ritual-Note-Key: 1 Kings 11:7-8
 ---
 ```
 ## TTRPG folder
-TTRPG = Table Top Roleplaying Games
-Copilot Agent "Loremaster" placed this folder directly under /cosmological-canon/ instead of under /spaces/.
-The decision was not made by Jonathan Doolin but it seems quite reasonable for the following reasons:
- - Possible depiction of monstrosities or humans/humanoids who are driven only by "evil".
- - Possible situations where players may have their "heroes" kill unnecessarily or do other evil things.
- - Possible situations where the temples and shrines of evil gods may be described, and descriptions of the followers of such gods.  
+ - **Abbreviation:** TTRPG = Table Top Roleplaying Games
+ - **Placement:** Copilot Agent "Loremaster" placed this folder directly under /cosmological-canon/ instead of under /spaces/.
+ - **Rationale** The placement decision was not made by Jonathan Doolin but it seems quite reasonable for the following reasons:
+   - Possible depiction of monstrosities or humans/humanoids who are driven only by "evil".
+   - Possible situations where players may have their "heroes" kill unnecessarily or do other evil things.
+   - Possible situations where the temples and shrines of evil gods may be described, and descriptions of the followers of such gods.  
