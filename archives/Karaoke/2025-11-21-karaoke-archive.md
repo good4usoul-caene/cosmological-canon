@@ -3,15 +3,15 @@
 ##Fourth Friday Night at the Ritz.  
 
 ## Song List 
-|Enum|Title|
-|----|Performance notes|Audience Reaction
-|01|Let it Go|Couldn't hear the track and missed the beat in places|Good, but Low|
-|01|Havana|Some trouble with rap part|Not as popular a song as I was thinking it ought to be|
-|03|Tennessee Whiskey|I haven't listened to the original, but I have my own spin, attempts "smooth", "warm", "stoned", as singing-styles.|Good, but subdued|
-|04|Give Me One Reason|Practically Flawless|Singalong has begun.  Definite fans are starting to express admiration|
-|05|Thousand Years|Reflection of Agape for all in an upper register|20-30 people in the dance area, singing, swaying, One guy was shouting words I couldn't understand.  I asked him later if I did anything wrong; he said, no I absolutely "killed it".|
-|06|Wonderwall|Reflection of Agape for one in a lower register|20-30 people swinging, swaying, fantastic experience|
-|07|Cups|What a great song to end on!|
+|Enum|Title|Performance notes|Audience Reaction|
+|----|-----|-----------------|-----------------|
+|01  |Let it Go|Couldn't hear the track and missed the beat in places|Good, but Low|
+|02  |Havana|Some trouble with rap part|Not as popular a song as I was thinking it ought to be|
+|03  |Tennessee Whiskey|I haven't listened to the original, but I have my own spin, attempts "smooth", "warm", "stoned", as singing-styles.|Good, but subdued|
+|04  |Give Me One Reason|Practically Flawless|Singalong has begun.  Definite fans are starting to express admiration|
+|05  |Thousand Years|Reflection of Agape for all in an upper register|20-30 people in the dance area, singing, swaying, One guy was shouting words I couldn't understand.  I asked him later if I did anything wrong; he said, no I absolutely "killed it".|
+|06  |Wonderwall|Reflection of Agape for one in a lower register|20-30 people swinging, swaying, fantastic experience|
+|07  |Cups|What a great song to end on!|Very Positive|
 
 ## People:
 **Ben**:  Ben came with me after our game night, and stayed til about 12:30;  (after Gimme One Reason).
