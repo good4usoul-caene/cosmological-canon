@@ -1,3 +1,18 @@
+URL: https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/
+Author:  Jonathan David Doolin
+Date: 2025-11-25
+License: All rights reserved. No part of this work may be distributed, reproduced, or shared in any form until the author declares the work complete and grants explicit permission.
+Permissions: Scripture quotations taken from the Holy Bible, New International Version® (NIV®). Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
+Agent-Writable: no
+Rename-Request: (convert to .md)
+Completeness: Full
+Intent: A chapter of "Caravan of the Fifth Wind"
+Genre: Historical Fiction
+Change-Note: 
+RitualNote: 7 BC First Crossing of Jupiter and Saturn in Pisces
+RitualNoteKey: 
+Promotion-Rubric-General: /policies/zion-cornerstone.md
+
 In the parched hills of Ein Karem, where olive trees twisted in silence and the wind carried dust more often than rain, there lived a woman named Elizabeth. The children said she gathered water from dew, that her clay jugs filled themselves as she walked the dawn. But the truth, whispered only among the oldest shepherds, was more intricate—and more enduring.
 
 They called her the Dew Woman—not because she gathered dew, but because her water was as rare and precious as dew in the desert.
@@ -30,7 +45,7 @@ Then one day, the Caravan of the Fifth Wind rolled into town, with exotic music,
 
 Belzar lifted his hands and said, “In the 21st year of the reign of Augustus, while Herod is king, in this month of 29 Sivan, behold—the great conjunction of Jupiter and Saturn in Pisces! Any child conceived beneath this sign may fulfill prophecy, and salvation may come to the world.”
 
-Elizabeth joked with Zechariah, saying "Imagine if our first conception were tonight," 
+Elizabeth joked with Zechariah, saying "Imagine if our first conception were tonight" 
 
 Zechariah smiled, said, "Well, perhaps. If prophecy must be fulfilled." 
 
