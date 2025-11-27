@@ -24,86 +24,270 @@ Full-Content-Included: yes
 
 §§CHAPTER_BREAK§§ 
 **Chapter 0.** - Two Jesus Hypothesis
-Youtube Readalong:  https://www.youtube.com/watch?v=rgXhyWyzlwI&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=1
+[Youtube Readalong: Ch 0, 1A, 1B](https://www.youtube.com/watch?v=rgXhyWyzlwI&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=1)
 
  The riddles of Barabbas Jonathan Doolin December 17,
-**2021.** We’d better get cracking if names are your thing. 
+**2021.** 
+We’d better get cracking if names are your thing. 
+You’re told to believe in them, it would be sane 
+to learn what they mean, in Hebrew or Greek. 
+Find out if a teacher or clown you do seek.) 
 
-You’re told to believe in them, it would be sane to learn what they mean, in Hebrew or Greek. 
-
-Find out if a teacher or clown you do seek.) My approach handling John’s gospel’s core discrepancy, is note the differences when apt, and stress this remedy: to guess two men are in these tales with so much variation. 
-
+My approach handling John’s gospel’s core discrepancy, 
+is note the differences when apt, and stress this remedy: 
+to guess two men are in these tales with so much variation. 
 It’s irresponsible for us to fail delineation. 
 
-So I’d suggest two names for whether shorthand or a fact, so Jesus “Son of Father”, “Son of Man” can interact. 
+So I’d suggest two names for whether shorthand or a fact, 
+so Jesus “Son of Father”, “Son of Man” can interact. 
+“Son of Father” In Hebrew, translates to just “Barabbas” 
+depending on the rhyme I need, I’ll say “J. Bar”, “J. Bas” 
+the other Jesus, he’s a man, with body made of flesh. 
 
-“Son of Father” In Hebrew, translates to just “Barabbas” depending on the rhyme I need, I’ll say “J. Bar”, “J. Bas” the other Jesus, he’s a man, with body made of flesh. 
-so if I want to speak of him, I’ll say “J. lamb”, “J. Beth.” Barabbas spoke in riddles, which BethLaham was the rhyme for Bethlehem meant house of bread or meat, back in that time. 
-No matter what the things we say; the truth or sophistry Words are what we use to tell the tale of history
+so if I want to speak of him, I’ll say “J. lamb”, “J. Beth.” 
+
+Barabbas spoke in riddles, which BethLaham was the rhyme 
+for Bethlehem meant house of bread or meat, back in that time. 
+No matter what the things we say; the truth or sophistry 
+Words are what we use to tell the tale of history
  
 §§CHAPTER_BREAK§§ 
 Chapter 1A - The Parable of Language
 
-**Context**
- Several interpretations present themselves for **John 1.** because of many ambiguities. 
-As John describes John, is he, in every sentence, referring to John the Baptist, or is he sometimes referring to himself? Why is the “Before me... 
-After me” phrase repeated twice? (**John 1:15**, 30) Why is the Lamb of God introduced twice? (**John 1:29**, 36). 
-Why is only one of the two men following Jesus identified? (**John 1:40**) Why does Jesus use a Greek translation for “Rock” for Peter’s name here, instead of just calling him “Peter” as he does in the other gospels? (**John 1:42**) What did they see when the saw where Jesus was staying and what is the significance of four in the afternoon? (**John 1:39**) Why was Nathanael so impressed when Jesus said he saw him under the fig tree? (**John 1:48-49**) What are the implications of Nathanael’s question, “Can anything good from Nazareth?” considering that Jesus says “in him there is no deceit”? What does it mean to see“Angels of God ascending and descending on the Son of Man”? Some differences with other gospels: In Matthew, Mark, and Luke, there is an account that a voice from heaven boomed out “This is my Son, with whom I am well pleased.” But in John’s gospel we have two second-hand witnesses. 
-John, who says, he is “the Lamb of God, who takes away the sin of the world!” If we relate this to Leviticus 16, there are two goats: One called “The Lord’s Goat” and another called “The Scapegoat”. 
-The first is sacrificed, while on the other’s head, all the sin of the Israelites are confessed, and it is set free in the wilderness. 
-If John’s testimony is a reference to Leviticus 16, then, we should expect John’s gospel to include the confession of all the sins of the Israelites attributed to Jesus, the scapegoat, though he is by no means actually guilty of the transgressions shown. 
-The other secondhand witness of **John 1.** is Nathanael, who says he believes Jesus is the Son of God simply on account that Jesus says “I saw you under that fig tree.” The rest of your impression depends on whether you think that Nathanael’s question “Can anything good come from Nazareth” represents an earnest question, in which case Nathanael must have been a very cynical person, to believe a whole community could have “nothing good” come from there, or a sarcastic question, in which case Nathanael was not “An Israelite in whom there is no deceit”. 
-Some have suggested Nathanael, charitably, as somehow physically or mentally disabled. 
-For whatever reason, he had bad experience in Nazareth, and was dubious that anything good could come from there. 
-In this version, Jesus sizes up Nathanael’s condition, and concludes that the issue is with his disability, not his morality. 
-When he says “Here is an Israelite in whom there is no deceit”, this seems a great kindness to Nathanael, who proclaims “Truly you are the Son of God.”
-**2.** My working hypothesis is that each chapter of John’s gospel is a set of riddles. 
-Something akin to “the Riddle of the Sphinx”, except that the reader is not actually told he is reading a book of riddles. 
-As an example, the riddle the Sphinx asked Oedipus in front of Thebes was, “I go on four feet in the morning, two feet at noon, and three in the evening. 
-What am I?” Now, a person unfamiliar with this sort of riddle might answer “You are a Sphinx”, not realizing that the Sphinx is not speaking of itself, but is speaking in a one-step metaphor. 
-In the metaphor, morning, noon, and evening, represent, not a day, but the entire period of a person’s life, and “I” represents not the Sphinx who is speaking, but a human being. 
-In the riddles of John’s gospel, I posit that each chapter is a different riddle, and with each riddle Jesus speaks of himself, metaphorically as a useful thing, while he speaks of “The Father” metaphorically, as a human being; the person that creates and/or benefits from that useful thing. 
-Of the characters in John’s gospel, only Jesus and John the Baptist are aware that he is speaking metaphorically, in riddles. 
-But they do not let on that they are speaking in riddles. 
-Rather, they allow the people around them to believe that they are talking about Jesus and his relationship with God. 
-I have worked my way through the first chapter of John twice. 
-For the most part, I think that the “riddle” of the chapter is about words. 
-However, that riddle is divided up into different parts of speech, and how language is used. 
-In particular, some verses are referring to the referential verbs, such as “Is, are, am, was, were, be.” Others are referring to the conjunction: “and”. 
-There are a couple of ways **John 1.** overlaps with the “Fragments of Heraclitus”. 
-Fragment 2, for instance says “ Though this Word is true evermore, yet men are as unable to understand it when they hear it for the first time as before they have heard it at all. 
-For, though all things come to pass in accordance with this Word, men seem as if they had no experience of them, when they make trial of words and deeds such as I set forth, dividing each thing according to its kind and showing how it truly is. 
-But other men know not what they are doing when awake, even as they forget what they do in sleep.” Like John, Heraclitus spoke of “The Word” or “Logos” as being that which “through all things come to pass”, but recommends that people “make trial of words and deeds”. 
-By contrast, John describes the Word as being with God. 
-And rather than asking his readers to “make trial of words”, he instead asks them to “believe”. 
-Another echo of Heraclitus is in Fragment 60, “The way up and the way down is one and the same.” This compares to **John 1:51** when Jesus tells Nathanael he will see angels ascending and descending on the Son of Man. 
-but whereas John focuses on “belief” throughout his gospel, Heraclitus focused on weighing the words There are several verses in the chapter that may refer to upcoming events 
+# Context
+ - Several interpretations present themselves for **John 1.** because of many ambiguities.
+### Questions
+   - As John describes John, is he, in every sentence, referring to John the Baptist, or is he sometimes referring to himself? 
+   - Why is the “Before me... After me” phrase repeated twice? (**John 1:15**, 30) Why is the Lamb of God introduced twice? (**John 1:29**, 36). 
+   - Why is only one of the two men following Jesus identified? (**John 1:40**) 
+   - Why does Jesus use a Greek translation for “Rock” for Peter’s name here, instead of just calling him “Peter” as he does in the other gospels? (**John 1:42**)
+   - What did they see when the saw where Jesus was staying and what is the significance of four in the afternoon? (**John 1:39**) 
+   - Why was Nathanael so impressed when Jesus said he saw him under the fig tree? (**John 1:48-49**) 
+   - What are the implications of Nathanael’s question, “Can anything good from Nazareth?” considering that Jesus says “in him there is no deceit”? 
+   - What does it mean to see“Angels of God ascending and descending on the Son of Man”? 
+### Identity Witnesses
+ - In Matthew, Mark, and Luke, there is an account that a voice from heaven boomed out “This is my Son, with whom I am well pleased.”
+ - But in John’s gospel we have two second-hand witnesses. John (who sees a dove) and Nathanael (who sees a fig tree)
+### John's Testimony of Identity 
+ - John, who says, he is “the Lamb of God, who takes away the sin of the world!”
+   - If we relate this to *Leviticus 16*, there are two goats: One called “The Lord’s Goat” and another called “The Scapegoat”. 
+   - The first is sacrificed, while on the other’s head, all the sin of the Israelites are confessed, and it is set free in the wilderness.
+   - If John’s testimony is a reference to Leviticus 16, then,
+     - we should expect John’s gospel to include the confession of all the sins of the Israelites
+     - attributed to Jesus Barabbas, the scapegoat,
+     - though he is by no means actually guilty of the transgressions shown.
+### Nathanael's Testimony of Identity    
+ - The other secondhand witness of *John 1.* is Nathanael, who says he believes Jesus is the Son of God simply on account that Jesus says “I saw you under that fig tree.” 
+   - The rest of your impression depends on whether you think that Nathanael’s question “Can anything good come from Nazareth”
+     - represents an earnest question, in which case Nathanael must have been a very cynical person, to believe a whole community could have “nothing good” come from there,
+       - In this case, when J. Bar says "Here is an Israelite in whom there is no deceit" it makes a claim that cynicism is not deceitful.
+     - or a sarcastic question, in which case Nathanael was not “An Israelite in whom there is no deceit”.
+       - In this case, when J. Bar says "Here is an Israelite in whom there is no deceit" it makes a claim that sarcasm is not deceitful.
+     - or he had bad experience in Nazareth, and was dubious that anything good could come from there.
+       - In this case, when J. Bar says "Here is an Israelite in whom there is no deceit" it makes a claim that mostly or only evil comes from Nazareth.
+     - In *Gospel According to Biff*, Jesus sizes up Nathanael’s condition, and concludes that the issue is with his disability, not his morality. 
+       - When J. Bar says “Here is an Israelite in whom there is no deceit”, it makes a claim that ignorance should not be confused with deceitfulness.
+### Riddle by Riddle
+ - My working hypothesis is that each chapter of John’s gospel is a set of riddles. 
+   - Something akin to “the Riddle of the Sphinx”, except that the reader is not actually told he is reading a book of riddles.
+     - The Sphinx might also never have told Oedipus that it was asking a riddle.   
+   - As an example, the riddle the Sphinx asked Oedipus in front of Thebes was,
+     - “I go on four feet in the morning, two feet at noon, and three in the evening. What am I?”
+     - Now, a person unfamiliar with this sort of riddle might answer “You are a Sphinx”, not realizing that
+     - the Sphinx is not speaking of itself, but is speaking in a one-step metaphor. 
+     - In the metaphor, morning, noon, and evening, represent, not a day, but the entire period of a person’s life,
+     - and “I” represents not the Sphinx who is speaking, but a human being.
+ - In the riddles of John’s gospel, I posit that each chapter is a different riddle, and
+   - with each riddle Jesus speaks of himself metaphorically as a useful thing,
+   - while he speaks of “The Father” metaphorically, as a human being or source;
+   - the person or process that creates and/or benefits from that useful thing.
+   - The Father might be any one of Aristotle's four causes: Material, Final, Formal, and...
+ - Of the characters in John’s gospel,
+   - only Jesus (J. Bar) and John the Baptist are aware that he is speaking metaphorically, in riddles. 
+   - But they do not let on that they are speaking in riddles. 
+   - Rather, they allow the people around them to believe that they are talking about Jesus and his relationship with God. 
+### Chapter 1A Notes
+ - I have worked my way through the first chapter of John twicel.
+   - Chapter 1A assumes the “riddle(s)” of the chapter is/are about words. 
+   - However, that riddle is divided up into different parts of speech, and how language is used. 
+     - In particular, some verses are referring to the referential verbs, such as “Is, are, am, was, were, be.”
+     - Others are referring to the conjunction: “and”.
+### Fragments of Heraclitus
+ - There are a couple of ways **John 1.** overlaps with the “Fragments of Heraclitus”. 
+   - Fragment 2, for instance says
+     - “Though this Word is true evermore, yet men are as unable to understand it
+     - when they hear it for the first time as before they have heard it at all.
+     - For, though all things come to pass in accordance with this Word,
+     - men seem as if they had no experience of them,
+     - when they make trial of words and deeds such as I set forth,
+     - dividing each thing according to its kind and showing how it truly is.
+     - But other men know not what they are doing when awake,
+     - even as they forget what they do in sleep.”
+   - Like John, Heraclitus spoke of “The Word” or “Logos”
+     - as being that which “through all things come to pass”,
+     - but Heraclitus recommends that people “make trial of words and deeds”.
+   - By contrast, John describes the Word as being with God. 
+      - and rather than asking his readers to “make trial of words”, he instead asks them to “believe”.
+ - Another echo of Heraclitus is in Fragment 60,
+     - “The way up and the way down is one and the same.”
+     - This compares to **John 1:51** when Jesus tells Nathanael he will see angels ascending and descending on the Son of Man. 
+  - but whereas John focuses on “belief” throughout his gospel, Heraclitus focused on weighing the words
+  - There are several verses in the chapter that may refer to upcoming events 
  
- **Rhyme**
- Created was the world by God, back in the lost beginning (**John 1:1**, **Genesis 1:1**) Let’s parse this out, each word, so that our insight might be winning
-**3.** - First, “in the beginning” tells a time, not too specific and then “created” gives our God the verb to be prolific with One phrase now, we have a time, a phrase proverbial Our verb, though, wouldn’t work without an subject, this is so. 
-The Word is “God” to fill that blank where subject needs to be So, **Chapter 1.** verse
-**1.** of John: the “Logos” count is three. 
-“Created” was a word with God, back in the lost beginning (**John 1:2**) And through creation galaxies and stars were set to spinning Without “created” nothing has been made that has been made (**John 1:3**) “Created”, for mankind, is light of life, faith undismayed (**John 1:4**) When God created night and day, the darkness separated (**Genesis 1:4**) But with created fire, the night-time darkness now just waited (**John 1:5**) There was a man who’s sent from God, Maher Shalal Hash Baz (**Isaiah 8:2-3**, **Luke 1:63**, **John 1:6**) To testify to all that was created was his cause He came as witness to the light of all things man created So through him all belief would be in things, on earth, located (**John 1:7**) But John, himself, was not that light, the fire that man created Instead, he came to testify, of God’s inseminated God’s image walked across the earth, in form, female and male (**Genesis 1:27**, **John 1:9**) God’s image made the world, in projects, small, or larger scale -Through God’s image, much was built, some without recognition While some built fire to show destruction was their life’s ambition Some received the name “created” as their life-long goal And to creative spirit there’s a blessing of the soul Creation gives the right to those believing in its name To be the images of God and acting just the same. 
-No ancestry determines whether you can have this spirit And God gives everyone the opportunity to use it (**John 1:13**) Creation became flesh, and lives within and out among us All have seen the glory of Creation, surely we trust and we should view creation through a lens of hope and faith to know all was created with a mood of truth and grace (**John 1:14**) And of the phrase “And me and” John declared ”it is the latter surpasses me, for progress it is made as though a ladder -All of what is built is built on what comes from the past -Images of God contribute from first day to last. 
--Out of fullness from subsequent images of God, -We receive new grace in place of grace, when grace is flawed (**John 1:16**) -No one ever has seen God, except for the Creation No single man, no bird, no clan, no prophet, and no nation The law, it came through Moses, and the grace through the Messiah
-**4.** And Truth it comes bizarrely through the Jesus named Bar Abba And from the bosom of Bar Abba come the words of John -Making known the one, begotten, made both near and yon. 
-(**John 1:17**) A prophet, nor Elijah, nor Messiah, John was not (**John 1:18-21**) But he said, straight ways for the Lord, were all that should be sought (**John 1:22-23**) -Low made high, and small made big, and dead things made alive, The valleys raised, the mountains low, Lord’s glory be derived (**Isaiah 40:3-5**) The pharisees, perhaps, thought John, Messiah, he could purge with baptism the post-effects of sin or any urge But John said “Brood of vipers, this is only for repentance” (**Matthew 3:7-8**, **Luke 3:7-8**) With this alone, you’ll not achieve, all pardons or ascendance They asked ”Why bother baptizing if nothing comes of it and you’ve neither the office of Messiah, nor prophet?” (**John 1:25**) Said John, ”With water I baptize, my process is symbolic with faith, a soul has different heart once passed through the hydraulic A better person will come out than when they went down in Resolved to make some better choices, less inclined to sin (**Matthew 3:11**, **Mark 1:4**, **Luke 3:3**) But if you come to me and have me dunk you just for show, Or thinking it’s a magic trick to take you high from low Another will come after me and I will not be fit to help untie his sandals when he gets right down to it (**John 1:27**) -(All this happened in the town of Bethany, that’s where -all the men that followed Christ would have feet-washing bare -John would not be at that place, his head on Herod’s mantle And Jesus washed the others’ feet, so untied all their sandals.) (**John 1:28**. 
-**John 13:14-17**) -“Look, the lamb of God” John said, for he already knew The one on whose life’s sacrifice, atonment’s coming through (**John 1:29**) -Dying once in John nineteen, but also in John two -John’s surpassed by one who comes before and after, true. 
-(**John 1:30**) -John the Baptist didn’t know the one was fore and after But after water, baptizing, he went to the hereafter Take care, now, here, John doesn’t say, this one has any right, to baptise with the fire, the spirit, or some holy light -All he says, that this one, he cannot untie his sandals This lamb of God, is he a font of good deeds or some scandals? (**John 1:35-36**) -Two of John’s disciples followed J. Bar, as though fated. 
--One whose name was Andrew, and the other’s name’s not stated. 
-J. Bar asks what they want, and so they ask him where he’s staying We readers stay untaught because the author is not saying. 
+ # Rhyme 1A
+ Created was the world by God, back in the lost beginning (**John 1:1**, **Genesis 1:1**) 
+ Let’s parse this out, each word, so that our insight might be winning
+ - First, “in the beginning” tells a time, not too specific 
+and then “created” gives our God the verb to be prolific
+with One phrase now, we have a time, a phrase proverbial 
+
+Our verb, though, wouldn’t work without a subject, this is so. 
+The Word is “God” to fill that blank where subject needs to be 
+So, **Chapter 1.** verse **1.** of John: the “Logos” count is three. 
+
+“Created” was a word with God, back in the lost beginning (**John 1:2**) 
+And through creation galaxies and stars were set to spinning 
+Without “created” nothing has been made that has been made (**John 1:3**) 
+“Created”, for mankind, is light of life, faith undismayed (**John 1:4**) 
+
+When God created night and day, the darkness separated (**Genesis 1:4**) 
+But with created fire, the night-time darkness now just waited (**John 1:5**) 
+There was a man who’s sent from God, Maher Shalal Hash Baz (**Isaiah 8:2-3**, **Luke 1:63**, **John 1:6**) 
+To testify to all that was created was his cause 
+
+He came as witness to the light of all things man created 
+So through him all belief would be in things, on earth, located (**John 1:7**) 
+But John, himself, was not that light, the fire that man created Instead, 
+he came to testify, of God’s inseminated 
+
+God’s image walked across the earth, in form, female and male (**Genesis 1:27**, **John 1:9**) 
+God’s image made the world, in projects, small, or larger scale -
+Through God’s image, much was built, some without recognition 
+While some built fire to show destruction was their life’s ambition 
+
+Some received the name “created” as their life-long goal 
+And to creative spirit there’s a blessing of the soul 
+Creation gives the right to those believing in its name 
+To be the images of God and acting just the same. 
+
+No ancestry determines whether you can have this spirit 
+And God gives everyone the opportunity to use it (**John 1:13**) 
+Creation became flesh, and lives within and out among us 
+All have seen the glory of Creation, surely we trust 
+
+and we should view creation through a lens of hope and faith 
+to know all was created with a mood of truth and grace (**John 1:14**) 
+And of the phrase “And me and” John declared ”it is the latter 
+surpasses me, for progress, it is made as though a ladder 
+
+*All* of what is *built* is built on *what* comes from the *past*
+*Im*ages of God contribute *from* first day to last. 
+Out of fullness from subsequent images of God, 
+We receive new grace in place of grace, when grace is flawed (**John 1:16**) 
+
+*No* one ever has seen God, ex*cept* for the Cre*a*tion 
+No *sing*le man, no bird, no clan, no *pro*phet, and no nation 
+The law, it came through Moses, and the grace through the Messiah
+And Truth it comes bizarrely through the Jesus named Bar Abba 
+
+And *from* the bosom *of* Bar Abba *come* the words of *John* -
+Making known the one, begotten, *made* both near and yon. (**John 1:17**) 
+A prophet, nor Elijah, nor Messiah, John was not (**John 1:18-21**) 
+But *he* said, straight ways *for* the Lord, were *all* that should be sought (**John 1:22-23**) 
+
+Low made high, and small made big, and dead things made alive, 
+The valleys raised, the mountains low, Lord’s glory be derived (**Isaiah 40:3-5**) 
+The pharisees, per*haps*, thought John, Mes*si*ah, he could purge 
+with baptism the post-effects of sin or any urge 
+
+But *John* said “Brood of vipers, this is *on*ly for repentance” (**Matthew 3:7-8**, **Luke 3:7-8**) 
+With this alone, you’ll not achieve, all pardons or ascendance 
+They asked ”Why bother baptizing if nothing comes of it 
+and *you’ve* neither the *off*ice of Mes*si*ah, nor pro*phet*?” (**John 1:25**) 
+
+Said John, ”With water I baptize, my process is symbolic 
+with faith, a soul has different heart once passed through the hydraulic 
+A better person will come out than when they went down in 
+Resolved to make some better choices, less inclined to sin (**Matthew 3:11**, **Mark 1:4**, **Luke 3:3**) 
+
+But if you come to me and have me dunk you just for show, 
+Or thinking it’s a magic trick to take you high from low 
+Another will come after me and I will not be fit 
+to help untie his sandals when he gets right down to it (**John 1:27**) 
+
+(*All* this happened *in* the town of *Beth*any, that’s *where* -
+all the men that followed Christ would have feet-washing bare 
+John would not be at that place, his head on Herod’s mantle (*allegedly*
+And Jesus washed the others’ feet, so untied all their sandals.) (**John 1:28**. **John 13:14-17**) 
+
+-“Look, the lamb of God” John said, for he already knew 
+The one on whose life’s sacrifice, atonment’s coming through (**John 1:29**)
+Dying once in John nineteen, but also in John two 
+John’s surpassed by one who comes before and after, true. (**John 1:30**) 
+
+John the Baptist didn’t know the one was fore and after 
+But after water, baptizing, he went to the hereafter 
+Take care, now, here, John doesn’t say, this one has any right, 
+to baptise with the fire, the spirit, or some holy light 
+
+All he says, that this one, he cannot untie his sandals 
+This lamb of God, is he a font of good deeds or some scandals? (**John 1:35-36**) 
+Two of John’s disciples followed J. Bar, as though fated. 
+One whose name was Andrew, and the other’s name’s not stated. 
+
+J. *Bar* asks what they *want*, and so they *ask* him where he’s *stay*ing 
+We readers stay untaught because the author is not saying. 
 So if J. Bar taught something whether criminal or lawful,
-**5.** The knowledge has been hidden by the author of John’s gospel And if there is a reason to be hiding what they’re doing -Only two of three men’s names are told of, for pursuing. 
-(**John 1:37-39**) -Once they’d gone with J. Bar for a mile or a meter -Andrew made the claim, “This is Messiah, here,” to Peter. 
--Peter made no claims of J. Bar’s rank or his position, But J. Bar chose to call him “Cephas” (notably NOT Peter) A different nickname from a different character and greeter. 
--(Though two words might mean the same in Greek and Aramaic, -People’s names don’t translate like some meaning algebraic) -On the next day Jesus said to Philip, “Follow me.” (**John 1:43**) -(Andrew, Phil, and Peter, came from Bethsaida, all three.) (**John 1:44**) So if J. Bar would lead them to the north shore of the lake -They could visit home and with their family take a break. 
-Then Andrew found Nathanael and he told him truth or flaw We found who prophets wrote about, and Moses, in the Law -I won’t tell you book or verse, so you will have to guess just when they wrote of Son of Joseph, Jesus, Nazareth -Nazareth! Nathanael cried, Can good things come from there? The question is rhetorical, don’t get caught in this snare. 
-An earnest question asks for want of knowledge to be known Sarcastic questions ask for humor’s sake or discord sown. 
-Regardless, though, of the intent behind this man’s sarcasm The question wasn’t earnest, it’s sincerity was absent. 
-So when J. Bar then gets to him he says ”Here is a man: an Israelite in whom there’s no deceit” but what’s his plan? -John’s already shown this man’s sarcastic in his words To say there’s no deceit in him? That’s patently absurd. 
-And if there’s no deceit in him then what does this imply about who comes from Nazareth; Is J. Bar coming by? Nathanael has to ask him “Really? Where do you know me?” And Jesus answers, “I just saw you sit under that tree.” Nathanael, then, continues with his sycophantic laud ”You’re the King of Israel, the Holy Son of God!” -J Bar. 
-asked do you believe since I saw you there, sitting? -You’ll see more than that, the choirs of angels I’ll be splitting Since you claim belief, as though that’s something you have won, Angels are ascending and descending on the Son You just don’t know what you’ll see, so long as I’m around! Angels cannot tell if I point up or I point down! Youtube Read-Along:
+The knowledge has been hidden by the author of John’s gospel 
+
+And if there is a reason to be hiding what they’re doing 
+-Only two of three men’s names are told of, for pursuing. (**John 1:37-39**) -
+Once they’d gone with J. Bar for a mile or a meter 
+-Andrew made the claim, “This is Messiah, here,” to Peter. 
+
+-Peter made no claims of J. Bar’s rank or his position, 
+But J. Bar chose to call him “Cephas” (notably NOT Peter) 
+A different nickname from a different character and greeter. 
+-(Though two words might mean the same in Greek and Aramaic, 
+-People’s names don’t translate like some meaning algebraic) 
+
+-On the next day Jesus said to Philip, “Follow me.” (**John 1:43**) 
+-(*An*drew, Phil, and *Pe*ter, came from *Beth*saida, all *three*.) (**John 1:44**) 
+So if J. Bar would lead them to the north shore of the lake 
+-They could visit home and with their family take a break. 
+
+Then Andrew found Nathanael and he told him truth or flaw
+We found who prophets wrote about, and Moses, in the Law 
+-I won’t tell you book or verse, so you will have to guess 
+just when they wrote of Son of Joseph, Jesus, Nazareth -Nazareth! 
+
+Na*than*ael cried, Can *ev*er any *good* things come from *there*? 
+The *ques*tion is rhe*to*rical, don’t *get* caught in this *snare*. 
+An earnest question asks for want of knowledge to be known 
+Sarcastic questions ask for humor’s sake or discord sown. 
+
+Regardless, though, of the intent behind this man’s sarcasm 
+The question wasn’t earnest, it’s sincerity was absent. 
+So when J. Bar then gets to him he says ”Here is a man: 
+an Israelite in whom there’s no deceit” but what’s his plan? -
+
+John’s already shown this man’s sarcastic in his words 
+To say there’s no deceit in him? That’s patently absurd. 
+And if there’s no deceit in him then what does this imply 
+about who comes from Nazareth; Is J. Bar coming by? 
+
+Nathanael has to ask him “Really? Where do you know me?” 
+And Jesus answers, “I just saw you sit under that tree.” 
+Nathanael, then, continues with his sycophantic laud 
+“You’re the King of Israel, the Holy Son of God!” -
+
+J Bar. asked do you believe since I saw you there, sitting? 
+-You’ll see more than that, the choirs of angels I’ll be splitting 
+Since you claim belief, as though that’s something you have won, 
+Angels are ascending and descending on the Son 
+
+You just don’t know what you’ll see, so long as I’m around! 
+Angels cannot tell if I point up or I point down! 
  
  
 §§CHAPTER_BREAK§§
