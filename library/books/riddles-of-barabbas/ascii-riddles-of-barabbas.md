@@ -26,30 +26,31 @@ Full-Content-Included: yes
 **Chapter 0.** - Two Jesus Hypothesis
 [Youtube Readalong: Ch 0, 1A, 1B](https://www.youtube.com/watch?v=rgXhyWyzlwI&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=1)
 
- The riddles of Barabbas Jonathan Doolin December 17,
-**2021.** 
-We’d better get cracking if names are your thing. 
-You’re told to believe in them, it would be sane 
-to learn what they mean, in Hebrew or Greek. 
-Find out if a teacher or clown you do seek.) 
+ The riddles of Barabbas Jonathan Doolin December 17, **2021.** 
+ 
+We’d better get cracking if names are your thing.  
+You’re told to believe in them, it would be sane  
+to learn what they mean, in Hebrew or Greek.  
+Find out if a teacher or clown you do seek.)  
 
-My approach handling John’s gospel’s core discrepancy, 
-is note the differences when apt, and stress this remedy: 
-to guess two men are in these tales with so much variation. 
-It’s irresponsible for us to fail delineation. 
+My approach handling John’s gospel’s core discrepancy,  
+is note the differences when apt, and stress this remedy:  
+to guess two men are in these tales with so much variation.  
+It’s irresponsible for us to fail delineation.  
 
-So I’d suggest two names for whether shorthand or a fact, 
-so Jesus “Son of Father”, “Son of Man” can interact. 
-“Son of Father” In Hebrew, translates to just “Barabbas” 
-depending on the rhyme I need, I’ll say “J. Bar”, “J. Bas” 
-the other Jesus, he’s a man, with body made of flesh. 
+So I’d suggest two names for whether shorthand or a fact,  
+so Jesus “Son of Father”, “Son of Man” can interact.  
+“Son of Father” In Hebrew, translates to just “Barabbas”  
+depending on the rhyme I need, I’ll say “J. Bar”, “J. Bas”  
+the other Jesus, he’s a man, with body made of flesh.  
 
-so if I want to speak of him, I’ll say “J. lamb”, “J. Beth.” 
+so if I want to speak of him, I’ll say “J. lamb”, “J. Beth.”  
 
-Barabbas spoke in riddles, which BethLaham was the rhyme 
-for Bethlehem meant house of bread or meat, back in that time. 
-No matter what the things we say; the truth or sophistry 
-Words are what we use to tell the tale of history
+Barabbas spoke in riddles, which BethLaham was the rhyme  
+for Bethlehem meant house of bread or meat, back in that time.  
+No matter what the things we say; the truth or sophistry  
+Words are what we use to tell the tale of history  
+
  
 §§CHAPTER_BREAK§§ 
 Chapter 1A - The Parable of Language
@@ -134,183 +135,165 @@ Chapter 1A - The Parable of Language
   - but whereas John focuses on “belief” throughout his gospel, Heraclitus focused on weighing the words
   - There are several verses in the chapter that may refer to upcoming events 
  
- # Rhyme 1A
- Created was the world by God, back in the lost beginning (**John 1:1**, **Genesis 1:1**) 
- Let’s parse this out, each word, so that our insight might be winning
- - First, “in the beginning” tells a time, not too specific 
-and then “created” gives our God the verb to be prolific
-with One phrase now, we have a time, a phrase proverbial 
+# Rhyme 1A  
 
-Our verb, though, wouldn’t work without a subject, this is so. 
-The Word is “God” to fill that blank where subject needs to be 
-So, **Chapter 1.** verse **1.** of John: the “Logos” count is three. 
+Created was the world by God, back in the lost beginning (**John 1:1**, **Genesis 1:1**)  
+Let’s parse this out, each word, so that our insight might be winning  
+- First, “in the beginning” tells a time, not too specific  
+and then “created” gives our God the verb to be prolific  
+with One phrase now, we have a time, a phrase proverbial  
 
-“Created” was a word with God, back in the lost beginning (**John 1:2**) 
-And through creation galaxies and stars were set to spinning 
-Without “created” nothing has been made that has been made (**John 1:3**) 
-“Created”, for mankind, is light of life, faith undismayed (**John 1:4**) 
+Our verb, though, wouldn’t work without a subject, this is so.  
+The Word is “God” to fill that blank where subject needs to be  
+So, **Chapter 1.** verse **1.** of John: the “Logos” count is three.  
 
-When God created night and day, the darkness separated (**Genesis 1:4**) 
-But with created fire, the night-time darkness now just waited (**John 1:5**) 
-There was a man who’s sent from God, Maher Shalal Hash Baz (**Isaiah 8:2-3**, **Luke 1:63**, **John 1:6**) 
-To testify to all that was created was his cause 
+“Created” was a word with God, back in the lost beginning (**John 1:2**)  
+And through creation galaxies and stars were set to spinning  
+Without “created” nothing has been made that has been made (**John 1:3**)  
+“Created”, for mankind, is light of life, faith undismayed (**John 1:4**)  
 
-He came as witness to the light of all things man created 
-So through him all belief would be in things, on earth, located (**John 1:7**) 
-But John, himself, was not that light, the fire that man created Instead, 
-he came to testify, of God’s inseminated 
+When God created night and day, the darkness separated (**Genesis 1:4**)  
+But with created fire, the night-time darkness now just waited (**John 1:5**)  
+There was a man who’s sent from God, Maher Shalal Hash Baz (**Isaiah 8:2-3**, **Luke 1:63**, **John 1:6**)  
+To testify to all that was created was his cause  
 
-God’s image walked across the earth, in form, female and male (**Genesis 1:27**, **John 1:9**) 
-God’s image made the world, in projects, small, or larger scale -
-Through God’s image, much was built, some without recognition 
-While some built fire to show destruction was their life’s ambition 
+He came as witness to the light of all things man created  
+So through him all belief would be in things, on earth, located (**John 1:7**)  
+But John, himself, was not that light, the fire that man created  
+Instead, he came to testify, of God’s inseminated  
 
-Some received the name “created” as their life-long goal 
-And to creative spirit there’s a blessing of the soul 
-Creation gives the right to those believing in its name 
-To be the images of God and acting just the same. 
+God’s image walked across the earth, in form, female and male (**Genesis 1:27**, **John 1:9**)  
+God’s image made the world, in projects, small, or larger scale –  
+Through God’s image, much was built, some without recognition  
+While some built fire to show destruction was their life’s ambition  
 
-No ancestry determines whether you can have this spirit 
-And God gives everyone the opportunity to use it (**John 1:13**) 
-Creation became flesh, and lives within and out among us 
-All have seen the glory of Creation, surely we trust 
+Some received the name “created” as their life-long goal  
+And to creative spirit there’s a blessing of the soul  
+Creation gives the right to those believing in its name  
+To be the images of God and acting just the same.  
 
-and we should view creation through a lens of hope and faith 
-to know all was created with a mood of truth and grace (**John 1:14**) 
-And of the phrase “And me and” John declared ”it is the latter 
-surpasses me, for progress, it is made as though a ladder 
+No ancestry determines whether you can have this spirit  
+And God gives everyone the opportunity to use it (**John 1:13**)  
+Creation became flesh, and lives within and out among us  
+All have seen the glory of Creation, surely we trust  
 
-*All* of what is *built* is built on *what* comes from the *past*
-*Im*ages of God contribute *from* first day to last. 
-Out of fullness from subsequent images of God, 
-We receive new grace in place of grace, when grace is flawed (**John 1:16**) 
+and we should view creation through a lens of hope and faith  
+to know all was created with a mood of truth and grace (**John 1:14**)  
+And of the phrase “And me and” John declared ”it is the latter  
+surpasses me, for progress, it is made as though a ladder  
 
-*No* one ever has seen God, ex*cept* for the Cre*a*tion 
-No *sing*le man, no bird, no clan, no *pro*phet, and no nation 
-The law, it came through Moses, and the grace through the Messiah
-And Truth it comes bizarrely through the Jesus named Bar Abba 
+*All* of what is *built* is built on *what* comes from the *past*  
+*Im*ages of God contribute *from* first day to last.  
+Out of fullness from subsequent images of God,  
+We receive new grace in place of grace, when grace is flawed (**John 1:16**)  
 
-And *from* the bosom *of* Bar Abba *come* the words of *John* -
-Making known the one, begotten, *made* both near and yon. (**John 1:17**) 
-A prophet, nor Elijah, nor Messiah, John was not (**John 1:18-21**) 
-But *he* said, straight ways *for* the Lord, were *all* that should be sought (**John 1:22-23**) 
+*No* one ever has seen God, ex*cept* for the Cre*a*tion  
+No *sing*le man, no bird, no clan, no *pro*phet, and no nation  
+The law, it came through Moses, and the grace through the Messiah  
+And Truth it comes bizarrely through the Jesus named Bar Abba  
 
-Low made high, and small made big, and dead things made alive, 
-The valleys raised, the mountains low, Lord’s glory be derived (**Isaiah 40:3-5**) 
-The pharisees, per*haps*, thought John, Mes*si*ah, he could purge 
-with baptism the post-effects of sin or any urge 
+And *from* the bosom *of* Bar Abba *come* the words of *John* –  
+Making known the one, begotten, *made* both near and yon. (**John 1:17**)  
+A prophet, nor Elijah, nor Messiah, John was not (**John 1:18-21**)  
+But *he* said, straight ways *for* the Lord, were *all* that should be sought (**John 1:22-23**)  
 
-But *John* said “Brood of vipers, this is *on*ly for repentance” (**Matthew 3:7-8**, **Luke 3:7-8**) 
-With this alone, you’ll not achieve, all pardons or ascendance 
-They asked ”Why bother baptizing if nothing comes of it 
-and *you’ve* neither the *off*ice of Mes*si*ah, nor pro*phet*?” (**John 1:25**) 
+Low made high, and small made big, and dead things made alive,  
+The valleys raised, the mountains low, Lord’s glory be derived (**Isaiah 40:3-5**)  
+The pharisees, per*haps*, thought John, Mes*si*ah, he could purge  
+with baptism the post-effects of sin or any urge  
 
-Said John, ”With water I baptize, my process is symbolic 
-with faith, a soul has different heart once passed through the hydraulic 
-A better person will come out than when they went down in 
-Resolved to make some better choices, less inclined to sin (**Matthew 3:11**, **Mark 1:4**, **Luke 3:3**) 
+But *John* said “Brood of vipers, this is *on*ly for repentance” (**Matthew 3:7-8**, **Luke 3:7-8**)  
+With this alone, you’ll not achieve, all pardons or ascendance  
+They asked ”Why bother baptizing if nothing comes of it  
+and *you’ve* neither the *off*ice of Mes*si*ah, nor pro*phet*?” (**John 1:25**)  
 
-But if you come to me and have me dunk you just for show, 
-Or thinking it’s a magic trick to take you high from low 
-Another will come after me and I will not be fit 
-to help untie his sandals when he gets right down to it (**John 1:27**) 
+Said John, ”With water I baptize, my process is symbolic  
+with faith, a soul has different heart once passed through the hydraulic  
+A better person will come out than when they went down in  
+Resolved to make some better choices, less inclined to sin (**Matthew 3:11**, **Mark 1:4**, **Luke 3:3**)  
 
-(*All* this happened *in* the town of *Beth*any, that’s *where* -
-all the men that followed Christ would have feet-washing bare 
-John would not be at that place, his head on Herod’s mantle (*allegedly*
-And Jesus washed the others’ feet, so untied all their sandals.) (**John 1:28**. **John 13:14-17**) 
+But if you come to me and have me dunk you just for show,  
+Or thinking it’s a magic trick to take you high from low  
+Another will come after me and I will not be fit  
+to help untie his sandals when he gets right down to it (**John 1:27**)  
 
--“Look, the lamb of God” John said, for he already knew 
-The one on whose life’s sacrifice, atonment’s coming through (**John 1:29**)
-Dying once in John nineteen, but also in John two 
-John’s surpassed by one who comes before and after, true. (**John 1:30**) 
+(*All* this happened *in* the town of *Beth*any, that’s *where* –  
+all the men that followed Christ would have feet-washing bare  
+John would not be at that place, his head on Herod’s mantle (*allegedly*)  
+And Jesus washed the others’ feet, so untied all their sandals.) (**John 1:28**, **John 13:14-17**)  
 
-John the Baptist didn’t know the one was fore and after 
-But after water, baptizing, he went to the hereafter 
-Take care, now, here, John doesn’t say, this one has any right, 
-to baptise with the fire, the spirit, or some holy light 
+– “Look, the lamb of God” John said, for he already knew  
+The one on whose life’s sacrifice, atonement’s coming through (**John 1:29**)  
+Dying once in John nineteen, but also in John two  
+John’s surpassed by one who comes before and after, true. (**John 1:30**)  
 
-All he says, that this one, he cannot untie his sandals 
-This lamb of God, is he a font of good deeds or some scandals? (**John 1:35-36**) 
-Two of John’s disciples followed J. Bar, as though fated. 
-One whose name was Andrew, and the other’s name’s not stated. 
+John the Baptist didn’t know the one was fore and after  
+But after water, baptizing, he went to the hereafter  
+Take care, now, here, John doesn’t say, this one has any right,  
+to baptise with the fire, the spirit, or some holy light  
 
-J. *Bar* asks what they *want*, and so they *ask* him where he’s *stay*ing 
-We readers stay untaught because the author is not saying. 
-So if J. Bar taught something whether criminal or lawful,
-The knowledge has been hidden by the author of John’s gospel 
+All he says, that this one, he cannot untie his sandals  
+This lamb of God, is he a font of good deeds or some scandals? (**John 1:35-36**)  
+Two of John’s disciples followed J. Bar, as though fated.  
+One whose name was Andrew, and the other’s name’s not stated.  
 
-And if there is a reason to be hiding what they’re doing 
--Only two of three men’s names are told of, for pursuing. (**John 1:37-39**) -
-Once they’d gone with J. Bar for a mile or a meter 
--Andrew made the claim, “This is Messiah, here,” to Peter. 
+J. *Bar* asks what they *want*, and so they *ask* him where he’s *stay*ing  
+We readers stay untaught because the author is not saying.  
+So if J. Bar taught something whether criminal or lawful,  
+The knowledge has been hidden by the author of John’s gospel  
 
--Peter made no claims of J. Bar’s rank or his position, 
-But J. Bar chose to call him “Cephas” (notably NOT Peter) 
-A different nickname from a different character and greeter. 
--(Though two words might mean the same in Greek and Aramaic, 
--People’s names don’t translate like some meaning algebraic) 
+And if there is a reason to be hiding what they’re doing  
+– Only two of three men’s names are told of, for pursuing. (**John 1:37-39**) –  
+Once they’d gone with J. Bar for a mile or a meter  
+– Andrew made the claim, “This is Messiah, here,” to Peter.  
 
--On the next day Jesus said to Philip, “Follow me.” (**John 1:43**) 
--(*An*drew, Phil, and *Pe*ter, came from *Beth*saida, all *three*.) (**John 1:44**) 
-So if J. Bar would lead them to the north shore of the lake 
--They could visit home and with their family take a break. 
+– Peter made no claims of J. Bar’s rank or his position,  
+But J. Bar chose to call him “Cephas” (notably NOT Peter)  
+A different nickname from a different character and greeter.  
+– (Though two words might mean the same in Greek and Aramaic,  
+– People’s names don’t translate like some meaning algebraic)  
 
-Then Andrew found Nathanael and he told him truth or flaw
-We found who prophets wrote about, and Moses, in the Law 
--I won’t tell you book or verse, so you will have to guess 
-just when they wrote of Son of Joseph, Jesus, Nazareth -Nazareth! 
+– On the next day Jesus said to Philip, “Follow me.” (**John 1:43**)  
+– (*An*drew, Phil, and *Pe*ter, came from *Beth*saida, all *three*.) (**John 1:44**)  
+So if J. Bar would lead them to the north shore of the lake  
+– They could visit home and with their family take a break.  
 
-Na*than*ael cried, Can *ev*er any *good* things come from *there*? 
-The *ques*tion is rhe*to*rical, don’t *get* caught in this *snare*. 
-An earnest question asks for want of knowledge to be known 
-Sarcastic questions ask for humor’s sake or discord sown. 
+Then Andrew found Nathanael and he told him truth or flaw  
+We found who prophets wrote about, and Moses, in the Law  
+– I won’t tell you book or verse, so you will have to guess  
+just when they wrote of Son of Joseph, Jesus, Nazareth – Nazareth!  
 
-Regardless, though, of the intent behind this man’s sarcasm 
-The question wasn’t earnest, it’s sincerity was absent. 
-So when J. Bar then gets to him he says ”Here is a man: 
-an Israelite in whom there’s no deceit” but what’s his plan? -
+Na*than*ael cried, Can *ev*er any *good* things come from *there*?  
+The *ques*tion is rhe*to*rical, don’t *get* caught in this *snare*.  
+An earnest question asks for want of knowledge to be known  
+Sarcastic questions ask for humor’s sake or discord sown.  
 
-John’s already shown this man’s sarcastic in his words 
-To say there’s no deceit in him? That’s patently absurd. 
-And if there’s no deceit in him then what does this imply 
-about who comes from Nazareth; Is J. Bar coming by? 
+Regardless, though, of the intent behind this man’s sarcasm  
+The question wasn’t earnest, it’s sincerity was absent.  
+So when J. Bar then gets to him he says ”Here is a man:  
+an Israelite in whom there’s no deceit” but what’s his plan? –  
 
-Nathanael has to ask him “Really? Where do you know me?” 
-And Jesus answers, “I just saw you sit under that tree.” 
-Nathanael, then, continues with his sycophantic laud 
-“You’re the King of Israel, the Holy Son of God!” -
 
-J Bar. asked do you believe since I saw you there, sitting? 
--You’ll see more than that, the choirs of angels I’ll be splitting 
-Since you claim belief, as though that’s something you have won, 
-Angels are ascending and descending on the Son 
-
-You just don’t know what you’ll see, so long as I’m around! 
-Angels cannot tell if I point up or I point down! 
  
  
 §§CHAPTER_BREAK§§
 Chapter 1B - First Forays 
 
 **Context**
-I have now made two efforts to convert **John 1.** to rhyme. 
-I have put the latter effort above, and the former effort below. 
-When I started making rhyme to all
-**21.** chapters, beginning with Chapter 1, I had not settled on an approach, and it was only somewhere around **Chapter 5.** or
-**6.** when I committed to giving a rhyme based on each verse, in sequential order. 
-1.
-**1.** John the gospeler **John 1.** refers to John multiple times, without giving a surname, before he explicitly refers to John the Baptist. 
-**John 1:15** and **John 1:30** are almost identical, but could hint that the two men both made the same statement “He who comes after me was before me” and such a statement could mean a number of things, since before and after can represent both physical and chronological positioning. 
-**John 16.** describes when the Spirit of Truth comes, he will speak only what he hears and tell you what is yet to come. 
+ - I have now made two efforts to convert **John 1** to rhyme. 
+   -I have put the latter effort above, and the former effort below. 
+When I started making rhyme to all **21.** chapters, beginning with Chapter 1, I had not settled on an approach, and it was only somewhere around **Chapter 5** or **6** when I committed to giving a rhyme based on each verse, in sequential order.
+ - **1.** John the gospeler **John 1.** refers to John multiple times, without giving a surname, before he explicitly refers to John the Baptist. 
+ - **John 1:15** and **John 1:30** are almost identical, but could hint that the two men both made the same statement “He who comes after me was before me” and such a statement could mean a number of things, since before and after can represent both physical and chronological positioning. 
+ - **John 16.** describes when the Spirit of Truth comes, he will speak only what he hears and tell you what is yet to come. 
 It would be consistent with the Spirit of Discretion to simply not say my first impression of “What is to come”. 
 However, the Spirit of Confession, and the Spirit of Truth should compel most adults to acknowledge that “To Come” is a colloquial expression for orgasm. 
-Furthermore, the synonymous nature of “to Come” and “to orgasm” is not a mere homonym, but is rather a fundamental existential statement about the onset of puberty, and the coming of adulthood. 
- When done a certain way, orgasm leads explicitly to the **coming** of a child. 
+ - Furthermore, the synonymous nature of “to Come” and “to orgasm” is not a mere homonym, but is rather a fundamental existential statement about the onset of puberty, and the coming of adulthood. 
+  - When done a certain way, orgasm leads explicitly to the **coming** of a child. 
 Furthermore, many of the statements throughout John’s gospel will be found to be true on some fundamental level. 
 However, such truths can only be obtained by allowing for an ironic reading and interpretation of the text. 
 In the case of “What is to come”, one expects, ofr instance, the Spirit of Truth will predict the future, but in fact, the Spirit of Truth does not have that mystical capacity. 
-Instead of presuming the miraculous ability for the Spirit of Truth to see into the future (which to most, might seem the less bizarre interpretation), I presume the Spirit of Truth has the capacity for confession and acknowledgment of facts and realities, and the ability to seek plausible hypotheses, (which most might find bizarre) 
+ - Instead of presuming the miraculous ability for the Spirit of Truth to see into the future (which to most, might seem the less bizarre interpretation), I presume the Spirit of Truth has the capacity for confession and acknowledgment of facts and realities, and the ability to seek plausible hypotheses, (which most might find bizarre) 
  
  **Rhyme**
 **6.** A man came from God, he was sent making riddles
