@@ -1,3 +1,4 @@
+---
 Echo-Filepath: none
 Local-Filepath: policies\zion-cornerstone.md
 Repository-Source: <string>     # Full path of source file, or 'none'
@@ -31,6 +32,7 @@ Promotion-Rubric-Specific:         # List of rubric items
     score: 90
     title: 
     note: includes most sacred rules from synoptic Jesus; Jesus of Nazareth
+---
 
 ## Cornerstone of Faith
  - **Scripture** (Hebrews 11:1) Now faith is confidence in what we hope for and assurance about what we do not see.
@@ -131,3 +133,7 @@ Promotion-Rubric-Specific:         # List of rubric items
   - “Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.” (*Matthew 11:28–30, NIV*)
   - “Keep watch, because you do not know on what day your Lord will come.” (*Matthew 24:42; Mark 13:35–37; Luke 12:35–40*)
 
+# Modern Medication
+  - Jesus means "salvation"
+  - Medicine is a form of salvation.  
+  - Take what you need to be well. 
