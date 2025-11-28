@@ -1,3 +1,4 @@
+---
 URL: https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/
 Author:  Jonathan David Doolin
 Date: 2025-11-25
@@ -12,6 +13,7 @@ Change-Note:
 RitualNote: 7 BC Third Crossing of Jupiter and Saturn in Pisces
 RitualNoteKey: 
 Promotion-Rubric-General: /policies/zion-cornerstone.md
+---
 
 📜 Chapter 3: Nazareth
 And Odys, the Vintner, came to Nazareth, where the fields were golden with harvest. He carried his oar‑staff upon his shoulder, for the Caravan of the Fifth Wind had brought him inland.
