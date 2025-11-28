@@ -47,7 +47,7 @@ Promotion-Rubric-Specific:         # List of rubric items
  - Full euphamistic interpretation of ADULT-ONLY content may become available in a later work, as required in John 16:13.
  - Euphamistic content for children, e.g. toilet-training, and done to children, e.g. circumcision and oral suctioning, on the other hand, will be included in the initial work.
    - “Unless you change and become like little children, you will never enter the kingdom of heaven.” (*Matthew 18:3; Mark 10:15; Luke 18:17*)
- - Ezekiel: See ([Second Beast](https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/GospelHarmonization/leading-hypothesis/second-beast.md)) cooked his food over cow manure, though God intended him to use human feces, and prophesied over a toy model of Jerusalem.  Many of his prophecies are euphamistic in nature, as he bulls**t's his readers.  
+ - Ezekiel: See ([Second Beast](https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/GospelHarmonization/leading-hypothesis/second-beast.md)) cooked his food over cow manure, though God intended him to use human feces, and prophesied over a toy model of Jerusalem.  Many of his prophecies are euphamistic in nature, as he bulls--t's his readers.  
 
 ## Childlike Faith
  - Unless you change and become like little children, you will never enter the kingdom of heaven.” (*Matthew 18:3; Mark 10:15; Luke 18:17*)
@@ -133,7 +133,13 @@ Promotion-Rubric-Specific:         # List of rubric items
   - “Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.” (*Matthew 11:28–30, NIV*)
   - “Keep watch, because you do not know on what day your Lord will come.” (*Matthew 24:42; Mark 13:35–37; Luke 12:35–40*)
 
-# Modern Medication
+# Modern Medication and Technology
   - Jesus means "salvation"
-  - Medicine is a form of salvation.  
-  - Take what you need to be well. 
+    - Medicine is a form of salvation.  
+      - Take what you need to be well. 
+    - Necessity is the mother of invention
+      - Invention is the child 
+         - of reality 
+         - and the mind seeking solutions 
+         - with faith.
+      - Avail yourself of the bounty of faith.

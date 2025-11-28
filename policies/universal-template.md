@@ -81,8 +81,14 @@ Promotion-Rubric-Specific:
 
 Definitions
 - **Full Path** Includes both path and filename.
-- **SAIBR** Search-And-Insert-By-Request:  When SAIBR is allowed, Copilot agent may apply changes to the SAIBR marked file via a SEARCH-AND-INSERT.  
-- **Agent-Writable**  Set to "yes", "no" or "SAIBR", determines whether and how an agent may apply changes to a file.  
+- **Agent-Writable**  Set to "yes", "no" "SAIBR", "SHAIBR" or "PR" determines whether and how an agent may apply changes to a file. 
+  - **SAIBR** Search-And-Insert-By-Request:  When SAIBR is allowed, Copilot agent may apply changes to the body and/or header of the SAIBR-marked-file via a SEARCH-AND-INSERT.  
+  - **SHAIBR** Search-Header-and-Insert-By-Request:  When SHAIBR is allowed, Copilot agent may apply changes to the headers of the file, but must keep the body.
+  - As of Thanksgiving, 11/27/2025.  Jonathan has begun recording instances where agents improperly remove information from files in the echo-space marked SAIBR or SHAIBR.  See \policies\saibr-guidelines.md (Rule 1.1.6-1.1.7)
+  - **PR** If Agent-Writable is set to PR, no further edits are allowed in the echo-space, but Agent may "write" the file to the repository.  
+  - **no** If Agent-Writable is set to "no", the agent must not edit the echo-space file at all.  
+  - **yes** If Agent-Writable is set to "yes", the agent may freely insert, append, or overwrite the echo-space file with or without request from the human user/owner.  In such a case, consider the following rules as guidelines (not strict limits)  Repository-Target should generally be set to no, and the filename should generally have prefix "e-" for echospace.
+
 
 Required Fields:
 - **Rename-Request**: Type:  Full Path.  Relevance: If the file's intent is inconsistent with the filename, 
@@ -98,7 +104,7 @@ Required Fields:
 **SAIBR-Target**:  Type: Full Path.  Relevance:  If the file's intent or Change-note is about performing a SEARCH-AND-INSERT from this source file to another file in the echo-space or local-space, this entry gives a clear reference to that target. 
 **Change-Magnitude**:  Type: enum.  Relevance: Compared to the last version, if any, does this new document make any change?  "none"-trivial changes.  "minor" - a change that makes a significant clarification.  "major" - a change that represents a "change-of-mind", e.g. a correction.  "huge" - a change that will require further changes in one or many other files.
 **Checklist**: Type:  Text or Full Path.  Give text or a link to a file containing a checklist of other updates that need to be made, relevant to this file.  
-**Agent-Writable**: no #no|SAIBR|yes Determines whether copilot agent may Search And Insert (without truncation) By Request.  "no" means no changes are allowed.  "yes" means the file may be changed at will by the copilot agent.
+**Agent-Writable**: no #no|PR|SAIBR|SHAIBR|yes Determines whether copilot agent may Search And Insert (without truncation) By Request.  "SHAIBR" = "Search Headers and Insert by request", "no" means no changes are allowed.  "yes" means the file may be changed at will by the copilot agent, "PR" means the file is ready to be put in the repository by Pull Request.  PR means no further changes are permitted in the echo-space file before commit to repository.
 - **Completeness** Type: enum:  Values |full| contains full current draft, |insert| Contains candidates for SAIBR for full draft.  |thought| contains agent-created material not intended for SAIBR |snippet| is for anything that doesn't fit full, insert, or thought.
 - **Intent**: Type: Text - Required — The Intent of the file that will be placed at the Ultimate-Target-Directory. Do not put Change-Notes here.
 - **Version**: Type: dotted list with a v at the beginning? - required: v<R>.<T>.<E>.  E=Echo-space version.  T = Temple Space version, R represents a major revision.
@@ -109,7 +115,7 @@ Required Fields:
 - **Change-Note**: Type: Text - required (short): one-line human-readable explanation of the most recent change. For SEARCH-AND-INSERT proposals include the intended insertion target/path here.
 - **RitualNote**: Type: Text - required: any scriptural or philosophical support for the Intent of the file.
 - **RitualNoteKey**: Type: Text - required. Leave space for a reference to any scripture or philosophical writing.
-- **Space**: Type: Text Regexp Pattern "^(s|e|r)-([a-z]+)-?$" Enum: [s]ource, [e]cho, [r]epository.  String genre/file-type prefix.  Optional: declarative convenience field for echo-space artifacts. Make it required only for echo-space drafts, and files intended to be stored in "offering-basket" for all sessions in a given space.   Optional for final/canonical files for repository.   Optional echo-space, repository, or source-file,  
+- **Space**: Type: Text Regexp Pattern "^(s|e|r)-([a-z]+)-?$" Enum: [s]ource, [e]cho, [r]epository.  String genre/file-type prefix.  Optional field intended only for "Agent-Writable: yes" echo-space files, marking intended space the agent would like the file to go.  e= stay in echo-space.  r=put in repository.  s=put in offering basket (source files)
 - **Promotion-Rubric-General** Type: filepath Relevance: We might have a universal rubric, and/or rubrics that apply to certain types of files.  If this field is empty, assume only default promotion requirements.
 - **Promotion-Rubric-Specific** Type: yaml list; required: A structured list of specific requirements (id/score/title/note) that together determine Promotion-Ready status.  If no rubrics have been determined, include a placeholder:
   - id: 1
