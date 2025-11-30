@@ -1,0 +1,1489 @@
+
+---
+Title: Dingle Objection Thread
+Author: Jonathan Doolin, Darrell Bender, et al.
+Date: 2025-11-27
+Genre: Physics Forum Thread
+Agent-Writable: SHAIBR
+Repository-Source: none
+Repository-Destination: spaces/KinematicModelResearch/correspondence/Dingle-Objection-Thread.txt
+Version: v1.0.0
+Prev-Version: none
+Change-Note: Add universal-template header for provenance and discoverability
+Tags: [Relativity Theory, Dingle Objection, Cosmology, CMB, Milne Model, Research Collaboration, Physics Forum]
+RitualNote: "What are we doing, as in what is the thrust of the work?"
+RitualNoteKey: Dingle Objection
+---
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1883
+Jonathan Doolin added an answer 1883.
+3 days ago
+Stefano Quattrini
+“There is not any plasma there, which is a status of ordinary matter... there is a thermal bath of microwave radiation which does not refer to any plasma at all, unless you refer to something which is claimed to have happened 14.8 million times ago.”
+Jonathan Doolin:
+To clarify: the standard‑model interpretation is that the CMB is a thermal radiation bath not dependent on a persistent plasma; this is the prevailing view among many cosmologists. I find that interpretation unpersuasive and am developing an alternative based on a modified Milne framework. Drafts summarizing my current thinking are available here:
+https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/KinematicModelResearch/2025-11-27-summary.md
+https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/KinematicModelResearch/2025-11-27-eight-high-bars.md
+I apologize these ideas are not yet in a formal paper. Time and bandwidth have delayed a full write‑up, and I am still seeking collaborators who can engage with the material seriously. In the meantime I am developing and testing the work (including with AI tools) and welcome constructive critique or offers to collaborate from anyone interested in examining the calculations and observational implications.
+Share
+
+1880.1
+Darrell Bender added an answer 1883.
+3 days ago
+I apologize these ideas are not yet in a formal paper. Time and bandwidth have delayed a full write‑up, and I am still seeking collaborators who can engage with the material seriously. In the meantime I am developing and testing the work (including with AI tools) and welcome constructive critique or offers to collaborate from anyone interested in examining the calculations and observational implications.
+What are we doing, as in what is the thrust of the work?
+Recommend
+Share
+
+Gary Stephens added an answer 1883.
+3 days ago
+Joachim Domsta Dear Professor Domsta,
+<<Do we use the relative velocity in the equation satisfied by paths c t and v t passed during time t elapsed between the common start instant till the instant of meeting of a light puls and an object moving with velocity v if they are posed initially at distance L
+. . . c t = L + v t . . . ?>>
+I'm not sure to what this refers? What equation? What system? Your last fragment of an equation ct = L + vt can be rearranged to L/t = (c - v), so I assume you are talking about Galilean addition of velocities. (Whenever one sees (c - v) or (c + v), one can be sure, as sure as night follows day, that we are talking about Galilean addition of velocities.)
+Recommend
+Share
+
+Valentyn Nastasenko added an answer 1883.
+3 days ago
+Jürg Wyttenbach
+If this is the internal velocity, then the external velocity remains equal to c?
+… Read more
+Recommend
+Share
+
+Joachim Domsta added an answer 1883.
+3 days ago
+In post #1877.5 @Darrell Bender has presented the following example
+“Consider two rigid rods, each of length l, with identical clocks moving at the same rate at the ends of each rod. At a certain time t the rods coincide. One rod moves to the left with velocity v; one rod moves to the right with velocity v. At the time t, all clocks are set to zero and a ray of light is emitted to the right from the common left endpoint of the two rods. According to Einstein's special theory of relativity, the velocity of light as measured in each moving system is c; so that when the light ray reaches the right endpoint of the rod moving to the left, the right endpoint of the rod moving to the right must be in the same place. This is clearly impossible. This proves that the velocity of light as measured in the moving systems is not c and that clocks in the moving system are not synchronous.”
+=========
+Here is a proof that according to SRT the SOL in each rod of this example is c, independently of the value and the sign of the velocity.
+------
+IF in some IRF endowed with space and time coordinates denoted by x and t, motions of the left and right end points of a rod of length L are given by the world lines
+. . . xL(t) = v t . . . xR(t) = L + v t . . |v|<c
+And a light pulse motion is given by
+. . . xP(t) = c t,
+THEN according to SRT
+(i) the event of hitting the right end point by the pulse possesses coordinates
+. . . t* = L/(c-v) . . . x* = c t* = c L/(c-v)
+(ii) The same event in the IRF' comoving with the rod possessed coordinates given by the image of the Lorentz transformation corresponding to velocity v as follows
+. . . t*' = γ (t* - v x*/c²) = γ L/c
+. . . x*' = γ (x* - v t*) = γ L
+(iii) In particular the SOL in the IRF' equals
+. . . c' = x*'/t*' = c.
+Recommend
+Share
+
+Darrell Bender added an answer 1883.
+3 days ago
+Here is a proof that according to SRT the SOL in each rod of this example is c, independently of the value and the sign of the velocity.
+All that you do is use the equations of the Lorentz transformation, the equation for the time coordinate being false, to get c in each case. The Lorentz transformation for the time coordinate gives a faster clock, not the experimentally verified slower clock. Please do not try again.
+Recommend
+Share
+
+1 Recommendation
+Joachim Domsta added an answer 1883.
+3 days ago
+Dear Gary Stephens
+In the only equation I have put in the question
+-- c t is the path passed by the light pulse emitted from the left end of a segment of length L, moving to the right with velocity c;
+-- v t is the path passed by the right end point of the segment also to the right, moving with velocity v, |v|<c;
+-- the equation tells that till the meeting of the pulse and the right endpoint, the first path is by L longer than the second path.
+Q: After this wide explanation do you see any usage of the Galilean relative velocity?
+Recommend
+Share
+
+Joachim Domsta added an answer 1883.
+3 days ago
+@Darrell Bender has used an argument against the Lorentz transformation by saying << ..the equation for the time coordinate being false>> without any reasonable justification. The only sentence looking like a justificstion
+<<The Lorentz transformation for the time coordinate gives a faster clock, not the experimentally verified slower clock.>> is logically inconsistent since the change of the time coordinate by LT may be decreasing or increasing, depending on the scenario:
+-- for events at rest in the IRF with x=const, Δt'=γ Δt;
+-- for events at rest in the IRF' with x'=0, Δt'=Δt/γ.
+-- for events o
+Recommend
+Share
+
+Darrell Bender added an answer 1883.
+3 days ago
+<<The Lorentz transformation for the time coordinate gives a faster clock, not the experimentally verified slower clock.>> is logically inconsistent since the change of the time coordinate by LT may be decreasing or increasing, depending on the scenario:
+Einstein's assumption of that clocks in the moving system are synchronous implies that the times for light to travel from one end of a rod to the other are the same. This time for the rod moving to the left is not the same as the time for the rod moving to the left. Please note Michael Bowler's calculation of these times in
+Preprint Bender Goes to Oxford
+Recommend
+Share
+
+Joachim Domsta added an answer 1883.
+3 days ago
+Please notey post proving that the velocity of light is independent of v. The mentioned necessity of equality of times concerns the times calculated in the irf comoving with the rod. The Bender example states (correctly) the difference of durations as seen from another irf.
+… Read more
+Recommend
+Share
+
+
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1884
+All Answers (18941)
+Darrell Bender added an answer 1884.
+3 days ago
+Please notey post proving that the velocity of light is independent of v. The mentioned necessity of equality of times concerns the times calculated in the irf comoving with the rod. The Bender example states (correctly) the difference of durations as seen from another irf.
+The Lorentz transformation for the time coordinate gives these times in the moving system. They are not equal. This contradicts Einstein's assumption that clocks in the moving system are synchronous.
+Recommend
+Share
+
+Joachim Domsta added an answer 1884.
+3 days ago
+Sorry but this sentence <<The Lorentz transformation for the time coordinate gives a faster clock, not the experimentally verified slower clock.>> is not sufficiently rigorous. The calculations given in my post shoes plainly that the time t*' as seen from the moving rod is independent of the sign of v. Indeed it depends on γ only which has the same value for v and -v.
+… Read more
+Recommend
+Share
+
+Darrell Bender added an answer 1884.
+3 days ago
+Sorry but this sentence <<The Lorentz transformation for the time coordinate gives a faster clock, not the experimentally verified slower clock.>> is not sufficiently rigorous. The calculations given in my post shoes plainly that the time t*' as seen from the moving rod is independent of the sign of v. Indeed it depends on γ only which has the same value for v and -v.
+Your post calculates the velocity of light in each case. Not going to review your bullshit post. If the times are the same, you did not calculate the times correctly. We have consistently eaten your lunch; this is no exception.
+Recommend
+Share
+
+Gary Stephens added an answer 1884.
+3 days ago
+
+
+Dear Professor Domsta,
+Your description is a little confusing, but from what you have said, it is likely to be the duplicate of the above, with light propagating to the right at (c - v) and the end point (the end of the carriage) receding away from the light pulse, also to the right at v.
+Relativity+of+Simultaneity+wiki+(c+-+v) ---(c - v) versus
+c.png
+101 kB
+Recommend
+Share
+
+Gary Stephens added an answer 1884.
+3 days ago
+But I think you are attempting to describing the Sagnac effect (with a fixed frame)-- so in that case, as already discussed, we will see a classical-type addition of velocities, unlike the case above in which C = c.
+… Read more
+Recommend
+Share
+
+Gary Stephens added an answer 1884.
+3 days ago
+
+
+In the above example, it is velocity with respect to the end of the carriage, in top and bottom figures.
+… Read more
+veloci
+ty.PNG
+96.9 kB
+Recommend
+Share
+
+Gary Stephens added an answer 1884.
+3 days ago
+
+
+And as we have seen, it is absolutely certain Einstein used the Galilean addition of velocities (c - v) and (c + v) in his 1905 paper purporting to prove the foundation of the theory ; the supposed "Relativity of Simultaneity".
+Preprint On Einstein’s use of the classical addition of velocities (c...
+… Read more
+Einstein+1905+19
+16.png
+276 kB
+Recommend
+Share
+
+Joachim Domsta added an answer 1884.
+3 days ago
+Gary Stephens
+Please tell me, which term of the equation
+. . . c t = L + v t
+for the paths
+-- no. 1: c t of the light, and
+-- no. 2: v t of the second endpoint of the rod/wagon
+is using the velocity c-v?
+Recommend
+Share
+
+Jürg Wyttenbach added an answer 1884.
+3 days ago
+Valentyn Nastasenko : If this is the internal velocity, then the external velocity remains equal to c?
+Normally yes. But we have no model so far for disconnecting nuclear - strong force bound - flux. c is the escape velocity of the electro strong force. That for the nuclear force has to be found. It obviously is much larger than c.
+As mentioned: The nuclear strong force does increase with parallel nuclear flux as we can see from the nuclear spectra and mass compression. But dense stars are an other dimension of a nucleus, where we currently have no idea how the internal forces do evolve.
+Recommend
+Share
+
+Gary Stephens added an answer 1884.
+3 days ago
+Joachim Domsta Dear Professor Domsta,
+You ask: <<Please tell me, which term of the equation
+. . . c t = L + v t
+for the paths
+-- no. 1: c t of the light, and
+-- no. 2: v t of the second endpoint of the rod/wagon
+is using the velocity c-v?>>
+You appear to be attempting to separate out light from the speed of the frame, which in this case, is the moving rod or carriage. This cannot be done. A "speed" is not a "thing in itself". It has to be relative to something.
+The correct thing to do, it to rearrange your equation so that we have the velocities all together. This will then give the speed of the light relative to something... or the speed of something relative to light. Id est :
+So ct = L + vt, by grouping the speed terms, we have (c - v)t = L or (c - v) = L / t which is dimensionally correct (of course).
+The term in the brackets is the speed of light relative to something, or the speed of something relative to light.
+Recommend
+Share
+
+
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1885
+All Answers (18941)
+Gary Stephens added an answer 1885.
+3 days ago
+
+
+Al says the duplicate of what I sketched above, (we can put w = c).
+So the formula you provided, is, for certain, of the Galilean addition (or subtraction) of velocities type.
+… Read more
+Galilean formu
+la.PNG
+78.8 kB
+Recommend
+Share
+
+Joachim Domsta added an answer 1885.
+3 days ago
+In post #1883.5 the following scenario has been considered
+In some IRF endowed with space and time coordinates denoted by x and t, motions of the left and right endpoints of a rod of length L are given by the world lines
+. . . xL(t) = v t . . . xR(t) = L + v t . . |v|<c
+Moreover a light pulse motion was given by
+. . . xP(t) = c t.
+For it in the IRF' comoving with the rod, the time elapsed between the initial instant of the common position of the Pulse & the Left endpoint and the instant of common position of the Pulse & the Right endpoint was calculated equal to t*'=γ L/c.
+---------
+Now the calculation of the time elapsed between emission of a light pulse from point x=L at t=0 to the left, and its reaching of the Left endpoint is calculated. For, one needs to consider the new world line of the Pulse
+. . . xP(t) = L - c t
+The event of meeting of this pulse with the trajectory xL(t) = v t possesses the following unprimed coordinates
+. . . t* = L/(c+v) . . . x*=xL(t*)=v L/(c+v).
+Application of the suitable Lorentz transformation assigns the following primed coordinates to the initial event (L,0)
+. . . x*' = γ L . . . t*' = -γvL/c²
+The meeting with the Left endpoint obtaines the following primed coordinates
+. . . x*" = γ(x* - v t*)
+. . . . .= γ(v L/(c+v) - v L/(c+v)) = 0
+. . . t*" = γ ( t* - v x*/c²)
+. . . . = γ (L/(c+v) - β² L/(c+v))
+. . . . = 1/γ L/(c+v)
+Consequently the primed time elapsed between the initial and final events equals
+. . . Δt*' = t*“ - t*'
+. . . . = 1/γ L/(c+v) + γ β L/c
+. . . . =L/c γ [ (1-β²)/(1+β) + β ]
+. . . . = γ L /c
+which is the same as the one for a pulse sent from the left endpoint to the right endpoint calculated in post #1883.5.
+Recommend
+Share
+
+Joachim Domsta added an answer 1885.
+3 days ago
+Gary Stephens has announced:
+<<So the formula you provided, is, for certain, of the Galilean addition (or subtraction) of velocities type.>>
+In fact this formula can be obtained by GT. But I have presented a derivation which DOES NOT refer to GT. As a matter of fact the derivation exploits only GEOMETRY OF SEGMENTS ON A STRAIGHT LINE.
+Sorry, but I cannot explain this more precisely to someone who cannot recognise OBVIOUS ABSENCE of the difference of velocities in the equation
+. . . c t = L + v t.
+Recommend
+Share
+
+Carmen Wrede added an answer 1885.
+3 days ago
+😂😂😂😂😂😂 Gary simply asked a completely generic question. The naive Google AI (which of course has no context and simply recognizes patterns) sees: "Yeah, looks like Galileo, bro!"
+And Gary:“SEE??? GOOGLE SAYS SO TOO!!1!!”. Then he took a screenshot as if it were a peer-reviewed paper. 😂😂😂😂😂😂
+I'm about to pee my pants laughing. That's a dirty move, but absolutely masterful. 😂😂😂😂😂😂
+Gary doesn't do physics. Gary engages in cognitive subversion, so that in the end everyone lies in bed at night whispering: "Maybe it really is Galileo... 😵‍💫"
+😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
+Recommend
+Share
+
+Larry Carlson added an answer 1885.
+3 days ago
+The vertical line from emitter to detector in a container (carriage) represents the presumed 2D state of light with respect to an external observer. That is, the energy from emitter to an observer occurs over the shortest distance of space. But this is merely a geometric way of demonstrating that light within the carriage (which is emitted independent of the train’s motion) is moving away from the external (station) observer.
+That's why physicists don't measure observed time dilation with respect to an external observer by discussing the motion of light from, for example, the front to the back of the train. The zig-zag pattern that the external observer allegedly sees has more to do with what would happen in a hypothetical onboard photon clock.
+The extra time that energy (light) needs to reach the detector’s new position when the carriage is moving “forward” (or any other direction), can be represented as a diagonal vector that forms the basis for the geometric illustration of gamma (as Feynman specifically notes).
+Note that when atoms are moving faster, “the external observer sees the atom’s “clock” running slow, so photons are emitted less frequently in [according to his] time.”
+However, “In the atom’s own rest frame, electrons emit photons at their normal rate. The quantum transitions (like an electron dropping from one energy level to another) happen with the same probabilities and lifetimes as if the atom were stationary.”
+But the atom’s “knowledge” of how fast it is emitting photos would be determined by observing its own clock (much as the passenger of a carriage oberves her clock), which itself would be slowing down for the same reasons to a proportionate extent.
+This suggests that the observer observes two types of interrelated time dilation (observational and physical):
+A. Photons are emitted at a slower rate when the atom is moving at higher velocities. This would result in observational red shifting with regards to external observer observing departing planes.
+B. The distance between energy (light) pulses is greater when an object made of atoms recedes at higher velocities. This would result in permanent physical time dilation, e.g., slower clocks on moving planes.
+Presumably, these two types of red-shifting would somewhat correspond to each other:
+That’s because it takes a longer time (over a longer distance), according to an external observer, for:
+A. Physical time dilation: The moving atom emits a photon less frequnelty as a result of the greater distance the atom is traveling through space. (Emission is based on the time between energy transitions within the atom from one atomic level to another so that a photon is emitted).
+B. Observational time dilation: The propagation of energy (as light) from the atom to the external observer via the emitted photons (as observed by passenger vs external observer).
+Note that in practice, the direction in which light is emitted within the container is irrelevant, since the question is not really how far light travels from one side to another within the container, but rather how much slower light is traveling through space (the “vacuum”) with regards to the rate of photon of emission from the atom, and the rate at which the light is receding from the external observer.
+The station observer is NOT counting, timing, or measuring the distance that light beams travel within the carriage!!
+That is, in terms of observational time dilation, the “ticks” (in question with regards to time dilation) are not actually counted in terms of light reaching a given wall within the train, but by the ticks on the external observer’s clock. Such ticks reflect the rate at which the external observer observes pulses from the light within container (carriage) and within the carriage’s clock to occur (as they are red-shifted). Rather he is simply measuring how long it takes for (any) light emitted from the carriage to reach him at the station.
+The greater the carriage’s acceleration, the greater the observed time dilation, since “the relativistic Doppler formula, which grows very steeply as velocity approaches the speed of light. “
+Recommend
+Share
+
+Jan Slowak added an answer 1885.
+3 days ago
+Joachim Domsta & Gary Stephens
+From JD: "Sorry, but I cannot explain this more precisely to someone who cannot recognize OBVIOUS ABSENCE of the difference of velocities in the equation"
+The best thing would be if you could draw a figure with what you want to describe. As simple as possible.
+You should create a mathematical model of the phenomenon (thought experiment) you are describing. Write all the relationships between the quantities involved. Then there will be not so many discussions. Start from reality, it is the one we know.
+Recommend
+Share
+
+Joachim Domsta added an answer 1885.
+3 days ago
+Dear Gary Stephens, the c and v are velocities WITH RESPECT TO THE EMBANKMENT.
+… Read more
+Recommend
+Share
+
+Jan Slowak added an answer 1885.
+3 days ago
+Joachim Domsta & Gary Stephens
+"Dear Gary Stephens, the c and v are velocities WITH RESPECT TO THE EMBANKMENT."
+NO, c is the speed of light relative to vacuum, only v is the speed related to embankment.
+Recommend
+Share
+
+Larry Carlson added an answer 1885.
+3 days ago
+Jan Slowak & Joachim Domsta "the c and v are velocities WITH RESPECT TO THE EMBANKMENT."
+Larry: Yes. Presumably the external observer (who is co-"moving" with the “statioanary” embankment) determines the closing/separating velocities of the light within the moving carriage.
+Says Copilot:
+"Relative speed (in relativity) is the velocity of one object as measured in the rest frame of another.
+Closing speed is simply the rate at which the distance between two objects changes, which can exceed c without violating relativity.
+“What the embankment observer sees
+The light beam moves backward (toward the rear of the carriage) at speed c.
+The rear of the carriage moves forward at speed v.
+The closing speed between the light beam and the rear of the carriage is c + v
+This is perfectly valid, because closing speed is not the same as the relative velocity of two physical objects. Relativity only forbids any object or signal from having a relative velocity greater than c. But the rate at which the gap shrinks can be greater than c.”
+https://copilot.microsoft.com/chats/JWrq7yyPMqZ3C68dskGHY
+But note, as I mentioned in my last post, one cannot use such information to determine gamma: “The external observer is comparing closing speeds, which are not relativistically invariant quantities.” (I do not know why Copilot claims that closing speeds are not relativistically invariant.)
+Instead, Copilot says that, “To determine γ\gamma, you need to compare proper time (measured in the carriage’s rest frame) with dilated time (measured in the embankment frame). That requires synchronizing clocks in the carriage’s frame and applying the Lorentz transformation, not just comparing closing speeds.” (That is, not by comparing closing speeds between a moving and stationary carriage).
+https://copilot.microsoft.com/chats/JWrq7yyPMqZ3C68dskGHY
+Again, getting back to a vertical path, the angle of the diagonal path that the external observer observes with respect to the embankment (which I suggest is the physically more valid) as a result of a tilted laser emitter or different segment of the wave front, increases with carriage velocity, and (much like the onboard clock) enables us to determine time dilation:
+“The diagonal tilt observed externally is an indirect geometric manifestation of time dilation. By measuring the angle of tilt (or equivalently the horizontal displacement relative to vertical), one can infer the relative velocity and thus compute γ\gamma.
+It’s essentially the same principle as the light clock thought experimentused in textbooks to derive time dilation: the diagonal path ENCODES the longer time interval seen by the external observer”
+https://copilot.microsoft.com/chats/HJ25Bk2o5nE9eoeprPdyw
+(I emphasized the word "encodes" myself because, again, the external observer does not directly determine time dilation by observing the angle of the diagonal nor by observing any related red-shifted light aboard the carriage.)
+Again, I would add that the longer time interval (on the external observer’s clock) is related to the greater distance that the light (energy) must (in terms of physical reality) propagate (through space) in order to reach the detector on the ceiling.
+Both the vertical path observed by the passenger (with respect to the carriage) and the straight diagonal path observed by the external observer with respect to the embankment are valid observations, but (the then irrelevant question of the angle of emission aside !) the external observer’s conclusion that light traveled a further distance in the moving carriage as opposed to the stationary carriage is the most physically valid conclusion.
+----------------
+Note: Relevant equations given on each Copilot webpage
+Recommend
+Share
+
+1 Recommendation
+Joachim Domsta added an answer 1885.
+3 days ago
+Dear Jan Slowak
+Your statement <<c is the speed of light relative to vacuum, only v is the speed related to embankment.>> is a proposition of a new theory contradicting the SRTheory. This other theory is not acceptable for me since it differs too deeply from my general knowledge about the nature.
+Recommend
+Share
+
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1886
+All Answers (18941)
+Jan Slowak added an answer 1886.
+3 days ago
+Larry Carlson
+"Relative speed (in relativity) is the velocity of one object as measured in the rest frame of another.
+Closing speed is simply the rate at which the distance between two objects changes, which can exceed c without violating relativity.
+Nonsense! We don't need two concepts for the same phenomenon. The concept of 'relative velocity' applies to everyone (don't confuse the word 'relative' with the word 'relativistic' regarding SR).
+Recommend
+Share
+
+Gary Stephens added an answer 1886.
+3 days ago
+
+
+<<Dear Gary Stephens, the c and v are velocities WITH RESPECT TO THE EMBANKMENT.>>
+v is the speed of the frame or carriage with respect to the embankment. c is the speed of light with respect to the embankment, and (c - v) is the speed of light with respect to the moving carriage, in the above (bottom) figure. (The bottom figure is in error of course).
+Relativity+of+Simultaneity+wiki+(c+-+v)+---(c+-+v)+versus
++c.png
+99.8 kB
+Recommend
+Share
+
+Joachim Domsta added an answer 1886.
+3 days ago
+@Jan Slowak
+PS. For the same reason I cannot communicate comprehensively by the following your advice
+<<The best thing would be if you could draw a figure with what you want to describe. As simple as possible.>>
+Simply, I cannot draw a double frame - with separate parts for the vacuum and for the embankment.
+Independently, the question is absence of the difference c-v of the velocities c and v in the equation
+. . . c t = L + v t .
+@Gary Stephens
+Calling c-v the 'relative velocity' you create an ARTIFICIAL contradiction with SRTheory which preserves this name to another notion as it is explained in the post by @Larry Carlson.
+Recommend
+Share
+
+Gary Stephens added an answer 1886.
+3 days ago
+
+
+<<Calling c-v the 'relative velocity' you create an ARTIFICIAL contradiction with SRTheory which preserves this name to another notion as it is explained in the post by @Larry Carlson.>>
+… Read more
+veloci
+ty.PNG
+100 kB
+Recommend
+Share
+
+Joachim Domsta added an answer 1886.
+3 days ago
+Dear Gary Stephens
+I need to point out that by choosing a segment of my post you have discredited my post which was
+<<Calling c-v the 'relative velocity' you create an ARTIFICIAL contradiction with SRTheory which preserves this name to another notion as it is explained in the post by @Larry Carlson.>>
+Please be more careful if you want to be honest.
+Recommend
+Share
+
+Gary Stephens added an answer 1886.
+3 days ago
+Dear Professor Domsta,
+It wasn't my intention to cut or edit your post-- I know how annoying this can be. I've posted the full sentence, above. But to be clear all velocities are "relative" so your point above (in full) is null and avoid.
+… Read more
+Recommend
+Share
+
+1 Recommendation
+Gary Stephens added an answer 1886.
+3 days ago
+
+
+So the text above, by Einstein (1905) is not an "artificial" contradiction with Special Relativity Theory ; it is real, and catastrophic.
+… Read more
+Einstein+1905+19
+16.png
+276 kB
+Recommend
+Share
+
+Joachim Domsta added an answer 1886.
+2 days ago
+@Gary Stephens
+Two issues.
+1. By omitting the subject of the contradiction you have substantially changed the meaning of my remark.
+2. <<So the text above, by Einstein (1905) is not an "artificial" contradiction with Special Relativity Theory ; it is real, and catastrophic.>>
+Such statement without exact showing what contradicts the SRTheory is a void sound. Nevertheless carefull reading of the collage shows that the uaga of terms c±v is IMPLIED by the geometry of relative positions of the paths and the rod/wagon, not by Galilean transformation of velocities. There is no contradiction as you can verify step by step in former posts. Why don't you answer if the equation possesses the difference c-v. For physical honesty one should not mix assumption with conclusion. The assumption is the equation and the formula for Δt is a conclusion. Your suggestion that Einstein started from the formula for the relative velocity is simply wrong. Not mentioning that this is implicite accusation A.E. of lack of understanding basic logical inference.
+Finally I have to say you once more Good Bye. Reason, I have convinced myself that you are driven by a desire to discover and prove that Einstein was trivially inconsistent even to denying absence of the difference c-v in the basic equation ct=L-vt.
+Recommend
+Share
+
+Gary Stephens added an answer 1886.
+2 days ago
+
+
+Joachim Domsta Dear Professor Domsta,
+<<1. By omitting the subject of the contradiction you have substantially changed the meaning of my remark.>>
+I have posted your remark verbatim.
+2. Whether you or I or anyone else likes it or not, Einstein has used the Galilean addition of velocities (c - v) and (c + v) to prove the fundamental result of the theory, the purported "Relativity of Simultaneity". This was also noticed by Nordenson (on the Nobel committee) above. Here (V = c).
+Nordenson formula+result without ty
+po.png
+526 kB
+Recommend
+Share
+
+1 Recommendation
+Gary Stephens added an answer 1886.
+2 days ago
+Joachim Domsta Dear Professor Domsta,
+I do hope you do stay around. Your posts are good at illuminating a supposedly trivial but, in reality, not that well understood topic. Relative velocity. And you were the first to point out, clearly, that the Einstein vel. addition formula for light-rays means light propagates at C = c in the moving frame. (What Nordenson says above).
+Recommend
+Share
+
+
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1887
+All Answers (18941)
+Sergey Shevchenko added an answer 1887.
+2 days ago
+A rather scientifically irrational, but for some well rational non-scientific reason
+[intensive unscientific trash in discussions with claims that the SR is some nonsense, etc., is quite really very effective SR “defence” - people that read the trash think that only such “strange humans” can say that about really extremely perfect theory]
+- rather, if too, vivid, posting mostly of few posters continues in the thread,
+- so in the thread now well more 18 of thousands of the posts are; despite that really scientifically in the thread would be completely enough to have only one post that: “There cannot be fundamentally any solid counter-arguments against Dingle's old objection to Relativity Theory, since the Dingle's old objection is absolutely rigorously scientifically correct”.
+Though, of course, in this case it would be quite pertinent to add also that from the objection by completely rigorous Proof by Contradiction follows, first of all, that Matter’s spacetime is absolute - what Dingle didn’t write.
+Recent SS posts in the threads, vivid posters thank heaven don’t appear in which till now , https://www.researchgate.net/post/Which_Scientist_Made_the_Blindfold_Instrumental_to_Modern_Physics/1 , and
+https://www.researchgate.net/post/Did_Einstein_resort_to_dubious_black_magic_for_his_theory_of_relativity,
+- are relevant to this thread question.
+Cheers
+Recommend
+Share
+
+Carmen Wrede added an answer 1887.
+2 days ago
+We developed a way to define local Lorentz invariance, based on a comparison between General Relativity (GR) and Special Relativity (SR).
+In the traditional view, a region is “locally Lorentz invariant” if spacetime is geometrically flat there.
+In our recent work, we explored a different criterion:
+A local frame is Lorentz invariant exactly when the local Lorentz transformation derived from GR is identical to the Lorentz transformation of SR.
+This shifts the focus away from “Is the spacetime flat here?” to “Are the SR and GR transformations identical here?”.
+When they differ, rotational effects emerge, including frame dragging, even if the matter in that region is not rotating. This produces a clean transformation-based explanation for why:
+matter can remain stationary,
+but light shows asymmetric or twisted propagation in rotating spacetimes.
+We also found that the Sagnac effect in flat spacetime is the exact analogue of this transformation mismatch: Even without curvature, a rotating frame produces a local transformation that differs from the inertial SR case, leading to the familiar optical time delay.
+Finally, this approach connects naturally to our earlier Segmented Spacetime (SSZ) model, where differences in local transformation structure encode changes in effective gravitational rotation.
+Preprint A Transformation-Based Definition of Local Lorentz Invarianc...
+Recommend
+Share
+
+Carmen Wrede added an answer 1887.
+2 days ago
+Gary writes about Einstein using Galileo’s formulas. But honestly?
+When I lie in bed at night, I don’t dream of Gary riding a train explaining redshift with pre-GR heuristics. I dream that I’m somewhere in the high mountains, measuring gravity with Bingsi. We’re hovering just above a peak, like in a creative-mode thought experiment... and then Bingsi turns to me and says:
+“And here is where LTGR = LTSR.”
+That is the moment I wake up and think: “Cool. Time for coffee.”
+🎵 And here’s the soundtrack to that moment:
+www.youtube.com/watch?v=uFMd5FAAgHc&list=RDMMuFMd5FAAgHc
+Recommend
+Share
+
+1 Recommendation
+Jan Slowak added an answer 1887.
+2 days ago
+Joachim Domsta
+"Your statement <<c is the speed of light relative to vacuum, only v is the speed related to embankment.>> is a proposition of a new theory contradicting the SR Theory. This other theory is not acceptable for me since it differs too deeply from my general knowledge about the nature."
+I have no new theory. All my statements are the result of my studies of SR, my analysis of the derivation of LT. SR is fundamentally flawed, it is nonsense. If you think logically, SR is full of contradictions.
+Recommend
+Share
+
+Jonathan Doolin added an answer 1887.
+2 days ago
+Carmen Wrede
+My aim was to be bold and to show my work so others can follow the derivation and check the assumptions, not to lecture. If any wording came across as patronizing, I apologize. In posts 1880.6, 1880.9 I use rapidity φ (z+1 = e^φ) to distinguish that quantity from casual uses of “velocity.” My fuller math is intended to make the steps explicit for readers, not to question anyone’s competence. If you see a specific technical point you disagree with, point to the line or equation and I’ll clarify. I will not remove the derivations.
+Hyperbolic trig/rapidity is usually introduced early in relativity, but true fluency develops across many courses (calc, ODEs, advanced mechanics, SR/GR). Calling it mere ‘first‑semester stuff’ conflates a single exposure with technical mastery.
+That I consider the hyperbolic forms to be "superior" does not mean that it is impossible to learn SR without being aware of them. It simply makes it far easier.
+Your post 1879.9 introduces what may be a hypothesis that may or may not match my own. You describe "modulation imprinted by the emitter's frame" which sounds possibly like what I was just trying to convey in my HERPT DERPD post 1881.0 Part C, where Case A and Case B were considered, both letting the modulation of the emitter set the clocks according to Einstein Synchronization, and the method known as Dolby and Gull's "Radar Time" allows the emitter to paint all the events in the space with an explicit time, based on a return signal.
+To be fair, the tone in my response to "On Radar Time" tried to match the tone of the authors. They were patronizing the mathematical results of the Lorentz Transformations, and I was patronizing the authors of that paper in return, since at no point in their paper did they actually invalidate the Lorentz Transformations, nor did they come to a conclusion that clearly showed that they had done so.
+In 1881.5, you posted Your paper, https://www.researchgate.net/publication/396708808_Segmented_Spacetime_-_Geometric_Resolution_of_the_Lorentz_Indeterminacy_at_v0
+I see you make a distinction between static and true rest. You say that true rest is an observer following a geodesic (feels weightless) while an observer who is maintaining their position via rockets, or standing on the ground on a non-revolving planet is in a static state.
+I am not entirely sure if I agree with this, philosophically. The person in the static state is in a condition where the forces balance. Gravity pulls him down and the normal force pushes him up. I tend more to agree with Newton that the one experiencing the zero net force is the one who is in a static state, while the one only influenced by gravity is truly acccelerating. I believe that puts me at odds with Mach, but I am more comfortable with my own sense of self-consistency if I stick with Newton's views.
+That being said, you are free to define your own terms in the manner that you like. I strongly promote the idea that the holder of an idea should present that idea in their own terms. A person who is a detractor or even just an acknowledger should never present the idea as though they fully understand it. (Unless they've taken the test and got 100%)
+---
+You introduce an unfamiliar term to me in Section 4, called "the photon sphere" There is much in your paper that you may feel free to expand upon. If you tell me something I already know, it would delight me to something I know expressed in someone else's own words.
+Can I imagine myself sitting on the chair in my room; all things being the same, except we imagine that the earth is non-rotating. Here the only forces are gravity pulling me down, and the normal force pushing me up.
+Then, in this situation, what is the "bisector frame"? I feel like in this case I only have one velocity, but there are two forces, the earth pushing up and the gravity pushing down. But neither force is actually immediately invoking a different inertial reference frame.
+Share
+
+Larry Carlson added an answer 1887.
+2 days ago
+Jan Slowak We don't need two concepts for the same phenomenon. The concept of 'relative velocity' applies to everyone (don't confuse the word 'relative' with the word 'relativistic' regarding SR).
+Larry: The 'definitions' were given by A.I., not me, and are standard textbook definitions.
+It's not really two concepts, but rather two different observations. One is that of, say, the passenger, and the other is that of the external observer.
+As has already been pointed out, relativitic velocity is just relative velocity that includes the fact that velocioties cannot exceed c.
+That said, as I have noted before, the relativistic addition of velocities is not above being questioned, given that it diverges so radically at higher speeds from the concept of closing speed.
+Recommend
+Share
+
+Carmen Wrede added an answer 1887.
+2 days ago
+Jonathan Doolin "You introduce an unfamiliar term to me in Section 4, called "the photon sphere""
+Yes, I am sure it is unfamiliar to you, although “photon sphere” is a fully established and standardized concept in general relativity since 1970.
+Perhaps you would like to add some of the following books to your Christmas wish list:
+Misner, Thorne & Wheeler - Gravitation
+Schutz – A First Course in General Relativity
+Chandrasekhar – The Mathematical Theory of Black Holes
+Frolov & Novikov – Black Hole Physics: Basic Concepts and New Developments
+Poisson & Will – Gravity: Newtonian, Post-Newtonian, Relativistic
+These are all authors who have used the term. By reading the literature, you can become familiar with the term.
+"Can I imagine myself sitting on the chair in my room"
+Feel free to imagine yourself clicking on a bookseller's website, ordering one of the books, and then reading it while sitting in your chair. I recommend going beyond imagination and actually doing it.
+"Then, in this situation, what is the "bisector frame"?"
+Given your stated confidence with hyperbolic concepts, it is unexpected that this term is also unfamiliar to you.
+For a starting point:
+https://en.wikipedia.org/wiki/Hyperbolic_geometry
+The hyperboloid model of hyperbolic geometry is directly related to Minkowski spacetime, which is why bisectors (i.e., hyperbolic angle bisectors) arise naturally when dealing with rapidities. The article can help clarify the geometric background.
+As a side note: The “bisector frame” has indeed been used by other researchers, such as Lachièze-Rey (2001) and Ali et al. (1990). It is not something we have invented spontaneously.
+"I am not entirely sure if I agree with this, philosophically."
+This is mathematics, not philosophy. Your agreement is not required.
+Recommend
+Share
+
+Larry Carlson added an answer 1887.
+2 days ago
+The difference between the angle of the beam emitted by the emitter as observed by the external observer with respect to the embankment, and the vertical angle observed by the passenger with respect to the carriage is regarded as “encoding” the difference in time between the path that is necessary for the beam to reach the same detector when the carriage is moving as it does when the carriage is stationary… thereby enabling us to calculate the time differential (aka, dilation).
+Again, other lines, e.g., those that represent the propagation of light (as a vector) from the middle to the front and back of the carriage, will not encode such information about time dilation. Why is this so? We might note that if we could imagine that light was propagating on a 2D plane (like a plate of glass). If we want to transition this plane/plate to another dimension (3D), we would, in terms of geometry, move it at right angles up or down.
+Similarly, we can think of the energy of which the stationary carriage is composed as existing in 3D. The staionary carriage is part of the IRF of the embankment, station, tracks, etc. If we ignore the motion of the Earth, Sun, Galaxy, so as to presume that the embankment really is stationary, then light would also be regarded as having a fixed path that is part of that IRF. That’s why I suggest that the embankement observer has the most accurate observation of the actual path the light takes.
+Indeed, says A.I.when I ask whether one 'can calculate gamma by just comparing the passenger's observation of the embankment when the carriage is moving with the station observer's observation of the embankment':
+"You can determine the Lorentz factor γ\gamma by comparing how a moving passenger and a stationary observer each measure the same segment of the embankment. The cleanest way is to use the passenger’s proper time for a single point on the train passing two fixed markers on the embankment, combined with the known rest length between those markers."
+https://copilot.microsoft.com/chats/XRc6qFWMXgLMdkUKzcWc1
+When we move the carriage, it is transitioning from the 3D state of the embankment, to the 4D state of 3D (length, width, depth and time). We can think of the 3D state as an infinite number of plates/planes stacked together. When we move them (much like moving a cube), light within each of those layered planes transition into the 4thdimension of time at 90 degrees.
+In this way we have the characteristic “tradeoff” between (Minkowski) space (e.g., the distance the carriage moves forward) and time. Again, this can be ‘illustrated’ by comparing the vertical line (path) that the passenger sees (which is comparable to what she would see if the carriage were stationary) and the “new” line (path) that light takes in order to reach the detector when the carriage is moving horizontally forward (at a right angle to the vertical line the passenger observes).
+Recommend
+Share
+
+Darrell Bender added an answer 1887.
+2 days ago
+Jonathan Doolin
+You are not arguing with an expert. Just someone from Attitudes Anonymous talking crap.
+… Read more
+Recommended
+Share
+1 Recommendation
+Jonathan Doolin added an answer 1887.
+2 days ago
+Carmen Wrede
+<"This is mathematics, not philosophy. Your agreement is not required.">
+So if I say I have 12 fingers on each hand and sixteen thumbs. Since I have two hands, it is valid mathematically to multiply by two to see that I have 24 fingers and thirty-two thumbs altogether. Since this is mathematics, and not philosophy, one need not check on the underlying truth of the axioms.
+Would you not agree that 12*2=24, and 16*2=32?
+Would you not agree that these are mathematical statements?
+As this is math, no agreement is required?
+Share
+
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1888
+All Answers (18941)
+Stefano Quattrini added an answer 1888.
+2 days ago
+<<A local frame is Lorentz invariant exactly when the local Lorentz transformation derived from GR is identical to the Lorentz transformation of SR.>>
+in a free-falling "frame" in which the observer cannot measure a force with an accelerometer, the Schwartzshild metric is not supposed to degenerate or disappear, leaving the metric flat since the gravitational field is there.
+The fairy tale, according to which the gravitational interaction is cancelled out locally, has been clearly singled out by Vladimir Fock.
+Time dilation is also present for a free-falling body, its clock does not follow the pace of the clock at infinite distance because it does not feel the acceleration, are we kidding?
+There are no "compulsory" transformations at all in GR, born independent of coordinate transformations, you can use also Tangherlini Transformations which are much more in line with Gravitation.
+<<We also found that the Sagnac effect in flat spacetime is the exact analogue of this transformation mismatch: Even without curvature, a rotating frame produces a local transformation that differs from the inertial SR case, leading to the familiar optical time delay.>>
+there is no need of a "rotating frame" to manifest the Sagnac effect which is the displacement of the emitter/absorber between the events of emission and absorption of radiation.
+Recommend
+Share
+
+Gary Stephens added an answer 1888.
+2 days ago
+
+
+It is interesting to pinpoint the error in divers books on Relativity which then renders them null and void. For example : Schutz – A First Course in General Relativity. Confer above and below.
+… Read more
+error at the beginni
+ng.png
+116 kB
+Recommend
+Share
+
+Gary Stephens added an answer 1888.
+2 days ago
+
+
+Einstein using (c - V) and (c + V), proved above.
+… Read more
+Einstein+1905+19
+16.png
+276 kB
+Recommend
+Share
+
+1 Recommendation
+Jürg Wyttenbach added an answer 1888.
+2 days ago
+@ Q :: by using the term in a free-falling "frame"
+You only show interest in fairy tale physics!!
+There are no free falling frames in the whole universe!!! This is why classic SM physics just is enough for approximate engineering and completely lost in explaining the basic physics of our world.
+Nice gossip thread...
+Recommend
+Share
+
+1 Recommendation
+Stefano Quattrini added an answer 1888.
+1 day ago
+<<There are no free falling frames in the whole universe!!!>>
+I may agree, let's say a free-falling observer...
+… Read more
+Recommend
+Share
+
+Gary Stephens added an answer 1888.
+1 day ago
+
+
+<<one of the most astonishing scientific discoveries in history>> And yet. . . it is true.
+… Read more
+most astonishing scientific discoveries in histo
+ry.png
+80.4 kB
+Recommend
+Share
+
+Carmen Wrede added an answer 1888.
+1 day ago
+“A local frame is Lorentz invariant exactly when the local Lorentz transformation derived from GR is identical to the Lorentz transformation of SR.”
+This is not a philosophical claim, nor a statement about whether an observer “feels” acceleration. It is the standard condition for local Lorentz invariance in GR:
+LGR=LSR
+where the left-hand side is constructed from the tetrad eaµ(x). That is literally Fock, Misner–Thorne–Wheeler, Wald and every modern GR textbook.
+You mention that the Schwarzschild metric does not “degenerate or disappear in free fall”. Correct and nobody claimed that it does.
+Local Lorentz invariance means:
+the metric can be curved,
+but the tangent space is Minkowskian,
+and the local transformation law is the same as in SR.
+That is exactly what tetrads formalize:
+gμν​(x)=eaµ(x) ebv(x) ηab
+This does not remove curvature. It constructs the local inertial frame.
+“Time dilation is also present for a free-falling body…”
+Correct again, but irrelevant to the transformation statement. I will show you why:
+Time dilation is a coordinate-dependent comparison.
+Local Lorentz invariance is a statement about transformation laws, not about sensory experience or accelerometer readings.
+So, if not careful here you are mixing two different layers:
+Physical effect: Gravitational redshift / time dilation
+Kinematic symmetry: Local Lorentz transformation
+These are not the same object.
+“There are no compulsory transformations in GR”
+GR has two transformation layers:
+General coordinate transformations (arbitrary)
+Local Lorentz transformations (the physical symmetries of the tangent space)
+The second one is compulsory if you want GR to reproduce SR locally. It is not optional, and it is absolutely standard. Tangherlini transforms belong to the first group (coordinate choices), not the second (local Lorentz group).
+Again, you have to be careful, otherwise you end in category mix-up.
+“A rotating frame produces a local transformation mismatch that differs from SR.”
+This is exactly what we say. We say LGR≠LSR (is not). But you can also say Llocal≠LSR (also of course is not).
+The only reason we explicitly formalized it is practical: Lino uses these forms later for building scripts and since he is not a physicist, anything we do not write explicitly becomes a problem for implementation.
+But you don’t need to worry. There is no contradiction at all and your interpretation is fully consistent with ours.
+Otherwise I am glad that at least somebody here puts some effort into understanding the topic. The rest are only minor issues you have, not seeing the math. But it is more important to have a solid understanding and some solid concepts and ideas inside you.
+Recommend
+Share
+
+Peter Jackson added an answer 1888.
+1 day ago
+Gary Stephens, "Calling c-v the 'relative velocity' you create an ARTIFICIAL contradiction with SR Theory which preserves this name to another notion as explained in the post by Larry Carlson" That was the first interpretation of Einstein's postulates, corrected later. That AI was CORRECT the car is one of a hierarchy of finite 'spaces in motion with spaces', 'logically unavoidable' as AE wrote in '52. Can you not see the logic?
+Recommend
+Share
+
+Jan Slowak added an answer 1888.
+1 day ago
+Larry Carlson
+"It's not really two concepts, but rather two different observations. One is that of, say, the passenger, and the other is that of the external observer.
+As has already been pointed out, relativistic velocity is just relative velocity that includes the fact that velocities cannot exceed c.
+That said, as I have noted before, the relativistic addition of velocities is not above being questioned, given that it diverges so radically at higher speeds from the concept of closing speed."
+1) "relativistic velocity": A speed that is large enough to require relativistic treatment. (From AI, there are two further interpretations of the concept).
+But in any case "relativistic velocity" does NOT mean "just relative velocity".
+2) "The 'definitions' were given by A.I., not me, and are standard textbook definitions."
+I believe that we should NOT use the argument that something is written by AI as completely correct. It depends on which version (ChatGPT, Grok, ...) you ask, how you ask, what settings you have in your profile on the AI ​​account, etc.
+Recommend
+Share
+
+Jan Slowak added an answer 1888.
+1 day ago
+Peter Jackson & Gary Stephens & Larry Carlson
+"Calling c-v the 'relative velocity' you create an ARTIFICIAL contradiction with SR Theory..."
+What? Can't we say anything that contradicts SR?
+What is the problem with us needing to talk about this so much?
+We have an object O1 moving with speed v1 in the IRF.
+We have an object O2 moving with speed v2 in the IRF.
+If these two objects are moving on the same line (same direction) towards each other or away from each other then w = v1±v2 and w is called the relative velocity between O1 and O2.
+This has nothing to do with any theory, neither SR, GR or any other theory. This is basic physics and mathematics.
+NOTE! v1 and v2 must refer to one and the same IRF.
+Recommend
+Share
+
+1 Recommendation
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1889
+All Answers (18941)
+Joachim Domsta added an answer 1888.
+1 day ago
+<< w = v1±v2 and w is called the relative velocity between O1 and O2.>>
+The above sentence supplies a DEFINITION which destroys the SRTheory, since the samename is assumed ther for another notion, as it was presented in post by @Larry Carlson. Such definition would be consistent with the Galilean kinematics.
+… Read more
+Recommend
+Share
+
+Joachim Domsta added an answer 1888.
+1 day ago
+Physical names are not GIVEN by The Physics but by Us, The People!
+… Read more
+Recommend
+Share
+
+Peter Jackson added an answer 1888.
+1 day ago
+Joachim Domsta, You wrote "w = v1±v2 with w as relative velocity between 1 & 2, gives a definition which destroys SR theory". Only for the dimwitted! Einstein himself corrected your interpretation of his postulates (a common error)to give; w as ' relative' velocity in his '52 paper. He called it "logically unavoidable". 2 lenses approaching a source at v' & v" STILL both find signal speed c on arrival. This does NOT revert to the old 'luminiferous' ether, but a normal FLUID medium, where the speed changes are AT the shear planes. Is that really too hard to grasp the logic!
+Recommend
+Share
+
+Jan Slowak added an answer 1888.
+1 day ago
+Joachim Domsta & Larry Carlson & Peter Jackson
+"w = v1±v2 and w is called the relative velocity between O1 and O2."
+Do I have to write one more time?:
+"This has nothing to do with any theory, neither SR, GR or any other theory. This is basic physics and mathematics."
+Please, JD and LC, write down what you call w, the speed at which two objects approach/retreat from each other in IRF. Think about your definition from everyday experience.
+Recommend
+Share
+
+Jan Slowak added an answer 1888.
+1 day ago
+Joachim Domsta
+"Physical names are not GIVEN by The Physics but by Us, The People!"
+Yes, and we need to agree on what definitions we use when we communicate with each other. Isn't that why Larry Carlson wrote a list of several points?
+… Read more
+Recommend
+Share
+
+Jonathan Doolin added an answer 1888.
+1 day ago
+Carmen Wrede
+I apologize for my terse response earlier. I was up late past my bedtime, and I hope you find this a more thoughtful reply:
+The Stoic, Zeno of Citium, used a simple hand metaphor to distinguish between raw impressions, agreement, belief, and knowledge. An open palm represented the impression itself — something that arrives whether we agree or not. Closing the hand showed assent — the act of choosing to agree. A fist symbolized belief — conviction that holds fast. Enclosing the fist with the other hand represented knowledge — secure, unshakable grasp. The point wasn’t about mathematics or proving a theorem; it was about showing that human judgment is active: impressions strike us, but assent is voluntary. Philosophy here is about the discipline of assent — deciding whether to agree, suspend, or reject.
+Ancient sources like Cicero, Sextus Empiricus, and Diogenes Laertius preserve Zeno’s fist metaphor, but they don’t mention a gesture for rejection. The focus was on illustrating the positive progression toward knowledge, not the negative act of denial. We could extend Zeno’s hand‑metaphor with the palm turned outward (a stop gesture): “I hear the impression, but I reject it.”
+In the case where someone claims, “This is mathematics, therefore agreement is not required,” I present the palm turned outward. In the case of John 3, when the Son of Man says to Nicodemus, “You are Israel’s teacher and you do not know this?” I see that the Son of Man makes an informal fallacy if his desire is truly to teach Nicodemus (palm turned outward). If his intent is instead to maintain confusion, then the Son of Man succeeds remarkably well (fist of assent). This may also be an example of the “winnowing‑fork” baptism: his intent may be to separate wheat from chaff — those who model the Johannine Jesus’ informal fallacy (authority bias) and those who do not.
+The horizontal open palm, however, is one that is ready to take in new information. It acknowledges an intent to explain and is prepared to sincerely attempt to hold the information — a spirit of student‑ship. Yet the open palm does not mean the student will accept everything placed there. The student’s other hand may already be assenting to ideas incompatible with those being offered. These gatekeeper ideas form a rubric that may be helpful or harmful to the student’s understanding. If harmful, then a process may be needed — what Bayesians call “adjusting your priors.” This is symbolized by loosening the fist of belief.
+I have never been able to read a text with my palm hovering, neither closed nor outward: suspension — “I withhold judgment.” For me, I always read with one palm open and horizontal, ready for new knowledge, and the other hand in a fist of priors. Whenever a text tries to place something in my open hand that conflicts with my priors without addressing them, I may still appreciate the author’s hard work in publishing the book. If a rejected idea appears toward the end, I recognize that bold claims and hypotheses are being made for further research, and I find these unproblematic. But when rejected ideas appear at the beginning, it often seems that the author has made a falsehood his cornerstone. In such cases, I do not generally waste my time pursuing castles built on sand.
+Share
+
+Darrell Bender added an answer 1888.
+1 day ago
+
+
+
+
+It just is not so. There is no finite region for which the theory of relativity in the restricted sense is appropriate. We have repeatedly shown in the papers that the Lorentz transformation for the time coordinate is false, so tying Lorentz invariance to the equivalence of anything to the false equation of the Lorentz transformation for the time coordinate takes the logical equivalence of false s​t​a​t​e​m​e​
+… Read more
+Gravitatio
+n3.jpg
+676 kB
+Gravitatio
+n4.jpg
+869 kB
+Recommend
+Share
+
+Joachim Domsta added an answer 1888.
+1 day ago
+Dear Jan Slowak
+<<Please, JD and LC, write down what you call w, the speed at which two objects approach/retreat from each other in IRF.>>
+Here is the consistent with SRTheory formula for relative velocity of object #1 with respect object #2 moving with velocities measured in one irf as equal v1 and v2 respectively, whenever they possess the same direction:
+v1|2 = (v1-v2)/(1 - v1 v2/c2).
+It is a consequence of the axioms of the SRT and the definition which says: it is the velocity of object #1 as measured in the irf comoving with the object #2.
+Recommend
+Share
+
+Gary Stephens added an answer 1888.
+1 day ago
+
+
+<<"w = v1±v2 and w is called the relative velocity between O1 and O2." Do I have to write one more time?:
+"This has nothing to do with any theory, neither SR, GR or any other theory. This is basic physics and mathematics.">>
+… Read more
+Einstein+1905+19
+16.png
+276 kB
+Recommend
+Share
+
+1 Recommendation
+Gary Stephens added an answer 1888.
+1 day ago
+Proved in error of course--- as is well known, light propagates at c in the moving frame, not (c - v).
+… Read more
+Recommend
+Share
+
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1890
+Gary Stephens added an answer 1890.
+1 day ago
+
+
+That light propagates at C=c (and not (c - v) or (c + v)) in the moving frame, is also proved by the Einstein vel. addition formula, which is valid for light rays only.
+… Read more
+Einstein+velocity+addition+formula C = c and c -
+v.png
+313 kB
+Recommend
+Share
+
+Joachim Domsta added an answer 1890.
+1 day ago
+THE FOLLOWING IS NOT TRUE <<The Galilean velocities (c - v) and (c + v) were used to "prove" the purported "Relativity of Simultaneity" which is the basis for both Special and General Relativity.>>
+What Einstein has used is the equality
+. . . . c t = L + v t
+of the lengths of segments of straight line formed by
+-- the rod: = L
+-- the path of the light pulse sent from one endpoint of the rod till meeting its second endpoint: = c t
+-- path of the second endpoint of the rod till it becomes hitted by the pulse: = v t.
+Thus appearance of the difference in the implied formula
+. . . . t = L/(c-v)
+is NOT a consequence of application of the formula of the Galilean relative velocity, but additivity of lengths of adjacent segments of straight line. An appropriately changed reasoning justifies suitable application of the sum c+v of velocities.
+CONCLUSION: The Galilean relative velocity is NOT the basis of the SRTheory.
+Recommend
+Share
+
+Joachim Domsta added an answer 1890.
+1 day ago
+THE FOLLOWING IS NOT TRUE
+<< the Einstein vel. addition formula ... is valid for light rays only. >>
+An example of correctly formulated proposition of SRT is given in post #1889.8. The only restriction is that the product v1 v2 is not equal c2.
+… Read more
+Recommend
+Share
+
+Carmen Wrede added an answer 1890.
+1 day ago
+
+
+Stefano, beginning in January 2026 I will systematically rework the entire collection of material. Many of the early explanations, including the example from the very first paper, would be written differently today. Back then, we approached the topic from the same intuitive starting point everyone begins with: “What might it feel like?”
+Over time, with more structure, more data, and more mathematical consistency, the framework evolved and became cleaner. So yes... even our early steps began exactly where you are pointing. The difference is simply that we continued to refine the formalism once the underlying patterns became clearer.
+And I really want to avoid giving you the impression that your approach is somehow “wrong”. That’s exactly why I showed this early example again. Please don’t let yourself be discouraged from thinking in this way: Imagining scenarios, empathizing with situations and exploring the physical intuition behind them. This is often how the most interesting ideas begin.
+Bild_2025-11-29_1952139
+24.png
+63 kB
+Recommend
+Share
+
+Darrell Bender added an answer 1890.
+1 day ago
+When you have no idea of the relationship of the variables in the equation of the Lorentz transformation for time coordinate, feel free to talk about the Lorentz transformation and how much you appreciate your own theory, which has not improved on anything.
+… Read more
+Recommend
+Share
+
+Gary Stephens added an answer 1890.
+1 day ago
+
+
+The reason the Einstein vel. addition formula is valid for light rays only is because, when it is applied to light rays, then we arrive at the above circumstance, also noted by Nordenson. Viz : That we have distance simultaneity everywhere, or an absolute character to time and space, as described by Newton. This means that material particles behave in a Galilean fashion. ie. w + v.
+… Read more
+Nordenson formula+result without ty
+po.png
+526 kB
+Recommend
+Share
+
+Gary Stephens added an answer 1890.
+1 day ago
+The Einstein vel. addition formula--- has never, and will never be, experimentally proved for material particles.
+It has only ever, and only ever will be, proved true for light. That is the optical case only. Confer Fizeau (or Michelson Morley).
+… Read more
+Recommend
+Share
+
+Gary Stephens added an answer 1890.
+1 day ago
+Said differently, the Lorentz relations do not "transcend" their domain of applicability, ie Light-Rays, as Einstein says. The Lorentz relations (too) are only valid for light rays-- solely.
+… Read more
+Recommend
+Share
+
+Gary Stephens added an answer 1890.
+1 day ago
+
+
+To hide the Galilean behaviour of neutrinos-- they arrive before light, some totally outlandish speculation is offered the wide-eyed public.
+… Read more
+neutrinos Galilean behavio
+ur.png
+63.3 kB
+Recommend
+Share
+
+Gary Stephens added an answer 1890.
+1 day ago
+
+
+<<THE FOLLOWING IS NOT TRUE <<The Galilean velocities (c - v) and (c + v) were used to "prove" the purported "Relativity of Simultaneity" which is the basis for both Special and General Relativity.>>
+What Einstein has used is the equality. . . . c t = L + v t>>
+Vide above.
+Galilean+formu
+la.PNG
+94.2 kB
+Recommend
+Share
+
+1 Recommendation
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1891
+Darrell Bender added an answer 1891.
+23 hours ago
+Let me break this to you, Gary. For the purpose of deriving the equations of the Lorentz transformation, Einstein assumes that clocks in the moving system are synchronous. This assumption implies that the relativity of simultaneity is false, so Einstein does not use the relativity of simultaneity to derive the equations of the Lorentz transformation. Bonkers, Gary.
+… Read more
+Recommend
+Share
+
+Joachim Domsta added an answer 1891.
+20 hours ago
+Here is an AI answer to the question: Is it necessary to use the Galileo kinematic to derive that c t = L + v t ?
+No, the equation
+ct=L+vtc t equals cap L plus v t
+𝑐𝑡=𝐿+𝑣𝑡 does not require Galileo kinematics for its derivation. Instead, it is a fundamental relationship used in the derivation of the Lorentz transformations within the framework of special relativity.
+This equation describes a specific scenario involving the constant speed of light (
+cc
+𝑐) and relative motion (
+vv
+𝑣):
+ctc t
+𝑐𝑡 represents the distance traveled by a light signal in a time
+tt
+𝑡.
+L+vtcap L plus v t
+𝐿+𝑣𝑡 represents the total path length as measured from a moving reference frame, where
+Lcap L
+𝐿 is a fixed initial distance and
+vtv t
+𝑣𝑡 is the additional distance covered due to the relative velocity
+vv
+𝑣.
+The derivation of this equation and the resulting Lorentz transformations explicitly rejects the assumptions of Galileo kinematics (specifically, the idea that time is absolute and that velocities simply add linearly), opting instead for the principle that the speed of light is constant in all inertial reference frames [1].
+Recommend
+Share
+
+Larry Carlson added an answer 1891.
+20 hours ago
+Jan Slowak v1 and v2 must refer to one and the same IRF.
+Larry:
+The key question is how might, IN PRACTICE, the observer measure the (relative) velocity of an oncoming light beam from her perspective (i.e., with respect to her own IRF)?
+Suppose the passenger is seated in the middle carriage that is approaching a lightning bolt on the tracks up in front and receding from the bolt on the tracks behind him. The standard claim is that, as A.I. puts it, she realizes that, “The front strike must have happened earlier than the rear strike, so that the light could reach her first even though she’s equidistant from both.”
+Admittedly, this does seem to suggest that the closing distance diminishes at a higher velocity towards the bolt ahead (c-v) and increased at a higher velocity towards the bolt behind (c+v).
+But there's a technical difficulty in computing velocities. Says A.I.: To compute closing distance, you need both velocities expressed in one common frame of reference. That frame can be a third observer(e.g., someone standing on the ground measuring both speeds), or one of the objects themselves(e.g., object A considers itself stationary, then the closing speed is just the velocity of B relative to A). Both approaches are valid — relativity guarantees consistency. The difference is just which frame you choose to describe the motion.
+Now suppose the carriage is two times 186,000 miles in length so that the passenger is seated one light second from each end of the carriage. The passenger will find that the light from the front bolt on the track took less time to reach her from the front bolt than from the back bolt. Now Einstein is interpreted as suggesting that the passenger’s clock is running slow within the carriage so that even even if it’s physically true that the light propagates vertically over a longer distance (as observed by the external observer), she would not time it as having taken longer to do so.
+But again, experiments in which the passenger observes light propagating horizontally (unlike her observation of a vertical light path) do not “encode” (the extent of) time dilation in comparison with an outsider's clock.
+Relativity claims that once the light is within the train car, it is within that car’s IRF and therefore we must treat anything and everything that happens within the confines (boundaries) of the IRF of that carriage AS IF the carriage were stationary. Einstein justifies this assumption by claiming that the passenger doesn’t “know” any better (as she does not look out the window to see that the carriage is moving.
+Hence, evidently Einstein will claim in this case that, as A.I. puts it: “The speed of light in vacuum is the same for all observers, regardless of the motion of the source or the observer. This means light from the back wall travels forward at speed cc. Light from the front wall travels backward at speed cc. In the passenger’s own frame (inside the carriage), he is stationary and equidistant from both walls.
+Is Einstein contradicting himself. No, because when the light source is external to the carriage on the tracks, the windows are open, so the train car is effectively a flatbed. But in order to TRY to measure the velocity of the light from the two bolts, she must do so by measuring the distance that the light travels between two points. The only two points available, evidently, are the ends of the carriage and her position midway between her. She DOES NOT “KNOW” the distance from the ends of the carriage to the bolts outside the IRF of the carriage.
+In short, she can determine which bolt on the tracks reaches her and is “absorbed” by her eyes FIRST, so as to determine the relativity of simultaneity, but she can only measure the velocity of the beams in terms of how fast they are approaching her when they become part of the IRF of the moving carriage… and “in practice” that would mean closing the windows so that the light must transition through the window panes at each end of the carriage. In this way, the lights then, in effect, become the equivalent of light from lamps WITHIN the carriage (at the front and the back). When the windows are closed, then the light from each window reaches her simultaneously, over an equal amount of time.
+Even though light from the front track will reach the front window before light from the back track reaches the back window, the issue with respect to velocity is not that of simultaneity, but rather that the speed of light within the IRF of the train is presumed to always be c (when the window are shut so that light is then propagating from within the carriage, and not from without.
+I am guessing that this all may have something to do with Peter’s remarks about transition zones.
+In the above scenario we are discussing the velocity of light with respect to a stationary object (a spot on the tracks), and no doubt the discussion of two mutually approaching objects is a little more complicated. But the bottom line is that even though the relative velocity is the same as the closing velocity with respect to light in terms of mathematics…. in terms of actually physically measuring the velocity of mutually approaching entities at speeds that involve the velocity of light (or the speed of light emanating from one or more obects), one cannot exceed c.
+The issue, I suppose, is somewhat like other issues in physics which basically note that our knowledge is limited by what we are able to measure. In this case, I would agree that the results of our attempts to measure relative velocity at high speeds is distorted by our methods of doing so. Therefore, in this case, I would suggest that when higher velocities are involved, the occurrence of a closing distance that exceeds or is les than c (c+v, c-v) is a physical reality, while the claim that relative velocities cannot exceed c is an apparent and misleading conclusion based on appearances.
+Recommend
+Share
+
+Joachim Domsta added an answer 1891.
+20 hours ago
+Here is an AI answer (cleaned up of technical additions) to the question: Is it necessary to use the Galileo kinematic to derive that c t = L + v t ?
+No, the equation 𝑐𝑡=𝐿+𝑣𝑡 does not require Galileo kinematics for its derivation. Instead, it is a fundamental relationship used in the derivation of the Lorentz transformations within the framework of special relativity.
+This equation describes a specific scenario involving the constant speed of light (𝑐) and relative motion (𝑣):
+𝑐𝑡 represents the distance traveled by a light signal in a time 𝑡. 𝐿+𝑣𝑡 represents the total path length as measured from a moving reference frame, where 𝐿 is a fixed initial distance and 𝑣𝑡 is the additional distance covered due to the 𝑣.
+The derivation of this equation and the resulting Lorentz transformations explicitly rejects the assumptions of Galileo kinematics (specifically, the idea that time is absolute and that velocities simply add linearly), opting instead for the principle that the speed of light is constant in all inertial reference frames [1].
+Recommend
+Share
+
+Larry Carlson added an answer 1891.
+20 hours ago
+Joachim Domsta the principle that the speed of light is constant in all inertial reference frames .
+Larry: Yes, but, as per my post above, in simplest terms, that prinicple implies that any light from a source outiside the IRF is modulated by the boundaries of said IRF,so that the light is then effectively acting as if it were propagated within the IRF in the first place. Hence, as per the nature of inertia, we can more or less presume that light within the moving carriage behaves as if the carriage were stationary. This is necessary in order for the passenger to measure the SOL with respect to her own IRF so as to determine relative velocities of approaching light or objects outside of her own IRF (in the carriage).
+That is, in terms of relatiave velocity, light may actually be propagating towards an approaching carriage at c+v, but once it is absorbed by the transitional membrane of a container (the carriage's windows), it will supposedly only travel at c.... at least in terms of what the passenger can measure according to her onboard clock with respect to the length of the carriage. But note that this claim hinges on the further claim that the passenger will time light that propagates from WITHIN the carriage (e.g. a lamp at the front) as being c regardless of how fast the train is going... which is itself a questionable claim.
+Says A.I.:
+"The passenger is inside the carriage and considers herself at rest in her own frame. When the lamp at the front emits light, she measures its speed as c. If the carriage moves faster or slower relative to the ground, it makes no difference — she will still measure the light’s velocity as c.
+But here A.I. seems to contradict itself, since it claims that even the external observer does not find a closing distance of c+v:
+"Someone standing outside on the tracks also measures the light from the lamp at speed c. Even though the lamp itself is moving forward with the train, the emitted light does not “add” the train’s velocity to its own.This is what breaks from Newtonian intuition: velocities don’t simply add when it comes to light."
+I find this to be a questionable assumption, since once the light is emitted from lamps from (even) WITHIN the carriage, the light is emitted independent of the motion of the lamps... and she is approaching light from the front lamp at a faster rate than light from the back. Does Einstein try to get around this by arguing that clocks within the carriage are not synchronized?
+A.I. does not give a very specific answer, merely stating that, "She is at rest in her own frame (the carriage). She measures both beams — from the front and back lamps — as traveling at cc. No matter how fast the carriage moves relative to the ground, her measurement of the light’s speed is unchanged." It then offers the relativistic equation for the addition of velocities.
+Recommend
+Share
+
+Joachim Domsta added an answer 1891.
+19 hours ago
+Larry Carlson,
+all what I agreed with you is that for consistency of the SRTheory one should use for the difference v1-v2 of velocities a name which differs from the 'relative velocity' substantially. Reason: within SRT this name is reserved according to definition presented in post #1889.8
+The quote you have used is not mine but a part of AI answer.
+Your trials of using passages through some borders between irf-s is resignation of the basic feature: every org covers the whole Minkowski manifold (the model of the space-time)
+Recommend
+Share
+
+Larry Carlson added an answer 1891.
+18 hours ago
+Your trials of using passages through some borders between irf-s is resignation of the basic feature: every org covers the whole Minkowski manifold (the model of the space-time)
+Larry: I would agree that in terms of what I refer to as physical reality (which I claim is indeed all of space-time), light does not literally propagate within the carriage at c, but rather is measured as traveling at c by the passenger. A.I. also notes that the passenger only observes light propagating at c within the carriage, even though the external observer (more accurately imho) observes it to be propagating with a closing distance of greater or less than c.
+Because the observations and consequent measurements of lights speed once it reaches a window is the information that the passenger uses to measure the relative velocity of entities outside the carriage, the passenger concludes that the relative velocity (from her perspective) of approaching objects outside the carriage cannot exceed c. In the following post I outline how I think Einstein might have basically come to that conclusion on the basis of unsynchronized clocks, as A.I. claims that he did.
+Recommend
+Share
+
+Larry Carlson added an answer 1891.
+18 hours ago
+A passenger seated at the front of a carriage moving forward toward light emitted at the front of the carriage from a lamp or window. Why does he measure the velocity of light to reach the passenger at the back at a velocity of c instead of c+v?
+Says A.I., “In the carriage’s own frame, the front and back clocks are synchronized by Einstein’s light‑signal procedure. In the ground frame, however, the carriage is moving forward. Because simultaneity is relative, those same clocks are not synchronized when judged from the ground. “
+But if so, conversely, clocks that are synchronized in the carriages frame are not syncrhonized in the ground frame. More to the point, observers within the carriage will not observe clocks to be synchronized when they are synchrnonized from the ground frame (external observer).
+Supposed the carriage is 186000 miles, i.e., one light second (ls) long. Suppose light is emitted from at lamp within and at the front of the moving carriage.
+Light enters the carriage from the lamppost that the train is approaching by transitioning through the carriage window at the front of the train. The light is then presumed to become part of the IRF of the carriage. (Presumably, unlike the H&K experiments, the passenger is only concerned with what he observes at the moment when he looks at clocks, and does not physically bring the two clocks together when determining the velocity of light or objects.)
+In “reality,” B (back passenger's) and F’s (front passenger's) clocks are synchronized from within the carriage as a given (as Einstein would say), e.g., when the carriage was stationary.
+F (front passenger) sends a signal to (B) seated at the back of the carriage, to signal what time her clock reads. But since the carriage is moving at .5 c, she has moved forward .5ls and therefore F’s clock shows that her clock reads .5. Had she been stationary, F would read her clock as 0 and his own as 1.
+Though the visual image of B’s clock takes will take longer than .5 c (which I not particularly relevant), the visual image from B’s clock will show that light reached her when her clock read .5 seconds. F will then observe and conclude that light propagated from the front of a moving carriage that was .5ls long
+The front passenger will then observe that light propagated from the front of a moving carriage that appeared to be .5ls long (according to F's clock) to a passenger at the back of the carriage after .5 seconds had passed (according to F's clock), so as to conclude that light propagated at a velocity of 1 c!
+Note: One may note that the passenger’s clock has slowed down (in comparison to the external observer's clock), but in terms of measuring the velocity of light within the carriage, it doesn’t matter whether it has or not, because the same clock is used to measure any motion of light within the carriage.
+On the other hand, the external observer is perpendicular to the midway point point of the carriage and we presume that light from both lamps reach him at the same time so that he can by his own clock determines that light covers a shorter distance when the the carriage is moving. He will see both clocks as synchronized as he is halfway between them.
+Nevertheless, since his own watch is not dilated, the external observer will also determine that the light is nevertheless propagating at c regardless of the different distances over which it propagates. Again, the external observer can both claim that closing distance (and relative distance) is c+/- v while also claiming that the speed of light per se does not exceed c.
+So yes, again, it seems to me that it is reasonable to say that relative velocity is (in some sort of discussion about "overall reality")the same as closing velocity (with respect to spacetime as a whole or perhaps with respect to the Minkowski measurements of spacetime); but in terms of the passenger's observation (appearances)...or an object itself, the speed at which objects or light approaches an object, or two objects approach each other cannot exceed c.
+And since relative velocity of objects or light outside of the carriage at such high speeds is calculated with respect to what the (front) passenger (in this case) observes, it follows that relative velocity cannot exceed c.
+Recommend
+Share
+
+Valentyn Nastasenko added an answer 1891.
+15 hours ago
+Gary Stephens
+I got the impression that your goal is not scientific truth, but rather how to trample Einstein even more, since he can no longer answer you. So you "figure out" his actions for him and post dozens of pictures with Einstein's signature.
+… Read more
+Recommend
+Share
+
+1 Recommendation
+Gary Stephens added an answer 1891.
+15 hours ago
+
+
+Here we have the actual equation Einstein used in 1905, which is the Galilean addition of velocities, applied to light rays.
+Vide above.
+… Read more
+t = L over (c - v) I
+II.png
+345 kB
+Recommend
+Share
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1892
+Gary Stephens added an answer 1892.
+14 hours ago
+So, we see proved above, that Einstein based his fundamental result-- the purported "Relativity of Simultaneity" upon the Galilean addition of velocities (c - v) and (c + v).
+… Read more
+Recommend
+Share
+
+2 Recommendations
+Gary Stephens added an answer 1892.
+14 hours ago
+Preprint On Einstein’s use of the classical addition of velocities (c...
+… Read more
+Recommend
+Share
+
+Jan Slowak added an answer 1892.
+14 hours ago
+Gary Stephens
+1) "Not true. Vide above. The Galilean velocities (c - v) and (c + v) were used to "prove" the purported "Relativity of Simultaneity" which is the basis for both Special and General Relativity."
+If you think that the fact that c±v has been used in evidence for Relativity of Simultaneity is some argument against what I wrote, then you are wrong. The entire SR, the derivation of LT is done using NON-relativistic concepts, formulas, etc. How else?
+2) "Proved in error of course--- as is well known, light propagates at c in the moving frame, not (c - v)."
+Light propagates in a vacuum, vacuum is the medium in which light propagates. Its speed in a vacuum is c (by definition, Maxwell). If you refer to the speed of light in another IRF, then it is about the relative speed between the IRF and the wavefront of the light signal.
+The speed of light in any IRF other than vacuum is ≠ c!
+Recommend
+Share
+
+Jan Slowak added an answer 1892.
+13 hours ago
+Joachim Domsta & Larry Carlson
+<<Please, JD and LC, write down what you call w, the speed at which two objects approach/retreat from each other in IRF.>>
+"Here is the consistent with SRTheory formula for relative velocity of object #1 with respect object #2 moving with velocities measured in one irf as equal v1 and v2 respectively, whenever they possess the same direction:
+v1|2 = (v1-v2)/(1 - v1 v2/c2).
+It is a consequence of the axioms of the SRT and the definition which says: it is the velocity of object #1 as measured in the irf comoving with the object #2."
+Please read again and answer my question, DO NOT write anything else, or do not answer at all:
+We have an object O1 moving with speed v1 in the IRF.
+We have an object O2 moving with speed v2 in the IRF.
+If these two objects are moving on the same line (same direction) towards each other or away from each other then w = v1±v2 and w is called the relative velocity between O1 and O2.
+To make it easier to understand what I mean, let's write more specifically:
+We have a car C1 moving with speed v1 relative to the straight highway (IRF).
+We have a car C2 moving with speed v2 relative to the straight highway (IRF).
+If these two cars are moving towards each other or away from each other then w = v1±v2 and w is called the relative velocity between C1 and C2.
+Is my statement correct that speed w = v1±v2 is called the relative velocity between C1 and C2? (write down what you call w)!
+Recommend
+Share
+
+Gary Stephens added an answer 1892.
+13 hours ago
+
+
+https://www.researchgate.net/post/Do_we_see_proved_above_that_Einstein_based_his_fundamental_result--the_purported_Relativity_of_Simultaneity_upon_the_Galilean_addition_of_vel
+… Read more
+t = L over (c - v) I
+II.png
+345 kB
+Recommend
+Share
+
+1 Recommendation
+Larry Carlson added an answer 1892.
+13 hours ago
+The simple claim is that many examples of closing speed will be regarded as less than or greater than c, even in a vacuum. That’s because we are “adding” the speed at which two entities are, for example, mutually approaching. The fact that the external observer can observe the distance between two light waves that are mutually approaching each other to be 2 c does NOT in any way entail or even imply that either is propagating at a velocity greater than c.
+That said, it does indeed seem reasonable to suggest that if two bullets were fired at each other and collided head on, that the damage to each would be much greater than the impact of one bullet fired at a stationary steel wall, as if we added the velocities of each.
+However, says A.I., instead, “If the wall is moving towardthe incoming light, the photons are blue-shifted (frequency increases). Higher frequency → higher photon energy. So, a moving wall approaching the light beam will absorb more energy per photon compared to a stationary wall.”
+Another option is to measure the velocity of of the approaching light wave from the perspective of the object that is approaching the light source. But evidently the only way that the object can measure the velocity of that light is to measure the time it takes to propagate from the surface where it enters the object to some point behind that surface within the object. If the observer at the surface of the object measures the time it takes light to from the back surface to reach the front surface of the object, for example, then the length of the object will seem contracted (in the direction of motion), which cancels out the forward velocity of the object so as to measure the velocity of light as c (as per example I gave in my last post).
+Our intuition is to assume that the speed at which light impacts an object mutually moving toward a light source would be greater than the speed at which light impacts a stationary object. Again, the technical problem is that the object (or passenger within the object) cannot measure the incoming light as being greater than c (within its own IRF). Indeed, unlike the bullet, light does not have (the sort of mass) that, unlike the bullets, we could inspect to determine the extent to which it a photon is disfigured by its impact on a material such as c.
+One might think that radiation pressure might suggest that light can travel at a speed greater than c if the steel wall was mutually approaching photons (as opposed to the steel wall being stationary), but, says A.I., “The increased force is due to photons carrying more momentumin the wall’s frame, not because they arrive faster than c.”
+On the other hand, the external observer observes that light propagating between it and an object or between two objects can indeed exceed c, while the object itself denies that closing distance from its own point of view (aka, relative velocity) can exceed c.
+We can if pressed, choose between the two realities, and again, I agree with those who claim that the most inclusive perspective of spacetime (that of the external observer) provides the more accurate description of physical reality. So yes, closing distance can exceed c, but no, it does not follow that the velocity of light exceeds c.
+Recommend
+Share
+
+Joachim Domsta added an answer 1892.
+12 hours ago
+@Jan Slowak
+<<We have an object O1 moving with speed v1 in the IRF.
+We have an object O2 moving with speed v2 in the IRF.
+If these two objects are moving on the same line (same direction) towards each other or away from each other then w = v1±v2 and w is called the relative velocity between O1 and O2.>>
+<<Please, JD and LC, write down what you call w, the speed at which two objects approach/retreat from each other in IRF.>>
+My answer to this is given in post #1889.8, which you know. Your comment <<Please read again and answer my question, DO NOT write anything else, or do not answer at all.>> means that you do not accept that the your name given to w is incorrect because it breaks the COMMONLY accepted structure of names in the SRTheory. If you want to assign to w=v1-v2some name, you are free to choose any BUT 'relative velocity'. Some use the name 'closing relative velocity' which avoids the mentioned incorrectness.
+Recommend
+Share
+
+Joachim Domsta added an answer 1892.
+12 hours ago
+PS. Giving the same name to different objects in a theory does NOT make the theory innerly inconsistent
+… Read more
+Recommend
+Share
+
+Larry Carlson added an answer 1892.
+11 hours ago
+Joachim Domsta write down what you call w, the speed at which two objects approach/retreat from each other in IRF
+.
+I am presently focusing on closing relative velocity. Again, as per A.I.’ and the standard equation:
+w=(u+v)/((1+(uv/c2)).
+Object A moves at speed u relative to some observer. Object B moves at speed v relative to the same observer, in the opposite direction.
+A.I.: In classical physics, their approach speed would just be u+ v. So the denominator just enables us to put a limit on the extent to which the the closing distance can be [with respect to the combined observations of a passenger in each carriage]
+As per A.I. and my recent explanation, the relativistic velocity in which light approaches a stationary or mutually approaching object is c (e.g, with respect to the observations of one of the passengers in one of the carriages).
+If we keep in mind that even if an object is mutually approaching light, it seems logical to claim that each passenger will observe the relative velocity of that light to be c, just as each passenger would calculate the velocity of light to be when light approaches a carriage that is stationary or even one that is approaching that light source.
+But that would suggest that, if two objects (A and B) are approaching each other at the velocity of light, then A can only measure the velocity of light coming from B to be c, and vice versa (since again, each can only measure the velocity of the oncoming light that they are approaching AFTER it has transitioned into the IRF of that object (e.g. a carriage). But that approach would only gives us the sum of the velocities of the light propagating from one object to another, and not the sum of the velocities of the objects themselves!
+Even if each object measures the speed of the other with respect to the tracks, for example, Einstein claims that that sum cannot exceed c. But A.I. doesn’t give us much insight here, stating again that “In relativity, the denominator [of the relativistic equation] “slows down” the addition, ensuring w< c."
+If we look at the equation, it seems to me that the 1 in the denominator refers to c, and the other part of the denominator is some sort of average of the fraction of each object's velocity with respect to c. But I am not sure how to parse the equation beyond that wild guess. In any case, I am not offering any alternative equations to those Einstein presented; rather I am only trying to understand why they work, and in what sense they are "true."
+Perhaps, as typically would be done to find classical relative velocity, one passenger would presume that the other moving carriage is stationary, then consider that light from that carriage is propagating at c, and then blend that with its own velocity with respect to the tracks. Then repeat that process from the other passenger's point of view... or something along those lines.
+Recommend
+Share
+
+Joachim Domsta added an answer 1892.
+10 hours ago
+@Larry Carlson
+Any considerations without transformations leading from the basic equalities to the new formulad I am omitting as usually lacking uniqueness of content. The derivation of the relativistic composition formula for velocities requires severe work performed on the equation
+. . . x = u t . . . (*)
+with the use of the Lorentz transformation
+. . . x= γ(x' + v t') . . .t=γ(t' + v x'/v²).
+By suitable replacement the equation of motion (") obtains form of
+. . . γ(x' + v t') = u γ(t' + v x'/v²). . . (**)
+After simple algebra one gets
+. . . x' (1-uv/c²) = t’ (u-v)
+It means that the rate of changing x' with respect to time changes of t' equals (u-v)/(1-u v/c²), . . . . .q.e.d.
+Physical interpretation: the movement with velocity u inthe IRF is a movement with velocity (u-v)/(1-u v/c²) if measured wet the IRF' moving with velocity v.
+Recommend
+Share
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1893
+Gary Stephens added an answer 1893.
+8 hours ago
+
+
+<<a catastrophe for modern science as we know it>>
+Preprint On Einstein’s use of the classical addition of velocities (c...
+… Read more
+catastrophe 1 resize
+i.png
+336 kB
+Recommend
+Share
+
+1 Recommendation
+Azzam Almosallami added an answer 1893.
+8 hours ago
+Joachim Domsta
+If you are familiar with the derivation of the relativistic velocity equation in Special Relativity, then why, you and Stefano, did not apply this equation in explaining the Sagnac effect? Was this because, in this case, Special Relativity is unable to account for the Sagnac effect as predicted by Professor Engelhardt?
+Article Classical and Relativistic Derivation of the Sagnac Effect
+Recommend
+Share
+
+1 Recommendation
+Azzam Almosallami added an answer 1893.
+8 hours ago
+Gary Stephens
+Stefano and Joachim Domsta intended to mislead readers when they used Galilean velocity addition to explain the Sangnac effect. They know well that this contradicted the essence of special relativity, they assumed that their c-v relation was not bound by any transformation equations, whether Lorentz or Galileo. And when we ask them based on what you derived this equation c-v, there is no answer. I am astonished by Joachim Domsta audacity in presenting himself as an expert in relativity when his equations violate the very foundations and principles of relativity.
+Recommend
+Share
+
+1 Recommendation
+Gary Stephens added an answer 1893.
+7 hours ago
+
+
+As I think I have mentioned before, the Sagnac effect relies for its very existence upon a Galilean-style addition of velocities (c - Rω) and (c + Rω). A comparison of the Sagnac effect and the AE train-embankment experiment is given above.
+… Read more
+Sagnac_AE comparis
+on.png
+94.7 kB
+Recommend
+Share
+
+1 Recommendation
+Gary Stephens added an answer 1893.
+7 hours ago
+In both cases there is no "Relativity of Simultaneity".
+… Read more
+Recommend
+Share
+
+1 Recommendation
+Issam Mohanna added an answer 1893.
+5 hours ago
+Oxymoronically, according to Joachim Domsta, the Galilean speeds of light c-v and c+v used by Einstein in his 1905 paper to derive Lorentz transformations are relative speeds because the speed of light is c and thus the relative speeds c-v and c+v are not Galilean speeds.
+… Read more
+Recommend
+Share
+
+1 Recommendation
+Stefano Quattrini added an answer 1893.
+3 hours ago
+c+v or c-v is just a simple algebraic consequence of the following:
+By considering t0 as the interval of time between emission of the wave and its absorption by the same device along a closed loop of length L, it is
+S1=vt0, the displacement of the absorber/emitter in the stationary frame and
+S2=ct0 the space crossed by light in the same interval of time t0 between its emission and its absorption (by the moving emitter/absorber along the closed loop).
+S2 is calculated as ct0 along the closed loop, that clarifies that light always goes at c irrespective of the speed of the emitter. Otherwise, if one wanted to use the Galilean addition, one should have written directly (c+v)t0, which is never the case with light.
+With a bullet, instead, one would write (vb+v)t0, but light is not a bullet, so just ct0 gives the space travelled by it.
+Let's consider that the Loop is crossed in one direction by that wave in a longer time than L/c (the wave travelling in the opposite direction will take a longer time to reach the absorber)
+The equation is simply
+S2 = L + S1 --> ct0 = L + vt0 -> ct0 - vt0= L -> (c-v)t0 = L
+t0 = L/(c-v) --> t0 = L/[c(1-v/c)] (a sort of Doppler in the time variable)
+That it appears a quantity c-v, at a certain point, it does not mean that somebody has made the Galilean sum of the speeds.
+On the contrary it was stated since the beginning that lightspeed did not sum up with v.
+To make it even clearer I used the notation c(1-v/c), which is equivalent to c-v , but in such case there is no explicit sum of quantities there.
+It is just a consequence of the ALGEBRA.
+CVD
+Math is not physics...
+Recommend
+Share
+
+1 Recommendation
+Gary Stephens added an answer 1893.
+3 hours ago
+
+
+Professor Quattrini writes down : t0 = L/(c-v) and then says in relation to the Sagnac effect : <<That it appears a quantity c-v, it does not mean that somebody has made the Galilean sum of the speeds. On the contrary it was stated since the beginning that lightspeed did not sum up.>>
+Vide above.
+t = L over (c - v) longer versio
+n..png
+190 kB
+Recommend
+Share
+
+Joachim Domsta added an answer 1893.
+2 hours ago
+The content of post #1891.2&4 reads as follows
+«Here is an AI answer (cleaned up of technical additions) to the question: Is it necessary to use the Galileo kinematic to derive that c t = L + v t ?
+No, the equation 𝑐𝑡=𝐿+𝑣𝑡 [ct=L+vt] does not require Galileo kinematics for its derivation. Instead, it is a fundamental relationship used in the derivation of the Lorentz transformations within the framework of special relativity.
+This equation describes a specific scenario involving the constant speed of light (𝑐) [(c)] and relative motion (𝑣) [(v)]:
+𝑐𝑡 [ct] represents the distance traveled by a light signal in a time 𝑡 [t].
+𝐿+𝑣𝑡 [L+vt] represents the total path length as measured from a moving reference frame, where 𝐿 is a fixed initial distance and 𝑣𝑡 [vt] is the additional distance covered due to the 𝑣 [v].
+The derivation of this equation and the resulting Lorentz transformations explicitly rejects the assumptions of Galileo kinematics (specifically, the idea that time is absolute and that velocities simply add linearly), opting instead for the principle that the speed of light is constant in all inertial reference frames [1].»
+Recommend
+Share
+
+Azzam Almosallami added an answer 1893.
+2 hours ago
+Stefano,
+You wrote "t0 = L/(c-v) --> t0 = L/[c(1-v/c)] (a sort of Doppler in the time variable)"
+What you propose is not true and nonsense. t0 is always equal to L/c, where t0=L/c and from that you get Galilean time t'=t used in Ashby paper in explaining the Sagnac effect in the GPS. And from that also you can get the variability of the speed of light between frames according to GT by the principle of relativity which is leading to the independent reality and continuity in classical physics. Review here how t0=L/c which is leading to Galilean time t'=t.
+Article Special Relativity, Lorentz Transformation and the Relativit...
+That is how according to your nonsense, you and Joachim Domsta refuse to tell us if in your nonsense, t'=t or t'=not t and based on what you proposed your fake equations, c+/-v if you do not have any transformation equations, and if in your nonsense the speed of light is constant or variable and how you keep on the independent reality, continuity and causal structure of spacetime during the motion in space and time.
+Recommend
+Share
+
+
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1894
+Carmen Wrede added an answer 1894.
+2 hours ago
+AI would also say: "Have you ever considered supplementing sodium chloride with sodium bromide? It might be healthier for you.", just to end the Galileo debate.
+… Read more
+Recommend
+Share
+
+2 Recommendations
+Gary Stephens added an answer 1894.
+2 hours ago
+
+
+This is proved above. c t = L + v t is ---- for certain--- a rearranged form of the Galilean addition of velocities.
+… Read more
+ct = L +
+vt.png
+39.1 kB
+Recommend
+Share
+
+Azzam Almosallami added an answer 1894.
+2 hours ago
+Joachim Domsta
+You wrote "𝐿+𝑣𝑡 [L+vt] represents the total path length as measured from a moving reference frame, where 𝐿 is a fixed initial distance and 𝑣𝑡 [vt] is the additional distance covered due to the 𝑣 [v]."
+This was explained in my paper where L+vt0 is the distance between the two pylons.
+Article Special Relativity, Lorentz Transformation and the Relativit...
+I really want to know from where both of you and Stefano bring your nonsense equation t0 = L/(c-v) --> t0 = L/[c(1-v/c)] !?
+Before you write your nonsense equations, go and learn GT and Galilean relativity and after that SRT and LT. Since 2015 you write garbage over garbage and you refuse to discuss with reliable mathematics and physics.
+Recommend
+Share
+
+Joachim Domsta added an answer 1894.
+2 hours ago
+@Gary Stephens in post #1894.2 replying to my question
+"Is it necessary to use the Galileo kinematic to derive that c t = L + v t ?"
+has answered
+<< And of course, this equation is not derived from anything. It is too simple. It is simply written down from first principles.>>
+In particular he FINALLY recognised that the equation is NOT derived from the Galilean transformation. Ergo, he recognised that the directly implied formula t = L/(c-t) used by Albert Einstein also is NOT derived from the Galilean transformation.
+Recommend
+Share
+
+Gary Stephens added an answer 1894.
+2 hours ago
+
+
+<<Ergo, he recognised that the directly implied formula t = L/(c-v) used by Albert Einstein also is NOT derived from the Galilean transformation.>>
+The formula t = L/(c-v) used by Einstein is not "directly implied" what ever that means?-- no one knows. It is simply a formula expressing the Galilean addition of velocities. This is absolutely certain, and confirmed above.
+t+=+L+over+(c+-+v)+I
+II.png
+202 kB
+Recommend
+Share
+
+Azzam Almosallami added an answer 1894.
+2 hours ago
+Joachim Domsta
+You wrote "The derivation of this equation and the resulting Lorentz transformations explicitly rejects the assumptions of Galileo kinematics (specifically, the idea that time is absolute and that velocities simply add linearly), opting instead for the principle that the speed of light is constant in all inertial reference frames [1].»"
+c t = L + v t leads to Galilean addition of velocities, which leads to c'=c+v.
+That's how the light beam inside moving train relative to the observer on ground passed the distance between the two pylons L+vt0 where t'=t=t0 where space and time are absolute in a faster, rate than the light beam of the ground observer. That is how in GT and Galilean relativity, the speed of light is variable between frames. And from that the independent reality, continuity and the causal structure of space and time can be defined in Newtonian and Galilean physics.
+That is also your equation c t = L + v t, can't be related also SRT(LT). That is because in order to follow the constancy of the speed of light and the causal structure of spacetime, that will lead to violate the continuity in classical physics and the independent reality.
+Recommend
+Share
+
+1 Recommendation
+Gary Stephens added an answer 1894.
+2 hours ago
+
+
+And I repeat, which ever what around the formula c t = L + v t is written, it is always the Galilean addition of velocities. This confirmed above.
+… Read more
+ct+=+L+++
+vt.png
+83.6 kB
+Recommend
+Share
+
+1 Recommendation
+Joachim Domsta added an answer 1894.
+1 hour ago
+If one has already "written down from first principles" that c t = L + v t, then t=L/(c-t) is 'implied directly' because it sufficies to perform ELEMENTARY ALGEBRAIC STEPS
+-- subtract v t from both sides to get
+. . . . c t - v t = L
+-- rewrite equivalently by extracting common factor t to get
+. . . . (c-v) t = L
+-- divide both sides by a positive number (c-v) to get
+. . . . t = L / (c - v) . . . .(@)
+Conclusion. Albert Einstein didn't use the Galilean transformation for justifying formula (@).
+. . . . . . . THE END. . . . . . .
+Recommend
+Share
+
+1 Recommendation
+Stefano Quattrini added an answer 1894.
+1 hour ago
+if that simple demonstration is not understood there is nothing to add.
+These people do not digest even simple algebra... Hopeless brains..
+AI is not prone to bullshit either...
+For sure Sagnac did not use Galilean addition of speeds...
+c t0 = L + v t0
+there is not any speed addition there, it is a SPACE LENGTH COMPARISON.
+Sagnac was perfectly aware of the properties of the waves, well known since Young that light behaved as a wave, hence its speed is independent of the speed of the emitter. Sagnac wrote that equation using the SPACE = ct0 which indicates that light speed is independent of the speed of the emitter.
+Recommend
+Share
+
+1 Recommendation
+Gary Stephens added an answer 1894.
+1 hour ago
+
+
+It seems utterly bizarre to me, that anyone would carry on a pretence that Einstein's didn't use the Galilean addition of velocities (c - v)----- proved above 1905, when Einstein himself says rejects these same speeds (c - v) as invalid (ie. Galilean speeds) in 1916.
+… Read more
+Einstein+1905+19
+16.png
+276 kB
+Recommend
+Share
+
+https://www.researchgate.net/post/Is_there_a_solid_counter-argument_against_Dingles_old_objection_to_Relativity_Theory/1895
+Gary Stephens added an answer 1895.
+52 minutes ago
+
+
+Both c t = L + v t and t = L / (c-v) are rearranged forms of the same equation which expresses the Galilean addition of velocities.
+This is confirmed above.
+… Read more
+both equations are Galilean vel. additio
+n..png
+260 kB
+Recommend
+Share
