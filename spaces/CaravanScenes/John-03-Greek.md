@@ -1,3 +1,4 @@
+---
 Echo-Filepath: none
 Local-Filepath: spaces/CaravanScenes/John-03-Greek.md
 Repository-Source: none
@@ -39,7 +40,7 @@ Promotion-Rubric-Specific:
     score: 44.4
     title: "Chapter 3"
     note: "Uploading 16/36 verses"
-
+---
 
 ### John 3:1–2 – Reverence of Nicodemus
 | V/St   | Greek (Translit.) | Greek (Original) | English Gloss        | Grammar   |
