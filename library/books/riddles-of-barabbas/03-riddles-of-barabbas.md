@@ -1,7 +1,7 @@
 ---
 Filename: /library/books/03-riddles-of-barabbas.md  
 Ultimate-Target-Directory: /library/books/  
-Intent: ASCII-compatible conversion of "The Riddles of Barabbas" Rhyming heuristic analysis of John 2   
+Intent: ASCII-compatible conversion of "The Riddles of Barabbas" Rhyming heuristic analysis of John 3   
 Version: v1.0.0  
 Prev-Version: none  
 Author: Jonathan Doolin / good4usoul-caene  

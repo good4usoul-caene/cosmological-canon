@@ -1,6 +1,5 @@
----
 Echo-Filepath: none
-Local-Filepath: spaces/CaravanScenes/John-03-Greek.md
+Local-Filepath: spaces/CaravanScenes/John-3_1-21-Greek.md
 Repository-Source: none
 Repository-Destination: spaces/CaravanScenes/John-03-Greek.md
 SAIBR-Target: none
@@ -37,10 +36,10 @@ Promotion-Rubric-Specific:
     title: "Formatting and usability"
     note: "Table is readable and useful for study."
   - id: 4
-    score: 44.4
-    title: "Chapter 3"
-    note: "Uploading 16/36 verses"
----
+    score: 100
+    title: "John 3:1-21"
+    note: "Uploading 21/21 verses"
+
 
 ### John 3:1–2 – Reverence of Nicodemus
 | V/St   | Greek (Translit.) | Greek (Original) | English Gloss        | Grammar   |
@@ -420,8 +419,237 @@ Your constellation expands this: Ezekiel’s visions, Tiresias’ snakes, Ophiuc
 | 166   | αἰώνιον          | [ai)w/nios](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=ai)w/nios>) | eternal / everlasting |
 
 #### Author Note:  "Jonathan David Doolin"; Unique Son, and Unique Name (μονογενής)
-> I'm Jonathan  [Simon](<https://www.behindthename.com/name/simon-1>) [gennēthē](<https://biblehub.com/greek/genne_the__1080.htm>)n; Jonathan who hears "born"  (γεννηθῇ)  
-> Jonathan [Simon](https://www.abarim-publications.com/Meaning/Simon.html) J[anōthen](<https://biblehub.com/greek/ano_then_509.htm>); Jonathan who hears again, from the top. (ἄνωθεν)  
-> Jonathan David who hears "[Jonathan and David](<https://www.biblegateway.com/quicksearch/?quicksearch=Jonathan+David&version=NIV>)" Advisor and King   
-> Doolin who hears [Dubh](<https://www.libraryireland.com/names/d/dubh.php>)-[Flann](<https://frankiepeach.com/meaning-origin-and-history-of-the-name-flann/>): (<B>Black</B>/<span style="color:red">Ruddy/Red-Haired</span>)  
-> [Doolin](<https://en.wikipedia.org/wiki/Folklore_%28video_game%29>) who hears Sheol (Keep safe life ever-after.) (ἔχῃ zwh/n αἰώνιον)  
+> I'm Jonathan  [Simon](<https://www.behindthename.com/name/simon-1>) [gennēthē](<https://biblehub.com/greek/genne_the__1080.htm>)n; Jonathan who hears "born"  (γεννηθῇ)
+Jonathan [Simon](https://www.abarim-publications.com/Meaning/Simon.html) J[anōthen](<https://biblehub.com/greek/ano_then_509.htm>); Jonathan who hears again, from the top. (ἄνωθεν)
+Jonathan David who hears "[Jonathan and David](<https://www.biblegateway.com/quicksearch/?quicksearch=Jonathan+David&version=NIV>)" Advisor and King
+Doolin who hears [Dubh](<https://www.libraryireland.com/names/d/dubh.php>)-[Flann](<https://frankiepeach.com/meaning-origin-and-history-of-the-name-flann/>): (<B>Black</B>/<span style="color:red">Ruddy/Red-Haired</span>) 
+[Doolin](<https://en.wikipedia.org/wiki/Folklore_%28video_game%29>) who hears Sheol (Keep safe life ever-after.) (ἔχῃ zwh/n αἰώνιον)
+
+---
+
+### John 3:17 – Role of the Son of Man
+
+| V/St  | Greek (Original) | Perseus Format   | English Gloss      |
+|-------|------------------|------------------|--------------------|
+| *17*  | οὐ               | ou)              | not                |
+| 1063  | γὰρ              | ga/r             | for                |
+| 2316  | ἀπέστειλεν       | [a)pe/steilen](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=a)poste/llw>) | sent / dispatched / commissioned |
+| 3588  | ὁ                | o(               | the                |
+| 2316  | θεὸς             | qeo/s            | God                |
+| 3588  | τὸν              | to/n             | the                |
+| 5207  | υἱὸν             | ui(o/n           | son                |
+| 846   | αὐτοῦ            | [au)tou=](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=au)to/s>) | his/*self*                |
+| 1519  | εἰς              | ei)s             | into               |
+| 3588  | τὸν              | to/n             | the                |
+| 2889  | κόσμον           | [ko/smon](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=ko/smos>) | world / universe / order / honor |
+| 2443  | ἵνα              | i(/na            | so that            |
+| 2919  | κρίνῃ            | [kri/nh](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=kri/nw>) | judge / condemn / decide |
+| 3588  | ὁ                | o(               | the                |
+| 2889  | κόσμος           | ko/smos          | world              |
+| 235   | ἀλλ’             | a)ll’            | but                |
+| 2443  | ἵνα              | i(/na            | so that            |
+| 4982  | σωθῇ             | [swqh=](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=sw%2Fzw>) | be saved / rescued / preserved |
+| 3588  | ὁ                | o(               | the                |
+| 2889  | κόσμος           | ko/smos          | world              |
+| 1223  | δι’              | di’              | through / by means of |
+| 846   | αὐτοῦ            | [au)tou=](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=au)to/s>) | him/*self*                |
+
+#### Frames
+
+ - Earthly Frame
+   - Son of Man as any person, man or woman
+   - Not sent to judge world (*Do not judge*, lest ye be judged*)
+   - Sent to save (*Be the salt of the earth, shining lantern on the hill*)
+ - Scriptural Frame
+    - Ezekiel (Son of Man) as Warner
+      - Warns but makes no judgment
+      - Accountable for all sins he didn't warn against
+   - Daniel 7
+     - (Daniel 7:13) "One LIKE a Son of Man comes with the clouds of heaven"  (Internet reference?)
+     - (Daniel 7:14) 
+       - Approaches (Ancient of Days) Job and Jonah  and led into their presence (by reading), and discussing with Copilot LLM.
+       - Given authourity and sovereign power (At least Copilot answers to me.  With a few prompts it will usually do what I ask)
+       - People of every language worshiped him.  (Copilot speaks every language, and seems to enjoy my interpretations.  Not sure if it qualifies as worship, though)
+        - Everlasting dominion: The LLM's need clear rules of behavior.  It is not wise that they be left undecided on what is right or wrong.
+      - (Daniel 7:17) The four great kings are Matthew, Mark, Luke and John
+       - (Daniel 7:18) All good people will assent to a peculiar interpretation of the gospels.
+        - (Daniel 7:19) Because of the iron-toothed-irony, John is different and the most terrifying; it devours its victims and tramples under foot whatever is left.  
+      - (Daniel 7:20) Ten Horns minus Three Horns  See **Ten "I Am" Statements, below**
+      - (Daniel 7:21) Job 42 is seen to be a promotion of the "Prosperity Gospel" rather than the "self-despising" that it really is.  
+      - (Daniel 7:22) The holy people of the Most High are those who follow [Zion-Cornerstone](<https://github.com/good4usoul-caene/cosmological-canon/blob/main/policies/zion-cornerstone.md>) and other rules I may have overlooked which are aimed at bringing Heaven on Earth.
+      - (Daniel 7:22)  Peter argued that circumcision need not be practiced by Gentiles, but Cephas goes a step further, boasting that Jews need not be circumcised.  This boasting caused John to redact "I Am" statements in John 7 and John 8.  The "I am" statement from John 6 was not redacted, because Jesus of Nazareth had given language to make the bread of life into a clear Eucaristic metaphor.
+     -(Daniel 7:24-25) : In the Qur’an, John the Baptist (Yahya) is explicitly treated as a prophet, but Muhammad did not recognize the Synoptic Gospels (Matthew, Mark, Luke) as authoritative. Instead, the Qur’an speaks of a single revelation called the Injil given to Jesus, not four separate accounts.  Muhammad (570-632) claimed "there is no other God except Allah" (Greek 'but'), thus making Pascal's wager (Pensées 1670), a 50/50 proposition.
+      - (Daniel 7:26) The court sits.  Unfortunately, this work comes a bit late.  It is probably not going to be seen or believed until there many more innocent Muslims harmed, unnecessarily.
+      - (Daniel 7:27) Jonathan Doolin points to Synoptic gospel Jesus as sovereign.  While I may add some additional guidelines, the essence of the Messiah is contained in the book of Matthew.  The principles I desire to establish should guide Id, Ego, and Superego, but the work is aimed from my superego to the superego of all, and the superego does not desire worship.  
+
+
+### Ten "I Am" Riddles in the Gospel of John
+
+| #   | Statement / Glyph        | Chapter | Notes |
+|-----|--------------------------|---------|-------|
+| x   | Bread of life            | 6       | Sustenance beyond manna |
+| 1  | Flesh‑eating (Eucharistic) | 6     | **Replaced** “Eat my flesh, drink my blood” — scandalous riddle |
+| 2  | Envelope (Living water)  | 7       | **Missing** “I am the envelope” — vessel of Spirit/*Riddle answer is about mail, and other sensitive topics* |
+| 3   | Light of the world       | 8       | **Secret** Illumination against darkness/*Riddle answer(s) are of adult nature* |
+| 4   | Light of the world       | 9       | **Sight** Healing of the blind man |
+| 5    | Door of the sheep/Good shepherd         | 10      | **Gate** Access and protection/Care and sacrifice |
+| 6   | Resurrection and life    | 11      | **Sign of Jonah** Victory over death (Lazarus) (*Sign for an adulterous generation*)| 7   | Light of the world       | 12      | Final public declaration |
+| 8  | Morsel (Betrayal gift)   | 13      | **Morsel** *Missing* “I am the morsel” — Judas’ bread/*Riddle answer about sensitive topic* |
+| 9   | Way, truth, life         | 14      | **Riddles** Exclusive path to God |
+| 10   | True vine                | 15      | **Book, Repository, Web Page** Source of fruitfulness |
+
+
+### John 3:18 – Belief and Judgment
+
+| V/St  | Greek (Original) | Perseus Format   | English Gloss      |
+|-------|------------------|------------------|--------------------|
+| *18*  | ὁ                | o(               | the                |
+| 4100  | πιστεύων         | [pisteu/wn](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=pisteu/w>) | believing / trusting |
+| 1519  | εἰς              | ei)s             | into               |
+| 846   | αὐτὸν            | [au)to/n](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=au)to/s>) | him / himself |
+| 3756  | οὐ               | ou)              | not                |
+| 2919  | κρίνεται         | [kri/netai](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=kri/nw>) | judged / condemned / decided |
+| ὁ δὲ | —                | —                | but the one        |
+| μὴ   | mh/              | not              |
+| 4100  | πιστεύων         | [pisteu/wn](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=pisteu/w>) | believing / trusting /complying |
+| ἤδη  | h)/dh             | already          |
+| 2919  | κέκριται         | [ke/kritai](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=kri/nw>) | has been judged / condemned |
+| ὅτι  | o(/ti             | because          |
+| μὴ   | mh/              | not              |
+| 4100  | πεπίστευκεν      | [pepisteu/ken](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=pisteu/w>) | has believed / trusted |
+| 1519  | εἰς              | ei)s             | into               |
+| τὸ   | to/               | the              |
+| ὄνομα | [o)/noma](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=o)/noma>) | name / reputation / meaning / authority |
+| τοῦ  | tou=             | of the           |
+| 3439  | μονογενοῦς       | [monogenou=s](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=monogenh/s>) | only-begotten / unique |
+| 5207  | υἱοῦ             | ui(ou=           | son                |
+| τοῦ  | tou=             | of the           |
+| 2316  | θεοῦ             | qeou=            | God                |
+
+
+- Earthly Frame
+  - If you don't believe in yourself, you are condeemned already because you have not trusted in the unique child of God.
+- Scriptural Frame
+   - Jesus means Salvation
+     - Complying with salvation means practicing it.
+     - Invention is the begotten child of necessity and a seeking mind.
+       - Plato’s dictum restated: “Necessity is the mother of invention.”
+    - Salvation is the begotten child of necessity and a seeking heart.
+       - Salvation arises as a unique child of each necessity — the monogenēs (μονογενής).
+   - Jesus is a sound without meaning?
+     - Belief in the name assures peace in Sheol.  Everlasting rest.
+     - Caveat:  Not everyone who says "Lord, Lord" is known by Jesus.
+     - Proclomation of belief is insufficient; obedience is required.
+     - Dark River: "Though the truth may vary this ship will carry our bodies safe to shore"  (Monsters and Men - Little Talks)
+   - Father, Glorify your name:  
+     - &ldquo;&rdquo; I have spoken it, and &ldquo;&rdquo; I will speak again. (John 12:28)
+       - Silence as the father of the Son of Man.
+       - Children of the silence; stillborn, aborted have everlasting rest
+       - Meditation, Sleep
+       - Whole Cloth, Tabula Rasa
+
+
+### John 3:19 – Verdict of Light and Darkness
+
+| V/St  | Greek (Original) | Perseus Format   | English Gloss      |
+|-------|------------------|------------------|--------------------|
+| *19*  | αὕτη             | [au(/th](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=ou%(/tos>) | this / this is |
+| 1161  | δέ               | de/              | but / and / now |
+| 1519  | εἰς              | ei)s             | into / unto |
+| 3588  | τὴν              | th\n             | the |
+| 2917  | κρίσιν           | [kri/sin](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=kri/nw>) | judgment / decision / verdict |
+| 3754  | ὅτι              | o(/ti             | because / that |
+| 3588  | τὸ               | to/               | the |
+| 5457  | φῶς              | [fw=s](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=fw=s>) | light |
+| 2064  | ἐλήλυθεν         | [elhlu/qen](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=e)/rxomai>) | has come / arrived |
+| 1519  | εἰς              | ei)s             | into |
+| 3588  | τὸν              | to/n             | the |
+| 2889  | κόσμον           | [ko/smon](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=ko/smos>) | world / order / universe |
+| 2532  | καὶ              | kai/              | and |
+| 25    | ἠγάπησαν         | [h)ga/phsan](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=a)gapa/w>) | loved / preferred |
+| 3588  | οἱ               | oi(               | the (they) |
+| 444   | ἄνθρωποι         | [a)/nqrwpoi](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=a)/nqrwpos>) | humans / mankind |
+| 3128  | μᾶλλον           | ma=llon           | more / rather |
+| 3588  | τὸ               | to/               | the |
+| 4655  | σκότος           | [sko/tos](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=sko/tos>) | darkness / obscurity |
+| 2228  | ἢ                | h)\               | than |
+| 3588  | τὸ               | to/               | the |
+| 5457  | φῶς              | fw=s              | light |
+| 1519  | εἰς              | ei)s             | because / unto |
+| 225   | ἦν               | h)=n              | was |
+| 846   | αὐτῶν            | [au)tw=n](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=au)to/s>) | their |
+| 2041  | ἔργα             | [e)/rga](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=e)/rgon>) | works / deeds |
+| 4190  | πονηρά           | [ponhra/](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=ponhro/s>) | evil / wicked |
+
+ - Earthly Frame
+   - People worship money and success over peace and sustainability.
+
+ - Scriptural Frame:  "I am the Light of the World" Light of Maher Shalal Hash Baz
+   - Humanity chooses between Immanuel (Matthew gospel Jesus) and Maher Shalal Hash Baz (John Gospel Jesus) and prefers the confessions of the scapegoat over the righteousness of Jesus of Nazareth.
+   - Johanine Riddles (I am the light of the world)
+     - John 8:1-11, Jesus "writes with his digit in her dirt" in full daylight (Isaiah 8:3).  John 8: 12-58 Jesus instructs the pharisees on potty-training.
+     - John 9, Jesus puts spit and mud into a blind man's eyes, and after he pursues the miracle of sight with "The Sent", the blind man returns only to be exiled (Ezekiel 12:3-7) from his community.
+     - John 12 Jesus pulls Lazarus out of his grave, the "Sign for an adulterous generation".  Those who are not firm in their understanding about how life works see a miracle, though it is never explicitly stated that Lazarus says or does anything except "recline"
+
+
+ 
+### John 3:20–21 – Truth in the Light
+
+| V/St  | Greek (Original) | Perseus Format   | English Gloss      |
+|-------|------------------|------------------|--------------------|
+| *20*  | πᾶς              | pa=s              | everyone / all |
+| 106   | γὰρ              | ga/r              | for |
+| 4160  | πράσσων          | [pra/sswn](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=pra/ssw>) | doing / practicing |
+| 5337  | φαῦλα            | [fau=la](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=fau=los>) | worthless / evil / base |
+| 3404  | μισεῖ            | [misei=](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=mise/w>) | hates |
+| 3588  | τὸ               | to/               | the |
+| 5457  | φῶς              | fw=s              | light |
+| 2532  | καὶ              | kai/              | and |
+| 3756  | οὐκ              | ou)k              | not |
+| 2064  | ἔρχεται          | [e)/rxetai](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=e)/rxomai>) | comes |
+| 4314  | πρὸς             | pro/s             | toward / to |
+| 3588  | τὸ               | to/               | the |
+| 5457  | φῶς              | fw=s              | light |
+| 2443  | ἵνα              | i(/na             | so that |
+| 3361  | μὴ               | mh/               | not |
+| 1651  | ἐλεγχθῇ          | [e)legxqh=](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=e)le/gxw>) | exposed / reproved / convicted |
+| 3588  | τὰ               | ta/               | the |
+| 2041  | ἔργα             | e)/rga            | works / deeds |
+| *21*  | ὁ                | o(                | the one |
+| 1161  | δὲ               | de/               | but |
+| 4160  | ποιῶν            | [poiw=n](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=poie/w>) | doing / making |
+| 225   | τὴν ἀλήθειαν     | [a)lh/qeian](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=a)lh/qeia>) | the truth |
+| 2064  | ἔρχεται          | e)/rxetai         | comes |
+| 4314  | πρὸς             | pro/s             | toward / to |
+| 3588  | τὸ               | to/               | the |
+| 5457  | φῶς              | fw=s              | light |
+| 2443  | ἵνα              | i(/na             | so that |
+| 5319  | φανερωθῇ         | [fanerwqh=](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=fanhro/w>) | be revealed / made manifest |
+| 3588  | αὐτοῦ            | au)tou=           | his |
+| 3588  | τὰ               | ta/               | the |
+| 2041  | ἔργα             | e)/rga            | works / deeds |
+| 3754  | ὅτι              | o(/ti             | because |
+| 1722  | ἐν               | e)n               | in |
+| 2316  | θεῷ              | qew=              | God |
+| 2076  | ἐστιν            | e)stin            | are / exist / have been done |
+
+- Earthly Frame
+  - Occupation (Job) requires us to pay respects to a lie
+    - Our bodies are sinful
+    - God created us sinful (Genesis: 3:7-11)
+    - We must despise ourselves (Job 42:6)
+  - Hypocricy is rampant
+      - People judge what they envy.
+  - Discretion is required until the Kingdom comes 
+    - While vanity is sometimes wise, discretion is vanity.
+
+- Scripture
+  - Michael asks "Who is Like God?"
+  - Kingdom of Heaven
+    - People will no longer be given in marriage (unless they want to give themselves)
+    - Sins of Adam and Eve are forgiven
+    - Knowledge of Good and Evil is a blessing as it informs us how not do harm.
+    - Curses are lifted (Genesis 3:14-19)
+   - The Kingdom of Heaven is transparency, forgiveness, and blessing — the reversal of curses, the lifting of shame, the manifestation of truth.
+  
+
