@@ -1,4 +1,3 @@
-```
 ---
 URL: https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/05-the-magician.md
 Author:  Jonathan David Doolin
@@ -15,7 +14,6 @@ RitualNote: 1 AD: John and Jesus (age 7) and their parents visit Bara and her fa
 RitualNoteKey: John 1
 Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon/policies/zion-cornerstone.md
 ---
-```
 
 | Son / Father / Nickname | Personality Traits | Notes |
 |--------------------------|--------------------|-------|
@@ -81,6 +79,73 @@ Jesus said, "Ah no...  Moderation for me.  Would you like to have the rest?  Eve
 Jesus laughs, "Sure.  But man does not live on wine alone, but every word that falls from the mouth of God."
 
 ---
+As the party progressed, John stood up to tell a story of his childhood.  
+
+>I was three when I first toddled behind my mother, Elizabeth the Dew Woman, along the winding paths of Ein Karem. My feet were small, my stride uneven, but I was determined. The springs called to me—not with sound, but with presence. I felt them in the hush between footsteps, in the cool breath of shaded stone.
+
+> At each spring, I watched my mother lift water from jugs of every shape: squat ones with chipped rims, tall ones with hairline cracks, wide ones patched with resin and twine. Some leaned slightly, some bore faded carvings. To me, they looked broken.
+
+> “Why do you use broken jugs?” I asked one morning.
+
+> Mother smiled, brushing dust from a jug shaped like a crescent moon. “They’re not broken,” she said. “They’re shaped by time. Each one fits its spring. Some catch slow drips. Others hold the cold. This one,” she tapped a jug with a missing handle, “lets the water breathe.”
+
+> I knelt beside a jug with a jagged lip. I dipped my fingers in and felt the coolness. “It’s perfect,” I whispered.
+
+> She nodded. “Water doesn’t care about beauty. It cares about welcome.”
+
+> From that day on, I began to name the jugs. I called one “Whistler,” for the sound it made when the wind passed through its crack. Another I named “Sleeper,” because it filled only at night. I started sketching them in charcoal, mapping their locations, memorizing their quirks.
+
+> But more than that, I began to understand the deeper truth: that forgotten things—like chipped jugs, old springs, and quiet children—hold stories waiting to be heard.
+
+> And one day, as I sat beside a spring with a jug shaped like a broken crown, I whispered to the wind: “What do I carry?”
+
+> The wind paused. Then answered—not in words, but in a ripple across the water.
+
+> I did not know it then, but I was becoming a keeper—not just of water, but of memory.
+
+He turns to Bara Bas.
+
+> “My mother says the jugs aren’t broken,” he said. “She says they’re shaped perfectly for their tasks. Even the ones with cracks. Even the one shaped like a broken crown.”
+
+> Bara looked up, her gaze soft. “She’s right,” she said. “The wind told me something like that once.”
+
+> John  leaned in. “What else did it say?”
+
+> Bara  hesitated. Her voice was barely louder than the breeze. “It showed me a letter that was never sent. And a child waiting at a gate. I think the letter was meant to change something. But it stayed folded. And the child kept waiting.”
+
+> John frowned. “Was the child me?”
+
+> Mira shook her head. “No. But maybe someone like you. Someone who listens.”
+
+> He took her hand. “Come see the broken crown.”
+
+He turns to Herod.  
+
+> Now I am thirteen, standing in Cana. The memory of those jugs is still with me, and I see them echoed in the thirty‑gallon jars set for purification. They are vessels of memory, vessels of welcome. I recount my childhood tale to those gathered, and then I baptize Herod and Herodias in one of the jars, the water rising and spilling as if the springs themselves had come to Cana.
+
+> When Herod steps from the jar, dripping, I speak without anger, without judgment, only as one who remembers the Torah: “It is written that it is unlawful for you to marry her.”
+
+> The words are not mine alone; they are the ripple of memory, the breath of the springs, the truth carried in the jugs.
+
+Herod laughs and says, "Why that's true!  And it's very audacious of you."
+
+But Herodias, with fabric clinging tightly to her young form, frowns, embarrassed that the situation is being aired publicly.
+
+Other party-goers lined up to be baptized by John.  Some were drunk, and some were sober.  
+
+When Jesusa Bara Bas came forward, John recalled, "I remember seeing the spirit of God come down on you like a dove and remain."
+
+Jesusa is baptized, and the wetness of the fabric suggest to the surprised guests a certain androgeny about her.
+
+When Jesus of Nazareth comes, John smiles and says, “I need to be baptized by you, and do you come to me?”
+
+Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness.” Then John consented.
+
+As Jesus arose from the barrel, a shaft of sunlight played across him, and a voice from above said “This is my Son, whom I love; with him I am well pleased.”
+
+John said, "I only baptize in water, but the two that come after me will baptize in fire and in the holy spirit."
+
+---
 
 Later, Bara was enjoying the wine freely.  "Kapro-Naum!  she shouted.  Pig Village"  
 
@@ -98,7 +163,7 @@ In the top of the loft, Bara finds a cache of coins.  She dumps the chest onto t
 
 "Hey, hey!  That's not your money!" said the town treasurer.  
 
-But another Jew, wanting to see the feat, asked,  “What sign can you show us to prove your authority to do all this?”
+But another Jew, called Nicodemus, wanting to see the feat, asked,  “What sign can you show us to prove your authority to do all this?”
 
 Jesus answered them, “Destroy this temple, and I will raise it again in three days.”
 
