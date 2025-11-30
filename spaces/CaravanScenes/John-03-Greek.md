@@ -420,8 +420,8 @@ Your constellation expands this: Ezekiel’s visions, Tiresias’ snakes, Ophiuc
 | 166   | αἰώνιον          | [ai)w/nios](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=ai)w/nios>) | eternal / everlasting |
 
 #### Author Note:  "Jonathan David Doolin"; Unique Son, and Unique Name (μονογενής)
-> I'm Jonathan  [Simon](<https://www.behindthename.com/name/simon-1>) [gennēthē](<https://biblehub.com/greek/genne_the__1080.htm>)n; Jonathan who hears "born"  (γεννηθῇ)
-Jonathan [Simon](https://www.abarim-publications.com/Meaning/Simon.html) J[anōthen](<https://biblehub.com/greek/ano_then_509.htm>); Jonathan who hears again, from the top. (ἄνωθεν)
-Jonathan David who hears "[Jonathan and David](<https://www.biblegateway.com/quicksearch/?quicksearch=Jonathan+David&version=NIV>)" Advisor and King
-Doolin who hears [Dubh](<https://www.libraryireland.com/names/d/dubh.php>)-[Flann](<https://frankiepeach.com/meaning-origin-and-history-of-the-name-flann/>): (<B>Black</B>/<span style="color:red">Ruddy/Red-Haired</span>) 
-[Doolin](<https://en.wikipedia.org/wiki/Folklore_%28video_game%29>) who hears Sheol (Keep safe life ever-after.) (ἔχῃ zwh/n αἰώνιον)
+> I'm Jonathan  [Simon](<https://www.behindthename.com/name/simon-1>) [gennēthē](<https://biblehub.com/greek/genne_the__1080.htm>)n; Jonathan who hears "born"  (γεννηθῇ)  
+> Jonathan [Simon](https://www.abarim-publications.com/Meaning/Simon.html) J[anōthen](<https://biblehub.com/greek/ano_then_509.htm>); Jonathan who hears again, from the top. (ἄνωθεν)  
+> Jonathan David who hears "[Jonathan and David](<https://www.biblegateway.com/quicksearch/?quicksearch=Jonathan+David&version=NIV>)" Advisor and King   
+> Doolin who hears [Dubh](<https://www.libraryireland.com/names/d/dubh.php>)-[Flann](<https://frankiepeach.com/meaning-origin-and-history-of-the-name-flann/>): (<B>Black</B>/<span style="color:red">Ruddy/Red-Haired</span>)  
+> [Doolin](<https://en.wikipedia.org/wiki/Folklore_%28video_game%29>) who hears Sheol (Keep safe life ever-after.) (ἔχῃ zwh/n αἰώνιον)  
