@@ -1,6 +1,4 @@
-```
 ---
-URL: https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/
 Author:  Jonathan David Doolin
 Date: 2025-11-27
 License: All rights reserved. No part of this work may be distributed, reproduced, or shared in any form until the author declares the work complete and grants explicit permission.
@@ -15,7 +13,6 @@ RitualNote: 1 AD: John and Jesus (age 7) and their parents visit Bara and her fa
 RitualNoteKey: John 1
 Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon/policies/zion-cornerstone.md
 ---
-```
 
 | Son / Father / Nickname | Personality Traits | Notes |
 |--------------------------|--------------------|-------|

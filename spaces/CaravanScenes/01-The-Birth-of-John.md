@@ -1,3 +1,4 @@
+---
 URL: https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/
 Author:  Jonathan David Doolin
 Date: 2025-11-25
@@ -12,6 +13,7 @@ Change-Note:
 RitualNote: 7 BC First Crossing of Jupiter and Saturn in Pisces
 RitualNoteKey: 
 Promotion-Rubric-General: /policies/zion-cornerstone.md
+---
 
 In the parched hills of Ein Karem, where olive trees twisted in silence and the wind carried dust more often than rain, there lived a woman named Elizabeth. The children said she gathered water from dew, that her clay jugs filled themselves as she walked the dawn. But the truth, whispered only among the oldest shepherds, was more intricate—and more enduring.
 
@@ -57,11 +59,9 @@ Elizabeth found Durvasini in her tent. She waited as a brave young man endured h
 
 “After that feels a little better, we will insert the filling. I will start to shape it now.”
 
-Durvasini took up her tongs and held one of the tiny nuggets of gold over a flame. When it was hot and malleable, she shaped it with a hammer until it matched precisely the hollow left by the pulled tooth. the hollow left by the pulled tooth.
+Durvasini took up her tongs and held one of the tiny nuggets of gold over a flame. When it was hot and malleable, she shaped it with a hammer until it matched precisely the hollow left by the pulled tooth. 
 
 With the young man still holding the pack in his mouth, Durvasini turns to Elizabeth.  "Hello, can I do anything for you?"
-
-With the young man still holding the pack in his mouth, Durvasini turned to Elizabeth. “Hello. Can I do anything for you?”
 
 Elizabeth answered, “Probably not. I am being very silly. Your astrologer mentioned that someone born under tonight’s sign might fulfill a prophecy.”
 

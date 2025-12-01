@@ -1,4 +1,3 @@
-```
 ---
 URL: https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/02-The-Conception-of-Bara-Bas.txt
 Author:  Jonathan David Doolin
@@ -14,6 +13,7 @@ Change-Note:
 RitualNote: 7 BC Second Crossing of Jupiter and Saturn in Pisces
 RitualNoteKey: 
 Promotion-Rubric-General: /policies/zion-cornerstone.md
+---
 
 In the little village of Sychar, 40 miles north of Jerusalem, and near the plot of ground Jacob had given to his son Joseph, lived a woman who frequently drew water from Jacob's well, Draupi, her father Draupa, and her "Baby Pandas", Vindan (or Prat), Soma, Karmin, Nika, and Sena, ages 5, 4, 3, 2, and 1.  Each one of her sons looked a bit foreign here, as their fathers were all East Asian.  
 
