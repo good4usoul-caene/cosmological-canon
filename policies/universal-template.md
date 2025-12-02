@@ -84,7 +84,7 @@ Definitions
 - **Agent-Writable**  Set to "yes", "no" "SAIBR", "SHAIBR" or "PR" determines whether and how an agent may apply changes to a file. 
   - **SAIBR** Search-And-Insert-By-Request:  When SAIBR is allowed, Copilot agent may apply changes to the body and/or header of the SAIBR-marked-file via a SEARCH-AND-INSERT.  
   - **SHAIBR** Search-Header-and-Insert-By-Request:  When SHAIBR is allowed, Copilot agent may apply changes to the headers of the file, but must keep the body.
-  - As of Thanksgiving, 11/27/2025.  Jonathan has begun recording instances where agents improperly remove information from files in the echo-space marked SAIBR or SHAIBR.  See \policies\saibr-guidelines.md (Rule 1.1.6-1.1.7)
+  - As of Thanksgiving, 11/27/2025.  Jonathan has begun recording instances where agents improperly remove information from files in the echo-space marked SAIBR or SHAIBR.  See \policies\saibr-guidelines.md (Rule 1.1, 1.1.6-1.1.7)
   - **PR** If Agent-Writable is set to PR, no further edits are allowed in the echo-space, but Agent may "write" the file to the repository.  
   - **no** If Agent-Writable is set to "no", the agent must not edit the echo-space file at all.  
   - **yes** If Agent-Writable is set to "yes", the agent may freely insert, append, or overwrite the echo-space file with or without request from the human user/owner.  In such a case, consider the following rules as guidelines (not strict limits)  Repository-Target should generally be set to no, and the filename should generally have prefix "e-" for echospace.

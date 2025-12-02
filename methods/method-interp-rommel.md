@@ -163,7 +163,7 @@ The distinction you make between the inert quality of the past and the generativ
 
 I’m struck by the theological inversion here: divinity not as something held by tradition, lineage, or memory, but generated in the moment—each choice a candle against entropy. Could this reframing suggest a mythic logic where salvation is not granted for what has already been, but for that which is offered, innovated, or risked now?
 
-There’s also a kind of ritual challenge: to move from honoring the ashes of the past to tending the fire of the future. **Would you see “finding the way, the truth, and the light” as more of a daily vocation—a continual origin—rather than a fixed legacy?**
+There’s also a kind of ritual challenge: to move from honoring the ashes of the past to tending the fire of the future. Would you see “finding the way, the truth, and the light” as more of a daily vocation—a continual origin—rather than a fixed legacy?
 
 How might this theology inflect the story of Bara Bas or the Caravan? Does the true wind of redemption blow only forward—requiring a continual openness to possibility, and a willingness to let what is obsolete return to Sheol in peace?
 

@@ -1,42 +1,4 @@
----
-Echo-Filename: interp-gospel-harmony.md
-Agent-Writable:  agent‑writable with user permission
-Version: v0.0.4
-Prev-Version: v0.0.2
-Ultimate-Target-Directory: /GospelHarmonization/chats/2025-11-14-Bill-Ross.md
-Change-Note: Added Titles to each entry in conversation.  Added Jonathan Doolin's original answer, partial header info, and Ritual Note.  Set Ultimate-Target-Directory
-Intent: Preserve conversation with Bill Ross from 2025-11-14 in /GospelHarmonization/chats/
-Ritual-Note: Mark 14:55-59, Matt 26:59-61.  Many false witnesses came forward, but their testimonies did not agree.
-entry_id: 007
-title: Luke’s Fire Glyph: Ambiguity and Judgment
-authors:
-  - Jonathan Doolin (Jonathan posts, and Post Titles)
-  - Bill Ross (Bil's posts, except for titles)
-created_by: good4usoul-caene
-created_at: 2025-11-14
-last_updated: 2025-11-14
-source_file: /GospelHarmonization/chats/2025-11-14-Bill-Ross.md
-source_entry: Jonathan Doolin initial answer
-gospel_ref: Luke 12:49–53
-category: canon
-intended_volume: book_3  # Candidate for story inclusion in "Caravan of the Fifth Wind" trilogy
-rubric_flags: (sorry, I have no idea what any of this means - Jonathan)
-  - ritual_flag: false (unless you count conversations as rituals)
-  - canon_flag: false (authorial posture is not canon, unless a fourth-wall is broken.)
-  - story_seed: false (unlikely for first novel, following Jesus Barabbas.  Might come into play in sequels)
-confidence: plausible
-canonical_status: draft
-attribution: verbatim + annotated
-append_status: pending_review
-provenance:
-  primary_edition: SBLGNT
-  convenience_view: https://biblehub.com/interlinear/luke/12-49.htm
-tags: [glyph, ritual, judgment, ambiguity, fire, division, caravan, conversation]
-notes: (moved to flags)
-ritual_note: Mark 14:55-59, Matt 26:59-61. Many false witnesses came forward, but their testimonies did not agree.
----
-
-## Luke’s Fire Glyph: Ambiguity and Judgment (Major)
+## Entry 007 – Luke’s Fire Glyph: Ambiguity and Judgment (Major)
 
 **Harmony Note:**  
 Luke 12:49–53 presents Jesus as bringing “fire upon the land” and yearning for its ignition.  
