@@ -13,10 +13,10 @@ Change-Note: Added Koran related material with meaning of Alla.
 RitualNote: 7 BC Third Crossing of Jupiter and Saturn in Pisces
 RitualNoteKey: 
  - Koran 3:  
-  - Mary invokes Alla, 
-  - Zechariah questions sustenance
+   - Mary invokes Alla, 
+   - Zechariah questions sustenance
  - Mahabharata: 
-  - Adi Parva, Sambhava Parva: Kunti's boon.
+   - Adi Parva, Sambhava Parva: Kunti's boon.
  - Homer's Odyssey: Tiresias gives Odysseus Elpenon's oar, with instructions.
  - Luke:  Quirinius is Consul (7BC) instead of Governor (7 AD)
 Promotion-Rubric-General: /policies/zion-cornerstone.md

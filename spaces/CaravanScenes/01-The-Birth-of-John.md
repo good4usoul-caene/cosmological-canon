@@ -10,8 +10,16 @@ Completeness: Full
 Intent: A chapter of "Caravan of the Fifth Wind"
 Genre: Historical Fiction
 Change-Note: 
-RitualNote: 7 BC First Crossing of Jupiter and Saturn in Pisces
+RitualNote:  John the Baptist is born of Elizabeth and Zechariah
 RitualNoteKey: 
+ - Bible:
+   - 1 Kings: Story of Elijah, Jezebel, and the Prophets of Baal and Asherah.
+   - Isaiah 9: Immanuel and Maher Shalal Hash Baz, Gabriel, Zechariah, and the Prophetess
+   - Luke 2: Zechariah writes "His Name is John" on a large scroll in an ordinary pen.
+ - Astronomy:
+     - Johannes Kepler: De Stella Nova (1606)
+       - 7 BC Triple Conjunction of Jupiter and Saturn in Pisces (7 BC)
+       - First Crossing of Jupiter and Saturn in Pisces
 Promotion-Rubric-General: /policies/zion-cornerstone.md
 ---
 

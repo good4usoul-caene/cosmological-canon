@@ -9,16 +9,20 @@ Completeness: 95%
 Intent: A chapter of "Caravan of the Fifth Wind"
 Genre: Historical Fiction
 Change-Note: Fixed "10% completeness" to "95% complete"
-RitualNote: 1 AD: John and Jesus (age 7) and their parents visit Bara and her family in Sychar.  Andrew and Cephas are literal rocks.  Jonah Nathanael is a dove.  The Messiah is protected from Cronus as Zeus was.  
+RitualNote: 1 AD: John and Jesus (age 7) and their parents visit Bara and her family in Sychar.  Andrew and Cephas are literal rocks.  Jonah Nathanael is a dove from clay bird-house.  The Messiah is protected from Cronus as Zeus was.  Temptations of Satan offered by Shaitanika.  
 RitualNoteKey:
-- John 1: The Word, Cephas, Nathanael, Andrew, 4:00, Dove
-- Titanomachy: Cronus devours five children; Zeus saved by stone (Hesiod’s Theogony, Apollodorus’ Library, Omphalos artifacts)
-- Mahabharata:
+ - John 1: The Word (and, is, space, time), Cephas, Nathanael, Andrew, 4 in the afternoon, Dove
+ - Titanomachy: Cronus devours five children; Zeus saved by stone (Hesiod’s Theogony, Apollodorus’ Library, Omphalos artifacts)
+ - Mahabharata:
     • Adi Parva – Birth of Upa‑Pandavas
     • Sauptika Parva – Death of Upa‑Pandavas
     • Stri Parva – Draupadi’s lament
-Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon/policies/zion-cornerstone.md
----
+ - Bible:
+   - Matthew 4, Luke 4 (Shaitanika's suggestions to Jesus of Nazareth which he promises to fast and meditate on.)
+ - Koran 3:49
+   - Bara breathes words into a bird that comes from clay (a clay birdhouse)
+Promotion-Rubric-General:  https://github.com/good4usoul-caene/cosmological-canon/policies/zion-cornerstone.md
+ ---
 
 | Son / Father / Nickname | Personality Traits | Notes |
 |--------------------------|--------------------|-------|
@@ -172,17 +176,17 @@ Bara said, "Jonah Nathanael, A dove giving the grace of God."
 
 John said, "What do you think it's saying?"
 
-Bara said, "It's saying Jesus of Nazareth?  Is there anything good that can come from there?"
+Bara said, "Nazareth?  Is there anything good that can come from there?"
 
-John said, "Like Jonah coming to preach against the Ninevites."
+John said, "Like Jonah coming to preach against the Ninevites!"
 
-Jesus says, "Now here is an Israelite in whom there is no deceit."
+Jesus objects, "Come now.  This bird is an Israelite in whom there is no deceit."
 
 Jesus scatters the seed on the ground.  And the dove hops forward to eat some.
 
 Bara says, "... and Nathanael says, 'how do you know me?'"
 
-Jesus says, "Why I saw you under that fig tree!"
+Jesus says, "Why I saw you come out of the clay bird-house, under that fig tree!"
 
 The dove continues eating.  
 
@@ -196,9 +200,15 @@ After a little while, the bird has had it's fill.  It flutters right up to Bara,
 
 Bara laughs, "Yuck!  The spirit has come down on me as a dove, and remained on me."
 
+Jesus says, "That informs us concerning what it's eaten, and what it stores in its home."
+
 Nika said, "Well, your prophet Ezekiel baked his food over burning cow dung...  Maybe, Bara, this is a sign that you'll build your ministry on dove poo."
 
 John says, "Sounds like you two have your work cut out for you.  Messiah and Daughter of Man."
+
+Shaitanika went on, saying, and you, Jesus, Perhaps you will make bread from stones, dive off of temples into the arms of angels, and make yourself as wealthy as Job, if not wealthier!
+
+Jesus says, "Interesting thoughts to consider.   Perhaps I'll fast and meditate on those ideas."
 
 ---
 
