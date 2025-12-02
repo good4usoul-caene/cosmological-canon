@@ -1,7 +1,7 @@
 ---
 URL: https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/
 Author:  Jonathan David Doolin
-Date: 2025-11-25
+Date: 2025-12-02
 License: All rights reserved. No part of this work may be distributed, reproduced, or shared in any form until the author declares the work complete and grants explicit permission.
 Permissions: Scripture quotations taken from the Holy Bible, New International Version® (NIV®). Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
 Agent-Writable: no
@@ -9,9 +9,16 @@ Rename-Request: (convert to .md)
 Completeness: Full
 Intent: A chapter of "Caravan of the Fifth Wind"
 Genre: Historical Fiction
-Change-Note: 
+Change-Note: Added Koran related material with meaning of Alla.
 RitualNote: 7 BC Third Crossing of Jupiter and Saturn in Pisces
 RitualNoteKey: 
+ - Koran 3:  
+  - Mary invokes Alla, 
+  - Zechariah questions sustenance
+ - Mahabharata: 
+  - Adi Parva, Sambhava Parva: Kunti's boon.
+ - Homer's Odyssey: Tiresias gives Odysseus Elpenon's oar, with instructions.
+ - Luke:  Quirinius is Consul (7BC) instead of Governor (7 AD)
 Promotion-Rubric-General: /policies/zion-cornerstone.md
 ---
 
@@ -28,7 +35,27 @@ And Odys marveled, for the prophecy was fulfilled before his eyes. This young gi
 
 That night he rejoined the Caravan as Belzar lifted his hands and said, “In the 21st year of the reign of Augustus while Herod is king, On this the Fifth of Kislev, behold—the great conjunction of Jupiter and Saturn in Pisces! Any child conceived beneath this sign may fulfill prophecy, and salvation may come to the world.” 
 
-There were some women that volunteered to have their fortunes read by Belzar, and to come up to consider whether they ought to conceive a child under this sign. One woman came up to say that she was barren, but she'd still like to try any miracle cures they had to offer. Durvasani looked her over, and found there was nothing she could do. Except... She pulled the mysterious scroll from her purse. "This is called Kunti's Mantra. If you read it and invoke the God you most desire, it invites him to implant you with a child." The woman read the scroll aloud, and finally said, "I don't think it is working. I really don't believe in *any* gods." Meanwhile, outside, Mary listened, and hearing Kunti's Mantra, she said, "But I believe in God."
+There were some women that volunteered to have their fortunes read by Belzar, and to come up to consider whether they ought to conceive a child under this sign. One woman came up to say that she was barren, but she'd still like to try any miracle cures they had to offer. Durvasani looked her over, and found there was nothing she could do. Except... She pulled the mysterious scroll from her purse. "This is called Kunti's Mantra. If you read it and invoke the God you most desire, it invites him to implant you with a child." The woman read the scroll aloud, and finally said, "I don't think it is working. I really don't believe in *any* gods." 
+
+
+
+Meanwhile, in her sanctuary, Mary listened
+
+---
+
+She had been in her sanctuary, reading the Torah.  When Zechariah saw her reading, he asked her "Dear child, why are you so sustained with scripture?"
+
+She said to him, "God provides."  But actually, her father, Joachim (Imran) regularly lent her the Torah.  
+
+When she saw, in Isaiah, the scripture, "Otherwise, they would see with their eyes, hear with their ears, undersand with their hearts, and turn" she asked her father,
+
+Father, what is the Greek word for otherwise?
+
+And he told her.  "Alla"
+
+---
+
+... and hearing Kunti's Mantra, she said, "But I believe in God.  I believe in the otherwise.  I believe in Alla."
 
 ---
 
