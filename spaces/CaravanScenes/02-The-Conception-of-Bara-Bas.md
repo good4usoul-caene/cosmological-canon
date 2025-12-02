@@ -10,8 +10,23 @@ Completeness: Full
 Intent: A chapter of "Caravan of the Fifth Wind"
 Genre: Historical Fiction
 Change-Note: 
-RitualNote: 7 BC Second Crossing of Jupiter and Saturn in Pisces
+RitualNote: 
 RitualNoteKey: 
+  - Mahabharata:
+      • Adi Parva – Birth of Upa‑Pandavas
+      • Sauptika Parva – Death of Upa‑Pandavas
+      • Stri Parva – Draupadi’s lament
+   - Bible:
+     - John 4:  Woman at the well in Sychar with five husbands
+     - Matthew 12:42, Luke 11:31 - Queen of the South
+   - Roman Mythology:
+     - Hesiod's Theogeny: Typhon born to challenge Zeus, birth of Phix (Later Sphinx)
+     - Apollodorus' Library (Bibliotheca): Typhon/Zeus, Typhon imprisoned under Etna 
+     - Greek Theban Cycle: Oedipus solves Sphinx's riddle in Thebes
+   - Astronomy:
+     - Johannes Kepler: De Stella Nova (1606)
+     - 7 BC Triple Conjunction of Jupiter and Saturn in Pisces (7 BC)
+       - Second Crossing of Jupiter and Saturn in Pisces
 Promotion-Rubric-General: /policies/zion-cornerstone.md
 ---
 
