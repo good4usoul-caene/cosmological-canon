@@ -131,9 +131,7 @@ Soon after, Elizabeth was in labor. Zechariah prayed that there would be no comp
 
 It was still hard for him to believe that he might be part of prophecy. Even so much that yesterday and tomorrow he might deny he had anything to do with it. But at this time, he had only to take a simple pen, and write on a simple scroll: Maher Shalal Hash Baz. He had thought long and hard about this name. In his heart, his son would be Yohanon, “God is Gracious”—a counterpoint to justice, a herald of mercy. But on paper, the name would be John, a word he had heard sometimes cast about by people from the great island nation in the far west, asking where the toilets were, or looking around for prostitutes. No one here need know the meaning. It was enough that God would know. But if it were a girl, he did not know. He might have to change his plan drastically.
 
-Elizabeth was surprised to see the scroll. “His name is John? Dear, that is not a Hebrew name at all. Surely, aren’t you too seeped in our traditions to create your own path?”
-
-She held the scroll, her brow furrowed. The name was clear: John. “His name is John?” she asked, softly but firmly. “Dear, that is not a Hebrew name at all. Surely, aren’t you too seeped in our traditions to create your own path?”
+Elizabeth was surprised to see the scroll.  She held the scroll, her brow furrowed. The name was clear: John. “His name is John?” she asked, softly but firmly. “Dear, that is not a Hebrew name at all. Surely, aren’t you too seeped in our traditions to create your own path?”
 
 Zechariah did not speak. He could not. But he looked at her—not with defiance, but with depth. He touched the scroll, then his heart, then the sky. He found his voice. “His Jewish name, I could never pronounce, any more than I can express the beauty of your face, or the heartache of the sunset. But John.”
 
@@ -143,5 +141,7 @@ Zechariah did not speak. He could not. But he looked at her—not with defiance,
 
 “Whole cloth,” she said, taking the scroll. “His name is John. I like it. He will do great things, unbound by precedent or prophecy.”
 
-Yet Zechariah worried quietly, silently, only to himself: What prophecies ought be fulfilled by Maher Shalal Hash Baz?
+Yet Zechariah worried quietly, silently, only to himself: What prophecies ought be fulfilled by Maher Shalal Hash Baz?  
+
+Swift to the spoil and loot, hurry to the prey and plunder...
 
