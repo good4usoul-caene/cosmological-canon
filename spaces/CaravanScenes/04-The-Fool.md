@@ -4,13 +4,19 @@ Date: 2025-11-27
 License: All rights reserved. No part of this work may be distributed, reproduced, or shared in any form until the author declares the work complete and grants explicit permission.
 Permissions: Scripture quotations taken from the Holy Bible, New International Version® (NIV®). Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.  Poems are taken from author's own work: [Riddles of Barabbas](https://github.com/good4usoul-caene/cosmological-canon/blob/main/library/books/riddles-of-barabbas/01-riddles-of-barabbas.md) 
 Agent-Writable: no
-Rename-Request: (convert to .md)
-Completeness: 10%
+Rename-Request: none
+Completeness: 95%
 Intent: A chapter of "Caravan of the Fifth Wind"
 Genre: Historical Fiction
-Change-Note: 
-RitualNote: 1 AD: John and Jesus (age 7) and their parents visit Bara and her family in Sychar.
-RitualNoteKey: John 1
+Change-Note: Fixed "10% completeness" to "95% complete"
+RitualNote: 1 AD: John and Jesus (age 7) and their parents visit Bara and her family in Sychar.  Andrew and Cephas are literal rocks.  Jonah Nathanael is a dove.  The Messiah is protected from Cronus as Zeus was.  
+RitualNoteKey:
+- John 1: The Word, Cephas, Nathanael, Andrew, 4:00, Dove
+- Titanomachy: Cronus devours five children; Zeus saved by stone (Hesiod’s Theogony, Apollodorus’ Library, Omphalos artifacts)
+- Mahabharata:
+    • Adi Parva – Birth of Upa‑Pandavas
+    • Sauptika Parva – Death of Upa‑Pandavas
+    • Stri Parva – Draupadi’s lament
 Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon/policies/zion-cornerstone.md
 ---
 
@@ -25,7 +31,7 @@ Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon
 
 In the 28th year of the reign of Augustus while Herod was king  Draupa, Draupi, Joseph, Mary, Elizabeth, and Zechariah met as they sometimes did, in Sychar.  The children were playing. 
 
-John had boasted that he could outrun any one of the Apu Pandas. 
+John had boasted that he could outrun any one of the Upa Pandas. 
 
 They laughed.  "You, a seven year-old will outrun us?"
 
@@ -86,7 +92,7 @@ Zechariah and Joseph nod.
 
 Draupi said, "You're all so close."
 
-Jesus, John, and Draupi's children ran up, and the riddle was told again.  Bara and the apu panda's already knew the riddle so they kept quiet.  
+Jesus, John, and Draupi's children ran up, and the riddle was told again.  Bara and the Upa panda's already knew the riddle so they kept quiet.  
 
 Jesus said, "with time, the bound can become free, and things can get done.  But you can't hide time in your hand."
 
