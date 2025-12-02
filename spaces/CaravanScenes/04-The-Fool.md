@@ -63,12 +63,12 @@ As the kids played, Mary said to Draupi, "So can I hear one of these riddles?"
 
 Draupi said, "Sure, I will tell you one.  
 
-*What* word would come ‘round be*tween* noun and noun. 
-*What* is the distance be*tween* freed and bound?
-*What* word does God put be*tween* Earth and sun? 
-*What* word without which no *thing* can be done? 
-I *tell* you and tell you and *tell* you both, and 
-I *rid*dle you this and I *hide* it in hand. 
+>*What* word would come ‘round be*tween* noun and noun.   
+*What* is the distance be*tween* freed and bound?  
+*What* word does God put be*tween* Earth and sun?   
+*What* word without which no *thing* can be done?   
+I *tell* you and tell you and *tell* you both, and   
+I *rid*dle you this and I *hide* it in hand.   
 
 The others ponder her riddle, 
 
