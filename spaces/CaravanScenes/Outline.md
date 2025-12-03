@@ -125,3 +125,46 @@ Promotion-Rubric-General: /policies/zion-cornerstone.md
 - **Middle (5–16)**: Ministry, ritual inversion, choice, enthronement, karmic riddles, solitude, fate, devotion, surrender.  
 - **End (17–21)**: Accusation, riddles, temptation, cosmic silence.  
 - **Cycle**: John 1 opens with riddles (The Fool) and closes with silence (The World). The canon folds back into itself.
+
+
+## Advent Calendar:  Facebook 2025
+
+#### 🌟 Nativity Day 1: 01 – The Birth of John 
+🔗 https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/01-The-Birth-of-John.md
+🎁 To my three nieces and one nephew 
+🎄 From an uncle who has given too few gifts at Christmas
+🙏 Faith is not certainty. 
+✨ It is the wish that truth might be more than what we can prove, 
+💖 the hope that love and story endure beyond reason, 
+🌱 and the trust that what we give each other in words 
+🌌 can become real in the lives we share.
+
+
+
+#### 🌟 Nativity Advent Day 2
+♀✝️ Chapter 2: The Conception of Bara Bas
+🔗 https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/02-The-Conception-of-Bara-Bas.md
+📜 During the second pass of Saturn and Jupiter, Draupi of Sychar reads Kunti’s mantra, calls upon Typhon, and gives birth to her sixth child whom she calls Daughter of Creation: Bara Bas.
+FAITH MESSAGE: 
+🟢 Spearmint (experiment) — calls on the tested foundation. (John's Baptisms)
+🍂 Cinnamon (cynicism) — needed to move the mountain in your way. (Bara Bas, Bar Abba; Son of the Father, Daughter of Creation)
+🟠 Butterscotch (faith) — the path to the good, but not quite yet seen. (Jesus of Nazareth, the Messiah)
+
+#### 🌟 Nativity Advent Day 3
+♂✝️ Chapter 3: Birth of Jesus  
+✨ “With awe and trembling, I present Chapter 3. The birth of Jesus is not just story, but the hinge of history — and I feel the gravity of inscribing it faithfully.”
+🔗 https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/03-The-Birth-of-Jesus.md  
+ - Birth of Jesus of Nazareth  
+   - 🌌 Last Crossing of Jupiter and Saturn; Caravan in Nazareth.  
+   - ⚓ Mary mistakes Odys' Oar for a Winnowing Fork.  
+   - 📖 Isaiah 6:10, Mary invokes αλλα (otherwise) by Kunti's Mantra.
+   - 🏠 Birth of Jesus in Bethlehem  
+   - ✂️ Circumcision of Jesus in Jerusalem  
+🕊️ Faith Message: Hebrews 11:1  
+  - 🙏Now faith is confidence in what we hope for and assurance about what we do not see.  
+✨ “I offer this chapter as a prayer: that we may follow other wisdom, see with our eyes, hear with our ears, understand with our hearts, and turn to be healed.”
+**💡To wisdom, may your🌾 bran be 🧂brined, and your 📖Ann be 🌊Rhined.**  
+
+ 1. 🔙 See Chapter 1: The Birth of John 👉 https://www.facebook.com/share/p/1A653yTCfG/
+ 2. 🔙 See Chapter 2: The Conception of Bara Bas 👉 https://www.facebook.com/share/p/1B8vSYAyhy/
+ 3. 
