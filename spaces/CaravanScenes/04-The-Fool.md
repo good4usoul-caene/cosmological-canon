@@ -170,60 +170,64 @@ Zechariah said, "I'm sorry, my hearing isn't so good."
 
 ---
 
-In that moment, a dove came down next to them.  Jesus happened to have a bit of grain in his pocket, so he tried to coax the dove forward.
+In that moment, a dove came down next to them. Jesus happened to have a bit of grain in his pocket, so he tried to coax the dove forward.
 
 Bara said, "Jonah Nathanael, A dove giving the grace of God."
 
 John said, "What do you think it's saying?"
 
-Bara said, "Nazareth?  Is there anything good that can come from there?"
+Bara said, "Nazareth? Is there anything good that can come from there?"
 
 John said, "Like Jonah coming to preach against the Ninevites!"
 
-Jesus objects, "Come now.  This bird is an Israelite in whom there is no deceit."
+Jesus objects, "Come now. This bird is an Israelite in whom there is no deceit."
 
-Jesus scatters the seed on the ground.  And the dove hops forward to eat some.
+Jesus scatters the seed on the ground. And the dove hops forward to eat some.
 
-Bara says, "... and Nathanael says, 'how do you know me?'"
+For the dove, Bara says, "how do you know me?"
 
 Jesus says, "Why I saw you come out of the clay bird-house, under that fig tree!"
 
-The dove continues eating.  
+The dove continues eating.
 
-Bara says, "Truly you are the Messiah, The Son of the Living God."
+For the dove, Bara says, "Truly you are the Messiah, The Son of the Living God."
 
 Jesus laughs, "You say that because I saw you under a fig tree?"
 
-Bara says, "I'll show you more than that, little bird.  Soon you will see angels ascending and descending on the Son of Man."
+For herself, Bara says, "I'll show you more than that, little bird. Soon you will see angels ascending and descending on the Son of Man."
 
-After a little while, the bird has had it's fill.  It flutters right up to Bara, rests a moment, and poops a little before fluttering off.
+After a little while, the bird has had it's fill. It flutters right up to Bara, rests a moment, and poops a little before fluttering off.
 
-Bara laughs, "Yuck!  The spirit has come down on me as a dove, and remained on me."
+Bara laughs, "Yuck! The spirit has come down on me as a dove, and remained on me."
 
-Jesus says, "That informs us concerning what it's eaten, and what it stores in its home."
+Jesus says, "Well, That informs us concerning what it's eaten, and what it stores in its home."
 
-Nika said, "Well, your prophet Ezekiel baked his food over burning cow dung...  Maybe, Bara, this is a sign that you'll build your ministry on dove poo."
+Bara tries to brush it off.  "Oh, Good Philip! Lover of Horses!  This is so gross."
 
-John says, "Sounds like you two have your work cut out for you.  Messiah and Daughter of Man."
+Nika said, "Perhaps Philip found the one Ezekiel wrote about.  Well, your prophet Ezekiel baked his food over burning cow dung... Maybe, Bara, this is a sign that you'll build your ministry on dove poo."
 
-Shaitanika went on, saying, and you, Jesus, Perhaps you will make bread from stones, dive off of temples into the arms of angels, and make yourself as wealthy as Job, if not wealthier!
+Bara said, "Yeah, well, sounds like Cephas, Andrew, and Philip have *all* gone fishing."
 
-Jesus says, "Interesting thoughts to consider.   Perhaps I'll fast and meditate on those ideas."
+John said, "Yep.  They're all from Bethsaida.  Anyway, sounds like you two have your work cut out for you. Messiah and Daughter of Man."
+
+Shaitanika went on, saying, "and you, Jesus, Perhaps you will make bread from stones, dive off of temples into the arms of angels, and make yourself as wealthy as Job, if not wealthier!"
+
+Jesus says, "Interesting thoughts to consider. Perhaps I'll fast and meditate on those ideas."
 
 ---
 
-Draupi said, "It's nearly four.  We should go inside for dinner."
+Draupi said, "It's nearly four. We should go inside for dinner."
 
 Bara says, "Better go get Cephas."
 
-John says, "But I threw Cephas down the well.  Anyway, Cephas is a sissy name for a rock."
+John says, "But I threw Cephas down the well. Anyway, Cephas is a sissy name for a rock."
 
-Bara says, "Well there's another rock about the same size.  We can call him Andrew.  A manly gift.  A brave one."
+Bara says, "Well there's another rock about the same size. We can call him Andrew. A manly gift. A brave one."
 
-John takes the rock named Andrew, and brings it over to the well.  He shouts, (in Andrew's voice)  "Hey Cephas 'hearing Peter' we have found the Messiah, and the Son of Man...  Pretty sure at least one of them is the Christ."
+John takes the rock named Andrew, and brings it over to the well. He shouts, (in Andrew's voice) "Hey Cephas 'hearing Peter' we have found the Messiah, and the Son of Man... Pretty sure at least one of them is the Christ."
 
-John (in Cephas feminine voice) "Where is the Christ staying?"  
+John (in Cephas feminine voice) "Where is the Christ staying?"
 
-John (in Andrew's masculine voice)  "It's about four.  I think we're having dinner!"
+John (in Andrew's masculine voice) "It's about four. I think we're having dinner!"
 
-John (in Cephas feminine voice), "You go.  For now, I'll just stay here and drink this water."
+John (in Cephas feminine voice), "You go. For now, I'll just stay here and drink the living water."
