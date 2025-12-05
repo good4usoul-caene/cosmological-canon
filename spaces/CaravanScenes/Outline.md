@@ -31,23 +31,25 @@ Promotion-Rubric-General: /policies/zion-cornerstone.md
 - 6.  **II — The High Priestess (John 3)**  
   Nicodemus and Caiaphas encounter Bara Bas in Sychar, adopting her under the name *Malchus*. Hidden wisdom and initiation.  
 
-- 7.  **III — The Empress (John 4)**  
+- 7. **III — The Empress (Bara Bas in Egypt)**  
+
+- 7.  **IV — The Emperor (John 4)**  
   Bara Bas meets her mother Draupi at the well. Her words convince the men of Sychar she is the savior of the world. Feminine archetype of revelation.
 
-- 8.  **IV — The Emperor (John 5)**  
+- 8.  **V — The Hierophant (John 5)**  
   Bara Bas presents the Riddle of the Sphinx, whose father is Typhon. Authority, cosmic law, riddles of mortality.
 
-- 9.  **V — The Hierophant (John 6)**  
+- 9.  **VI — The Lovers (John 6)**  
   Bara Bas challenges Passover restrictions, asks for circumcision; Judas alone listens. Inversion of ritual law.
 
-- 10. **VI — The Lovers (John 7)**  
+- 10. **VII — The Chariot (John 7)**  
   The Panda brothers convince Bara Bas to attend the Festival. Choice between kinship and divine calling.
 
-- 11. **VII — The Chariot (John 8)**  
+- 11. **VII — The Chariot, VIII — Justice (John 8)**  
   The seat, the body, enthronement. Bara Bas’ body as throne contested by desire and destiny.
 
-- 12. **VIII — Justice / Strength (John 9)**  
-  Blind man healed — karmic riddle: suffering as inherited sin or divine strength.
+- 12. **VIII — Justice, IX — The Hermit (John 9)**  
+  Blind man healed — karmic riddle: suffering as inherited sin or divine strength, blind man ostracized.
 
 - 13.  **IX — The Hermit (John 10)**  
   Jesus stands alone, misunderstood, insisting he meant a literal gate. Threshold guardian.
@@ -57,9 +59,11 @@ Promotion-Rubric-General: /policies/zion-cornerstone.md
 
 -  15. **XI — Strength (John 12–17)**  
   Bara Bas loves God with all her heart, strength, and mind.  
-  - 15A.  Heart: anointing, Last Supper.  
-  - 16B.  Strength: Advocate, Vine.  
-  - 17C.  Mind: prayer for unity, Spirit of Truth.
+  - John 12:  Strength of Prophecy
+  - John 13:  Stregth of Id
+  - John 14:  Ego: Strength of Question; Mind
+  - John 15-16:  Ego: Strength of Books; Mind
+  - John 17: Superego: Strength of the Heart
 
 - 16. **XII — The Hanged Man (John 18)**  
   Betrayal and arrest. Suspension, surrender, inversion of worldly power.
@@ -163,7 +167,7 @@ FAITH MESSAGE:
 🕊️ Faith Message: Hebrews 11:1  
   - 🙏Now faith is confidence in what we hope for and assurance about what we do not see.  
 ✨ “I offer this chapter as a prayer: that we may follow other wisdom, see with our eyes, hear with our ears, understand with our hearts, and turn to be healed.”
-**💡To wisdom, may your🌾 bran be 🧂brined, and your 📖Ann be 🌊Rhined.**  
+💡To wisdom, may your🌾 bran be 🧂brined, and your 📖Ann be 🌊Rhined.  
 
  1. 🔙 See Chapter 1: The Birth of John 👉 https://www.facebook.com/share/p/1A653yTCfG/
  2. 🔙 See Chapter 2: The Conception of Bara Bas 👉 https://www.facebook.com/share/p/1B8vSYAyhy/
