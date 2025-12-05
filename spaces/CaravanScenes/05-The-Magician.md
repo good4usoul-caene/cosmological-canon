@@ -8,7 +8,7 @@ Agent-Writable: no
 Rename-Request: 
 Completeness: 95%
 Intent: A chapter of "Caravan of the Fifth Wind"
-Genre: Historical Fiction
+Genre: Historical Fiction/Injil Attempt
 Change-Note: 
 RitualNote: 1 AD: John and Jesus (age 7) and their parents visit Bara and her family in Sychar.
 RitualNoteKey: John 1
@@ -23,16 +23,26 @@ Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon
 | Shatanika / Nakula / Nika | Handsome, graceful, diplomatic | Inherited Nakula’s charm and beauty. Gentle, courteous, adept in social dealings. |
 | Shrutasena / Sahadeva / Sena | Wise, observant, strategic | Reflects Sahadeva’s intelligence and foresight. Sharp perception, quiet wisdom. |
 
-# Chronology: Augustus, Judean Rulers, and John the Baptist
 
-| Year (approx.) | Augustus’s Reign | Judean Ruler | Key Events |
-|----------------|------------------|--------------|------------|
-| 27 BCE | Augustus becomes emperor | **Herod the Great (Herod I, Herod the Great, King of Judea)** | Beginning of Augustus’s reign. |
-| 4 BCE | 23rd year of Augustus | **Herod Archelaus** becomes ethnarch of Judea, Samaria, Idumea | Death of Herod the Great; kingdom divided among sons. |
-| 6 CE | 33rd year of Augustus | Archelaus deposed; Judea becomes Roman province under direct rule | Census of Quirinius; Roman prefects begin governing Judea. |
-| 14 CE | Augustus dies; Tiberius becomes emperor | Judea under Roman prefects | Transition of imperial power; Judea firmly under Roman administration. |
-| 26 CE | 52nd year of Augustus | Herod Antipas ruling Galilee; Roman prefect Pontius Pilate begins in Judea | **John the Baptist imprisoned by Herod Antipas** (traditionally dated ~26 CE). |
-| 28–30 CE | 54th–56th year of Augustus | Herod Antipas in Galilee; Pilate in Judea | **John the Baptist executed (beheaded at Machaerus)**, traditionally dated ~30 CE. |
+
+### Chronology: Augustus, Judean Rulers, and John the Baptist
+
+| Year (approx.) | Augustus’s Reign | Ethnarch (Judea, Samaria, Idumea) | Tetrarch (Galilee, Perea, NE Territories) | Emperor / Governor | Key Events |
+|----------------|------------------|-----------------------------------|-------------------------------------------|-------------------|------------|
+| 44 BCE | — | not applicable | not applicable | not applicable | Julius Caesar’s Assassination |
+| 37 BCE | Octavian rising (not yet Augustus) | not applicable | not applicable | Roman Senate (with Antony’s backing) | Herod the Great installed, recognized as “King of the Jews” |
+| 31 BCE | Octavian consolidates power | not applicable | not applicable | Octavian Caesar | Octavian defeats Antony and Cleopatra at Actium |
+| 27 BCE | **START:** Octavian named Augustus, *ruled as Emperor* | Herod the Great (ruled as King) | not applicable | Augustus (ruled as Emperor) | Beginning of Augustus’s reign |
+| 12 BCE | 15th year of Augustus | see above (Herod the Great still King) | not applicable | Augustus appoints Quirinius as consul in Syria/Cilicia | Quirinius suppresses Homonadenses |
+| 7 BCE | 20th year of Augustus | see above (Herod the Great still King) | not applicable | Augustus (ruled as Emperor) | Triple Conjunction; canonical **Ch 1-3** births of John, Bara Bas, Jesus |
+| 4 BCE | 23rd year of Augustus | **Herod Archelaus (ruled as Ethnarch)** | **Herod Antipas (ruled as Tetrarch of Galilee & Perea)**; **Philip (ruled as Tetrarch NE territories)** | Augustus (ruled as Emperor) | Death of Herod the Great; kingdom divided among sons |
+| 1 CE | 28th year of Augustus | see above (Archelaus as Ethnarch) | see above (Antipas & Philip as Tetrarchs) | see above (Augustus as Emperor) | Canonical Ch. 4 meeting of John, Bara Bas, Jesus in Sychar |
+| 6 CE | 33rd year of Augustus | Archelaus deposed | see above (Antipas & Philip as Tetrarchs) | **Quirinius (ruled as Governor of Syria)**; Roman prefects begin in Judea | Census of Quirinius; *Canonical **Ch.&nbsp;5** wedding in Cana, Bara Bas’s Bas Mitzveh; **Ch.&nbsp;6** Conception of Salome* |
+| 14 CE | Augustus dies; Tiberius *ruled as Emperor* | not applicable (Archelaus gone, Judea under Roman prefects) | see above (Antipas & Philip as Tetrarchs) | Roman prefects in Judea | Transition of imperial power |
+| 20 CE | Tiberius’s reign | not applicable | Antipas (ruled as Tetrarch, now governing from Tiberias) | Roman prefects | Tiberias founded, Antipas’s main seat |
+| 26 CE | 52nd year of Augustus’s regnal count (though Tiberius emperor) | not applicable | Antipas (ruled as Tetrarch) | **Pontius Pilate (ruled as Governor of Judea)** | John the Baptist imprisoned by Antipas |
+| 28–30 CE | 54th–56th year of Augustus’s regnal count (Tiberius emperor) | not applicable | Antipas (ruled as Tetrarch) | Pilate (Governor) | John the Baptist executed at Machaerus |
+
 
 ---
 
@@ -42,7 +52,7 @@ Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon
 - After Archelaus, Judea was governed directly by Rome, with prefects such as **Pontius Pilate (26–36 CE)**.  
 - John the Baptist’s imprisonment and execution are generally placed between **26–30 CE**, under Herod Antipas’s authority.
 
-In the 33rd year of the reign of Augustus during the deposition of Herod Archelaus ethnarchy of Judea, Draupi, her five sons, and her daughter Bara went to a wedding in Cana, which also served as Bara Bas's Bas Mitzveh.  Elizabeth, Zechariah, Mary, Joseph and Jesus, and the Caravan of the Fifth Wind was also there.  
+In the 33rd year of the reign of Augustus during the deposition of Herod Archelaus ethnarchy of Judea, Draupi, her five sons, and her daughter Bara went to a wedding in Cana, which also served as Bara Bas's Bas Mitzveh.  (Jesus and John were still waiting, since young men have Bar Mitzveh's at 13.)  Elizabeth, Zechariah, Mary, Joseph and Jesus, and the Caravan of the Fifth Wind was also there.  
 
 For Belzar, Cana was an important place, mirroring the constellation of Pisces across Judea and Phoenicia.  Cana, to him, represented the brightest star in Pisces.  And this day was about nine months after the 12th year since the conjunction of Jupiter and Saturn in Pisces.  
 
