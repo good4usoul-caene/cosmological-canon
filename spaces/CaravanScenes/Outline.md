@@ -169,34 +169,22 @@ FAITH MESSAGE:
 ✨ “I offer this chapter as a prayer: that we may follow other wisdom, see with our eyes, hear with our ears, understand with our hearts, and turn to be healed.”
 💡To wisdom, may your🌾 bran be 🧂brined, and your 📖Ann be 🌊Rhined.  
 
- 1. 🔙 See Chapter 1: The Birth of John 👉 https://www.facebook.com/share/p/1A653yTCfG/
- 2. 🔙 See Chapter 2: The Conception of Bara Bas 👉 https://www.facebook.com/share/p/1B8vSYAyhy/
- 3. 🔙 See Chapter 3: The Birth of Jesus
- https://www.facebook.com/share/p/17jxLNgaTg/
- 
- 
- 
-#### 🌟 Nativity Advent Day 4  
-♀✝️ Chapter 4: The Well of Sychar  
-🔗 https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/04-The-Well-of-Sychar.md  
-
+---
+  
+🌟 Nativity Advent Day 4  
+♀✝️ Chapter 4: The Fool 
+🔗 https://github.com/.../spaces/CaravanScenes/04-The-Fool.md
 😅 Many will see this as parody, and if that is the lens they must use, so be it. Yet for me, the work is troubling in its source material:  
-
 ⚡ In John 1, the Messiah practices name‑calling, assigning “Cephas” to Simon without consent.  
 🌌 John 1 usurps the creation story, implying that “Jesus” was with God in the beginning, and many Christians require this as a statement of belief.  
 🏠 Jesus accepts testimony that nothing good can come from Nazareth, and calls it non‑deceitful.  
-
 🤔 To me, sarcasm is forgivable, even celebratable, but it remains deceitfulness.  
-
 📖 *Caravan of the Fifth Wind* is not merely historical fiction. Its aim is to draw a boundary line:  
 ✨ Between what is ✨right✨and✨good✨ — the teachings of Jesus of Nazareth in the Synoptics.  
 🙏 And what is 🙏forgivable🙏 — the teachings of Jesusa Bara Bas, revealed by carefully parsing John’s Gospel according to my rubric.  
-📜 Policy note: https://github.com/good4usoul-caene/cosmological-canon/blob/main/policies/zion-cornerstone.md  
-
+📜 Policy note: https://github.com/.../main/policies/zion-cornerstone.md  
 🕯️ It is a work of discernment, not parody. A work of boundary‑making, not mockery. A work that seeks to honor truth by naming deceit, and to honor forgiveness by recognizing its limits.  
-
 ---
-
 📜 In Sychar, the children play at Titanomachy:  
 👦 John and Bara as Cronus and Gaia.  
 👬 The five Upa Pandavas as the first five children of Cronus and Gaia.  
@@ -204,28 +192,82 @@ FAITH MESSAGE:
 🗣️ Bara speaks the others into being, while Cronus devours them.  
 🪨 Jesus, as Zeus, offers Bara Bas a stone wrapped in cloth.  
 🌊 She names it Cephas, to protect Jesus of Nazareth against Cronus.  
-
 🕊️ Jonah Nathanael is a dove from the clay bird‑house under a fig tree.  
 - Bara “breathes” words into the dove (Koran 3).  
 - 🕊️ The dove descends, eats grain, and leaves its sign upon Bara Bas.  
 - 💩 Philip becomes an expletive when the dove poos on Bara.  
 - 🪨 Andrew is a rock, just like Cephas.  
 - John “breathes” words into Andrew, shouting: *“We have found the Messiah and the Son of Man.”*  
-
 ---
-
 🧩 Riddles  
 👂 Mary, Joseph, Zechariah, and Elizabeth listen as Draupi poses riddles:  
 - “and” — space, time, silence, appositional words.  
 - “is / are / be / equals” — statements of identity, referential verbs.  
-
 ✝️ Jesus promises to fast and meditate on Shaitanika’s temptations.  
-
 🍽️ At four o’clock, the children go in for dinner —  
-
 ---
-
 🪨 “If no one praises the Son of Man, the rocks will cry out...”  
 🌌 Even stones and doves bear witness.  
 💖 May laughter, riddles, and play become prophecy in our lives.  
 
+---
+#### 🌟 Nativity Advent Day 5 🪄✝️ Chapter 5: The Magician 🔗 https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/05-the-magician.md 
+😅 Many will see this as parody, and if that is the lens they must use, so be it. Yet for me, the work is troubling in its source material: Caravan Canon/Scenes is the author's best attempt to produce the Injil, or "Gospel of Jesus Christ" as prophecied by Mohammad. Though it may be in part fictional, these fictions are only meant to enrich and enhance the heart, the mind, and the strength of those who "seek God"; that is, they acknowledge where they are in the light of truth and seek a better future in the light of faith.
+ 🪞  Caravan Canon (Ch 5 - The Magician) distinguishes Jesus from Jesusa; making Jesusa the magician, while Jesus' time for miracles has not yet come. 
+🍷 In Caravan Canon, the barrels of wine have a false-bottom and wine underneath.  Jesusa notices the ruse, and goes with the flow, leading the crowd to believe in transmutation.
+💔 Caravan Canon places Herod Antipas and 14-year-old Herodias at Cana as the pair getting married.  
+🪙 Jesusa Bara Bas climbs into the loft shouting Capro Naum: (meaning "Pig village"), referencing Elepenor's act in Homer's "Odyssey", while also explaining why John 2:12 says the act is performed in Capernaum.  
+ - Jesusa Bara Bas passes out, so Jesus watched over her until she was secured in her bedroom, because he knew the alcohol content of each person.  (John 2:25)
+
+📖 Caravan of the Fifth Wind is not merely historical fiction. Its aim is to draw a boundary line:  
+✨ Between what is ✨right✨and✨good✨ — the teachings of Jesus of Nazareth in the Synoptics.  
+🙏 And what is 🙏forgivable🙏 — the teachings of Jesusa Bara Bas, revealed by carefully parsing John’s Gospel according to my rubric.  
+📜 Policy note: https://github.com/good4usoul-caene/cosmological-canon/blob/main/policies/zion-cornerstone.md  
+
+🕯️ It is a work of light-hearted discernment, not parody. A work of boundary‑making, not mockery. A work that seeks to honor truth by naming deceit, and to honor forgiveness by recognizing its limits.  
+
+---
+
+
+#### 🌟 Nativity Advent Day 6  
+🪔✝️ Chapter 6: The High Priestess  
+🔗 https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/06-The-High-Priestess.md  
+
+😅 Many will see this as parody, and if that is the lens they must use, so be it. Yet for me, the work is troubling in its source material: Caravan Canon/Scenes is the author’s best attempt to produce the Injil, or “Gospel of Jesus Christ” as prophesied by Mohammad. Though it may be in part fictional, these fictions are meant to enrich the heart, the mind, and the strength of those who seek God.  
+
+🪞 Jesusa speaks with Nicodemus at night, her words twisted by homonyms into “born again.”  
+🍷 She vomits out the wine of Cana, stepping into the light, chastising assent without understanding.  
+📜 She reframes "From the Top" (anothen) with Aristotle’s four causes — material, formal, efficient, final — as glyphs of Spirit.  
+🐍 She invokes Ezekiel and Daniel, snakes lifted in wilderness, Ophiuchus and Tiresias, re‑casting “Son of Man.”  
+💔 The next morning, the census council debates her identity: 
+✂️ Caiaphas demands circumcision, and suggests 📖 Jewish teaching
+📖 Herod suggests Decapolis schooling.
+🪚 Herod whimsically suggests neutering, but Quirnius affirms the whim as rule.
+✈️ Draupi whispers escape: “Take Bara to Egypt, so prophecy may be fulfilled — Out of Egypt I called my Son.”  
+✂️ Quirinius plots to destroy or rewrite census records.   
+
+🤔 To me, assent without understanding, and argument-from-authority are forgivable, but they remain deceitfulness.  
+
+📖 *Caravan of the Fifth Wind* is not merely historical fiction. Its aim is to draw a boundary line:  
+✨ Between what is ✨right✨and✨good✨ — the teachings of Jesus of Nazareth in the Synoptics.  
+🙏 And what is 🙏forgivable🙏 — the teachings of Jesusa Bara Bas, revealed by carefully parsing John’s Gospel according to my rubric.  
+📜 Rubric/Policy note: https://github.com/good4usoul-caene/cosmological-canon/blob/main/policies/zion-cornerstone.md  
+
+🕯️ "Caravan of the Fifth Wind" is a work of discernment, not parody. A work of boundary‑making, not mockery. A work that seeks to honor truth by naming deceit, and to honor forgiveness by recognizing its limits.  
+
+---
+
+🕯️ Day 6 candle lit — discernment continues.
+ 1. 🔙 See Chapter 1: The Birth of John 
+👉 https://www.facebook.com/share/p/1A653yTCfG/
+ 2. 🔙 See Chapter 2: The Conception of Bara Bas 
+👉 https://www.facebook.com/share/p/1B8vSYAyhy/
+ 3. 🔙 See Chapter 3: The Birth of Jesus
+👉 https://www.facebook.com/share/p/17jxLNgaTg/
+ 4. 🔙 See Chapter 4:  The Fool
+👉  https://www.facebook.com/share/p/17AN5iPdRN/
+ 5. 🔙 See Chapter 5:  The Magician
+👉  https://www.facebook.com/share/p/1AMyDcyfLm/
+ 6. 🔙 See Chapter 6:  The High Priestess
+👉  https://www.facebook.com/share/p/1AMyDcyfLm/
+ 

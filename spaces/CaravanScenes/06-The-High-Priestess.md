@@ -8,7 +8,7 @@ Rename-Request: none
 Change-Magnitude: major
 Checklist: none
 Agent-Writable: SHAIBR
-Completeness: Opening Draft
+Completeness: 
 Intent: Caravan will parody Jewish Religion while in Egypt
 Version: v0.1.0
 Prev-Version: none
@@ -22,14 +22,14 @@ Space: s-caravanscenes
 Promotion-Ready-Agent: no
 Promotion-Ready-Agent-Confidence: 5
 Promotion-Ready-Owner: no
-Promotion-Rubric-General: none
-Promotion-Rubric-Specific:
+Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon/blob/main/policies/zion-cornerstone.md
+Promotion-Rubric-Specific: 
 	- id: 1
-		score: 90
-		title: "Job-Parody 90% and Ezekiel-Parody 90%"
-		note: "May need a little more narration, but basically gets the gist across"
+		score: 
+		title: ""
+		note: ""
 ---
-## 🪔 Chapter 06 – The High Priestess (Opening Draft)
+## 🪔 Chapter 06 – The High Priestess 
 
 **[Night in Cana. Jesusa lies in her chamber, the echoes of wine and laughter fading. John stands watch at the door. Nicodemus approaches, hesitant, lantern in hand.]**
 
@@ -52,13 +52,11 @@ No one could know the things you know at your young age if God were not with you
 “How can someone be born when they are old?  
 Surely they cannot enter a second time into their mother’s womb.”
 
-**[Jesusa recalled Grandpa Draupa drilling her on Aristotle’s four causes.  
-Nicodemus’ question, she thought, struck at the heart of ‘Material Cause.’]**  
+**[Jesusa, half-listening, recalled Grandpa Draupa drilling her on Aristotle’s four causes.  Nicodemus’ question, she thought, struck at the heart of ‘Material Cause.’]**  
 “Flesh gives birth to flesh, but air gives birth to air.”
 
 **[She paused, then tried to sum up all the causes — material, formal, efficient, and final — in one summary about their shared spirit.]**  
-“The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it goes.  
-So it is with anyone, or anything born with the spirit.”
+“The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it goes.  So it is with anyone, or anything born with the spirit.”
 
 **Nicodemus (awed, almost trembling):**  
 “How can this be?”
@@ -66,8 +64,7 @@ So it is with anyone, or anything born with the spirit.”
 **Jesusa (gently, with a trace of laughter):**  
 “You are Israel’s teacher, and do you not understand these things?”
 
-**[She wondered what caused her to laugh, and then she realized the sin was the informal fallacy.  
-She had gently shamed Nicodemus and invoked ‘Argument from Authority’ when he had humbly asked for teaching.  
+**[She wondered what caused her to laugh, and then she realized the sin was the informal fallacy.  She had gently shamed Nicodemus and invoked ‘Argument from Authority’ when he had humbly asked for teaching.  
 But then a wave of exhaustion hit her. She doubted Nicodemus’ ability, and spoke defensively; with cynicism; not faith.]**  
 “I speak of what I know, and testify to what I have seen, but still you do not receive my testimony.”
 
@@ -85,14 +82,10 @@ Nicodemus’ grasp must mean something else.]**
 **[Jesusa: The idea of assenting without understanding made her stomach lurch.]**  
 “John, bring me that bucket, I'm going to vomit.”
 
-**[John brought the bucket to her, and she held it, vomiting up most of the remaining wine in her stomach.  
-By the time she was done, light was streaming in from the open curtains.  
-The light from the open curtains hurt her eyes, and she chastised herself for her inability to withstand it, while she chastised Nicodemus for his assent without understanding.]**
-
+**[John brought the bucket to her, and she held it, vomiting up most of the remaining wine in her stomach.  By the time she was done vomiting, light was streaming in from the open curtains.  The light from the open curtains hurt her eyes, and she chastised herself for her inability to withstand it, while she chastised Nicodemus for his assent without understanding.]**
 “Yet whoever lives by truth comes into the light, so that it may be plainly seen that what they have done has been done through God.”
 
-**[John is swift to the spoils. Jesusa’s chamber pot. He picks it up to set it in the hallway, to take it to the latrine later.  
-He re-enters and watches silently, as if guarding the words themselves. Nicodemus bows his head, shaken.]**
+**[John is swift to the spoils. Jesusa’s chamber pot. He picks it up to set it in the hallway, to take it to the latrine later.  He re-enters and watches silently, as if guarding the words themselves. Nicodemus bows his head, shaken.]**
 
 **Nicodemus asks:**  
 “If I must come from heaven in order to see heaven, how do I come from heaven?”
@@ -117,17 +110,16 @@ But how does this grant eternal life?”
 
 **[Bara Bas thinks about Ezekiel cooking his food over cow manure.  
 He was full of crap. But would she be?]**  
-“Out of my fullness you want to receive the promise of eternal life for grace already given by God?”
+“Out of my fullness you want to receive grace for grace already given?”
 
 **Nicodemus:**  
-“Yes, I want eternal life in heaven.”
+“I want eternal life in heaven.”
 
 **[Bara Bas offered some paraphrasing of the following.]**  
-“God so loved the world, that he gave the begotten child of necessity,  
+“God so loved the world, that he gave invention; the begotten child of necessity,  
 that whoever believes in him shall not perish but have eternal life.  
 For God did not send his Son into the world to condemn the world, but to save the world through him.  
-Whoever believes in salvation is not condemned, but whoever does not believe stands condemned already,  
-because they have not believed in the meaning of necessity’s unique solution.”
+Whoever believes in salvation is not condemned, but whoever does not believe stands condemned already, because they have not believed in the meaning of necessity’s unique solution.”
 
 **Jesusa (weakly):**  
 “Can I go back to sleep now? I’m sorry, my head is pounding.”
@@ -172,7 +164,7 @@ but you cannot tell where it comes from or where it goes.
 So it is with anyone born of the Spirit —  
 material, form, agent, and purpose all gathered in one breath.”
 
-## 🪔 Council Scene (Refined Draft)
+## 🪔 Council Scene 
 
 [Day after Herod’s wedding. Meeting room in Cana. Caiaphas sits rigid, Herod Antipas reclines at the head of the table, Nicodemus between them. Quirinius presides from the far end, census scrolls spread before him. Draupi lingers unnoticed near the doorway.]
 
@@ -191,7 +183,6 @@ Draupi has spared the rod too much.”
 **Herod (laughing, swirling his cup):**  
 “Relax about the dressing up, Caiaphas, and forget circumcision. Plato never minded a little girly‑boy.  
 What matters is empire. She ought to be given a proper Roman education, not raised in rustic Galilee.  
-
 Let her learn **rhetoric in Gadara**, philosophy in **Scythopolis**, discipline in **Hippos**.  
 Only then will she be fit for empire — not as a village curiosity, but as one who can stand in Rome’s courts.”
 
@@ -200,41 +191,43 @@ Only then will she be fit for empire — not as a village curiosity, but as one 
 Perhaps the Spirit rests upon her. Perhaps she is more than either of you imagine.”
 
 **Caiaphas (snapping back):**  
-“That is dangerous talk, Nicodemus. The Law requires that if a prophet puts other gods above JHWH or speaks prophecies that fail, they must be stoned.   He speaks of other gods, Hindu, Greek, Roman, Phoenician.
-This prophet of yours claims a God that promotes baptism, dresses a boy as a girl, and refuses circumcision. 
+“That is dangerous talk, Nicodemus. The Law requires that if a prophet puts other gods above JHWH or speaks prophecies that fail, they must be stoned.   This cross-dressed young man speaks of other gods, Hindu, Greek, Roman, Phoenician.
+This prophet of yours talks of Eastern and Roman gods, disrespects the Torah, and promotes this nonsense of baptism. 
 We should take this prophet talk out of him, dress him as a young man, and have him circumcised.  
 Then, if he desists from his talk of other gods, and only then, should he be considered for Jewish education and instruction in the Law.”
 
 **Herod (smirking):**  
 “Instruction, yes — but not your dusty scrolls. Let her be polished in the Decapolis. Rome needs voices, not zealots.  
-I could care less if she is circumcised or not, but she should dress in whatever way she likes.  
-For that matter, why not make her a eunuch?”
+I could care less if she is circumcised or not, and she should dress in whatever way she likes.  
+But for that matter, if she wants to be a woman, why not make her a eunuch?”
 
 **Nicodemus (quietly, almost to himself):**  
-“Perhaps both of you are blind. Perhaps she is already chosen.  
-With all due respect, Herod, let's please not make a Eunuch.  
+“Perhaps both of you are blind. Perhaps he is already chosen.  
+With all due respect, Herod, let's please not make him a Eunuch.  
 But yes, I would concur that a circumcision is in order.”
 
 **Quirinius:**  
-“Okay, I so mark this requirement of circumcision in the census, out of respect of the Jewish Patriarchy.  As for the cross-dressing, Herod, would you like to require her to become a Eunuch?”
+“Okay, We have two ayes from the Pharisees, regarding circumcision.  I will so mark this requirement of circumcision in the census, out of respect of the Jewish Patriarchy.  But as for the cross-dressing, Herod, would you like to require her to become a Eunuch?”
 
 **Herod**
 “That sounds like a reasonable compromise.  If she wants to maintain femininity through puberty.  More natural for men of womanly nature to be made eunuch.  It is not usually comely for an adult man to dress as a woman.”
 
-[Draupi, listening unseen, clenches his hands. He hears enough to know their intent.]
+[Draupi, listening unseen, clenches her hands. She hears enough to know their intent.]
 
 **Draupi (later, whispering to Joseph):**  
-“They will take her. They will cut her. They will make her into their image.  They only know that Bara was born under the auspicious sign, but they do not know there were three.  If you take Bara south to Egypt, and pretend she is your son, by the time you come back, they will have forgotten.  
+“They will take her. They will cut her. They will make her into their image.  They only know that Bara was born under the auspicious sign, but they do not yet know of Jesus and John.  They think Jesusa was the one born in Bethlehem.  If you take Mary and Bara south to Egypt, and pretend she is your son, by the time you come back, they will have forgotten.  
 
 **Joseph:  (with tears)**
 And leave Jesus behind?  
 
 **Draupi:**
-You should take Bara to Egypt.  Her body will be changing, and she will fulfill the prophecy "Out of Egypt I called my Son".  Make it look like he comes from Nazareth as well, so they will never find my girl from Sychar.
+You should take Bara to Egypt.  Her body will be changing, and she will fulfill the prophecy "Out of Egypt I called my Son".  Make it look like he comes from Nazareth as well, so they will never realize my girl is from Sychar.
 
 ---
 
 So Joseph found Bara and Mary, and soon the Magi, Odys, Belzar, and Durvasini were packing to go with them as quickly and lightly as they could.  The rest of the caravan would have to catch up later.
+
+---
 
 When the census council discovered that Bara had gone, Herod Antipas was furious.  "I'll kill them!" he shouted.  "Kill every boy or girl born under that Christ-Star!"  
 
@@ -242,21 +235,17 @@ When the census council discovered that Bara had gone, Herod Antipas was furious
 
 "Damn it, yes... Conceived." 
 
-"I may have an alternative idea, if you'd like to hear it." said Quirnius.
+"I may have an alternative idea, if you'd like to hear it.  Something less violent, and possibly more effective," said Quirnius.
 
 "And what, pray tell, is that?" asked Antipas.
 
-"Well, I have access to the census data from 12 years ago, and today.  All we need to do is change the dates.  Did you not deflower your lovely young wife last night in your newlywed bliss?"
+"Well, I have access to the census data from 12 years ago, and today.  All we need to do is change the dates, or destroy the record."
 
-"Why of course.  I delighted in my new wife."  said Herod.
+"Excellent," said Herod.  "Make a new record of births, so the child I conceived last night with Herodias is the one conceived under the auspicious star.  Then *my* child will be the child of prophecy!"
 
-"Then I will simply record that last night was the astronomical event, and I will move the dates around in our census.  So there will be no trace of any children being born under that sign." said Quirnius
-
-"Brilliant!  Then *my* child will be the child of prophecy!"
-
-"Quite right, sir." said Quirnius.
+Quirnius plans on doing just this, but during the course of the task, it becomes apparent that Herodias did not become pregnant on the wedding night.  
 
 ---
 
-So, Bara Bas fled to Egypt while John and Jesus started their ministries as very young men.  John was baptizing in Salim and Aenon, while Jesus baptized all over Judea. When people asked John about Jesus, he told them "The one from earth speaks from earth, and the one from heaven speaks from heaven.  I must become less, so that he can become greater."
+So, Bara Bas fled to Egypt while John and Jesus started their ministries as very young men.  John was baptizing in Salim and Aenon, while Jesus baptized all over Judea. When people asked John about Jesus, he told them "The one from earth speaks from earth, and the one from heaven speaks from heaven (John 3:31).  I must become less, so that he can become greater. (John 3:30)"
 
