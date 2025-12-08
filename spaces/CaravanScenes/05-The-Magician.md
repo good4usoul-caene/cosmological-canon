@@ -4,7 +4,7 @@ Author:  Jonathan David Doolin
 Date: 2025-11-27
 License: All rights reserved. No part of this work may be distributed, reproduced, or shared in any form until the author declares the work complete and grants explicit permission.
 Permissions: Scripture quotations taken from the Holy Bible, New International Version® (NIV®). Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.  Poems are taken from author's own work: [Riddles of Barabbas](https://github.com/good4usoul-caene/cosmological-canon/blob/main/library/books/riddles-of-barabbas/02-riddles-of-barabbas.md) 
-Agent-Writable: no
+Agent-Writable: yes
 Rename-Request: 
 Completeness: 95%
 Intent: A chapter of "Caravan of the Fifth Wind"
@@ -33,15 +33,17 @@ Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon
 | 37 BCE | Octavian rising (not yet Augustus) | not applicable | not applicable | Roman Senate (with Antony’s backing) | Herod the Great installed, recognized as “King of the Jews” |
 | 31 BCE | Octavian consolidates power | not applicable | not applicable | Octavian Caesar | Octavian defeats Antony and Cleopatra at Actium |
 | 27 BCE | **START:** Octavian named Augustus, *ruled as Emperor* | Herod the Great (ruled as King) | not applicable | Augustus (ruled as Emperor) | Beginning of Augustus’s reign |
-| 12 BCE | 15th year of Augustus | see above (Herod the Great still King) | not applicable | Augustus appoints Quirinius as consul in Syria/Cilicia | Quirinius suppresses Homonadenses |
-| 7 BCE | 20th year of Augustus | see above (Herod the Great still King) | not applicable | Augustus (ruled as Emperor) | Triple Conjunction; canonical **Ch 1-3** births of John, Bara Bas, Jesus |
+| 14 BCE | 7th year of Augustus | see above | see above | see above | Birth of Herodias; Approximate Birth of Mary; Quirinius defeats Marmaridae tribe in Cyrenaica |
+| 12 BCE | 15th year of Augustus | see above (Herod the Great still King) | not applicable | Augustus appoints Quirinius as consul in Syria/Cilicia | Quirinius dispatched to Cilicia to suppress Homonadenses |
+| 7 BCE | 20th year of Augustus | see above (Herod the Great still King) | not applicable | Augustus (ruled as Emperor) | Triple Conjunction; *Canonical Ch. 1–3 births of John, Bara Bas, Jesus; erased census* |
 | 4 BCE | 23rd year of Augustus | **Herod Archelaus (ruled as Ethnarch)** | **Herod Antipas (ruled as Tetrarch of Galilee & Perea)**; **Philip (ruled as Tetrarch NE territories)** | Augustus (ruled as Emperor) | Death of Herod the Great; kingdom divided among sons |
-| 1 CE | 28th year of Augustus | see above (Archelaus as Ethnarch) | see above (Antipas & Philip as Tetrarchs) | see above (Augustus as Emperor) | Canonical Ch. 4 meeting of John, Bara Bas, Jesus in Sychar |
-| 6 CE | 33rd year of Augustus | Archelaus deposed | see above (Antipas & Philip as Tetrarchs) | **Quirinius (ruled as Governor of Syria)**; Roman prefects begin in Judea | Census of Quirinius; *Canonical **Ch.&nbsp;5** wedding in Cana, Bara Bas’s Bas Mitzveh; **Ch.&nbsp;6** Conception of Salome* |
-| 14 CE | Augustus dies; Tiberius *ruled as Emperor* | not applicable (Archelaus gone, Judea under Roman prefects) | see above (Antipas & Philip as Tetrarchs) | Roman prefects in Judea | Transition of imperial power |
+| 1 CE | 28th year of Augustus | see above (Archelaus as Ethnarch) | see above (Antipas & Philip as Tetrarchs) | see above (Augustus as Emperor) | Canonical Ch. 4 meeting of John, Bara Bas, Jesus in Sychar |
+| 6 CE | 33rd year of Augustus | Archelaus deposed | see above (Antipas & Philip as Tetrarchs) | **Quirinius (ruled as Governor of Syria)**; Roman prefects begin in Judea | Census of Quirinius; *Canonical Ch. 5 wedding in Cana, Bara Bas’s Bas Mitzveh; Ch. 6 Conception of Salome; Quirinius destroys record of earlier census* |
+| 14 CE | Augustus dies; Tiberius *ruled as Emperor* | not applicable (Archelaus gone, Judea under Roman prefects) | see above (Antipas & Philip as Tetrarchs) | Roman prefects in Judea | Transition of imperial power; Salome is born |
 | 20 CE | Tiberius’s reign | not applicable | Antipas (ruled as Tetrarch, now governing from Tiberias) | Roman prefects | Tiberias founded, Antipas’s main seat |
 | 26 CE | 52nd year of Augustus’s regnal count (though Tiberius emperor) | not applicable | Antipas (ruled as Tetrarch) | **Pontius Pilate (ruled as Governor of Judea)** | John the Baptist imprisoned by Antipas |
 | 28–30 CE | 54th–56th year of Augustus’s regnal count (Tiberius emperor) | not applicable | Antipas (ruled as Tetrarch) | Pilate (Governor) | John the Baptist executed at Machaerus |
+
 
 
 ---
@@ -51,6 +53,8 @@ Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon
 - Archelaus ruled Judea from **4 BCE–6 CE** as ethnarch, before being deposed by Augustus.  
 - After Archelaus, Judea was governed directly by Rome, with prefects such as **Pontius Pilate (26–36 CE)**.  
 - John the Baptist’s imprisonment and execution are generally placed between **26–30 CE**, under Herod Antipas’s authority.
+
+# 05 - The Magician
 
 In the 33rd year of the reign of Augustus during the deposition of Herod Archelaus ethnarchy of Judea, Draupi, her five sons, and her daughter Bara went to a wedding in Cana, which also served as Bara Bas's Bas Mitzveh.  (Jesus and John were still waiting, since young men have Bar Mitzveh's at 13.)  Elizabeth, Zechariah, Mary, Joseph and Jesus, and the Caravan of the Fifth Wind was also there.  
 
@@ -62,7 +66,7 @@ For Odys, this wedding was a great opportunity to sell his wine.  And the accoun
 
 The feast was joyous, yet whispers of politics filled the air. Roman officials had arrived to oversee the census, and the people muttered against the tribute demanded by Caesar.
 
-Draupi, already a little tipsy, stood up to announce, "I would like to make an announcement.  Today my littlest one, my daugher Bara, is turning twelve.  She is my salvation, and so I want everyone to feel free to call her Jesusa Bar Abas.  Which means Yahweh is salvation Daughter of Creation.  Now... does everyone have enough wine?"
+Draupi, already a little tipsy, stood up to announce, "I would like to make an announcement.  Today my littlest one, my daugher Bara, is turning twelve.  She is my salvation, and so I want everyone to feel free to call her Jesusa Bar Abas.  (which means Yahweh is salvation Daughter of Creation).  Now... does everyone have enough wine?"
 
 A servant said, "No, we've just run out."
 
@@ -151,7 +155,7 @@ When Jesus of Nazareth comes, John smiles and says, “I need to be baptized by 
 
 Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness.” Then John consented.
 
-As Jesus arose from the barrel, a shaft of sunlight played across him, and a voice from above said “This is my Son, whom I love; with him I am well pleased.”
+Just as Jesus arose from the barrel, Joseph, on a balcony above, opened a curtain, and a shaft of sunlight played across Jesus, while Joseph, speaking from the hidden source of light, said “This is my Son, whom I love; with him I am well pleased.”
 
 John said, "I only baptize in water, but the two that come after me will baptize in fire and in the holy spirit."
 

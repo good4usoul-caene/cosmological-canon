@@ -1,67 +1,130 @@
 ---
+Rename-Request: none
+Echo-Filepath: none
+Local-Filepath: spaces/CaravanScenes/07-The-Empress.md
+Repository-Source: none
+Repository-Destination: spaces/CaravanScenes/07-The-Empress.md
+SAIBR-Target: none
+Change-Magnitude: major
+Checklist: universal-template compliance, Advent structure, narrative summary
+Agent-Writable: yes
+Completeness: full
+Intent: Chapter 7 of CaravanScenes, "The Empress"—depicts the flight from Cana, (Matthew 2:13-23) Egyptian temples, and Bara Bas's first disciple, with prologue and plays.  
+Version: v0.2.0
+Prev-Version: v0.1.1
+Author: Jonathan David Doolin
+Date: 2025-12-07T00:00:00-06:00
+Genre: Historical Fiction / Gospel Tarot / Scripted Play
+Change-Note: Added universal-template header for compliance and provenance.
+RitualNote: "Let us learn what we must, but let us not forget who alone is worthy of worship." (cf. Exodus 20:3-5)
+RitualNoteKey: Exodus 20:3-5; Wisdom of learning from all nations
+Promotion-Ready-Agent: yes
+Promotion-Ready-Agent-Confidence: 10
+Promotion-Ready-Owner: yes
+Promotion-Rubric-General: /policies/zion-cornerstone.md
+Promotion-Rubric-Specific:
+  - id: 1
+    score: 100
+    title: "Universal-template compliance"
+    note: "Header fields match /policies/universal-template.md requirements."
+  - id: 2
+    score: 100
+    title: "Narrative and dramatic structure"
+    note: "Includes both narrative and dramatic play content."
+---
+---
+## The Flight from Cana
 
-**[Alexandria marketplace. The Caravan of the Fifth Wind winds through stalls of scrolls, spices, and glassware. Jesusa Bara Bas pauses at a booth where an old man demonstrates a curious lens.]**
+At Draupi's request, Joseph gathered Mary, and Jesusa, and told Belzar they were leaving.  Belzar, having been a head scribe and astrologer at the Library of Alexandria said "I will come too.  I know the way."  Odys the Vintner, and Durvasini the healer also packed quickly, but instructed the rest of the Caravan to pack and follow, to meet in Alexandria soon.  
 
-**[The lens-seller projects letters onto a wall. Jesusa gasps, recalling Daniel’s “Writing on the Wall.”]**
+Odys told them "You should not tarry until you are free of Rome’s reach. Only then should you rest."   
 
-**Jesusa (awed):**  
-“This is a miracle — the words appear as if written by a hidden hand.”
+So the six departed from Cana, moving swiftly along the roads. They passed through villages but did not stop, keeping to the wilderness paths to avoid intervention until they cross beyond Roman jurisdiction.
 
-**Lens-seller (chuckling):**  
-“No miracle, child. The same lens can magnify when held close to the page, or make an image more distant when held close to the eye.”
+They entered Egypt at Pelusium, the frontier city, where desert gave way to the green edge of the Delta.  Odys jingled the coins in his pocket and said, "Here, we rest. Pelusium’s tables are heavy with grain and wine. Let us eat, for the road has been long."  So here they rested and ate their first good meal, safe beyond Rome’s reach.
 
-**Jesusa (tilting her head):**  
-“Sir, with respect, consistency and flexibility only makes salvation more miraculous. But what use is it to make an image further distant?”
+But to reach Alexandria, they would soon need to cross the Nile’s branching waters — ferries and boats carrying them westward through the Delta’s veins.
 
-**Lens-seller (smiling, tapping his temple):**  
-“Because an old man’s eyes like mine are too weak to wrestle with tiny letters on a looming page.  
-But with large letters on a chalk board, bigger and further away, my weak eyes can rest.”
+“From Pelusium they walked westward, reeds brushing their ankles, until the river’s veins forced them to board ferries. Boats carried them across the Tanitic branch, and soon the towers of Tanis rose before them. Jesusa gazed at colossal statues of Amun, Mut, and Khonsu, their shadows stretching across the sacred lake. Odys whispered, ‘This city rivals Thebes — its temples are heavy with gold, its tombs with kings.’ Belzar, once a scribe of Alexandria, nodded: ‘Tanis is Egypt’s other capital. Here, heaven and earth meet in stone.’”
 
-**Jesusa (nodding, delighted):**  
-“Ah, *bigger* and further away. I see.”
+At the gates of Tanis, Belzar lifted his hand toward the towering statues. “These are the gods of Egypt — Amun, Mut, Khonsu,” he said. “Their stories are carved in stone, their faces lifted to the sky.”
 
-**[The old man laughs, pinches his fingers together in front of her face, squinting through them.]**  
-“What is big, what is little? I squish your head.”
+Joseph hesitated, his eyes narrowing at the sight of the temples rising high above them, carved with names not his own. He recalled the Torah’s warning: You shall not bow down to them or serve them.
 
-**[Jesusa bursts into laughter, mimicking the gesture.]**  
-“Hey vendor, don’t panic — I’m only crushing your head.”
+Bara turned to him with a questioning look. “If we are to dwell here, should we not understand the voices that shape this land?”
 
-**Vendor: (chuckling)**
-“Please, it's Didymus.  And I'm not worried.  You're crushing the angular measure, not the lateral measure.”
+Mary, Jesusa, and the others pressed forward eagerly, their curiosity drawing them closer to the monuments.
 
-**[She takes two lenses, balancing them over her eyes, bending forward to read a tiny inscription.]**  
-“I want two for my grandfather, and one for my lighting guy.”
+Belzar’s voice softened as he remembered his past. “As a scribe of Alexandria, I once copied hymns to these gods. They are not ours, but their stories are part of Egypt’s wisdom. To gaze upon their statues is to read the public scroll of stone.”
 
-**Didymus (grinning, counting on his fingers):**  
-“Well, I like to invest my money into shipping, or at least put it in my mattress, or my wallet.  
-It will be 200 talents each, plus tax — that is 666 talents.”
+Odys smiled, his tone light. “Wine is sweeter when you know the myths behind the cup. Let us hear their tales.”
 
-**Jesusa (gasp):**  
-“Oh, wow. Okay. I’ll rename your business *Sparkling Sea Piracy and a Flat-Head*.  
-I doubt if the Caravan can raise that much money.”
+Durvasini nodded thoughtfully. “Every healer must learn the names of foreign spirits. Even if they are not ours, they teach us how others see the body and soul.”
 
-**Didymus (soberly, folding his hands):**  
-“Understand, dear lady, these are the only three lenses I have, and I don’t have the means to reproduce them.  
-To me each one is priceless. But even pricelessness has a price.  
-With 600 talents, I could commission a ship to return to where I got them, and buy a hundred more.”
+Joseph lowered his eyes, his reluctance plain. “I will walk with you,” he said quietly, “but I will not bow. My task is to guard Jesusa, not to praise the idols of Tanis.”
 
-**[Jesusa tilts her head, recalling Solomon’s tribute of 666 talents, the Queen of Sheba’s wealth, and the burden of kings.]**  
-“But failing that, how about this?  
-If the Caravan offers you a permanent place, and you give us just one talent in return —  
-your talent as a lighting guy —  
-then together with some of the finest minds in Egypt and Rome, you can continue your research in the method of reproduction for the lenses.”
+The Temples of Tanis
+The Caravan entered Tanis, where colossal temples rose from the marshes of the Delta. Each was a monument to Egypt’s gods, carved in stone and shadow.
 
-**Didymus (softening, with a smile):**  
-“It’s worth considering. I’ll meet with the head of your caravan to see if our goals are compatible.”
+Temple of Amun‑Ra The largest temple dominated the city, its pylons lined with broken obelisks and statues of kings. Jesusa paused at the threshold, gazing upward at the towering figure of Amun. “His face is stern,” she whispered, “yet the silence feels like judgment.” Belzar stepped forward, his voice carrying the weight of memory. “Amun‑Ra is said to have hidden himself from the world, only to be revealed again as the sun. In Thebes, they told how he rose each morning to defeat the serpent of chaos, Apophis, so that light might return. These statues are not only kings—they are guardians of that daily victory.”
 
-**Jesusa:**
-It is usually Balzar who decides where we go, but it's at the request of Joseph that we've come down here to Alexandria.  You might also talk to Odys, the Vintner, and Durvasini, the healer.  
+Temple of Mut Near a sacred lake lay the temple of Mut, consort of Amun. Its walls were carved with mothers and queens, their arms outstretched in blessing. Mary lingered there, her hand resting on Jesusa’s shoulder. “These carvings remind me of our own mothers,” she said softly. “Even foreign hands know the power of nurture.” Durvasini, the healer, studied the reliefs with care. “Mut was called the mother of all, the one who bore without being born. Midwives here would pray to her for strength in childbirth, believing her spirit could steady the hands that deliver life. These carvings are not only decoration—they are promises of protection.”
 
-**Didymus:**
-"Excellent, child.  I will follow you."
+Temple of Khonsu Further west stood the temple of Khonsu, the moon god, its reliefs etched with cycles of waxing and waning light. Belzar, once a scribe of Alexandria, traced the hieroglyphs with his finger. “I copied hymns to this god long ago,” he murmured. “Khonsu’s cycles are not ours, but they teach us how Egypt marks time. To gaze upon these walls is to read the public scroll of stone.” Bara tilted her head. “Cycles? Is Khonsu like Cronus—a god of time?” Belzar smiled faintly. “Perhaps. But here, time is not a devourer. It is a rhythm, a tide that guides the harvest and the healing of bodies.”
+
+Shrine of Horus A smaller shrine honored Horus, falcon‑headed, his eyes fixed on the horizon. Odys laughed as he lifted a cup of wine in salute. “Wine is sweeter when you know the myths behind the cup,” he said. “Let us hear their tales, even if they are not ours.” Bara leaned closer. “Okay, what’s the myth for this one?” Odys gestured toward the falcon’s gaze. “Horus fought Set for the throne of Egypt. His eye was torn out, then restored, and so it became a symbol of healing and protection. To drink in his presence is to share in victory, and to trust that what is broken may be made whole again.”
+
+Joseph’s words carried through the temple courts, steady and restrained. “Stories are fine,” he said, “and wisdom may be gleaned from them. But the idols themselves are objectionable. None of these rise above the Creator, who made heaven and earth. Let us learn what we must, but let us not forget who alone is worthy of worship.”
+
+The others fell silent for a moment, their curiosity tempered by his reminder. Whether they agreed fully or in part, they respected him.
+
+Jesusa nodded, her eyes fixed on the stone figures looming above. “Cronus has swallowed these gods and turned them into stone… idols,” she said. “Worship profits no idol. But worship profits the God of creation, because the grander part of creation must still be created by those with the faith to do so.”
+
+Belzar glanced at her, recognizing the paradox in her words: that even in Egypt’s monuments, swallowed by time, there was a shadow of truth pointing back to the Creator. The six moved on, carrying both Joseph’s caution and Jesusa’s vision, their steps weaving fidelity and curiosity into a single path.
+
+From Tanis to Alexandria lay two hundred kilometers of rivers and reed‑beds. The Caravan walked the roads until the waters forced them to board ferries, boats carrying them westward through the Delta’s veins. Each crossing was a delay, yet also a reminder: Egypt was a land of abundance, but abundance demanded patience. A week’s journey still separated them from Alexandria’s marble towers.
+
+At last they arrived. Belzar went straight to the Great Library, where he handed over many scrolls describing his travels around Judea. In exchange, he commissioned a transcription of the story of Draupadi from the Mahabharta, for he recognized Jesusa’s mother as a reincarnation.
+
+Jesusa wandered into the agora, the marketplace where the voices of Greece, Egypt, and India mingled together, each scroll and stall a thread in the tapestry of the city. She paused at a booth where an old man demonstrated a curious lens. He projected letters onto a wall, and Jesusa gasped, recalling Daniel’s “Writing on the Wall.”
+
+“This is a miracle,” she said in awe. “The words appear as if written by a hidden hand.”
+
+The lens‑seller chuckled. “No miracle, child. The same lens can magnify when held close to the page, or make an image more distant when held close to the eye.”
+
+Jesusa tilted her head. “Sir, with respect, consistency and flexibility only makes salvation more miraculous. But what use is it to make an image further distant?”
+
+The old man smiled and tapped his temple. “Because an old man’s eyes like mine are too weak to wrestle with tiny letters on a looming page. But with large letters on a chalk board, bigger and further away, my weak eyes can rest.”
+
+Jesusa nodded, delighted. “Ah, bigger and further away. I see.”
+
+The old man laughed, pinching his fingers together in front of her face, squinting through them. “What is big, what is little? I squish your head.”
+
+Jesusa burst into laughter, mimicking the gesture. “Hey vendor, don’t panic — I’m only crushing your head.”
+
+“Please,” the vendor said, still chuckling, “it’s Didymus. And I’m not worried. You’re crushing the angular measure, not the lateral measure.”
+
+Jesusa picked up two lenses, balancing them over her eyes, bending forward to read a tiny inscription. “I want two for my grandfather, and one for my lighting guy.”
+
+Didymus grinned, counting on his fingers. “Well, I like to invest my money into shipping, or at least put it in my mattress, or my wallet. It will be 200 talents each, plus tax — that is 666 talents.”
+
+Jesusa gasped. “Oh, wow. Okay. I’ll rename your business Sparkling Sea Piracy and a Flat‑Head. I doubt if the Caravan can raise that much money.”
+
+Didymus folded his hands soberly. “Understand, dear lady, these are the only three lenses I have, and I don’t have the means to reproduce them. To me each one is priceless. But even pricelessness has a price. With 600 talents, I could commission a ship to return to where I got them, and buy a hundred more.”
+
+Jesusa tilted her head, recalling Solomon’s tribute of 666 talents, the Queen of Sheba’s wealth, and the burden of kings. “But failing that, how about this? If the Caravan offers you a permanent place, and you give us just one talent in return — your talent as a lighting guy — then together with some of the finest minds in Egypt and Rome, you can continue your research in the method of reproduction for the lenses.”
+
+Didymus softened, smiling. “It’s worth considering. I’ll meet with the head of your caravan to see if our goals are compatible.”
+
+Jesusa explained, “It is usually Belzar who decides where we go, but it’s at the request of Joseph that we’ve come down here to Alexandria. You might also talk to Odys, the Vintner, and Durvasini, the healer.”
+
+“Excellent, child,” Didymus replied. “I will follow you.”
 
 And so Bara gained her first disciple.
 
+---
+
+While they were in Egypt the Caravan went from town to town performing many acts.  Here is an excerpt:
 
 ---
 # 🎭 Caravan Introduction: The Twelve Tribes Sentence
