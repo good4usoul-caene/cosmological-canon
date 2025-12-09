@@ -1,52 +1,35 @@
----
 Echo-Filepath: none
-Local-Filepath: spaces/CaravanScenes/08-The-Emperor.md
+Local-Filepath: spaces/CaravanScenes/09-The-Emperor.md
 Repository-Source: none
-Repository-Destination: spaces/CaravanScenes/08-The-Emperor.md
+Repository-Destination: spaces/CaravanScenes/09-The-Emperor.md
 SAIBR-Target: none
-Rename-Request: none
+Rename-Request: Renamed from 08-The-Emperor.md to 09-The-Emperor.md
 Change-Magnitude: major
 Checklist: universal-template compliance, Advent structure, narrative summary
 Agent-Writable: yes
-Intent: Add Chapter 8 "The Emperor" to CaravanScenes
-Version: v0.1.1
-Prev-Version: v0.1.0
+Intent: Add Chapter 9 "The Emperor" to CaravanScenes
+Version: v0.2.0
+Prev-Version: v0.1.1
 Author: Jonathan David Doolin
-Date: 2025-12-04
+Date: 2025-12-08T00:00:00-06:00
 Genre: Historical Fiction / Gospel Tarot
-Change-Note: Added Advent framing and faith message to "The Emperor" chapter
-RitualNote: Advent Day 8, Major Arcana IV
+Change-Note: Renamed file and updated header for Chapter 9, universal-template compliance
+RitualNote: Advent Day 9, Major Arcana IV
 Completion: 50%
 RitualNoteKey: Emperor
 Promotion-Ready-Agent: yes
-Promotion-Ready-Agent-Confidence: 100
+Promotion-Ready-Agent-Confidence: 10
 Promotion-Ready-Owner: yes
 Promotion-Rubric-General: /policies/zion-cornerstone.md
-Promotion-Rubric-Specific: 
+Promotion-Rubric-Specific:
   - id: 1
-    score: 0
-    title: "Meeting at the well"
-    note: "Jesus meets Draupi at the well, and gives her the Mahabharta (telling her everything she has ever done)"
+    score: 100
+    title: "Filename and chapter number update"
+    note: "Header fields reflect new filename and chapter number."
   - id: 2
-    score: 0
-    title: "The Living Water"
-    note: "When she recognizes Jesus they both cry tears of joy."
-  - id: 3
-    score: 80
-    title: "Baby Riddle"
-    note: "Decide whether to stick with the poem I actually wrote, or to cheat off AI and cut my actual last two lines for the proposed four, probably better lines."
-  - id: 3
-    score: 50
-    title: "Advent Message"
-    note: "Revise Advent Message by Monday, 12/8/2025"
-  - id: 4
-    score: 25
-    title: "Narrative"
-    note: "Make it read like a narrative instead of a list."
-  - id: 5
-    score: 25
-    title: "Living Water as Semen/Sperm"
-    note: "Decide whether this reference is just way too Diogenes or not."
+    score: 100
+    title: "Universal-template compliance"
+    note: "Header matches /policies/universal-template.md requirements."
 ---
 
 

@@ -257,17 +257,54 @@ FAITH MESSAGE:
 
 ---
 
-🕯️ Day 6 candle lit — discernment continues.
- 1. 🔙 See Chapter 1: The Birth of John 
-👉 https://www.facebook.com/share/p/1A653yTCfG/
- 2. 🔙 See Chapter 2: The Conception of Bara Bas 
-👉 https://www.facebook.com/share/p/1B8vSYAyhy/
- 3. 🔙 See Chapter 3: The Birth of Jesus
-👉 https://www.facebook.com/share/p/17jxLNgaTg/
- 4. 🔙 See Chapter 4:  The Fool
-👉  https://www.facebook.com/share/p/17AN5iPdRN/
- 5. 🔙 See Chapter 5:  The Magician
-👉  https://www.facebook.com/share/p/1AMyDcyfLm/
- 6. 🔙 See Chapter 6:  The High Priestess
-👉  https://www.facebook.com/share/p/1AMyDcyfLm/
- 
+#### 🌟 Nativity Advent Day 7  
+🪔👑 Chapter 7: The Empress (Matt 2:13-23)
+🔗 https://github.com/.../CaravanScenes/07-The-Empress.md  
+😅 Many will see this as parody, and if that is the lens they must use, so be it. Yet for me, the work is troubling in its source material: Caravan Canon/Scenes is the author’s best attempt to produce the Injil, or “Gospel of Jesus Christ” as prophesied by Mohammad. Though it may be in part fictional, these fictions are meant to enrich the heart, the mind, and the strength of those who seek God.  
+🚶 The Caravan flees Cana, crossing into Egypt at Pelusium, resting at Tanis among colossal temples.  
+🪨 Joseph warns: “Let us learn what we must, but let us not forget who alone is worthy of worship.”  
+👩‍👧 Jesusa gazes at Amun, Mut, Khonsu, Horus — seeing shadows of truth swallowed by Cronus, yet pointing back to the Creator.  
+📜 Belzar recalls his scribe’s past, Odys laughs with wine, Durvasini listens for healing wisdom.  
+🏛️ Alexandria’s Library receives scrolls; Jesusa marvels at lenses, recalling Daniel’s “Writing on the Wall.”  
+🤝 Didymus the lens‑seller joins the Caravan — Bara Bas gains her first disciple after playing "I'm squishing your head".  
+🎭 The Caravan performs in Egypt:  
+### 🎭 Bonus Advent Fragment: Job, the Son of Sorrow  
+🪔👑 Chapter 7: The Empress — Play One  
+💔 Job suffers under a grotesque wager.  
+🌪️ The whirlwind roars, the Accuser mocks.  
+🦶 God clips toenails, counting sheep, absent.  
+📜 Comforters chant blasphemous names, drowning Job’s voice.  
+👑 Reward comes not from God, but from the Accuser.  
+🤔 Lesson: Suffering is not proof of guilt. Reward without discernment is hollow.  
+---
+### 🎭 Bonus Advent Fragment: Fingers, the Sons of the Right Hand  
+🪔👑 Chapter 7: The Empress — Play Two  
+🐂 Ezekiel’s bull‑crap idols parade.  
+😢 Mourning denied, flesh smeared across temple walls.  
+✋ Bara Bas raises her right hand, five fingers sent forth.  
+💩 Comic lament — dung, jealousy, grotesque parody.  
+🕯️ Idols mocked, empire exposed.  
+🤔 Lesson: Idols of empire are bull‑crap. True worship belongs to the Creator alone.  
+---
+📖 *Caravan of the Fifth Wind* is not merely historical fiction. Its aim is to draw a boundary line:  
+✨ Between what is ✨right✨and✨good✨ — the teachings of Jesus of Nazareth in the Synoptics.  
+🙏 And what is 🙏forgivable🙏 — the teachings of Jesusa Bara Bas, revealed by carefully parsing John’s Gospel according to my rubric.  
+📜 Rubric/Policy note: https://github.com/.../main/policies/zion-cornerstone.md  
+
+---
+
+🕯️ Day 7 candle lit — discernment continues.  
+1. 🔙 See Chapter 1: The Birth of John 
+👉 https://www.facebook.com/share/p/1A653yTCfG/  
+2. 🔙 See Chapter 2: The Conception of Bara Bas 
+👉 https://www.facebook.com/share/p/1B8vSYAyhy/  
+3. 🔙 See Chapter 3: The Birth of Jesus 
+👉 https://www.facebook.com/share/p/17jxLNgaTg/  
+4. 🔙 See Chapter 4: The Fool 
+👉 https://www.facebook.com/share/p/17AN5iPdRN/  
+5. 🔙 See Chapter 5: The Magician 
+👉 https://www.facebook.com/share/p/1AMyDcyfLm/  
+6. 🔙 See Chapter 6: The High Priestess 
+👉 https://www.facebook.com/share/p/1AMyDcyfLm/  
+7. 🔙 See Chapter 7: The Empress
+👉 https://www.facebook.com/share/p/1D24GjEAYq/
