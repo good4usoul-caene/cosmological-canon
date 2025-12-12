@@ -1,0 +1,23 @@
+---
+Agent-Writable:  SAIBR
+Intent: This file contains links to files that do not yet exist.  
+Change-Request: 
+ - Step 1:  Rename this file according to the Rename-Request
+ - Step 2: Remove library\books\rommel\chapters\ as these are not correct relative paths
+ - Step 3: Add books 5-65 to the list.  Example:  Links-Bible-##-2-Corinthians.md
+ - Step 4: Create 71 referenced files, each with links to the chapters of the specified books, and a link back to this file, having been renamed as "Links-Book-List.md"
+Rename-Request: Links-Book-List.md
+---
+
+[Genesis](Links-Bible-01-Genesis.md)
+[Exodus](Links-Bible-02-Exodus.md)
+[Leviticus](Links-Bible-03-Leviticus.md)
+[Deuteronomy](Links-Bible-04-Deuteronomy.md)
+
+[Revelations](Links-Bible-66-Revelations.md)
+
+[1 Rommel](Links-Rommel-01.md)
+[2 Rommel](Links-Rommel-02.md)
+[3 Rommel](Links-Rommel-03.md)
+[4 Rommel](Links-Rommel-04.md)
+[5 Rommel](Links-Rommel-05.md)

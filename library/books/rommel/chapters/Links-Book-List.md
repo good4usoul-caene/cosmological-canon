@@ -1,0 +1,87 @@
+---
+Agent-Writable:  SAIBR
+Intent: This file contains links to files that do not yet exist.  
+Change-Request: 
+ - Step 1:  Rename this file according to the Rename-Request
+ - Step 2: Remove library\books\rommel\chapters\ as these are not correct relative paths
+ - Step 3: Add books 5-65 to the list.  Example:  Links-Bible-##-2-Corinthians.md
+ - Step 4: Create 71 referenced files, each with links to the chapters of the specified books, and a link back to this file, having been renamed as "Links-Book-List.md"
+Rename-Request: Links-Book-List.md
+---
+
+[Genesis](Links-Bible-01-Genesis.md)
+
+[Exodus](Links-Bible-02-Exodus.md)
+[Leviticus](Links-Bible-03-Leviticus.md)
+[Numbers](Links-Bible-04-Numbers.md)
+[Deuteronomy](Links-Bible-05-Deuteronomy.md)
+
+
+[Joshua](Links-Bible-06-Joshua.md)
+[Judges](Links-Bible-07-Judges.md)
+[Ruth](Links-Bible-08-Ruth.md)
+[1 Samuel](Links-Bible-09-1-Samuel.md)
+[2 Samuel](Links-Bible-10-2-Samuel.md)
+[1 Kings](Links-Bible-11-1-Kings.md)
+[2 Kings](Links-Bible-12-2-Kings.md)
+[1 Chronicles](Links-Bible-13-1-Chronicles.md)
+[2 Chronicles](Links-Bible-14-2-Chronicles.md)
+[Ezra](Links-Bible-15-Ezra.md)
+[Nehemiah](Links-Bible-16-Nehemiah.md)
+[Esther](Links-Bible-17-Esther.md)
+[Job](Links-Bible-18-Job.md)
+[Psalms](Links-Bible-19-Psalms.md)
+[Proverbs](Links-Bible-20-Proverbs.md)
+[Ecclesiastes](Links-Bible-21-Ecclesiastes.md)
+[Song of Songs](Links-Bible-22-Song-of-Songs.md)
+[Isaiah](Links-Bible-23-Isaiah.md)
+[Jeremiah](Links-Bible-24-Jeremiah.md)
+[Lamentations](Links-Bible-25-Lamentations.md)
+[Ezekiel](Links-Bible-26-Ezekiel.md)
+[Daniel](Links-Bible-27-Daniel.md)
+[Hosea](Links-Bible-28-Hosea.md)
+[Joel](Links-Bible-29-Joel.md)
+[Amos](Links-Bible-30-Amos.md)
+[Obadiah](Links-Bible-31-Obadiah.md)
+[Jonah](Links-Bible-32-Jonah.md)
+[Micah](Links-Bible-33-Micah.md)
+[Nahum](Links-Bible-34-Nahum.md)
+[Habakkuk](Links-Bible-35-Habakkuk.md)
+[Zephaniah](Links-Bible-36-Zephaniah.md)
+[Haggai](Links-Bible-37-Haggai.md)
+[Zechariah](Links-Bible-38-Zechariah.md)
+[Malachi](Links-Bible-39-Malachi.md)
+[Matthew](Links-Bible-40-Matthew.md)
+[Mark](Links-Bible-41-Mark.md)
+[Luke](Links-Bible-42-Luke.md)
+[John](Links-Bible-43-John.md)
+[Acts](Links-Bible-44-Acts.md)
+[Romans](Links-Bible-45-Romans.md)
+[1 Corinthians](Links-Bible-46-1-Corinthians.md)
+[2 Corinthians](Links-Bible-47-2-Corinthians.md)
+[Galatians](Links-Bible-48-Galatians.md)
+[Ephesians](Links-Bible-49-Ephesians.md)
+[Philippians](Links-Bible-50-Philippians.md)
+[Colossians](Links-Bible-51-Colossians.md)
+[1 Thessalonians](Links-Bible-52-1-Thessalonians.md)
+[2 Thessalonians](Links-Bible-53-2-Thessalonians.md)
+[1 Timothy](Links-Bible-54-1-Timothy.md)
+[2 Timothy](Links-Bible-55-2-Timothy.md)
+[Titus](Links-Bible-56-Titus.md)
+[Philemon](Links-Bible-57-Philemon.md)
+[Hebrews](Links-Bible-58-Hebrews.md)
+[James](Links-Bible-59-James.md)
+[1 Peter](Links-Bible-60-1-Peter.md)
+[2 Peter](Links-Bible-61-2-Peter.md)
+[1 John](Links-Bible-62-1-John.md)
+[2 John](Links-Bible-63-2-John.md)
+[3 John](Links-Bible-64-3-John.md)
+[Jude](Links-Bible-65-Jude.md)
+
+[Revelation](Links-Bible-66-Revelation.md)
+
+[1 Rommel](Links-Rommel-01.md)
+[2 Rommel](Links-Rommel-02.md)
+[3 Rommel](Links-Rommel-03.md)
+[4 Rommel](Links-Rommel-04.md)
+[5 Rommel](Links-Rommel-05.md)
