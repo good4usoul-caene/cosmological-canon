@@ -1,22 +1,17 @@
 ---
+Repository-Target: Links-Book-List.md
 Agent-Writable:  SAIBR
-Intent: This file contains links to files that do not yet exist.  
+Intent: 
 Change-Request: 
- - Step 1:  Rename this file according to the Rename-Request
- - Step 2: Remove library\books\rommel\chapters\ as these are not correct relative paths
- - Step 3: Add books 5-65 to the list.  Example:  Links-Bible-##-2-Corinthians.md
- - Step 4: Create 71 referenced files, each with links to the chapters of the specified books, and a link back to this file, having been renamed as "Links-Book-List.md"
-Rename-Request: Links-Book-List.md
+ - Step 1: Create referenced files (Books 19-66 still need to be done), each with links to the chapters of the specified books, and a link back to this file, having been renamed as "Links-Book-List.md"
+ - Step 2: Create a README.md file that references this file.
 ---
 
 [Genesis](Links-Bible-01-Genesis.md)
-
 [Exodus](Links-Bible-02-Exodus.md)
 [Leviticus](Links-Bible-03-Leviticus.md)
 [Numbers](Links-Bible-04-Numbers.md)
 [Deuteronomy](Links-Bible-05-Deuteronomy.md)
-
-
 [Joshua](Links-Bible-06-Joshua.md)
 [Judges](Links-Bible-07-Judges.md)
 [Ruth](Links-Bible-08-Ruth.md)
@@ -45,14 +40,14 @@ Rename-Request: Links-Book-List.md
 [Obadiah](Links-Bible-31-Obadiah.md)
 [Jonah](Links-Bible-32-Jonah.md)
 [Micah](Links-Bible-33-Micah.md)
-[Nahum](Links-Bible-34-Nahum.md)
+Nahum
 [Habakkuk](Links-Bible-35-Habakkuk.md)
-[Zephaniah](Links-Bible-36-Zephaniah.md)
+[Zephaniah]
 [Haggai](Links-Bible-37-Haggai.md)
 [Zechariah](Links-Bible-38-Zechariah.md)
 [Malachi](Links-Bible-39-Malachi.md)
-[Matthew](Links-Bible-40-Matthew.md)
-[Mark](Links-Bible-41-Mark.md)
+Matthew
+Mark
 [Luke](Links-Bible-42-Luke.md)
 [John](Links-Bible-43-John.md)
 [Acts](Links-Bible-44-Acts.md)
@@ -69,19 +64,18 @@ Rename-Request: Links-Book-List.md
 [2 Timothy](Links-Bible-55-2-Timothy.md)
 [Titus](Links-Bible-56-Titus.md)
 [Philemon](Links-Bible-57-Philemon.md)
-[Hebrews](Links-Bible-58-Hebrews.md)
-[James](Links-Bible-59-James.md)
+Hebrews
+James
 [1 Peter](Links-Bible-60-1-Peter.md)
 [2 Peter](Links-Bible-61-2-Peter.md)
 [1 John](Links-Bible-62-1-John.md)
-[2 John](Links-Bible-63-2-John.md)
-[3 John](Links-Bible-64-3-John.md)
-[Jude](Links-Bible-65-Jude.md)
+2 John
+3 John
+Jude
+Revelation
 
-[Revelation](Links-Bible-66-Revelation.md)
-
-[1 Rommel](Links-Rommel-01.md)
-[2 Rommel](Links-Rommel-02.md)
-[3 Rommel](Links-Rommel-03.md)
-[4 Rommel](Links-Rommel-04.md)
-[5 Rommel](Links-Rommel-05.md)
+[1 Rommel](Links-1-Rommel.md)
+[2 Rommel](Links-2-Rommel.md)
+[3 Rommel](Links-3-Rommel.md)
+[4 Rommel](Links-4-Rommel.md)
+[5 Rommel](Links-5-Rommel.md)
