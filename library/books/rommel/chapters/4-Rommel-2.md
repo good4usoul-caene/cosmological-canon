@@ -10,7 +10,7 @@
   
 
 
-﻿1 Motivation (John 6:29 - Proverbs 1:7), first part: Searching for the God of scientists.
+1 Motivation (John 6:29 - Proverbs 1:7), first part: Searching for the God of scientists.
   
 2 He created everything, the heavenly bodies and the earthly bodies, and he manifested himself to different people of different peoples and chose some to keep written records.
   
@@ -49,13 +49,13 @@ The one who blasphemes is the one who falsifies the results or the interpretatio
 Blaspheming is lying in the name of truth and I think that truth is a relative notion.
   
 13 Alexander Yurkin: When to me there were so many years as to you, I thought too that the truth is a relative concept, but there was it no so.
-  
-There is such Ancient Greek logical paradox: â€˜All Cretans lie, Cretan Brut has toldâ€™.
-  
+
+There is such Ancient Greek logical paradox: ‘All Cretans lie, Cretan Brut has told’.
+
 The truth was told by Cretan Brut or he has told a lie?
-  
+
 For 2,5 thousand years nobody could give the answer to this question.
-  
+
 (Reference: Crete is the main Greek island on which there lived antique Greeks, and now there live modern Greeks.)
   
 14 Answer: I esteem Jesus of Nazareth.
