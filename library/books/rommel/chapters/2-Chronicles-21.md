@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2021.txt)
+
 
 1 And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David.
 And Jehoram his son reigned in his place.

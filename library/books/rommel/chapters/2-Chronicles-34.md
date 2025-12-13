@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2034.txt)
+
 
 1 Josiah was eight years old when he began to reign, and he reigned thirty one years in Jerusalem.
 2 And he did what was right in the eyes of Yahweh, and he walked in the ways of David his father, and did not turn aside to the right hand or to the left.

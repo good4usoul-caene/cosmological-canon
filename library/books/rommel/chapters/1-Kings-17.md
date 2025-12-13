@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2017.txt)
+
 
 1 And Elijah the Tishbite who was of the inhabitants of Gilead said to Ahab: As Yahweh the God of Israel is alive, the one before whom I stand, there will be neither dew nor rain these years except according to my word.
 2 And the word of Yahweh came to Elijah with the following words.

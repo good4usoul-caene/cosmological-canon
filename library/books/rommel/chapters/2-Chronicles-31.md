@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2031.txt)
+
 
 1 And when all these things were finished, all Israel who were present went out to the cities of Judah and broke the images, and cut down the groves, and destroyed the high places and the altars throughout all the land of Judah and Benjamin, and also in Ephraim and in Manasseh, until they had destroyed all those things.
 Then all the children of Israel returned to their own cities, every man to his possession.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%205.txt)
+
 
 1 And the Philistines took the ark of God and carried it from Eben-ezer to Ashdod.
 2 After having taken possession of the ark of God, the Philistines brought it into the house of Dagon and placed it near to Dagon.

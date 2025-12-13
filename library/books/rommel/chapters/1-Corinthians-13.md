@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%2013.txt)
+
 
 1 I may speak with the tongues of men or of angels.
 But if I do not have love, then I am a sounding brass or a clanging cymbal.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Rommel%201.txt)
+
 
 1 General preface, first part.
 2 Translation being known to be a difficult art, and the sources of biblical texts being multiple, and because it is necessary to understand that the holy character of the Bible is in the meaning of the statements (Deuteronomy 18:18-19 - Acts 3:22-23).

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%205.txt)
+
 
 1 And Hiram the king of Tyre sent his servants to Solomon, because he had heard that they [the people of Israel] had anointed him king in the place of his father, and because Hiram had always loved David.
 2 And Solomon sent the following words to Hiram.

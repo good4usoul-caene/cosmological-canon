@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%205.txt)
+
 
 1 It is actually reported that there is fornication among you, and such a fornication which is not even found among the Gentiles, to such an extent that one of you has the wife of his father.
 2 And you are proud of yourself, instead of feeling indignation and driving out from among you the one who has done such a thing.

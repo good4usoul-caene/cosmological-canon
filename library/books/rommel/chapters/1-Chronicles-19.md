@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2019.txt)
+
 
 1 Afterward Nahash the king of the children of Ammon died, and his son reigned in his stead.
 2 And David said: I will show kindness to Hanun the son of Nahash, because his father showed kindness towards me.

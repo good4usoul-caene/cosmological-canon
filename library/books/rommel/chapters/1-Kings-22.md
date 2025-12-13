@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2022.txt)
+
 
 1 And there was no war between Syria and Israel during two years.
 2 And in the third year, Jehoshaphat the king of Judah went down to Ahab the king of Israel.

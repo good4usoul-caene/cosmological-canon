@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2028.txt)
+
 
 1 Now David assembled at Jerusalem all the princes of Israel, namely the princes of the tribes, and the captains of the companies who served the king in turn, and the captains of thousands and the captains of hundreds, and those who were over the possessions of the king and of his sons, and the eunuchs, and the mighty men, and all the men of valor.
 2 Then king David stood up on his feet and said: Listen to me, my brothers and my people.

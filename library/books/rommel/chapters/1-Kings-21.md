@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2021.txt)
+
 
 1 After these things, it happened that Naboth the Jezreelite had a vineyard in Jezreel next to the palace of Ahab the king of Samaria.
 2 And Ahab spoke to Naboth by saying: Give me your vineyard so that I may make a garden of herbs of it, because it is very close to my house.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2016.txt)
+
 
 1 So they came in with the ark of God, and did put it in the middle of the tent that David had set up for it, and they offered burnt offerings and peace offerings before God.
 2 And when David had finished offering the burnt offerings and the peace offerings, he blessed the people in the name of Yahweh.

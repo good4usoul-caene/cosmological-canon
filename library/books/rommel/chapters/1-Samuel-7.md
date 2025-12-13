@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%207.txt)
+
 
 1 Then the people of Kiriath-jearim came and took the ark of Yahweh, and brought it into the house of Abinadab on the hill.
 And they sanctified his son Eleazar to keep the ark of Yahweh.

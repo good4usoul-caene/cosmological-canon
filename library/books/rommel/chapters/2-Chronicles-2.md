@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%202.txt)
+
 
 1 Then Solomon decided to begin the construction of the house for the name of Yahweh, and of a royal house for himself.
 2 And Solomon counted seventy thousand men to bear burdens, and eighty thousand to hew stones in the mountain, and also three thousand and six hundred men [not only of the children of Israel] to oversee the workers.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%202.txt)
+
 
 1 As for me, brothers, when I came to you, it is not with superiority of speech or of wisdom that I came to announce to you the testimony of God.
 2 For I did not have the thought to know among you anything other than Jesus Christ, and Jesus Christ crucified [that is to say, you have to know that Jesus Christ has been killed because it is through this knowledge that you will put to death your old selves by becoming a disciple of Jesus, and thus you will live a new life for God knowing that Jesus Christ has been raised from the dead and is now alive for God.]

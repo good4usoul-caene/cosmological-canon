@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%207.txt)
+
 
 1 And Solomon also built his own house, and it took thirteen years to be entirely done.
 2 For he also built a house called the forest of Lebanon.

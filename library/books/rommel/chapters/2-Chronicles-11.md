@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2011.txt)
+
 
 1 And when Rehoboam came to Jerusalem, then he gathered all the house of Judah and Benjamin to fight against Israel in order to bring it into the kingdom of Rehoboam.
 And there were one hundred and eighty thousand chosen men fit for war.

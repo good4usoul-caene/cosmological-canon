@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Timothy%203.txt)
+
 
 1 This saying is trustworthy: If someone aspires to the office of a bishop, then he desires an excellent work.
 2 For a bishop must be blameless, the husband of one wife, self-restraint, modest, methodical, hospitable, able to teach.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2018.txt)
+
 
 1 And Jehoshaphat had riches and honor in abundance, but he became friends with Ahab.
 [A son of Jehoshaphat had taken a wife from the daughters of the house of Ahab king of Israel] 2 And in the seventeenth year of the reign of Jehoshaphat king of Judah, he went down to Ahab in Samaria.

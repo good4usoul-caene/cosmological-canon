@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2026.txt)
+
 
 1 Then all the people of Judah took Uzziah [also called Azariah] who was sixteen years old, and made him king in the stead of his father Amaziah.
 2 And when king Amaziah had slept with his fathers, Uzziah his son rebuilt Eloth and restored it to Judah.

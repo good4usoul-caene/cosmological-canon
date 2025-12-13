@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2015.txt)
+
 
 1 Then the spirit of God came on Azariah the son of Obed.
 2 And Azariah went out to meet Asa, and said to him: O Asa, and all Judah, and Benjamin, listen to me.

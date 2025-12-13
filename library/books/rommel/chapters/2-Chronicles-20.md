@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2020.txt)
+
 
 1 After this the children of Moab came to battle against Jehoshaphat.
 They came with the children of Ammon, and also some others beside the Ammonites.

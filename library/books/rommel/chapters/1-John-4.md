@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20John%204.txt)
+
 
 1 Beloved, do not believe in the sincerity of any spirit who claims to have the same faith as yours, but probe continuously the spirits to know if they are of God.
 For many false prophets have come into the world.

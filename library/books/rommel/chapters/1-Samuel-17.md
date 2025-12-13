@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2017.txt)
+
 
 1 Now the Philistines gathered their armies for war.
 And they came together at Socoh which belongs to Judah, and they encamped between Socoh and Azekah in Ephes-dammim.

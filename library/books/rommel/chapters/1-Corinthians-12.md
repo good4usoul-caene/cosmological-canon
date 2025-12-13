@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%2012.txt)
+
 
 1 Now concerning spiritual gifts, brothers, I do not want you to be ignorant.
 2 You know that when were Gentiles [that is to say, when you had not yet believed in the Lord], you were led astray to mute idols, as you were led.

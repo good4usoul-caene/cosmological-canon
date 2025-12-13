@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2029.txt)
+
 
 1 Meanwhile the Philistines gathered together all their armies at Aphek, and Israel encamped near the spring of Jezreel.
 2 And the princes of the Philistines came forward by their hundreds and thousands, and David and his men came behind with Achish.

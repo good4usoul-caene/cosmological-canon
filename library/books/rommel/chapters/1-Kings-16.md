@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2016.txt)
+
 
 1 Then the word of Yahweh came to Jehu the son of Hanani against Baasha with the following words.
 2 I raised you out of the dust and I made you prince over my people Israel.

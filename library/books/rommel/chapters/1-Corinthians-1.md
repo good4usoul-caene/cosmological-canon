@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%201.txt)
+
 
 1 Paul, called to be an apostle of Jesus Christ by the will of God, and Sosthenes our brother.
 2 To the church of God that is at Corinth, to those who have been sanctified in Christ Jesus, called to be saints, and to all those who call on the name of our Lord Jesus Christ in every place, their Lord and ours.

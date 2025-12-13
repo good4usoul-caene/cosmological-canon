@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2015.txt)
+
 
 1 And in the eighteenth year of the reign of Jeroboam the son of Nebat, Abijam reigned over Judah.
 2 He reigned three years in Jerusalem, and his mother was Maacah the daughter [granddaughter] of Abishalom [Absalom].

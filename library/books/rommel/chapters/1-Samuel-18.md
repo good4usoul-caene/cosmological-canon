@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2018.txt)
+
 
 1 And when David had finished speaking to Saul, then the soul of Jonathan was attached to the soul of David and Jonathan loved him as his own soul.
 2 And Saul took David on that day [to be permanently at his side without any period of leave], and would not let him return to his father's house.

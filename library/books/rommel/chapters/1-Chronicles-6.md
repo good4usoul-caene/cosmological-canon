@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%206.txt)
+
 
 1 The sons of Levi were Gershom, and Kohath, and Merari.
 2 And the sons of Kohath: Amram, and Izhar, and Hebron, and Uzziel.

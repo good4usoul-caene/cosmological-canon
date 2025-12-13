@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%2011.txt)
+
 
 1 Be imitators of me, as I myself am of Christ.
 2 I praise you for the fact that you remember me in all things, and because you retain my instructions as I gave them to you.

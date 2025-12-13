@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2014.txt)
+
 
 1 Now Hiram the king of Tyre had previously sent messengers to David, and cedar trees, and carpenters, and stonemasons, in order to build a house for David.
 2 Therefore David had known that Yahweh had confirmed him as king over Israel, and that his kingdom was exalted for the sake of his people Israel.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Thessalonians%205.txt)
+
 
 1 Brothers, regarding the times and seasons, you do not need us to talk to you about it.
 2 For you yourselves know perfectly that the day of the Lord will come like a thief in the night.

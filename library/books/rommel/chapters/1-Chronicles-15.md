@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2015.txt)
+
 
 1 So David had [previously] built houses for himself in the city of David.
 And now he prepared a place for the ark of God and pitched a tent for it.

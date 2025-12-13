@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2023.txt)
+
 
 1 And in the seventh year, Jehoiada strengthened himself and made a covenant with the captains of hundreds, namely Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri.
 2 And they went throughout the land of Judah in order to gather the Levites out of all the cities of Judah, and the chiefs of the father's houses of Israel who were found there, and they came to Jerusalem.

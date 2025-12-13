@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2035.txt)
+
 
 1 And Josiah celebrated the passover of Yahweh in Jerusalem, and they killed [the sacrifices of] the passover on the fourteenth day of the first month.
 2 And Josiah appointed the priests in their offices and encouraged them to do the service of the house of Yahweh.

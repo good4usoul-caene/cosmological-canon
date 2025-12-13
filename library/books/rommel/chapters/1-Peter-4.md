@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Peter%204.txt)
+
 
 1 Therefore, Christ having suffered for us in the flesh, you also should arm yourselves with that same thought.
 For if someone accepts to suffer in the flesh [with the aim of remaining a righteous person and possibly to create a more concrete work that can have some use for strangers arbitrarily chosen in society], then he has killed his old self concerning sin.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Rommel%202.txt)
+
 
 1 General preface, second part: My Prophet My Honor.
 2 Moses is said to have written the Jewish law (Genesis, Exodus, Leviticus, Numbers, Deuteronomy) possibly partly through a servant such as Joshua (Exodus 4:10-16 - 6:10-12,28-30 - 33:7-11), part of the end of Deuteronomy having been added by his servant Joshua.

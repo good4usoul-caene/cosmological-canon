@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Rommel%203.txt)
+
 
 1 General preface, third part: The humor of Yahweh and the principle of the proportional response.
 2 Living beings make all kinds of inventions to improve their living conditions [possibly for a supposed afterlife] or to wage war against each other.

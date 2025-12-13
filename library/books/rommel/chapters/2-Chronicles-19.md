@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2019.txt)
+
 
 1 And Jehoshaphat the king of Judah returned safe to his house in Jerusalem.
 2 And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat: Should you help the wicked and love those who hate Yahweh.

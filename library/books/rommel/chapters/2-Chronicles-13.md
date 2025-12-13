@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2013.txt)
+
 
 1 In the eighteenth year of king Jeroboam [the son of Nebat], Abijah began to reign over Judah.
 2 And Abijah reigned three years in Jerusalem.

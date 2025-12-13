@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%208.txt)
+
 
 1 Then king Solomon assembled the elders of Israel to him in Jerusalem, and all the chiefs of the tribes, the chiefs of the fathers' houses of the children of Israel, to bring the ark of the covenant of Yahweh out of the city of David which is Zion.
 2 And all the men of Israel gathered together with king Solomon at the feast in the month of Ethanim, which is the seventh month.

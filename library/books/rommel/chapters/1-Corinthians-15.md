@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%2015.txt)
+
 
 1 Moreover, brothers, I remind you of the gospel that I preached to you, which you received and in which you stand.
 2 And by which you are saved, if you firmly cling to the word that I have preached to you.

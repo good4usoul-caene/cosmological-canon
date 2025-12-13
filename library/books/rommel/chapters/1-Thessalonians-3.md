@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Thessalonians%203.txt)
+
 
 1 Therefore, as we were increasingly impatient to see you and could not come to you, we decided to stay alone in Athens and to send you Timothy.
 2 He is our brother, and minister of God, and our fellow worker in the gospel of Christ, and we sent him to strengthen and comfort you in your faith.

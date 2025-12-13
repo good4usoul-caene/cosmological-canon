@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2012.txt)
+
 
 1 Then Samuel said to all Israel: Behold I have listened to your voice in all that you have spoken to me, and I have established a king over you.
 2 And now behold, your king walks before you.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%206.txt)
+
 
 1 So the ark of Yahweh was in the land of the Philistines for seven months.
 2 And the Philistines called the priests and the diviners, and they said: What will we do with the ark of Yahweh.

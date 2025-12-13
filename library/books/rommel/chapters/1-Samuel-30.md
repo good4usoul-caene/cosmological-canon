@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2030.txt)
+
 
 1 But when David and his men had come to Ziklag on the third day, they saw that the Amalekites had attacked the south and Ziklag, and had destroyed Ziklag and burned it with fire.
 2 And the Amalekites had taken captive the women and all those who were there, young and old.

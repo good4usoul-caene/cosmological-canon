@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2022.txt)
+
 
 1 David therefore departed from there, and escaped to the cave of Adullam.
 And when his brothers and the whole house of his father heard it, then they went down to him.

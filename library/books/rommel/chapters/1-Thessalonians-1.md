@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Thessalonians%201.txt)
+
 
 1 Paul, and Silvanus, and Timothy, to the church of the Thessalonians which is in God the Father and the Lord Jesus Christ: Grace and peace to you.
 2 We always thank God for all of you, making mention of you in our prayers.

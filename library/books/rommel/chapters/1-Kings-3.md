@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%203.txt)
+
 
 1 Afterward Solomon established good relations with Pharaoh the king of Egypt, and he took the daughter of Pharaoh to wife.
 And he brought her in the city of David [but not in the house of David] until he had finished the building of his house, and of the house of Yahweh, and of the surrounding wall of Jerusalem.

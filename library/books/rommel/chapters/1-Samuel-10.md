@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2010.txt)
+
 
 1 Then Samuel took a vial of oil and poured it on the head of Saul, and kissed him, and said: Has not Yahweh anointed you to rule over his inheritance.
 2 When you depart from me today then you will find two men near the sepulcher of Rachel in the border of Benjamin, at Zelzah.

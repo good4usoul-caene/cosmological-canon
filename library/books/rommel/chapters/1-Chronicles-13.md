@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2013.txt)
+
 
 1 And David took counsel with the captains of thousands and of hundreds, and with all the leaders.
 2 And David said to all the assembly of Israel: If it pleases you, and if it is the desire of Yahweh our God, then let us send on every side to our brothers who remain in all the land of Israel, with whom are the priests and the Levites in their cities and their suburbs, so that they may gather themselves to us.

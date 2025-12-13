@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2020.txt)
+
 
 1 And the next year at the period when kings went out to war [because the climate is favorable], Joab went out with a strong army and destroyed the land of the children of Ammon, and came and besieged Rabbah while David had stayed at Jerusalem.
 Then Joab and the army of Israel fought against the city of Rabbah until they destroyed it [when David had come to them].

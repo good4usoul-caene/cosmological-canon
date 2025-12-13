@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2020.txt)
+
 
 1 Then Ben-hadad the king of Syria gathered his entire army.
 And there were thirty two kings with him, and many horses and chariots.

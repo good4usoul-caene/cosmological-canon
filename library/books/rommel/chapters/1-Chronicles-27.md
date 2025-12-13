@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2027.txt)
+
 
 1 And now here are the children of Israel who served the king in all matters concerning the regular army, the chief of the fathers houses and the captains of thousands and of hundreds, and their officers.
 Each group was made of twenty four thousand men and served for one month per year, and so the service continued throughout the year.

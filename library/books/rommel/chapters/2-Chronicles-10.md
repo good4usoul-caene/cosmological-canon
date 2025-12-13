@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2010.txt)
+
 
 1 Then Rehoboam went to Shechem, because all Israel had come to Shechem to make him king.
 2 And when Jeroboam the son of Nebat heard of it, he was still in Egypt where he had fled from king Solomon in order to dwell there.

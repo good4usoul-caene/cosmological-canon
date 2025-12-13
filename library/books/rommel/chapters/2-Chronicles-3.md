@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%203.txt)
+
 
 1 So Solomon began to build the house of Yahweh in Jerusalem, on the mount Moriah according to what had been declared to David his father [to whom it had been asked to build an altar there], at the place that David had prepared on the threshing floor of Ornan the Jebusite.
 2 And he began the construction on the second day of the second month, in the fourth year of his reign.

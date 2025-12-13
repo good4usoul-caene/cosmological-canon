@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%2010.txt)
+
 
 1 Brothers, I do not want you to be unaware of the fact that all our fathers were guided by the pillar of cloud, and they all passed through the sea.
 2 And they were all [baptized in this way] into Moses in the cloud and in the sea.

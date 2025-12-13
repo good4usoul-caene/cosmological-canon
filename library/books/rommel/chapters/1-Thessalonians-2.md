@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Thessalonians%202.txt)
+
 
 1 Brothers, you yourselves know that our coming to you was not in vain.
 2 After we suffered and were shamefully treated at Philippi, as you know, we had the courage in our God to proclaim to you the gospel of God in the midst of much opposition.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2025.txt)
+
 
 1 So David and the captains of the army separated the sons of Asaph, and of Heman, and of Jeduthun, so that they may prophesied [they may be overwhelmed by the spirit] while playing with harps, and with violas, and with cymbals.
 And here is a list of those who served this way.

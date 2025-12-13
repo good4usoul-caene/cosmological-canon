@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%203.txt)
+
 
 1 The young Samuel was serving Yahweh before Eli, and the word of Yahweh was rare in those days.
 Visions were very rare.

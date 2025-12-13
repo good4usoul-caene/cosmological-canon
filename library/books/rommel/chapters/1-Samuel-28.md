@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2028.txt)
+
 
 1 At that time the Philistines gathered together and formed an army to wage war against Israel.
 And Achish said to David: You know that you will come with me in the army, you and your men.

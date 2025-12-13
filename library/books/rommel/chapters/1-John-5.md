@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20John%205.txt)
+
 
 1 Whoever believes that Jesus is the Christ [foretold in the Law of Moses and the other Jewish scriptures] is born of God, and whoever really loves the Father [who is described in the Law of Moses and the other Jewish scriptures] will also love the Son who is begotten of him.
 2 Now we know that we love the children of God when we love God and keep his commandments.

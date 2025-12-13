@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Peter%201.txt)
+
 
 1 Peter, an apostle of Jesus Christ, to the elect who are scattered throughout Pontus, and Galatia, and Cappadocia, and Asia, and Bithynia.
 2 Chosen according to the foreknowledge of God the Father through the sanctification made by the Spirit, for obedience to Jesus Christ and for the sprinkling of his blood: May grace and peace be multiplied to you.

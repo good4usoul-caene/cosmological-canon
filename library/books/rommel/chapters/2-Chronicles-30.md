@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2030.txt)
+
 
 1 And [after a few years] Hezekiah sent messengers to all Israel and Judah, and he also wrote letters to Ephraim and Manasseh, so that they should come to the house of Yahweh at Jerusalem to celebrate the passover for Yahweh the God of Israel.
 2 For the king and his princes [leaders] and the whole congregation of Jerusalem had taken counsel [with the priests] in order to celebrate the passover in the second month.

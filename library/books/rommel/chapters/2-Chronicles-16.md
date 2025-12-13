@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2016.txt)
+
 
 1 In the thirty sixth year of the reign of Asa, Baasha king of Israel came up against Judah.
 And Baasha built the city of Ramah to prevent the men of Asa king of Judah from going out and entering.

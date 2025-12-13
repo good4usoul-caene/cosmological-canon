@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2014.txt)
+
 
 1 And one day it happened that Jonathan the son of Saul said to the young man who was carrying his armor: Come, and we will go to the garrison of the Philistines that is yonder on the other side.
 But Jonathan did not inform his father.

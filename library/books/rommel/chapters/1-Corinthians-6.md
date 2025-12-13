@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%206.txt)
+
 
 1 When one of you who is a believer has a dispute with another believer, how is it that you go to plead before the unrighteous and not before the saints.
 [Now Paul explains the message of Jesus Christ with clarity even if he ignores the exact definition of the notion of eternal life of which he has a perfect spiritual knowledge.

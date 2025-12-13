@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2031.txt)
+
 
 1 Meanwhile the Philistines fought against Israel, and the men of Israel fled from the Philistines, and many of the men of Israel fell dead on the mount Gilboa.
 2 And the Philistines pursued Saul and his sons with great difficulty and determination.

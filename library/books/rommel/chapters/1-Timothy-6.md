@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Timothy%206.txt)
+
 
 1 Let all those who are under the yoke of servitude regard their masters as worthy of all honor, so that the name of God and the doctrine may not be blasphemed.
 2 And let those whose masters are also believers not despise those masters under the pretext that they are brothers in faith.

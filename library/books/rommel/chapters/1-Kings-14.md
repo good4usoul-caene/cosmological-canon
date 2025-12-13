@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2014.txt)
+
 
 1 At that time Abijah the son of Jeroboam became ill.
 2 And Jeroboam said to his wife: Arise I pray you, and disguise yourself so that no one knows that you are the wife of Jeroboam, and go to Shiloh.

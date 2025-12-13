@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2032.txt)
+
 
 1 After these things, these acts of faithfulness, Sennacherib king of Assyria entered Judah and besieged the fortified cities, thinking that he would take them.
 2 And Hezekiah saw that Sennacherib were coming and that he was determined to fight against Jerusalem.

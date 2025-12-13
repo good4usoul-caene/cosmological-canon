@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2016.txt)
+
 
 1 And Yahweh said to Samuel, When will you stop weeping for Saul.
 For I have rejected him so that he may no longer be king over Israel.

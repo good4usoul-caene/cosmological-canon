@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%2016.txt)
+
 
 1 Now concerning the collection for the saints, you also will do according to the order that I have given to the churches of Galatia.
 2 On the first day of the week, let each of you put aside in store whatever he can afford, so that there may be no collections when I come.

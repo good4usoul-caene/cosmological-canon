@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2025.txt)
+
 
 1 Amaziah was twenty five years old when he began to reign, and he reigned twenty nine years in Jerusalem.
 His mother's name was Jehoaddan of Jerusalem.

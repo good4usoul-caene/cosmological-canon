@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2011.txt)
+
 
 1 Now king Solomon had loved many foreign women among whom was the daughter of Pharaoh and also women from the Moabites, and the Ammonites, and  the Edomites, and the Sidonians, and the Hittites.
 2 So they were among the women of the nations of which Yahweh had said to the children of Israel, You will not desire them because they will surely turn your hearts to their gods.

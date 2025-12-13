@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2023.txt)
+
 
 1 Now when David was old and full of days, he made Solomon his son king over Israel.
 2 And he assembled all the princes of Israel, with the priests and the Levites.

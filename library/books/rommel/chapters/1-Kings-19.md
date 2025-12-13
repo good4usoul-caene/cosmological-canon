@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2019.txt)
+
 
 1 And Ahab told Jezebel everything that Elijah had done, and how Elijah had killed all the prophets with the sword.
 2 Then Jezebel sent a messenger to Elijah by saying: May God acts toward me with all his rigor if tomorrow at this hour I have not make of your life what you have done of the life of each of them.

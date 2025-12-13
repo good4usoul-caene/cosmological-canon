@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Timothy%204.txt)
+
 
 1 Now the Spirit expressly says that in the last times some will depart from the faith, to cling to seducing spirits and doctrines of demons.
 2 Through the hypocrisy of false teachers bearing the mark of withering in their own conscience.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2011.txt)
+
 
 1 Then all Israel gathered themselves to David at Hebron and said: Behold we are your bones and your flesh.
 2 In the past when Saul was king, it was you who brought Israel in and out.

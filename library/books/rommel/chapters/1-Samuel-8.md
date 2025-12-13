@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%208.txt)
+
 
 1 When Samuel became old, he established his sons to be judges over Israel.
 2 The name of his eldest son was Joel and the name of his second Abijah.

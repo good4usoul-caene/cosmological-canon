@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2015.txt)
+
 
 1 And Samuel said to Saul: It was I whom Yahweh had sent to anoint you king over his people, over Israel.
 Now therefore listen to the voice of the words of Yahweh which I give you.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%201.txt)
+
 
 1 And Solomon the son of David was strengthened in his kingdom, and Yahweh his God was with him and exalted him exceedingly.
 2 And Solomon spoke to all Israel, to the captains of thousands and of hundreds, and to the judges, and all the governors of Israel, and to chief of the fathers' houses.

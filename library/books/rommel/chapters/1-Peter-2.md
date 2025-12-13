@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Peter%202.txt)
+
 
 1 Therefore you must reject all malice and all deceit, and hypocrisies, and envies, and all slander.
 [Now evil is that which is intentional and unjustifiable in the eyes of any assembly of saints, and such an assembly knows that each one acts according to his particular knowledge and circumstances.

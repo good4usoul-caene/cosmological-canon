@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%206.txt)
+
 
 1 And in the four hundred and eighty year after the children of Israel had come out of Egypt, Solomon began to build the house of Yahweh.
 It was during the fourth year of his reign over Israel, in the month of Ziv which is the second month.

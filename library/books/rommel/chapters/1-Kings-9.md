@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%209.txt)
+
 
 1 When Solomon had finished the building of the house of Yahweh, and the king's house, and all that he wanted to build.
 2 Then Yahweh appeared to Solomon the second time, as he had appeared to him at Gibeon.

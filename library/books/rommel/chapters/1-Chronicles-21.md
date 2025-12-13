@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2021.txt)
+
 
 1 And Satan rose up against Israel, and moved David to number Israel.
 2 Therefore David said to Joab and to the leaders of the people: Go number Israel from Beersheba to Dan, and bring it to me so that I may know how their total.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2010.txt)
+
 
 1 Now [at the time of Saul’s death] the Philistines fought against Israel, and the men of Israel fled before the Philistines and fell dead on the mount Gilboa.
 2 And the Philistines pursued Saul and his sons, and the Philistines killed Jonathan, and Abinadab, and Malchishua, the son of Saul.

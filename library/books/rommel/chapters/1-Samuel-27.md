@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2027.txt)
+
 
 1 And David said in his heart: I will perish one day by the hand of Saul.
 There is nothing better for me than to take refuge in the land of the Philistines, and thus Saul will stop to look for me in all the territory of Israel [when he will know that I live in a foreign territory].

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2017.txt)
+
 
 1 Afterward when David dwelt in his house, he said to Nathan the prophet: Behold I dwell in a house of cedar wood, and the ark of the covenant of Yahweh dwells in a tent within curtains.
 2 And Nathan answered David: Do all that is in your heart, for God is with you.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Peter%203.txt)
+
 
 1 You the wives must be submissive to your own husbands.
 And if some of them do not obey the word [that is to say, the fact that Christ has died for our sins and we must obey him in order to attain a certain eternal life], then they may be gained without having the gospel, through the behavior of their wives.

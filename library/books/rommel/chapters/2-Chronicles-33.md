@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2033.txt)
+
 
 1 Manasseh was twelve years old when he began to reign, and he reigned fifty five years in Jerusalem.
 2 And he did what was evil in the sight of Yahweh, according to the abominations of the nations whom Yahweh had cast out before the children of Israel.

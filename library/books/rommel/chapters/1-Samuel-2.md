@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%202.txt)
+
 
 1 And Hannah prayed and said, My heart rejoices in Yahweh, for my strength has been lifted up by Yahweh.
 My mouth extends to my enemies, because I rejoice in your help.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2012.txt)
+
 
 1 And Rehoboam went to Shechem, because all Israel had come to Shechem to make him king.
 2 And when Jeroboam the son of Nebat heard of it, he was still in Egypt where he had fled from king Solomon in order to dwell there.

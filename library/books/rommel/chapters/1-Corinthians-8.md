@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%208.txt)
+
 
 1 Now concerning things sacrificed to idols, we know that we all have knowledge [that is to say, we know that everything is pure].
 But the knowledge possessed by a person can make him proud, while love edifies.

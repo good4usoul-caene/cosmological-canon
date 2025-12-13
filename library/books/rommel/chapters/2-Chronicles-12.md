@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2012.txt)
+
 
 1 And when Rehoboam had established the kingdom and made it strong, then he forsook the law of Yahweh, he and all Israel.
 2 Therefore in the fifth year of the reign of king Rehoboam, Shishak king of Egypt came up against Jerusalem.

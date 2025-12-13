@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%204.txt)
+
 
 1 Regard us then as servants of Christ, and as stewards whose job is to teach the knowledge of the mysteries of God.
 [That is to say, this is what we the apostles are, whether it is me Paul, or Peter, or Apollos, or others.]

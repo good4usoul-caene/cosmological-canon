@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20John%201.txt)
+
 
 1 That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we have gazed at and that our hands have touched, concerning the word of life.
 2 For the life has been manifested, and we have seen it, and we bear witness to it.

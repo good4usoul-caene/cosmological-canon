@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2018.txt)
+
 
 1 And after many days, in the third year, the word of Yahweh came to Elijah by saying: Go and show yourself to Ahab, and I will send rain on the land.
 2 And Elijah went to show himself to Ahab, and the famine was severe in Samaria at time.

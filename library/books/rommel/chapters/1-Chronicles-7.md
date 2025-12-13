@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%207.txt)
+
 
 1 And the sons of Issachar were Tola, and Puah, and Jashub, and Shimron, four sons.
 2 And the sons of Tola: Uzzi, and Rephaiah, and Jeriel, and Jahmai, and Ibsam, and Shemuel, they were heads of the renowned households of which they were the fathers.

@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2020.txt)
+
 
 1 And David fled from Naioth in Ramah, and came and said before Jonathan: What have I done, what is my iniquity, and what sin have I committed before your father, that he may seek to kill me.
 2 And Jonathan answered him: Far from it, you will not die.

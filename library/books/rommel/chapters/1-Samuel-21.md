@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2021.txt)
+
 
 1 Then David went to see Ahimelech the priest at Nob.
 And Ahimelech was astonished to see David, and he said: Why are you alone.

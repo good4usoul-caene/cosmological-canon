@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Thessalonians%204.txt)
+
 
 1 Brothers, since you have learned from us how you should behave and please God, and this is what you are doing, we beseech and exhort you in the Lord Jesus to walk in this way from progress to progress.
 2 For you know what precepts we have given you from the Lord Jesus.

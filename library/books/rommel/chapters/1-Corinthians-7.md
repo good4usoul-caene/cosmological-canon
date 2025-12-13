@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%207.txt)
+
 
 1 Concerning the things about which you have written to me, I think that it is good for a man not to touch a woman.
 2 However, to avoid fornications, let each man have his own wife, and let each woman have her own husband.

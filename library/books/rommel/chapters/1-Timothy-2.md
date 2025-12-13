@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Timothy%202.txt)
+
 
 1 I exhort therefore, first of all, to make prayers, supplications, intercessions, thanksgiving, for all men.
 2 Including kings and all those who have authority, so that we may live peaceful and quiet lives in all godliness and holiness.

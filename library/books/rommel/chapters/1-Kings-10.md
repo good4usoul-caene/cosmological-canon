@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2010.txt)
+
 
 1 And the queen of Sheba heard of the fame of Solomon concerning the name of Yahweh, and she came to test him with hard questions.
 2 And she arrived in Jerusalem with a very numerous entourage, and with camels carrying spices, and with gold in large quantities, and with precious stones.

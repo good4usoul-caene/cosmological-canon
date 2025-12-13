@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 2 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2017.txt)
+
 
 1 And Jehoshaphat his son reigned in his stead, and Jehoshaphat prevailed against Israel.
 2 And he put troops in all the fortified cities of Judah, and set garrisons in the land of Judah and in the cities of Ephraim that Asa his father had taken.

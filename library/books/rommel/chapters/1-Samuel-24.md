@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2024.txt)
+
 
 1 When Saul returned from pursuing the Philistines, it was told to him: Behold David is in the wilderness of En-gedi.
 2 Then Saul took three thousand chosen men from all Israel, and went to seek David and his men in the area of the rocks of the wild goats.

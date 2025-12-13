@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%201.txt)
+
 
 1 When king David was very old, they covered him with clothes but it could not warm him.
 2 Therefore his servants said to him: Let a virgin girl be sought for my lord the king, and let her stand before the king and cherish him.

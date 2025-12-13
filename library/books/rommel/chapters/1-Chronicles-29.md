@@ -2,6 +2,8 @@
 [Links-Book-List](./Links-Book-List.md)
 <!-- Book-specific links file not found for 1 -->
 <!-- navigation end -->
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2029.txt)
+
 
 1 And king David said to all the assembly: God has chosen only Solomon my son who is young and inexperienced.
 And the work is great, because this house is not for man but for Yahweh God.
