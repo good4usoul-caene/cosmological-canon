@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2021.txt)
   
 
 
-﻿1 Then came the main fathers of the Levites to Eleazar the priest, and to Joshua the son of Nun, and to the chief fathers of the tribes of the children of Israel.
+ï»¿1 Then came the main fathers of the Levites to Eleazar the priest, and to Joshua the son of Nun, and to the chief fathers of the tribes of the children of Israel.
   
 2 And they spoke to them at Shiloh in the land of Canaan by saying: Yahweh commanded by the hand of Moses to give us cities to dwell in, with their suburbs for our cattle.
   
@@ -148,6 +148,7 @@ And there stood not a man of all their enemies before them, for Yahweh delivered
   
 of Israel, none remained without effect but all were accomplished.
   
+
 
 
 

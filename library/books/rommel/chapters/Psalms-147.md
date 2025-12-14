@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20147.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20147.txt)
   
 
 
-﻿1 Praise Yahweh.
+ï»¿1 Praise Yahweh.
   
 For it is good to sing praises to our God, for it is pleasant and fitting to praise him.
   
@@ -72,6 +72,7 @@ Praise Yahweh.
   
 his judgments. Praise Yahweh.
   
+
 
 
 

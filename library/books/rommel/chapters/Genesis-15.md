@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2015.txt)
   
 
 
-﻿1 After these events the word of Yahweh came to Abram in a vision saying, Abram do not be afraid.
+ï»¿1 After these events the word of Yahweh came to Abram in a vision saying, Abram do not be afraid.
   
 I am your shield and your exceedingly great reward.
   
@@ -66,6 +66,7 @@ You will be buried after a happy old age.
   
 tes, and of the Jebusites.
   
+
 
 
 

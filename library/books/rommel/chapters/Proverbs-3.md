@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%203.txt)
   
 
 
-﻿1 My son, do not forget my law.
+ï»¿1 My son, do not forget my law.
   
 Let your heart keep my commandments.
   
@@ -94,6 +94,7 @@ Keep wisdom and instructions.
   
 rit glory, but fools will inherit shame.
   
+
 
 
 

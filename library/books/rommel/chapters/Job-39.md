@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2039.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2039.txt)
   
 
 
-﻿1 Do you know when wild goats give birth.
+ï»¿1 Do you know when wild goats give birth.
   
 Do you watch the hinds when they give birth.
   
@@ -98,6 +98,7 @@ And where there are dead bodies, she is there.
   
 where there are dead bodies, she is there.
   
+
 
 
 

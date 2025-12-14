@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2026.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2026.txt)
   
 
 
-﻿1 After this plague, Yahweh spoke to Moses and to Eleazar the son of Aaron the priest in the following words.
+ï»¿1 After this plague, Yahweh spoke to Moses and to Eleazar the son of Aaron the priest in the following words.
   
 2 Number all the congregation of the children of Israel, from the age of twenty and upward, according to the houses of their fathers, of all those able to go to war in Israel.
   
@@ -172,6 +172,7 @@ So not one of them remained alive, except Caleb the son of Jephunneh and Joshua 
   
 em remained alive, except Caleb the son of Jephunneh and Joshua the son of Nun.
   
+
 
 
 

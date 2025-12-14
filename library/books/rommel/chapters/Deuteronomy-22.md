@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2022.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2022.txt)
   
 
 
-﻿1 If you see your neighbor's ox or sheep wandering away, you will not turn away from them but you will bring them back to your neighbor.
+ï»¿1 If you see your neighbor's ox or sheep wandering away, you will not turn away from them but you will bring them back to your neighbor.
   
 2 And if your neighbor does not live near you, or you do not know him, then you will bring the animal into your house and it will stay with you until your neighbor asks for it.
   
@@ -100,6 +100,7 @@ For he has humiliated her therefore he cannot send her away as long as he lives.
   
 ther's wife nor uncover his father's skirt.
   
+
 
 
 

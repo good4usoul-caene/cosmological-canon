@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2050.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2050.txt)
   
 
 
-﻿1 A psalm of Asaph.
+ï»¿1 A psalm of Asaph.
   
 Yahweh the God of gods has spoken, and has called the earth from the rising of the sun to its going down.
   
@@ -84,6 +84,7 @@ I will show the salvation of God to the one who is anxious to make his way accep
   
 s to make his way acceptable to me.
   
+
 
 
 

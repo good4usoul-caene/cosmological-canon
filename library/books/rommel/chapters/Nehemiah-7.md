@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%207.txt)
   
 
 
-﻿1 So the wall [of Jerusalem] was rebuilt and I did put the doors in the gates.
+ï»¿1 So the wall [of Jerusalem] was rebuilt and I did put the doors in the gates.
   
 And we appointed the gatekeepers, and the singers, and the Levites.
   
@@ -184,6 +184,7 @@ And the seventh month came, and the children of Israel were in their cities.
   
 cities. And the seventh month came, and the children of Israel were in their cities.
   
+
 
 
 

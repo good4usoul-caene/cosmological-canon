@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2042.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2042.txt)
   
 
 
-﻿1 A psalm of the sons of Korah.
+ï»¿1 A psalm of the sons of Korah.
   
 As a deer strongly desires the water brooks, so my soul strongly desires you, O God.
   
@@ -56,6 +56,7 @@ But I wait for God, and I will always praise him because he is my helper and my 
   
 my helper and my God.
   
+
 
 
 

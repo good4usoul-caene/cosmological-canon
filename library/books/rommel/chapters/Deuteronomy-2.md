@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%202.txt)
   
 
 
-﻿1 Then we turned and took our journey into the wilderness by the way of the red sea, as Yahweh spoke to me.
+ï»¿1 Then we turned and took our journey into the wilderness by the way of the red sea, as Yahweh spoke to me.
   
 And we followed the contours of mount Seir for a long time.
   
@@ -132,6 +132,7 @@ For Yahweh our God delivered everything to us.
   
 s, and all the places that Yahweh our God had forbidden us.
   
+
 
 
 

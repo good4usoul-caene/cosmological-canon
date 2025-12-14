@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2011.txt)
   
 
 
-﻿1 The whole earth had one language and the same words.
+ï»¿1 The whole earth had one language and the same words.
   
 2 As they departed from the east, they found a plain in the land of Shinar, and they dwelt there.
   
@@ -122,6 +122,7 @@ And Terah died in Haran.
   
 e two hundred and five years. And Terah died in Haran.
   
+
 
 
 

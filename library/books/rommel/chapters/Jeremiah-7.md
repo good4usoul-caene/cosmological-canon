@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%207.txt)
   
 
 
-﻿1 And the word of Yahweh came to Jeremiah in the following words.
+ï»¿1 And the word of Yahweh came to Jeremiah in the following words.
   
 2 Stand at the gate of the house of Yahweh and proclaim the following word there: Hear the word of Yahweh, you all the men of Judah who enter by these gates to worship Yahweh.
   
@@ -116,6 +116,7 @@ For the land will become a desolation.
   
 f the bride. For the land will become a desolation.
   
+
 
 
 

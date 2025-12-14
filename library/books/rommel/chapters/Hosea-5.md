@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHosea%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Hosea%205.txt)
   
 
 
-﻿1 Hear this, you priests.
+ï»¿1 Hear this, you priests.
   
 Pay attention, O house of Israel.
   
@@ -74,6 +74,7 @@ In their affliction they will seek me earnestly.
   
 n they will seek me earnestly.
   
+
 
 
 

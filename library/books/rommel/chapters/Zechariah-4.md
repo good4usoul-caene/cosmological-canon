@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CZechariah%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Zechariah%204.txt)
   
 
 
-﻿1 And the angel who talked with me came again and awoke me, as a man who is awakened from his sleep.
+ï»¿1 And the angel who talked with me came again and awoke me, as a man who is awakened from his sleep.
   
 2 And he said to me, 'What do you see'.
   
@@ -56,6 +56,7 @@ And I said, 'No, my lord'.
   
 d of the whole earth.
   
+
 
 
 

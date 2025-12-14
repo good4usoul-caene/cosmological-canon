@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2012.txt)
   
 
 
-﻿1 Meanwhile, an innumerable multitude of people had gathered together and were trampling one another.
+ï»¿1 Meanwhile, an innumerable multitude of people had gathered together and were trampling one another.
   
 And Jesus began to say to his disciples: Beware above all of the leaven of the Pharisees, which is hypocrisy.
   
@@ -190,6 +190,7 @@ Lest he drag you before the judge, and the judge hand you over to the officer, a
   
 59 I say to you, you will not get out of there until you have paid the very last penny.
   
+
 
 
 

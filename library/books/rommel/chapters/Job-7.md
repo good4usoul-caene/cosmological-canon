@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%207.txt)
   
 
 
-﻿1 Is there not an appointed time for a man on earth.
+ï»¿1 Is there not an appointed time for a man on earth.
   
 And are not his days like the days of a hireling.
   
@@ -68,6 +68,7 @@ For then I would sleep in the dust and not be found when you seek me.
   
 be found when you seek me.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%2015.txt)
   
 
 
-﻿1 We who are strong ought to bear the weaknesses of the weak, and not to please ourselves.
+ï»¿1 We who are strong ought to bear the weaknesses of the weak, and not to please ourselves.
   
 2 Let each of us please his neighbor in what is good for edification.
   
@@ -86,6 +86,7 @@ Amen.
   
 God of peace be with you all. Amen.
   
+
 
 
 

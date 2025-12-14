@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2044.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2044.txt)
   
 
 
-﻿1 Now listen, O Jacob my servant, and Israel whom I have chosen.
+ï»¿1 Now listen, O Jacob my servant, and Israel whom I have chosen.
   
 2 Thus says Yahweh your maker, the one who formed you from the womb and who disciplined you.
   
@@ -160,6 +160,7 @@ And he will say of the temple, 'Let its foundation be laid'.
   
 be rebuilt'. And he will say of the temple, 'Let its foundation be laid'.
   
+
 
 
 

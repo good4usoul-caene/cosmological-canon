@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2025.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2025.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 I lift up my soul to you, O Yahweh.
   
@@ -82,6 +82,7 @@ For you are my hope.
   
 rael from all his troubles, O God.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%201.txt)
   
 
 
-﻿1 The proverbs of Solomon, the son of David and king of Israel.
+ï»¿1 The proverbs of Solomon, the son of David and king of Israel.
   
 2 In order to know instruction and wisdom, to discern the words of intelligence.
   
@@ -104,6 +104,7 @@ The trust of fools will destroy them.
   
 vil, and will dwell safely [in his last end].
   
+
 
 
 

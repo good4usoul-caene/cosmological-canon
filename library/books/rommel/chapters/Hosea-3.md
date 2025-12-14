@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHosea%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Hosea%203.txt)
   
 
 
-﻿1 Then Yahweh said to me: Go again, and love another woman who is loved by her friend and who is an adulteress.
+ï»¿1 Then Yahweh said to me: Go again, and love another woman who is loved by her friend and who is an adulteress.
   
 It is according to the love of Yahweh toward the children of Israel, since they turn to other gods and love the cakes of raisin.
   
@@ -30,6 +30,7 @@ And they will rejoice in the fear of Yahweh and in his goodness, in the latter d
   
 er days.
   
+
 
 
 

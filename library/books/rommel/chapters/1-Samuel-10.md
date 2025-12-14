@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Samuel%2010.txt)
   
 
 
@@ -106,6 +106,7 @@ So they despised him and brought him no gifts, but Saul held his tongue.
   
 rought him no gifts, but Saul held his tongue.
   
+
 
 
 

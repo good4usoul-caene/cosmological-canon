@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2012.txt)
   
 
 
-﻿1 Then Yahweh sent Nathan to David.
+ï»¿1 Then Yahweh sent Nathan to David.
   
 And Nathan came to David and said to him: There were two men in a city, one was rich and the other poor.
   
@@ -132,6 +132,7 @@ And then David and all the army went back to Jerusalem.
   
 on. And then David and all the army went back to Jerusalem.
   
+
 
 
 

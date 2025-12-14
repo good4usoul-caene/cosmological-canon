@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%202.txt)
   
 
 
-﻿1 And the word of Yahweh came to me in the following words.
+ï»¿1 And the word of Yahweh came to me in the following words.
   
 2 Go and proclaim in the ears of Jerusalem the following thing: Thus says Yahweh, I remember the kindness that you had in your youth, when you loved me like a faithful bride and followed me in the wilderness, in a land that was not cultivated.
   
@@ -170,6 +170,7 @@ For Yahweh has rejected those in whom you trust, and you will not prosper with t
   
 hweh has rejected those in whom you trust, and you will not prosper with them.
   
+
 
 
 

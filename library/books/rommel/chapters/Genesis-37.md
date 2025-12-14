@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2037.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2037.txt)
   
 
 
-﻿1 And Jacob dwelt in the land of his father's sojournings, in the land of Canaan.
+ï»¿1 And Jacob dwelt in the land of his father's sojournings, in the land of Canaan.
   
 2 These are the generations of Jacob.
   
@@ -148,6 +148,7 @@ And he cried for his son.
   
 h in Egypt to Potiphar, officer of Pharaoh and chief of the guards.
   
+
 
 
 

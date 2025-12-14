@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2022.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2022.txt)
   
 
 
-﻿1 Brothers and fathers, listen to what I have to say now in my defense.
+ï»¿1 Brothers and fathers, listen to what I have to say now in my defense.
   
 2 And when they heard that he was speaking to them in the Hebrew language, they were even more silent.
   
@@ -114,6 +114,7 @@ And he caused to bring Paul down, and to place him before them.
   
 to bring Paul down, and to place him before them.
   
+
 
 
 

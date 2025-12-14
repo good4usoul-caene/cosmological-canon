@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2033.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2033.txt)
   
 
 
-﻿1 And Yahweh said to Moses, Depart and go from here, you and the people you brought out of the land of Egypt.
+ï»¿1 And Yahweh said to Moses, Depart and go from here, you and the people you brought out of the land of Egypt.
   
 And go to the land that I swore to give to Abraham and to Isaac and to Jacob by saying, I will give it to your seed.
   
@@ -90,6 +90,7 @@ I have mercy on whom I have mercy, and I have compassion on whom I have compassi
   
 om behind, but my face cannot be seen.
   
+
 
 
 

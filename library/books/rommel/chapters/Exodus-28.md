@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2028.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2028.txt)
   
 
 
-﻿1 Bring Aaron your brother and his sons near you, and take them from among the children of Israel to consecrate them to my service in the priesthood.
+ï»¿1 Bring Aaron your brother and his sons near you, and take them from among the children of Israel to consecrate them to my service in the priesthood.
   
 I mean Aaron, and Nadab, and Abihu, and Eleazar, and Ithamar, the sons of Aaron.
   
@@ -146,6 +146,7 @@ It is a perpetual law for Aaron and for his descendants after him.
   
 It is a perpetual law for Aaron and for his descendants after him.
   
+
 
 
 

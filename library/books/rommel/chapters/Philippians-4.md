@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPhilippians%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Philippians%204.txt)
   
 
 
-﻿1 Therefore, my brothers and dearly beloved, you who are my joy and crown, stand firm in the Lord, my beloved.
+ï»¿1 Therefore, my brothers and dearly beloved, you who are my joy and crown, stand firm in the Lord, my beloved.
   
 2 I exhort Euodia and I exhort Syntyche to be of the same mind in the Lord.
   
@@ -82,6 +82,7 @@ Amen.
   
 esus Christ be with you all. Amen.
   
+
 
 
 

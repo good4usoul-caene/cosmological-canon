@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CMalachi%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Malachi%204.txt)
   
 
 
-﻿1 For behold, the day is coming and it will burn like a furnace.
+ï»¿1 For behold, the day is coming and it will burn like a furnace.
   
 All the proud and all those who act wickedly [among my people who are called by my name now] will be punished.
   
@@ -36,6 +36,7 @@ But this will not be the main occasion because even in those days an acceptable 
   
 th a curse.
   
+
 
 
 

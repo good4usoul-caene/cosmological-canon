@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CSong%20of%20Songs%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Song%20of%20Songs%208.txt)
   
 
 
-﻿1 Now I regret that you are not my brother, a brother who sucked the breasts of my mother.
+ï»¿1 Now I regret that you are not my brother, a brother who sucked the breasts of my mother.
   
 For then I could have embraced you outside as soon as I succeed in finding you, without it making me despicable in the eyes of others.
   
@@ -68,6 +68,7 @@ Cause me to hear it also.
   
 on the mountains of spices.
   
+
 
 
 

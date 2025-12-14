@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%2021.txt)
   
 
 
-﻿1 And Yahweh said to Moses, Speak to the priests the sons of Aaron and say to them: A priest will not make himself unclean among his people because of the dead.
+ï»¿1 And Yahweh said to Moses, Speak to the priests the sons of Aaron and say to them: A priest will not make himself unclean among his people because of the dead.
   
 2 Except by his closest relatives like his mother, or his father, or his son, or his daughter, or his brother.
   
@@ -80,6 +80,7 @@ For I am Yahweh who sanctifies them.
   
 nd to all the children of Israel.
   
+
 
 
 

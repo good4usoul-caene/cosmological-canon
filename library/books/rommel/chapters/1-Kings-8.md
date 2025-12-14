@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Kings%208.txt)
   
 
 
@@ -198,6 +198,7 @@ And they blessed the king and went to their tents joyfully and with happy hearts
   
 se of all the goodness that Yahweh had done for David his servant and for Israel his people.
   
+
 
 
 

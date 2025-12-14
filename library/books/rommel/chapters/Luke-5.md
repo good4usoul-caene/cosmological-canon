@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%205.txt)
   
 
 
@@ -128,6 +128,7 @@ For he says: The old is better.
   
 ll not desire a new wine. For he says: The old is better.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Chronicles%208.txt)
   
 
 
-﻿1 At the end of twenty years [after the start of the construction], Solomon had built the house of Yahweh and the house of the king.
+ï»¿1 At the end of twenty years [after the start of the construction], Solomon had built the house of Yahweh and the house of the king.
   
 2 Then Solomon built the cities that Huram had given him back, and caused the children of Israel to dwell there.
   
@@ -64,6 +64,7 @@ And they went with the servants of Solomon to Ophir, and they took from there fo
   
 t of] it to king Solomon.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEcclesiastes%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ecclesiastes%204.txt)
   
 
 
-﻿1 And then I have considered all the oppressions that are done under the sun.
+ï»¿1 And then I have considered all the oppressions that are done under the sun.
   
 And behold, the oppressed weep and there is no one to comfort them.
   
@@ -64,6 +64,7 @@ And three persons can even be stronger since three cords that are woven together
   
 oken. 13 . 14 . 15 . 16 .
   
+
 
 
 

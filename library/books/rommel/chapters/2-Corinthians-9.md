@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Corinthians%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Corinthians%209.txt)
   
 
 
-﻿1 It is superfluous for me to write to you concerning the assistance for the saints.
+ï»¿1 It is superfluous for me to write to you concerning the assistance for the saints.
   
 2 For I know your willingness, of which I have boasted about you to the Macedonians, saying that Achaia has been ready since last year.
   
@@ -50,6 +50,7 @@ His righteousness endures forever.
   
 ndescribable gift.
   
+
 
 
 

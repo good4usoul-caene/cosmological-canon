@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%204.txt)
   
 
 
-﻿1 And when all the people had crossed the Jordan, then Yahweh spoke to Joshua in the following words.
+ï»¿1 And when all the people had crossed the Jordan, then Yahweh spoke to Joshua in the following words.
   
 2 Take twelve men from among the people, one man from each tribe.
   
@@ -78,6 +78,7 @@ And they feared him all the days of his life as they feared Moses.
   
 may fear Yahweh your God always.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2020.txt)
   
 
 
-﻿1 When you go to war against your enemies, and you see horses and chariots, and a people more numerous than you, then you will not be afraid of them.
+ï»¿1 When you go to war against your enemies, and you see horses and chariots, and a people more numerous than you, then you will not be afraid of them.
   
 2 When the battle is near, then the priest will advance and will speak to the people.
   
@@ -76,6 +76,7 @@ For the tree of the field is the life of man.
   
 gainst you until you subdue it.
   
+
 
 
 

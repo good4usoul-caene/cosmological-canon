@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%204.txt)
   
 
 
-﻿1 The purpose of life.
+ï»¿1 The purpose of life.
   
 2 We are genetically children of our parents, but we are necessarily creations of God (Isaiah 45:9-12).
   
@@ -34,6 +34,7 @@
   
 ke 16:13).
   
+
 
 
 

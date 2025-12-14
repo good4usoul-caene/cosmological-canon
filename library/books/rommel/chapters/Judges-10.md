@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%2010.txt)
   
 
 
@@ -76,6 +76,7 @@ For the same will be the chief of all the inhabitants of Gilead.
   
 all the inhabitants of Gilead.
   
+
 
 
 

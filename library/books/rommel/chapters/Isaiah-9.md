@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%209.txt)
   
 
 
-﻿1 But darkness will not reign forever on the earth where there is now an anxiety [caused by misunderstanding about the purpose of life and the extent of the flexibility of Yahweh's commandments].
+ï»¿1 But darkness will not reign forever on the earth where there is now an anxiety [caused by misunderstanding about the purpose of life and the extent of the flexibility of Yahweh's commandments].
   
 The ancient times have given little importance to the land of Zebulun and the land of Naphtali [while the land of Judah was distinguished by being the place where the house of Yahweh is established].
   
@@ -90,6 +90,7 @@ Despite all this, his anger will not be appeased, and his hand will be stretched
   
 his hand will be stretched out again.
   
+
 
 
 

@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%2016.txt)
   
 
 
@@ -130,6 +130,7 @@ I have overcome the world.
   
 in the world, but have courage. I have overcome the world.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2015.txt)
   
 
 
-﻿1 Now all the tax collectors and sinners were approaching Jesus to hear him.
+ï»¿1 Now all the tax collectors and sinners were approaching Jesus to hear him.
   
 2 And the Pharisees and scribes were grumbling by saying: This man welcomes sinners, and eats with them.
   
@@ -100,6 +100,7 @@ He was lost, and is found.
   
 is alive again. He was lost, and is found.
   
+
 
 
 

@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%207.txt)
   
 
 
@@ -86,6 +86,7 @@ The oxen will be sent there to graze, and the sheep will wander there.
   
 ze, and the sheep will wander there.
   
+
 
 
 

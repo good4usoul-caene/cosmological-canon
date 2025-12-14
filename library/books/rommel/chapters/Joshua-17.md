@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2017.txt)
   
 
 
-﻿1 This also was the lot of the tribe of Manasseh.
+ï»¿1 This also was the lot of the tribe of Manasseh.
   
 For he was the firstborn of Joseph.
   
@@ -80,6 +80,7 @@ And its ends will be yours, and you will drive out the Canaanites, though they h
   
 iron and though they are strong.
   
+
 
 
 

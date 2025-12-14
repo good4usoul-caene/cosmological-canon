@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2039.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2039.txt)
   
 
 
-﻿1 And they made finely wrought garments of office for the service in the sanctuary.
+ï»¿1 And they made finely wrought garments of office for the service in the sanctuary.
   
 They made it of the fabrics dyed blue and purple and scarlet.
   
@@ -122,6 +122,7 @@ And Moses blessed them.
   
 ed. They had done it that way. And Moses blessed them.
   
+
 
 
 

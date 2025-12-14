@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job.txt)
   
 
 
-﻿inner pour le linterieur de lesprit
+ï»¿inner pour le linterieur de lesprit
   
 
 inward pour linterieur de la chair animal et bowels pour la chaire humaine
@@ -19,6 +19,7 @@ inward pour linterieur de la chair animal et bowels pour la chaire humaine
 
 Job 11:1-3 - .............
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%207.txt)
   
 
 
-﻿1 After having finished to say all these things to the people, Jesus went into Capernaum.
+ï»¿1 After having finished to say all these things to the people, Jesus went into Capernaum.
   
 2 And in that place there was an officer of the Roman army whose servant was sick and about to die, and that servant was loved by his master the officer of the army.
   
@@ -192,6 +192,7 @@ Go in peace.
   
 ven forgives sins. 50 And Jesus said to the woman: Your faith has saved you. Go in peace.
   
+
 
 
 

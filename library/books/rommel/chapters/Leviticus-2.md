@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%202.txt)
   
 
 
-﻿1 And when anyone offers a meal offering to Yahweh, his offering will be of fine flour.
+ï»¿1 And when anyone offers a meal offering to Yahweh, his offering will be of fine flour.
   
 And he will pour oil on it, and add incense to it.
   
@@ -68,6 +68,7 @@ For it is an offering to Yahweh made by fire.
   
 ing to Yahweh made by fire.
   
+
 
 
 

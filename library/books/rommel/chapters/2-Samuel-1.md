@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%201.txt)
   
 
 
-﻿1 After the death of Saul, when David had returned from smiting the Amalekites and had been two days in Ziklag.
+ï»¿1 After the death of Saul, when David had returned from smiting the Amalekites and had been two days in Ziklag.
   
 2 Behold a man came on the third day from the camp of Saul.
   
@@ -102,6 +102,7 @@ Your love for me was wonderful, it surpassed the love of women.
   
 l and how his weapons of war were destroyed.
   
+
 
 
 

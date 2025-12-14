@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEcclesiastes%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ecclesiastes%2010.txt)
   
 
 
-﻿1 Dead flies pollute and putrefy the oil of the perfumer.
+ï»¿1 Dead flies pollute and putrefy the oil of the perfumer.
   
 In the same way, an act of folly ruins the reputation of one who is known for wisdom or honor.
   
@@ -72,6 +72,7 @@ For a bird of the air may carry your voice, and thus a winged creature may tell 
   
 hose whom you have offended].
   
+
 
 
 

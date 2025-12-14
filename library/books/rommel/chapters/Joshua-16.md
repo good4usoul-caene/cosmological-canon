@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2016.txt)
   
 
 
-﻿1 The land that was attributed by lot to the children of Joseph is from the Jordan near Jericho to the waters of Jericho eastward, and to the wilderness that goes up from Jericho by the mount Bethel.
+ï»¿1 The land that was attributed by lot to the children of Joseph is from the Jordan near Jericho to the waters of Jericho eastward, and to the wilderness that goes up from Jericho by the mount Bethel.
   
 2 And it goes out from Bethel to Luz, and passes along to the borders of the Archites by Ataroth.
   
@@ -36,6 +36,7 @@ This is the inheritance of the tribe of the children of Ephraim, according to th
   
 a tribute.
   
+
 
 
 

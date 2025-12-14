@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzra%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezra%209.txt)
   
 
 
@@ -66,6 +66,7 @@ Behold we stand before you in our new transgression, and we cannot lift up our f
   
 efore you because of this.
   
+
 
 
 

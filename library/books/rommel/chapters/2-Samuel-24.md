@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2024.txt)
   
 
 
-﻿1 And the anger of Yahweh was kindled again against Israel, and he moved David against them by saying: Go and number Israel and Judah.
+ï»¿1 And the anger of Yahweh was kindled again against Israel, and he moved David against them by saying: Go and number Israel and Judah.
   
 2 For the king said to Joab the captain of the army who was near him: Go speedily now through all the tribes of Israel, from Dan to Beersheba, and number the people so that I may know their total.
   
@@ -100,6 +100,7 @@ For I will not offer burnt offerings to Yahweh my God with things that have nece
   
 he land, and the plague ceased from Israel.
   
+
 
 
 

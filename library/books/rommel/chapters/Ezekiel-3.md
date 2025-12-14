@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%203.txt)
   
 
 
-﻿1 And he said to me: Son of man, eat what you see.
+ï»¿1 And he said to me: Son of man, eat what you see.
   
 Eat this scroll and go, and speak to the house of Israel.
   
@@ -98,6 +98,7 @@ For they are a rebellious house.
   
 t listen. For they are a rebellious house.
   
+
 
 
 

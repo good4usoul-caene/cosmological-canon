@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGalatians%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Galatians%203.txt)
   
 
 
@@ -184,6 +184,7 @@ For you are all one in Christ Jesus.
   
 u belong to Christ, then you are the seed of Abraham, heirs according to the promise.
   
+
 
 
 

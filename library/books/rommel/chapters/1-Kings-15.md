@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Kings%2015.txt)
   
 
 
@@ -114,6 +114,7 @@ And he reigned for twenty four years.
   
 he sin by which Jeroboam had caused Israel to sin.
   
+
 
 
 

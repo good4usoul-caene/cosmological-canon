@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2097.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2097.txt)
   
 
 
-﻿1 Yahweh reigns.
+ï»¿1 Yahweh reigns.
   
 Let the earth rejoice, and let the multitude of islands be glad.
   
@@ -50,6 +50,7 @@ Give thanks for his holy memorial.
   
 his holy memorial.
   
+
 
 
 

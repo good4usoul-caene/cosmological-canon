@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Corinthians%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Corinthians%2010.txt)
   
 
 
-﻿1 I Paul, I entreat you by the meekness and gentleness of Christ, I who am humble in appearance when I am among you and full of boldness towards you when I am far away.
+ï»¿1 I Paul, I entreat you by the meekness and gentleness of Christ, I who am humble in appearance when I am among you and full of boldness towards you when I am far away.
   
 2 What I ask of you is to ensure that, when I am present among you, I do not have to be bold with that confidence with which I intend to be bold toward some who consider us as if we were walking according to the flesh.
   
@@ -58,6 +58,7 @@ And we have the hope that, as your faith increases, we will be enlarged by you, 
   
 hom the Lord commends.
   
+
 
 
 

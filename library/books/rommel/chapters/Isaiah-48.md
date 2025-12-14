@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2048.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2048.txt)
   
 
 
-﻿1 Hear this, O house of Jacob, you who are called by the name of Israel and have come out of the waters of Judah [that is to say, you simply have genealogical or spiritual connections with the tribe of Judah].
+ï»¿1 Hear this, O house of Jacob, you who are called by the name of Israel and have come out of the waters of Judah [that is to say, you simply have genealogical or spiritual connections with the tribe of Judah].
   
 You who swear by the name of Yahweh, and speak of the God of Israel, but without truth and without righteousness.
   
@@ -110,6 +110,7 @@ He caused the waters to flow out of the rock for them, he did split the rock and
   
 2 There is no peace for the wicked, says Yahweh.
   
+
 
 
 

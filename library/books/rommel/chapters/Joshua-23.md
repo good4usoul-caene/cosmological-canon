@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2023.txt)
   
 
 
-﻿1 And long after Yahweh had given rest to Israel from all their enemies all around, and Joshua was very old.
+ï»¿1 And long after Yahweh had given rest to Israel from all their enemies all around, and Joshua was very old.
   
 2 Then Joshua called all Israel, and their elders, and their princes, and their judges, and their officers.
   
@@ -54,6 +54,7 @@ And you know with all your hearts and with all your souls that none of all the g
   
 at he has given you.
   
+
 
 
 

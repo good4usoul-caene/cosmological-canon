@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Chronicles%2014.txt)
   
 
 
@@ -24,7 +24,7 @@ And the land was quiet for ten years in the days of Asa.
   
 5 And he removed the high places and the images from all the cities of Judah.
   
-​​Therefore the kingdom was quiet before him.
+â€‹â€‹Therefore the kingdom was quiet before him.
   
 6 And Asa built strong cities in Judah because the land was at rest and there was no war against him in those years.
   
@@ -72,6 +72,7 @@ Then they returned to Jerusalem.
   
 n they returned to Jerusalem.
   
+
 
 
 

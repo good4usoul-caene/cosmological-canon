@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%203.txt)
   
 
 
-﻿1 For lo, the Lord Yahweh the God of armies will take away from Jerusalem and from Judah every support and every source of strength, every source of bread and every source of water.
+ï»¿1 For lo, the Lord Yahweh the God of armies will take away from Jerusalem and from Judah every support and every source of strength, every source of bread and every source of water.
   
 2 The strong man and the man of war, the judge and the prophet, the prudent and the elder.
   
@@ -86,6 +86,7 @@ And he says: You have devoured the vineyard, and the spoil that you have taken f
   
 desolate and will sit on the ground.
   
+
 
 
 

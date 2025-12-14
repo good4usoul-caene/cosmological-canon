@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHabakkuk%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Habakkuk%202.txt)
   
 
 
-﻿1 I was at my watch, and I stood on the tower.
+ï»¿1 I was at my watch, and I stood on the tower.
   
 I watched to see what Yahweh would say to me, what he would answer me concerning my desire to understand.
   
@@ -96,6 +96,7 @@ Behold it is covered with gold and silver, but there is no breath in it to move 
   
 et all the earth keep silence before him.
   
+
 
 
 

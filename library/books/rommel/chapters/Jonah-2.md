@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJonah%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jonah%202.txt)
   
 
 
@@ -46,6 +46,7 @@ Salvation comes from Yahweh.
   
 on the dry land.
   
+
 
 
 

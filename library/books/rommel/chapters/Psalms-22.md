@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2022.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2022.txt)
   
 
 
@@ -118,6 +118,7 @@ All those who go down to the dust will bow before him, each of those who cannot 
   
 born, they will proclaim the work that he has done.
   
+
 
 
 

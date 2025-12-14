@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%204.txt)
   
 
 
-﻿1 My children, listen to the instruction of a father.
+ï»¿1 My children, listen to the instruction of a father.
   
 Be attentive in order to know wisdom.
   
@@ -90,6 +90,7 @@ Incline your ear to my speeches.
   
 the left, remove your foot from evil.
   
+
 
 
 

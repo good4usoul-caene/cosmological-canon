@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEcclesiastes%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ecclesiastes%203.txt)
   
 
 
-﻿1 There is an appointed time for everything, a time for every purpose under the heaven.
+ï»¿1 There is an appointed time for everything, a time for every purpose under the heaven.
   
 2 A time to be born, and a time to die.
   
@@ -88,6 +88,7 @@ For who will make him enjoy what will be after him.
   
 ake him enjoy what will be after him.
   
+
 
 
 

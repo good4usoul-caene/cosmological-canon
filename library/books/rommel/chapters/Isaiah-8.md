@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%208.txt)
   
 
 
-﻿1 And Yahweh said to me: Take a large tablet and write on it with a man's pen the following word, Mahershalalhashbaz [which means, Hasten to the spoil, hasten to the prey].
+ï»¿1 And Yahweh said to me: Take a large tablet and write on it with a man's pen the following word, Mahershalalhashbaz [which means, Hasten to the spoil, hasten to the prey].
   
 2 Then I took with me faithful witnesses to see how I wrote the word.
   
@@ -98,6 +98,7 @@ And they will be driven to darkness.
   
 uish. And they will be driven to darkness.
   
+
 
 
 

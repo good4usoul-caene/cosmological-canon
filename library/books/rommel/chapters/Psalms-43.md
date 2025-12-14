@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2043.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2043.txt)
   
 
 
-﻿1 Judge me, O God, and defend my cause against ungodly people.
+ï»¿1 Judge me, O God, and defend my cause against ungodly people.
   
 Protect me against the deceitful and unjust man.
   
@@ -36,6 +36,7 @@ But I wait for God, and I will always praise him because he is my helper and my 
   
 and my God.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzra%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezra%201.txt)
   
 
 
-﻿1 Now in the first year of Cyrus king of Persia [that is to say, the first year after he conquered the kingdom of Babylon], in order to fulfill the word of Yahweh spoken by the mouth of Jeremiah, Yahweh stirred up the spirit of Cyrus king of Persia and he made the following proclamation throughout all his kingdom, both by word of mouth and in writing.
+ï»¿1 Now in the first year of Cyrus king of Persia [that is to say, the first year after he conquered the kingdom of Babylon], in order to fulfill the word of Yahweh spoken by the mouth of Jeremiah, Yahweh stirred up the spirit of Cyrus king of Persia and he made the following proclamation throughout all his kingdom, both by word of mouth and in writing.
   
 2 Thus says Cyrus king of Persia: Yahweh the God of heaven has given me all the kingdoms of the earth, and he has commanded me to build him a house in Jerusalem which is in Judah.
   
@@ -40,6 +40,7 @@ And Sheshbazzar carried all these things from Babylon to Jerusalem when he retur
   
 her captives.
   
+
 
 
 

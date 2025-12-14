@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%2020.txt)
   
 
 
-﻿1 Then all the children of Israel went out, from Dan to Beersheba and also the inhabitants of Gilead.
+ï»¿1 Then all the children of Israel went out, from Dan to Beersheba and also the inhabitants of Gilead.
   
 And the congregation gathered together as one man before Yahweh at Mizpah.
   
@@ -180,6 +180,7 @@ They also set fire to all the cities that they found.
   
 sts, and all that they found. They also set fire to all the cities that they found.
   
+
 
 
 

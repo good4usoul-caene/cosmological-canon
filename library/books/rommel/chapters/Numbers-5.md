@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%205.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words.
+ï»¿1 And Yahweh spoke to Moses in the following words.
   
 2 Command the children of Israel to send every leper out of the camp, and every one who has an issue, and whoever is defiled by a dead person.
   
@@ -100,6 +100,7 @@ The priest will make her stand before Yahweh, and the priest will apply this law
   
 m sin, but his wife will bear her iniquity.
   
+
 
 
 

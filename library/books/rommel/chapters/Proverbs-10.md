@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2010.txt)
   
 
 
-﻿1 The proverbs of Solomon.
+ï»¿1 The proverbs of Solomon.
   
 A wise son makes his father glad, but a foolish son is a disappointment for his mother.
   
@@ -80,6 +80,7 @@ But the righteous is an everlasting foundation.
   
 of the wicked speaks pervertedly.
   
+
 
 
 

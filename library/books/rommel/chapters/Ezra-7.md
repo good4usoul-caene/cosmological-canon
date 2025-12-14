@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzra%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezra%207.txt)
   
 
 
-﻿1 Now after these things, in the reign of Artaxerxes king of Persia [Artaxerxes being a title, and it is not the same king as the one mentioned previously], Ezra arose.
+ï»¿1 Now after these things, in the reign of Artaxerxes king of Persia [Artaxerxes being a title, and it is not the same king as the one mentioned previously], Ezra arose.
   
 He was the son of Seraiah, the son of Azariah, the son of Hilkiah.
   
@@ -84,6 +84,7 @@ So I was strengthened by the hand of Yahweh my God which was on me, and I gather
   
 chiefs of Israel to go up with me.
   
+
 
 
 

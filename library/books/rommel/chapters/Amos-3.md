@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CAmos%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Amos%203.txt)
   
 
 
-﻿1 Hear this word that Yahweh has spoken against you, O children of Israel, against the whole family that I brought out of the land of Egypt.
+ï»¿1 Hear this word that Yahweh has spoken against you, O children of Israel, against the whole family that I brought out of the land of Egypt.
   
 2 I have chosen you, you only, out of all the families of the earth.
   
@@ -56,6 +56,7 @@ And the ivory palaces will perish, and the great houses will be destroyed, says 
   
 stroyed, says Yahweh.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHosea%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Hosea%2011.txt)
   
 
 
-﻿1 When Israel was a child, then I loved him, and called my son out of Egypt.
+ï»¿1 When Israel was a child, then I loved him, and called my son out of Egypt.
   
 2 But they turned away from those who called them [that is to say, from the prophets].
   
@@ -62,6 +62,7 @@ And Judah still has no restraint before God, before the faithful holy one.
   
 e the faithful holy one.
   
+
 
 
 

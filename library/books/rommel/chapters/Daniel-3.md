@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDaniel%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Daniel%203.txt)
   
 
 
-﻿1 Now king Nebuchadnezzar made an image of gold which was sixty cubits high and six cubits wide.
+ï»¿1 Now king Nebuchadnezzar made an image of gold which was sixty cubits high and six cubits wide.
   
 And he set it up in the plain of Dura, in the province of Babylon.
   
@@ -112,6 +112,7 @@ For there is no other god who is able to perform such a deliverance.
   
 on [that is to say, he extended their authority].
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRuth%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ruth%203.txt)
   
 
 
-﻿1 Naomi her mother in law said to her: My daughter, should I not seek you rest so that you may prosper.
+ï»¿1 Naomi her mother in law said to her: My daughter, should I not seek you rest so that you may prosper.
   
 2 And now, is not Boaz our kinsman.
   
@@ -86,6 +86,7 @@ For this man will not rest until he has finished the matter this same day.
   
 s finished the matter this same day.
   
+
 
 
 

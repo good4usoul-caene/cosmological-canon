@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%2018.txt)
   
 
 
-﻿1 Now in the third year of Hoshea the son of Elah and king of Israel, Hezekiah the son of Ahaz king of Judah began to reign.
+ï»¿1 Now in the third year of Hoshea the son of Elah and king of Israel, Hezekiah the son of Ahaz king of Judah began to reign.
   
 2 Hezekiah was twenty five years old when he began to reign, and he reigned twenty nine years in Jerusalem.
   
@@ -148,6 +148,7 @@ For the king had commanded them by saying: You will not answer him.
   
 ith their clothes torn, and reported to him the words of Rabshakeh.
   
+
 
 
 

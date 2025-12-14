@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%208.txt)
   
 
 
-﻿1 How to offend or please the holy spirit (John 5:39-40 - Jeremiah 9:23-24), first part.
+ï»¿1 How to offend or please the holy spirit (John 5:39-40 - Jeremiah 9:23-24), first part.
   
 2 God's love means that he will give a place, possibly anonymously (Galatians 6:7-8 - Ecclesiastes 9:13-15), to our heavenly body (Genesis 6:5-8 - 8:18-22).
   
@@ -76,6 +76,7 @@ God the Father and God the Son and God the holy spirit.
   
 he Son and God the holy spirit.
   
+
 
 
 

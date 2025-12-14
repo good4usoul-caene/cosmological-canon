@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPhilippians%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Philippians%202.txt)
   
 
 
-﻿1 Therefore if there is some consolation in Christ, some comfort of love, some fellowship of the Spirit, some compassion and mercy.
+ï»¿1 Therefore if there is some consolation in Christ, some comfort of love, some fellowship of the Spirit, some compassion and mercy.
   
 [Now Christ is made up of all these things.]
   
@@ -84,6 +84,7 @@ But God had mercy on him, and not on him only, but also on me, so that I would n
   
 lacking in your service toward me.
   
+
 
 
 

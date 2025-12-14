@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%2026.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%2026.txt)
   
 
 
-﻿1 You will not make idols.
+ï»¿1 You will not make idols.
   
 You will not raise up any pictorial description, nor sculpture, nor carved stone, to bow down before it.
   
@@ -156,6 +156,7 @@ I am Yahweh.
   
 imself and the children of Israel at mount Sinai, by the hand of Moses.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%201.txt)
   
 
 
-﻿1 Yahweh spoke to Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month in the second year after their departure from the land of Egypt.
+ï»¿1 Yahweh spoke to Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month in the second year after their departure from the land of Egypt.
   
 He spoke in the following words.
   
@@ -140,6 +140,7 @@ They did so.
   
 did according to all that Yahweh commanded Moses. They did so.
   
+
 
 
 

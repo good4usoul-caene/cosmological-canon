@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2031.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2031.txt)
   
 
 
-﻿1 At that time, says Yahweh, I will be the God of all the families [tribes] of Israel and they will be my people.
+ï»¿1 At that time, says Yahweh, I will be the God of all the families [tribes] of Israel and they will be my people.
   
 2 Thus says Yahweh: They have found grace in the wilderness, the people of those who had escaped the sword.
   
@@ -178,6 +178,7 @@ His name is Yahweh the God of armies.
   
 ole seed of Israel because of all that they have done, says Yahweh. 38 . 39 . 40 .
   
+
 
 
 

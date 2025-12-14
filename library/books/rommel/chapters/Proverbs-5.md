@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%205.txt)
   
 
 
-﻿1 My son, be attentive to my wisdom.
+ï»¿1 My son, be attentive to my wisdom.
   
 Incline your ear to my knowledge.
   
@@ -74,6 +74,7 @@ Why should you embrace the breasts of a stranger.
   
 go astray by his great folly.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHaggai%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Haggai%201.txt)
   
 
 
-﻿1 In the second year of king Darius, on the first day of the sixth month, the word of Yahweh came in the following words by Haggai the prophet, to Zerubbabel the son of Shealtiel and governor of Judah, and to the high priest Joshua the son of Jehozadak.
+ï»¿1 In the second year of king Darius, on the first day of the sixth month, the word of Yahweh came in the following words by Haggai the prophet, to Zerubbabel the son of Shealtiel and governor of Judah, and to the high priest Joshua the son of Jehozadak.
   
 2 Thus speaks Yahweh the God of armies: This people says, 'The time has not come, the time to rebuild the house of Yahweh'.
   
@@ -60,6 +60,7 @@ And the people were afraid of Yahweh.
   
 nd year of king Darius.
   
+
 
 
 

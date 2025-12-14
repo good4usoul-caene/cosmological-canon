@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%203.txt)
   
 
 
-﻿1 Now in the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, and Herod was tetrarch of Galilee, and his brother Philip was tetrarch of Ituraea and of the region of Trachonitis, and Lysanias was tetrarch of Abilene.
+ï»¿1 Now in the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, and Herod was tetrarch of Galilee, and his brother Philip was tetrarch of Ituraea and of the region of Trachonitis, and Lysanias was tetrarch of Abilene.
   
 2 In the days when Annas and Caiaphas were high priests [in the temple od the Lord], the word of God came to John the son of Zacharias in the wilderness.
   
@@ -110,6 +110,7 @@ And a voice from heaven said: You are my beloved son, in you I am well pleased.
   
 he son of Seth, the son of Adam, the son of God.
   
+
 
 
 

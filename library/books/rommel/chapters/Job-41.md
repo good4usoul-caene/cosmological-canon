@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2041.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2041.txt)
   
 
 
-﻿1 Can you catch the crocodile with a fishhook [according to its manufacture to date], or grab his tongue with a rope.
+ï»¿1 Can you catch the crocodile with a fishhook [according to its manufacture to date], or grab his tongue with a rope.
   
 2 Can you put a rope through his nose or a hook through his jaw.
   
@@ -112,6 +112,7 @@ He is the king of all the children of pride.
   
 igh. He is the king of all the children of pride.
   
+
 
 
 

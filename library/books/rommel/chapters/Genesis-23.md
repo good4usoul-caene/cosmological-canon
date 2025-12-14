@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2023.txt)
   
 
 
-﻿1 The life of Sarah was one hundred and twenty seven years, these are the years of Sarah's life.
+ï»¿1 The life of Sarah was one hundred and twenty seven years, these are the years of Sarah's life.
   
 2 And Sarah died in Kiriath-arba, which is Hebron, in the land of Canaan.
   
@@ -84,6 +84,7 @@ Four hundred shekels of silver, money among the merchant.
   
 acquired from the children of Heth.
   
+
 
 
 

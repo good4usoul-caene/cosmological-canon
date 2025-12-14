@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2028.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2028.txt)
   
 
 
-﻿1 The wicked flees when no one pursues him, but the righteous is bold as a lion.
+ï»¿1 The wicked flees when no one pursues him, but the righteous is bold as a lion.
   
 2 The multiplication of transgressions in a land can cause the people to have many wicked leaders.
   
@@ -82,6 +82,7 @@ And when they perish, the righteous increase.
   
 ey perish, the righteous increase.
   
+
 
 
 

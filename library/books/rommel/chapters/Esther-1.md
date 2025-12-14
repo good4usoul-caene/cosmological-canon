@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEsther%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Esther%201.txt)
   
 
 
-﻿1 It was in the days of Ahasuerus, this Ahasuerus who reigned from India to Ethiopia over one hundred and twenty seven provinces.
+ï»¿1 It was in the days of Ahasuerus, this Ahasuerus who reigned from India to Ethiopia over one hundred and twenty seven provinces.
   
 2 And king Ahasuerus ruled from his throne which was in the palace of the city of Shushan.
   
@@ -78,6 +78,7 @@ And each letter declared in the language of the people who received it that each
   
 be the chief of his own family.
   
+
 
 
 

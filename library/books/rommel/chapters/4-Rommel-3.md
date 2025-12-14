@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%203.txt)
   
 
 
-﻿1 Motivation (John 6:29 - Proverbs 1:7), second part: Personal thoughts inspired by christian scriptures.
+ï»¿1 Motivation (John 6:29 - Proverbs 1:7), second part: Personal thoughts inspired by christian scriptures.
   
 2 Do whatever you want, but never rush to do anything, no matter how urgent the situation.
   
@@ -56,6 +56,7 @@ Let them answer the question so that everything is clear once and for all for ev
   
 for all for everyone.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2024.txt)
   
 
 
-﻿1 When a man marries a woman and she does not find favor in his eyes because he has discovered something shameful in her, then he will write her a letter of divorce, and give it to her and send her out from his house.
+ï»¿1 When a man marries a woman and she does not find favor in his eyes because he has discovered something shameful in her, then he will write her a letter of divorce, and give it to her and send her out from his house.
   
 2 And she will leave his house and go her way, and can become another man's wife.
   
@@ -86,6 +86,7 @@ Therefore I command you to do this thing.
   
 fore I command you to do this thing.
   
+
 
 
 

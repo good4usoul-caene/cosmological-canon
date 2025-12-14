@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CTitus%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Titus%201.txt)
   
 
 
-﻿1 Paul, a servant of God and an apostle of Jesus Christ, for the faith of the chosen of God and the knowledge of the truth which is according to godliness.
+ï»¿1 Paul, a servant of God and an apostle of Jesus Christ, for the faith of the chosen of God and the knowledge of the truth which is according to godliness.
   
 2 And which is founded on the hope of eternal life, and which has been promised before the world began by God who does not lie.
   
@@ -50,6 +50,7 @@ Therefore rebuke them sharply, so that they may become holy in the faith.
   
 for any good work.
   
+
 
 
 

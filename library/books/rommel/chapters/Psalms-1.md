@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%201.txt)
   
 
 
-﻿1 Blessed is the man who does not walk according to the counsel of the wicked, and who does not stand in the way of the sinners, and who does not sit with the scorners.
+ï»¿1 Blessed is the man who does not walk according to the counsel of the wicked, and who does not stand in the way of the sinners, and who does not sit with the scorners.
   
 2 For if he seeks his pleasure in the law of Yahweh, and meditates on that law day and night.
   
@@ -32,6 +32,7 @@ Sinners will not endure in the assembly of the righteous.
   
 truction.
   
+
 
 
 

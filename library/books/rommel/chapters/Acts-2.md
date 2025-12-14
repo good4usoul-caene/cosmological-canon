@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%202.txt)
   
 
 
-﻿1 On the day of Pentecost, they were all together in one place.
+ï»¿1 On the day of Pentecost, they were all together in one place.
   
 2 And suddenly there came from heaven a sound which was like a rushing of a mighty wind, and it filled the whole house where they had sat.
   
@@ -32,7 +32,7 @@
   
 11 And Cretans, and Arabians.
   
-How is it that we hear them speaking in our own languages â€‹â€‹about the wonderful works of God.
+How is it that we hear them speaking in our own languages Ã¢â‚¬â€¹Ã¢â‚¬â€¹about the wonderful works of God.
   
 12 And they were all amazed, and were perplexed, and said to one another: What does this mean.
   
@@ -124,6 +124,7 @@ This will be seen when Cornelius who is a Gentile will call Peter into his house
   
 d added to the church daily those who were being saved.
   
+
 
 
 

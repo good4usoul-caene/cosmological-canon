@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Peter%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Peter%202.txt)
   
 
 
-﻿1 There were false prophets among the people, and there will also be false teachers among you.
+ï»¿1 There were false prophets among the people, and there will also be false teachers among you.
   
 They will introduce pernicious sects, by denying the characteristics of the one who has redeemed them, and will thus bring a sudden ruin on themselves.
   
@@ -72,6 +72,7 @@ For every person is a slave of that which has triumphed over him.
   
 elf has wallowed in the mire.
   
+
 
 
 

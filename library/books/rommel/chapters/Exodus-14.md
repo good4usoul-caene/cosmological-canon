@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2014.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words.
+ï»¿1 And Yahweh spoke to Moses in the following words.
   
 2 Speak to the children of Israel and let them turn away and camp before Pi-hahiroth, between Migdol and the sea, opposite Baal-zephon.
   
@@ -118,6 +118,7 @@ And the people feared Yahweh, and believed in Yahweh and in Moses his servant.
   
 eh, and believed in Yahweh and in Moses his servant.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEsther%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Esther%206.txt)
   
 
 
-﻿1 And the king could not sleep that night.
+ï»¿1 And the king could not sleep that night.
   
 And he commanded to take the book of the chronicles and to read it before him.
   
@@ -56,6 +56,7 @@ Then Zeresh his wife and his wise men said to him: If Mordecai before whom you h
   
 Esther had prepared.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2032.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2032.txt)
   
 
 
-﻿1 A psalm of David, words designed to be valid for all possible life situations and to give wisdom.
+ï»¿1 A psalm of David, words designed to be valid for all possible life situations and to give wisdom.
   
 Blessed is the one whose transgression is forgiven, for his sin is covered.
   
@@ -66,6 +66,7 @@ Be comforted and rejoice in Yahweh, all of you who are upright in heart.
   
 who are upright in heart.
   
+
 
 
 

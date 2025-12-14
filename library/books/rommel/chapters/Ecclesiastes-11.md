@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEcclesiastes%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ecclesiastes%2011.txt)
   
 
 
-﻿1 Cast your bread on the waters, for after many days you will find it again.
+ï»¿1 Cast your bread on the waters, for after many days you will find it again.
   
 [In other words, do not tire of wishing the well-being of others, because a benefit will be granted to you in return even if it is after a long time.]
   
@@ -48,6 +48,7 @@ For childhood and youth are vanity.
   
 youth are vanity.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%2013.txt)
   
 
 
-﻿1 Now before the feast of the Passover, when Jesus already knew that the time had come for him to leave this world and go back to the Father, after all the love that he had had throughout his life for the people who belonged to him in the world, at that time he chose to bring that love to its highest level among his disciples.
+ï»¿1 Now before the feast of the Passover, when Jesus already knew that the time had come for him to leave this world and go back to the Father, after all the love that he had had throughout his life for the people who belonged to him in the world, at that time he chose to bring that love to its highest level among his disciples.
   
 2 Indeed, during supper, when the devil had already put the resolution to betray Jesus into the heart of Judas Iscariot the son of Simon.
   
@@ -128,6 +128,7 @@ Truly, truly, I say to you, the rooster will not crow this day until you have de
   
 s day until you have denied three times that you know me.
   
+
 
 
 

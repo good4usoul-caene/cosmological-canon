@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2017.txt)
   
 
 
-﻿1 The sin of Judah is written with a pen of iron, and with the point of a diamond.
+ï»¿1 The sin of Judah is written with a pen of iron, and with the point of a diamond.
   
 It is engraved on the tablets of stone of your wicked hearts, and on the horns of your altars.
   
@@ -106,6 +106,7 @@ Bring the day of evil on them, and destroy them with a double destruction.
   
 . 19 . 20 . 21 . 22 . 23 . 24 . 25 . 26 . 27 .
   
+
 
 
 

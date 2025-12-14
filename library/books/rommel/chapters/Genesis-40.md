@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2040.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2040.txt)
   
 
 
-﻿1 After these things it came to pass that the cupbearer and the baker of the king of Egypt offended their master, the king of Egypt.
+ï»¿1 After these things it came to pass that the cupbearer and the baker of the king of Egypt offended their master, the king of Egypt.
   
 2 And Pharaoh was angry with his two officers, the chief cupbearer and the chief baker.
   
@@ -86,6 +86,7 @@ And he lifted up the head of the chief cupbearer and the head of the chief baker
   
 hought of Joseph, and he forgot him.
   
+
 
 
 

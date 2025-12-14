@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoel%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joel%202.txt)
   
 
 
-﻿1 Blow the trumpet in Zion, and shout on my holy mountain.
+ï»¿1 Blow the trumpet in Zion, and shout on my holy mountain.
   
 Let all the inhabitants of the land tremble.
   
@@ -138,6 +138,7 @@ Salvation will originate on mount Zion and in Jerusalem, as Yahweh has said, amo
   
 , as Yahweh has said, among the remnant whom Yahweh will call.
   
+
 
 
 

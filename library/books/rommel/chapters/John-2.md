@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%202.txt)
   
 
 
-﻿1 Three days later, there was a wedding in Cana of Galilee and the mother of Jesus was there.
+ï»¿1 Three days later, there was a wedding in Cana of Galilee and the mother of Jesus was there.
   
 2 And Jesus was also invited to the wedding with his disciples.
   
@@ -84,6 +84,7 @@ For he himself knew what was in man.
   
 or he himself knew what was in man.
   
+
 
 
 

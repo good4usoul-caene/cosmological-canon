@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Samuel%2015.txt)
   
 
 
@@ -134,6 +134,7 @@ But Samuel wept for Saul, because Yahweh had repented of having made Saul king o
   
 ause Yahweh had repented of having made Saul king of Israel.
   
+
 
 
 

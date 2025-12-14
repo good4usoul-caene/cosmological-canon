@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDaniel%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Daniel%205.txt)
   
 
 
@@ -98,6 +98,7 @@ You were praising those gods who neither see, nor hear, nor understand, and you 
   
 lshazzar king of the Chaldeans was killed.
   
+
 
 
 

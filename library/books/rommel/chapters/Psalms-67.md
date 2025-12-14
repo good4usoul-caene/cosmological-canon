@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2067.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2067.txt)
   
 
 
-﻿1 A psalm.
+ï»¿1 A psalm.
   
 May God have mercy on us and bless us.
   
@@ -40,6 +40,7 @@ Let all the peoples praise you.
   
 rth fear him.
   
+
 
 
 

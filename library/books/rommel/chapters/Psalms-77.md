@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2077.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2077.txt)
   
 
 
-﻿1 A psalm of Asaph [for the afflicted who awaits an intervention of his God].
+ï»¿1 A psalm of Asaph [for the afflicted who awaits an intervention of his God].
   
 My voice is lifted up to God, and I cry.
   
@@ -82,6 +82,7 @@ The earth shook and trembled.
   
 k, by the hand of Moses and Aaron.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%2012.txt)
   
 
 
-﻿1 Comments on the epistles of the apostles and the gospels, second part: Figures of rhetoric, Prayer.
+ï»¿1 Comments on the epistles of the apostles and the gospels, second part: Figures of rhetoric, Prayer.
   
 2 In each book of the new testament, different verses do not have the meaning that suits them when considered in isolation.
   
@@ -78,6 +78,7 @@ Let us not forget the purpose of life.
   
 phesians 6:18 - Romans 8:26-27).
   
+
 
 
 

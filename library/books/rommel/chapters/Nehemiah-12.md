@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%2012.txt)
   
 
 
-﻿1 Now these are the priests [the names of the priests' families] and the Levites who returned with Zerubbabel the son of Shealtiel and with Jeshua: Seraiah, and Jeremiah, and Ezra.
+ï»¿1 Now these are the priests [the names of the priests' families] and the Levites who returned with Zerubbabel the son of Shealtiel and with Jeshua: Seraiah, and Jeremiah, and Ezra.
   
 2 And Amariah, and Malluch, and Hattush.
   
@@ -152,6 +152,7 @@ For Judah rejoiced for the priests and the Levites because of their service.
   
 e holy things to the sons of Aaron [as required by the law of Moses].
   
+
 
 
 

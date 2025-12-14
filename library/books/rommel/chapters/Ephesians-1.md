@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEphesians%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ephesians%201.txt)
   
 
 
-﻿1 Paul, an apostle of Jesus Christ by the will of God, to the saints who are at Ephesus, and to the faithful in Christ Jesus.
+ï»¿1 Paul, an apostle of Jesus Christ by the will of God, to the saints who are at Ephesus, and to the faithful in Christ Jesus.
   
 2 Grace and peace to you from God our Father and the Lord Jesus Christ.
   
@@ -60,6 +60,7 @@ In whom also, when you have believed, you have been sealed with the Holy Spirit 
   
 m who fills all in all.
   
+
 
 
 

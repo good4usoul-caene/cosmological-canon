@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2031.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2031.txt)
   
 
 
@@ -148,6 +148,7 @@ It was offered by the commanders of thousands and the commanders of hundreds of 
   
 of meeting for a memorial of the children of Israel before Yahweh.
   
+
 
 
 

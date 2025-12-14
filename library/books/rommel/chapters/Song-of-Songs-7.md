@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CSong%20of%20Songs%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Song%20of%20Songs%207.txt)
   
 
 
-﻿1 Your feet in your shoes are so beautiful, O you the daughter of the prince.
+ï»¿1 Your feet in your shoes are so beautiful, O you the daughter of the prince.
   
 The curves of your thighs are like those of jewellery, your body is the work of the hand of a skillful artist.
   
@@ -58,6 +58,7 @@ I have kept them for you, O my beloved [my bridegroom].
   
 loved [my bridegroom].
   
+
 
 
 

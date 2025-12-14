@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2065.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2065.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 They will praise you in Zion, O God, and they will fulfill their vows.
   
@@ -54,6 +54,7 @@ Therefore they shout for joy and sing.
   
 ut for joy and sing.
   
+
 
 
 

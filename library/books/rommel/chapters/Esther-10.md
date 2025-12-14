@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEsther%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Esther%2010.txt)
   
 
 
-﻿1 And king Ahasuerus imposed a tribute on the land [of his kingdom], and on the islands of the sea.
+ï»¿1 And king Ahasuerus imposed a tribute on the land [of his kingdom], and on the islands of the sea.
   
 2 Now all the acts of his power and of his might, and the details of the greatness to which the king raised Mordecai, are they not written in the book of the chronicles of the kings of Media and Persia.
   
@@ -22,6 +22,7 @@ And he sought the happiness of his people, and brought peace to all the Jews.
   
 ews.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%206.txt)
   
 
 
-﻿1 And the word of Yahweh came to me in the following words.
+ï»¿1 And the word of Yahweh came to me in the following words.
   
 2 Son of man, set your face toward the mountains of Israel and prophesy against them.
   
@@ -58,6 +58,7 @@ And it will happen throughout all their habitations, and they will know that I a
   
 know that I am Yahweh.
   
+
 
 
 

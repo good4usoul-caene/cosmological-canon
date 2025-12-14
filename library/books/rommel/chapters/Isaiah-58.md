@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2058.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2058.txt)
   
 
 
-﻿1 Cry out aloud, do not hold back.
+ï»¿1 Cry out aloud, do not hold back.
   
 Lift up your voice like a trumpet, and declare their transgressions to my people.
   
@@ -88,6 +88,7 @@ For the mouth of Yahweh has spoken it.
   
 or the mouth of Yahweh has spoken it.
   
+
 
 
 

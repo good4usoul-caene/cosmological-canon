@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CAmos%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Amos%205.txt)
   
 
 
-﻿1 Listen to this word, this lamentation that I pronounce on you, O house of Israel.
+ï»¿1 Listen to this word, this lamentation that I pronounce on you, O house of Israel.
   
 2 The virgin Israel has fallen, and she will no more rise.
   
@@ -108,6 +108,7 @@ For I do not listen to the melody of your lute.
   
 s, says Yahweh whose name is the God of armies.
   
+
 
 
 

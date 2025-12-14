@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2024.txt)
   
 
 
-﻿1 And God said to Moses, Come up to Yahweh, you, and Aaron, and Nadab, and Abihu, and seventy of the elders of Israel.
+ï»¿1 And God said to Moses, Come up to Yahweh, you, and Aaron, and Nadab, and Abihu, and seventy of the elders of Israel.
   
 And you will bow down from afar.
   
@@ -70,6 +70,7 @@ And Moses was on the mountain forty days and forty nights.
   
 forty days and forty nights.
   
+
 
 
 

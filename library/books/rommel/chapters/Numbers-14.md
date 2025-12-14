@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2014.txt)
   
 
 
-﻿1 Then the whole congregation raised their voices and shouted, and the people wept during the night.
+ï»¿1 Then the whole congregation raised their voices and shouted, and the people wept during the night.
   
 2 And all the children of Israel murmured against Moses and Aaron, and the whole assembly said to them, Why did it not please God that we die in the land of Egypt, or why did it not please God that we die in this wilderness.
   
@@ -152,6 +152,7 @@ But the ark of the covenant of Yahweh and Moses did not leave the camp.
   
 ountain came down and smote them, and consumed them as far as Hormah.
   
+
 
 
 

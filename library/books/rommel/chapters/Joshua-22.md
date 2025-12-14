@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2022.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2022.txt)
   
 
 
-﻿1 Then Joshua called the Reubenites, and the Gadites, and the half of the tribe of Manasseh.
+ï»¿1 Then Joshua called the Reubenites, and the Gadites, and the half of the tribe of Manasseh.
   
 2 And he said to them: You have kept all that Moses the servant of Yahweh commanded you, and you have obeyed my voice in all that I commanded you.
   
@@ -128,6 +128,7 @@ And the children of Israel blessed God, and no longer talked about going to war 
   
 they said: It is a witness between us that Yahweh is God.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2089.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2089.txt)
   
 
 
-﻿1 A psalm of Ethan the Ezrahite.
+ï»¿1 A psalm of Ethan the Ezrahite.
   
 I will sing of the mercies of Yahweh forever.
   
@@ -184,6 +184,7 @@ So be it, so be it.
   
 footsteps of [David] your anointed. 52 Blessed be Yahweh forever. So be it, so be it.
   
+
 
 
 

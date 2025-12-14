@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%201.txt)
   
 
 
-﻿1 These are the words that Moses spoke to all Israel on this side of the Jordan in the wilderness, in the plain opposite the red sea, between Paran and Tophel, and Laban, and Hazeroth, and Di-Zahab.
+ï»¿1 These are the words that Moses spoke to all Israel on this side of the Jordan in the wilderness, in the plain opposite the red sea, between Paran and Tophel, and Laban, and Hazeroth, and Di-Zahab.
   
 2 There are eleven days of travel from Horeb [which is Sinai] to Kadesh-barnea, by the way of the mountain of Seir.
   
@@ -146,6 +146,7 @@ But Yahweh did not listen to your voice or give ear to you.
   
 ng time, compared to the time that you previously spent in a camp.
   
+
 
 
 

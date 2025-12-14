@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2019.txt)
   
 
 
-﻿1 And Job spoke in the following words.
+ï»¿1 And Job spoke in the following words.
   
 2 How long will you vex my soul and torment me with words.
   
@@ -94,6 +94,7 @@ For the justice of my cause will be recognized.
   
 t you may know that there is a judgment.
   
+
 
 
 

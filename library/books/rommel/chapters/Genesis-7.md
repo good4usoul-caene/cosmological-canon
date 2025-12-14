@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%207.txt)
   
 
 
-﻿1 And Yahweh said to Noah, Enter the ark, you and all your house, for I have seen you righteous before me among this generation.
+ï»¿1 And Yahweh said to Noah, Enter the ark, you and all your house, for I have seen you righteous before me among this generation.
   
 2 You will take with you seven pairs of every clean animal, the male and his female, and a pair of every animal that is not clean, the male and his female.
   
@@ -66,6 +66,7 @@ They were destroyed from the earth, and there remained only Noah and those who w
   
 a hundred and fifty days.
   
+
 
 
 

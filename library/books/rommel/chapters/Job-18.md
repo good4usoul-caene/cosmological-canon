@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2018.txt)
   
 
 
-﻿1 Then Bildad the Shuhite spoke in the following words.
+ï»¿1 Then Bildad the Shuhite spoke in the following words.
   
 2 When will you put an end to your words.
   
@@ -60,6 +60,7 @@ Or the rock removed from its place.
   
 se who do not know God.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%202.txt)
   
 
 
-﻿1 In those days a decree was issued by Caesar Augustus, ordering a census throughout his whole empire.
+ï»¿1 In those days a decree was issued by Caesar Augustus, ordering a census throughout his whole empire.
   
 2 This first census took place while Quirinius was governor of Syria.
   
@@ -146,6 +146,7 @@ And his mother kept all these things in her heart.
   
 us increased in wisdom and stature, and in favor with God and men.
   
+
 
 
 

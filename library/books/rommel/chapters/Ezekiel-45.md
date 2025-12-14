@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2045.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2045.txt)
   
 
 
-﻿1 Moreover when you divide the land by lot for an inheritance, you will set aside a portion of the land as a holy offering for Yahweh.
+ï»¿1 Moreover when you divide the land by lot for an inheritance, you will set aside a portion of the land as a holy offering for Yahweh.
   
 Its length will be twenty five thousand reeds, and its width will be ten thousand reeds.
   
@@ -102,6 +102,7 @@ It will be an ephah for each bullock and an ephah for each ram, with a hin of oi
   
 d the same meal offerings, and the same oil.
   
+
 
 
 

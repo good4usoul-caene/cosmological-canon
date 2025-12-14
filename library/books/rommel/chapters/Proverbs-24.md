@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2024.txt)
   
 
 
-﻿1 Do not envy evil men, and do not desire to be with them.
+ï»¿1 Do not envy evil men, and do not desire to be with them.
   
 2 For their hearts plans destruction, and the words of their lips are iniquity.
   
@@ -110,6 +110,7 @@ You will be overcome by need as by an armed man.
   
 You will be overcome by need as by an armed man.
   
+
 
 
 

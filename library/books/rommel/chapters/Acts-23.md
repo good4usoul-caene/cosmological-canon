@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2023.txt)
   
 
 
-﻿1 And Paul looked intently at the council and said: Brothers, I have behaved before God in all good conscience until this day.
+ï»¿1 And Paul looked intently at the council and said: Brothers, I have behaved before God in all good conscience until this day.
   
 2 Then the high priest Ananias ordered those standing near Paul to smite him on the mouth.
   
@@ -110,6 +110,7 @@ And he commanded to keep Paul in the palace of Herod.
   
 e commanded to keep Paul in the palace of Herod.
   
+
 
 
 

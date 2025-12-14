@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%2016.txt)
   
 
 
-﻿1 Then Samson went to Gaza.
+ï»¿1 Then Samson went to Gaza.
   
 He saw a prostitute woman there, and he entered her room.
   
@@ -148,6 +148,7 @@ He had judged Israel for twenty years.
   
 e tomb of Manoah his father. He had judged Israel for twenty years.
   
+
 
 
 

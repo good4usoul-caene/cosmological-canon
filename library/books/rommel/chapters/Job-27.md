@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2027.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2027.txt)
   
 
 
-﻿1 And Job continued his parable in the following words.
+ï»¿1 And Job continued his parable in the following words.
   
 2 The living God has taken away my judgment.
   
@@ -72,6 +72,7 @@ It will rush him out of his place.
   
 whistle him out of his place.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2017.txt)
   
 
 
-﻿1 Then Jesus said to his disciples: It is impossible for offenses not to occur, but woe to him by whom they come.
+ï»¿1 Then Jesus said to his disciples: It is impossible for offenses not to occur, but woe to him by whom they come.
   
 2 It is would be better for him if a great millstone were hung around his neck and he were thrown into the sea, rather than that he should cause one of these little ones to stumble.
   
@@ -118,6 +118,7 @@ And Jesus said to them, 'Where a dead body is, it is also there that the eagles 
   
 , it is also there that the eagles gather together'.
   
+
 
 
 

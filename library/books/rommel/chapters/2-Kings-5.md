@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%205.txt)
   
 
 
-﻿1 Now there was a man called Naaman who was the captain of the army of the king of Syria.
+ï»¿1 Now there was a man called Naaman who was the captain of the army of the king of Syria.
   
 Naaman was a great and honorable man for his master, because Yahweh had saved the Syrians by him.
   
@@ -118,6 +118,7 @@ And then Gehazi went out from the presence of Elisha with a leprosy as white as 
   
 presence of Elisha with a leprosy as white as snow.
   
+
 
 
 

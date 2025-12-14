@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%2023.txt)
   
 
 
@@ -122,6 +122,7 @@ His mother's name was Zebudah the daughter of Pedaiah of Rumah.
   
 of Yahweh, according to all that his fathers had done.
   
+
 
 
 

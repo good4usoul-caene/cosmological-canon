@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CMicah%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Micah%201.txt)
   
 
 
-﻿1 The word of Yahweh that came to Micah the Morashtite in the days of Jotham, and of Ahaz, and of Hezekiah, kings of Judah, and which are prophecies concerning Samaria and Jerusalem.
+ï»¿1 The word of Yahweh that came to Micah the Morashtite in the days of Jotham, and of Ahaz, and of Hezekiah, kings of Judah, and which are prophecies concerning Samaria and Jerusalem.
   
 2 Hear, you all peoples.
   
@@ -80,6 +80,7 @@ Yahweh who is the holy spirit of Elohim said that he himself is the only Elohim,
   
 possession of the promised land.]
   
+
 
 
 

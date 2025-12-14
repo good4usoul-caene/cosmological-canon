@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%2025.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%2025.txt)
   
 
 
-﻿1 In the ninth year of the reign of Zedekiah, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon came with all his army against Jerusalem.
+ï»¿1 In the ninth year of the reign of Zedekiah, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon came with all his army against Jerusalem.
   
 And they encamped in front of the city, and they built forts all around.
   
@@ -100,6 +100,7 @@ And on that day Evil-merodach lifted up the head of Jehoiachin king of Judah by 
   
 day an allowance, all the days of his life.
   
+
 
 
 

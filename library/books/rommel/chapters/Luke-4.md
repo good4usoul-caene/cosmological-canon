@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%204.txt)
   
 
 
-﻿1 And Jesus was full of the Holy Spirit, and he returned from the Jordan, and he was led by the spirit in the wilderness.
+ï»¿1 And Jesus was full of the Holy Spirit, and he returned from the Jordan, and he was led by the spirit in the wilderness.
   
 2 And he was tempted there by the devil during forty days.
   
@@ -142,6 +142,7 @@ And the crowd of people sought him, and came to him, and wanted to detain him in
   
 e been sent. 44 And Jesus preached in the synagogues of Galilee.
   
+
 
 
 

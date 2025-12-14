@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20148.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20148.txt)
   
 
 
-﻿1 Praise Yahweh.
+ï»¿1 Praise Yahweh.
   
 Praise Yahweh from the heavens, praise him in the high places.
   
@@ -56,6 +56,7 @@ Praise Yahweh.
   
 r him. Praise Yahweh.
   
+
 
 
 

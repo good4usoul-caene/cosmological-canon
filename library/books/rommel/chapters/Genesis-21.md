@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2021.txt)
   
 
 
-﻿1 And Yahweh visited Sarah as he had said, and Yahweh fulfilled for Sarah what he had promised.
+ï»¿1 And Yahweh visited Sarah as he had said, and Yahweh fulfilled for Sarah what he had promised.
   
 2 And Sarah became pregnant, and she bore Abraham a son in his old age, at the appointed time of which God had spoken to him.
   
@@ -110,6 +110,7 @@ And called there on the name of Yahweh, the everlasting God.
   
 rned a long time in the land of the Philistines.
   
+
 
 
 

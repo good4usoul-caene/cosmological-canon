@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2015.txt)
   
 
 
-﻿1 Every seven years, you will make a freedom.
+ï»¿1 Every seven years, you will make a freedom.
   
 2 And this is the manner of the freedom.
   
@@ -84,6 +84,7 @@ He who is unclean and he who is clean will both eat it like the roebuck and like
   
 l pour it on the ground like water.
   
+
 
 
 

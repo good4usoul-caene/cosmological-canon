@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%2021.txt)
   
 
 
-﻿1 After these things, Jesus appeared again to the disciples at the sea of â€‹â€‹Tiberias.
+ï»¿1 After these things, Jesus appeared again to the disciples at the sea of Ã¢â‚¬â€¹Ã¢â‚¬â€¹Tiberias.
   
 And here is how he has appeared to them.
   
@@ -122,6 +122,7 @@ And if all those other things were written down every one, I doubt whether the w
   
 itself could contain the books that would be written.
   
+
 
 
 

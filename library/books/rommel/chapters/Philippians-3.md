@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPhilippians%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Philippians%203.txt)
   
 
 
-﻿1 And now, my brothers, rejoice in the Lord.
+ï»¿1 And now, my brothers, rejoice in the Lord.
   
 I do not tire of writing the same things to you, and for you it is beneficial.
   
@@ -82,6 +82,7 @@ They only think about earthly things.
   
 to subject all things to himself.
   
+
 
 
 

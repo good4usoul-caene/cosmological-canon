@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CSong%20of%20Songs%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Song%20of%20Songs%205.txt)
   
 
 
-﻿1 O my sister, my bride, I enter my garden.
+ï»¿1 O my sister, my bride, I enter my garden.
   
 I gather my myrrh with my spices.
   
@@ -90,6 +90,7 @@ This is my beloved [who is my bridegroom], this is my lover, O daughters of Jeru
   
 is my lover, O daughters of Jerusalem.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2010.txt)
   
 
 
-﻿1 And I looked, and behold, in the firmament that was above the heads of the cherubim, there was over them something like a sapphire stone, as the appearance of the likeness of a throne.
+ï»¿1 And I looked, and behold, in the firmament that was above the heads of the cherubim, there was over them something like a sapphire stone, as the appearance of the likeness of a throne.
   
 2 And he spoke to the man clothed in linen, and said: Enter between the wheels, [and go] under the cherubim, and fill your hands with coals of fire from between the cherubim, and scatter them over the city.
   
@@ -84,6 +84,7 @@ And they went every one straight forward.
   
 ey went every one straight forward.
   
+
 
 
 

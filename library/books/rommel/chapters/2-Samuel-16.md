@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2016.txt)
   
 
 
-﻿1 And David moved a little on the top of the mountain, behold on the other side came Ziba the servant of Mephibosheth.
+ï»¿1 And David moved a little on the top of the mountain, behold on the other side came Ziba the servant of Mephibosheth.
   
 Ziba had two saddled donkeys on which there were two hundred loaves of bread, and one hundred bunches of raisins, and one hundred dried figs, and a bottle of wine.
   
@@ -98,6 +98,7 @@ It was so for all the counsels of Ahithophel both with David and with Absalom.
   
 ithophel both with David and with Absalom.
   
+
 
 
 

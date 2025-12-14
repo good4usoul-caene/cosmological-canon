@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEsther%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Esther%204.txt)
   
 
 
-﻿1 Now when Mordecai heard all that had happened, Mordecai tore his clothes.
+ï»¿1 Now when Mordecai heard all that had happened, Mordecai tore his clothes.
   
 Then he put on sackcloth, and also ashes on his body, and he went out into the midst of the city while crying with a loud voice and a bitter lamentation.
   
@@ -66,6 +66,7 @@ And if I must perish, then I will perish.
   
 Esther had commanded him.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2038.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2038.txt)
   
 
 
-﻿1 At that time Judah departed from his brothers and turned to a man of Adullam, whose name was Hirah.
+ï»¿1 At that time Judah departed from his brothers and turned to a man of Adullam, whose name was Hirah.
   
 2 There Judah saw the daughter of a Canaanite, named Shuah.
   
@@ -118,6 +118,7 @@ And they called him Zerah.
   
 imson thread in his hand. And they called him Zerah.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2042.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2042.txt)
   
 
 
-﻿1 Then all the captains of the army, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least to the greatest, they came near to Jeremiah.
+ï»¿1 Then all the captains of the army, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least to the greatest, they came near to Jeremiah.
   
 2 And they said to Jeremiah the prophet: We beseech you to listen to our request.
   
@@ -90,6 +90,7 @@ Surely you have disguised your thoughts when you sent me to Yahweh your God by s
   
 ere you desire to go to sojourn there.
   
+
 
 
 

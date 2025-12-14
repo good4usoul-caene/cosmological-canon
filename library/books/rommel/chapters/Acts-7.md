@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%207.txt)
   
 
 
-﻿1 Then the high priest said: Are these things so.
+ï»¿1 Then the high priest said: Are these things so.
   
 2 And Stephen answered and said: Brothers and fathers, listen.
   
@@ -196,6 +196,7 @@ And when he had said this, he fell asleep.
   
 [because they do not know what they are doing]. And when he had said this, he fell asleep.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Chronicles%207.txt)
   
 
 
-﻿1 When Solomon had finished this prayer, a fire descended from the sky and consumed the burnt offering and the sacrifices, and the glory of Yahweh was filling the house.
+ï»¿1 When Solomon had finished this prayer, a fire descended from the sky and consumed the burnt offering and the sacrifices, and the glory of Yahweh was filling the house.
   
 2 And the priests could not enter the house of Yahweh, because the glory of Yahweh had filled the house of Yahweh.
   
@@ -78,6 +78,7 @@ For they have gone to other gods to worship them and serve them, this is why he 
   
 brought all these evil on them.
   
+
 
 
 

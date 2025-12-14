@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2015.txt)
   
 
 
-﻿1 Then Eliphaz the Temanite answered in the following words.
+ï»¿1 Then Eliphaz the Temanite answered in the following words.
   
 2 Should the wise man speak the words of the wind.
   
@@ -110,6 +110,7 @@ And fire will devour the tent of the corrupt man.
   
 o iniquity, and their bellies prepare deception.
   
+
 
 
 

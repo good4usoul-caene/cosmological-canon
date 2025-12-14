@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2078.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2078.txt)
   
 
 
-﻿1 A psalm of Asaph.
+ï»¿1 A psalm of Asaph.
   
 Hear my teaching, O my people.
   
@@ -208,6 +208,7 @@ They turned like a deceitful bow.
   
 hem according to the simplicity of his heart, and David guided them by the prudence of his hands.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2019.txt)
   
 
 
-﻿1 Thus says Yahweh to me: Go and buy an earthen bottle from a potter, and take with you some of the elders of the people and some of the elders of the priests.
+ï»¿1 Thus says Yahweh to me: Go and buy an earthen bottle from a potter, and take with you some of the elders of the people and some of the elders of the priests.
   
 2 And you will go to the valley of the son of Hinnom, which is near the entrance of the gate Harsith, and you will proclaim there the words that I will tell you.
   
@@ -64,6 +64,7 @@ For they have hardened their necks with the aim of not listening to my words.
   
 ot listening to my words.
   
+
 
 
 

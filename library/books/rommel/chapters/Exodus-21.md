@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2021.txt)
   
 
 
-﻿1 Now these are the laws which you will present to them.
+ï»¿1 Now these are the laws which you will present to them.
   
 2 If you buy a Hebrew slave, then he will serve six years.
   
@@ -94,6 +94,7 @@ Only, he will compensate the victim for the interruption of work and pay for the
   
 x and will have the dead ox for himself.
   
+
 
 
 

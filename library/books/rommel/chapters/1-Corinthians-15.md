@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Corinthians%2015.txt)
   
 
 
@@ -60,7 +60,7 @@ For we would have testified against God by claiming that he has raised Christ fr
   
 18 And moreover, those who have fallen asleep in Christ have perished [if the dead do not rise again.]
   
-19 If we ​​have hoped in Christ only for this life, without there being a life after the death of the flesh, then we are the most to be pitied among all the people in the world.
+19 If we â€‹â€‹have hoped in Christ only for this life, without there being a life after the death of the flesh, then we are the most to be pitied among all the people in the world.
   
 20 But now Christ has been raised from the dead, and he is the firstfruits of those who have fallen asleep.
   
@@ -184,6 +184,7 @@ O death, where is your sting.
   
 , knowing that your labor is not in vain in the Lord [because there is an afterlife].
   
+
 
 
 

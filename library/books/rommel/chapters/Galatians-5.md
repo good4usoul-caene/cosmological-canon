@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGalatians%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Galatians%205.txt)
   
 
 
-﻿1 It is for freedom that Christ has set us free.
+ï»¿1 It is for freedom that Christ has set us free.
   
 Therefore be unwavering, and do not allow yourselves to be burdened again by a yoke of slavery.
   
@@ -90,6 +90,7 @@ There is no law against such things.
   
 t us not provoke and envy one another.
   
+
 
 
 

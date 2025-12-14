@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2036.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2036.txt)
   
 
 
-﻿1 In the fourth year of Jehoiakim the son of Josiah king of Judah, the word of Yahweh came to Jeremiah in the following words.
+ï»¿1 In the fourth year of Jehoiakim the son of Josiah king of Judah, the word of Yahweh came to Jeremiah in the following words.
   
 2 Take a scroll and write on it all the words that I have spoken to you concerning Israel and concerning Judah, and concerning all the nations, from the day that I spoke to you in the days of Josiah until this day.
   
@@ -112,6 +112,7 @@ And many other similar words were added.
   
 he fire. And many other similar words were added.
   
+
 
 
 

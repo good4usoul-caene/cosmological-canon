@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%2014.txt)
   
 
 
-﻿1 The gift of tongues by the holy spirit.
+ï»¿1 The gift of tongues by the holy spirit.
   
 2 If I speak in a language that does not exist, how is it a miracle.
   
@@ -44,6 +44,7 @@ Or if the apostle Paul is referring to the gift of interpretation of languages t
   
 us of Nazareth.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2013.txt)
   
 
 
-﻿1 Behold my eye has seen all this, and my ear has heard and understood it.
+ï»¿1 Behold my eye has seen all this, and my ear has heard and understood it.
   
 2 What you know, I know too.
   
@@ -86,6 +86,7 @@ Do you want to pursue a dry grass.
   
 ts like a garment devoured by moths.
   
+
 
 
 

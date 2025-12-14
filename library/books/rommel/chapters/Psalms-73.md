@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2073.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2073.txt)
   
 
 
@@ -90,6 +90,7 @@ I have put my trust in the Lord Yahweh, so that I may declare all your works.
   
 so that I may declare all your works.
   
+
 
 
 

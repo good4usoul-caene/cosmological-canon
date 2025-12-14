@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEphesians%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ephesians%203.txt)
   
 
 
-﻿1 Because of that, I Paul, the prisoner of Christ for you Gentiles.
+ï»¿1 Because of that, I Paul, the prisoner of Christ for you Gentiles.
   
 2 If at least you have heard of the work of the grace of God which has been given to me for you.
   
@@ -58,6 +58,7 @@ Amen.
   
 orever and ever. Amen.
   
+
 
 
 

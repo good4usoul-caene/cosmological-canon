@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2050.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2050.txt)
   
 
 
-﻿1 Thus says Yahweh: Where is the letter of divorce by which I have rejected your mother [namely the city of Jerusalem].
+ï»¿1 Thus says Yahweh: Where is the letter of divorce by which I have rejected your mother [namely the city of Jerusalem].
   
 Or to whom of my creditors have I sold you.
   
@@ -74,6 +74,7 @@ This thing will be done to you by my hand, and you will lie down in sorrow.
   
 d you will lie down in sorrow.
   
+
 
 
 

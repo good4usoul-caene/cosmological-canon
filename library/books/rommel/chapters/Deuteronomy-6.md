@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%206.txt)
   
 
 
-﻿1 These now are the commandments, and the ordinances, and the laws.
+ï»¿1 These now are the commandments, and the ordinances, and the laws.
   
 This is what Yahweh your God commanded me to teach you, so that you put them into practice in the land where you go to possess it.
   
@@ -76,6 +76,7 @@ For Yahweh your God is a jealous God among you.
   
 ndments as he has commanded us.
   
+
 
 
 

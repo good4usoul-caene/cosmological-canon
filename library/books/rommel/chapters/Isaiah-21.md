@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2021.txt)
   
 
 
-﻿1 The prophecy about the wilderness of the sea.
+ï»¿1 The prophecy about the wilderness of the sea.
   
 As whirlwinds from the south advances, so it comes from the wilderness, from a terrible land.
   
@@ -84,6 +84,7 @@ For Yahweh the God of Israel has spoken it.
   
 eh the God of Israel has spoken it.
   
+
 
 
 

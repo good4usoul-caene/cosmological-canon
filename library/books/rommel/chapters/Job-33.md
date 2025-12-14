@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2033.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2033.txt)
   
 
 
-﻿1 Now therefore, I pray you Job, hear my speech.
+ï»¿1 Now therefore, I pray you Job, hear my speech.
   
 Give ear to all my words.
   
@@ -90,6 +90,7 @@ Be silent and I will teach you wisdom.
   
 Be silent and I will teach you wisdom.
   
+
 
 
 

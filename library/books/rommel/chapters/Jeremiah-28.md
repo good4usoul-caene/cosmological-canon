@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2028.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2028.txt)
   
 
 
-﻿1 In that same year, in the fifth month of the fourth year of the reign of Zedekiah king of Judah, there was a prophet called Hananiah who was the son of Azzur and who was from Gibeon.
+ï»¿1 In that same year, in the fifth month of the fourth year of the reign of Zedekiah king of Judah, there was a prophet called Hananiah who was the son of Azzur and who was from Gibeon.
   
 And he said the following thing to me in the house [temple] of Yahweh, in the presence of the priests and of all the people.
   
@@ -66,6 +66,7 @@ And you will die this year.
   
 ear, in the seventh month.
   
+
 
 
 

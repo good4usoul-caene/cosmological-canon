@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHabakkuk%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Habakkuk%201.txt)
   
 
 
-﻿1 This is the oracle revealed to Habakkuk the prophet.
+ï»¿1 This is the oracle revealed to Habakkuk the prophet.
   
 2 How long, O Yahweh.
   
@@ -88,6 +88,7 @@ Therefore he rejoices and is glad.
   
 llow that people to behave this way.]
   
+
 
 
 

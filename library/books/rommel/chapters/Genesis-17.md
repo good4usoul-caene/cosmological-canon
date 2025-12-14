@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2017.txt)
   
 
 
-﻿1 When Abram was ninety nine years old, Yahweh appeared to Abram and said to him, I am the God Almighty.
+ï»¿1 When Abram was ninety nine years old, Yahweh appeared to Abram and said to him, I am the God Almighty.
   
 Walk before my face and be blameless.
   
@@ -88,6 +88,7 @@ And he circumcised the flesh of their foreskin that same day, as God had said to
   
 oreigners, were circumcised with him.
   
+
 
 
 

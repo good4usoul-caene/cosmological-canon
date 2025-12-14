@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%208.txt)
   
 
 
-﻿1 The bible is not the only way (Islam).
+ï»¿1 The bible is not the only way (Islam).
   
 2 The circumcision of the heart does not necessarily come from the knowledge of the man Jesus.
   
@@ -30,6 +30,7 @@
   
 :11-12).
   
+
 
 
 

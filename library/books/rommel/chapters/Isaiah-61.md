@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2061.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2061.txt)
   
 
 
-﻿1 The spirit of the Lord Yahweh is on me.
+ï»¿1 The spirit of the Lord Yahweh is on me.
   
 For Yahweh has anointed me to announce the good news to the powerless.
   
@@ -62,6 +62,7 @@ I feel like a bridegroom wearing a crown, like a bride adorned with magnificent 
   
 he sight of all nations.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2027.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2027.txt)
   
 
 
-﻿1 Then came the daughters of Zelophehad, the son of Hephir, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph.
+ï»¿1 Then came the daughters of Zelophehad, the son of Hephir, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph.
   
 And these are the names of his daughters: Mahlah, and Noah, and Hoglah, and Milcah, and Tirzah.
   
@@ -78,6 +78,7 @@ And at the word of Eleazar they will go out, and at the word of Eleazar they wil
   
 s Yahweh had commanded by Moses.
   
+
 
 
 

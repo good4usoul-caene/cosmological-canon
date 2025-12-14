@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Corinthians%2014.txt)
   
 
 
@@ -38,7 +38,7 @@ I can only be useful to you if I speak to you by revelation or by knowledge, to 
   
 For you will be speaking into the air.
   
-10 There are doubtless many different languages ​​in the world, but none of them consists of speaking without transmitting a message that can be interpreted.
+10 There are doubtless many different languages â€‹â€‹in the world, but none of them consists of speaking without transmitting a message that can be interpreted.
   
 11 And if I do not understand a particular language, then I will be a barbarian to the speaker, and the speaker will be a barbarian to me.
   
@@ -76,7 +76,7 @@ Be babies regarding the planning of malicious acts, but in your thinking be matu
   
 And prophecy is for a sign, not toward unbelievers, but toward believers.
   
-[That is to say, the gift of being able to speak in different languages ​​allows the believer to arouse the curiosity of those who do not yet believe and to speak with them in their own language.
+[That is to say, the gift of being able to speak in different languages â€‹â€‹allows the believer to arouse the curiosity of those who do not yet believe and to speak with them in their own language.
   
 And the gift of prophecy allows the believer to be strengthened in his faith, and to be able to edify other believers, and to be able to effectively convince those who do not yet believe.]
   
@@ -150,6 +150,7 @@ That is to say, the only thing that the Lord asks is to do nothing in a publicly
   
 sly specified.] 40 But let all things be done decently and in order.
   
+
 
 
 

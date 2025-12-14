@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2036.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2036.txt)
   
 
 
-﻿1 And Elihu continued in the following words.
+ï»¿1 And Elihu continued in the following words.
   
 2 Wait a little and I will continue.
   
@@ -94,6 +94,7 @@ They spread it over the crowd of men.
   
 the cattle knows that it is approaching.
   
+
 
 
 

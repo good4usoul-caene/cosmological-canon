@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2026.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2026.txt)
   
 
 
-﻿1 Then Agrippa said to Paul, 'You are allowed to speak in your defense'.
+ï»¿1 Then Agrippa said to Paul, 'You are allowed to speak in your defense'.
   
 And Paul stretched out his hand, and began to speak with the following words.
   
@@ -122,6 +122,7 @@ I know that you believe.
   
 have been released, if he had not appealed to Caesar.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%209.txt)
   
 
 
-﻿1 And David said: Is there still any man alive from the house of Saul, so that I may do him good because of Jonathan.
+ï»¿1 And David said: Is there still any man alive from the house of Saul, so that I may do him good because of Jonathan.
   
 2 And there was a servant of the house of Saul called Ziba, and they brought him to David.
   
@@ -60,6 +60,7 @@ And he was lame in both his feet.
   
 lame in both his feet.
   
+
 
 
 

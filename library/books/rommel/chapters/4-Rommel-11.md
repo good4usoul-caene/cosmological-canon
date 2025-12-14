@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%2011.txt)
   
 
 
-﻿1 Theological vocabulary (Luke 1:31-33 - John 8:51), first part: Generalities.
+ï»¿1 Theological vocabulary (Luke 1:31-33 - John 8:51), first part: Generalities.
   
 2 Any opinion or explanation (Proverbs 18:2) is always from someone, and we should trust no one (Isaiah 2:22 - 1 Thessalonians 5:19-22).
   
@@ -156,6 +156,7 @@ For the fervent prayer of a righteous man is very useful (James 5:14-16).
   
 king David as well, have offended God (Numbers 20:9-12 - 1 Kings 15:5).
   
+
 
 
 

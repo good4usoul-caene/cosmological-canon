@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2014.txt)
   
 
 
-﻿1 And it happened on a sabbath day that Jesus entered the house of one of the leaders of the Pharisees in order to have a meal, and the Pharisees were watching him.
+ï»¿1 And it happened on a sabbath day that Jesus entered the house of one of the leaders of the Pharisees in order to have a meal, and the Pharisees were watching him.
   
 2 And behold, there was a hydropic man in front of Jesus.
   
@@ -108,6 +108,7 @@ Whoever has ears to hear, let him hear.
   
 utside. Whoever has ears to hear, let him hear.
   
+
 
 
 

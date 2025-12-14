@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2022.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2022.txt)
   
 
 
-﻿1 And Eliphaz the Temanite spoke in the following words.
+ï»¿1 And Eliphaz the Temanite spoke in the following words.
   
 2 Can a man generate benefits for God like the one who is wise generates benefits for himself.
   
@@ -88,6 +88,7 @@ For God will save the humble person.
   
 reserved by the purity of your hands.
   
+
 
 
 

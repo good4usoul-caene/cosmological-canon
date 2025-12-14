@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%203.txt)
   
 
 
-﻿1 Now Jehoram the son of Ahab began to reign over Israel in Samaria in the twentieth year of Jehoshaphat king of Judah, and he reigned twelve years.
+ï»¿1 Now Jehoram the son of Ahab began to reign over Israel in Samaria in the twentieth year of Jehoshaphat king of Judah, and he reigned twelve years.
   
 [Consequently Jehoram the son of Jehoshaphat had begun to reign over Judah in Jerusalem while his father was still alive, shortly after Ahaziah the brother of his own successor and son of Ahab had become king of Israel.
   
@@ -112,6 +112,7 @@ And then a strong feeling of disgust seized the men of Israel [because of what t
   
 the king of Moab and returned to their own land.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRuth%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ruth%204.txt)
   
 
 
-﻿1 Then Boaz went up to a gathering place near the gate of the city and sat there.
+ï»¿1 Then Boaz went up to a gathering place near the gate of the city and sat there.
   
 And behold, the near kinsman of whom Boaz had spoken was approaching.
   
@@ -110,6 +110,7 @@ And Jesse begat David.
   
 22 And Obed begat Jesse. And Jesse begat David.
   
+
 
 
 

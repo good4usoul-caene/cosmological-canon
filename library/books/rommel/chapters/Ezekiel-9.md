@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%209.txt)
   
 
 
-﻿1 Then he cried out with a loud voice in my ears by saying: Come near, you who must punish the city, every man with his instrument of destruction in hand.
+ï»¿1 Then he cried out with a loud voice in my ears by saying: Come near, you who must punish the city, every man with his instrument of destruction in hand.
   
 2 And behold, six men came by the way of the upper gate which is on the north side, and every man had his instrument of destruction in his hand.
   
@@ -54,6 +54,7 @@ I will bring back their deeds on their heads.
   
 u have commanded me.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2084.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2084.txt)
   
 
 
-﻿1 A psalm of the sons of Korah.
+ï»¿1 A psalm of the sons of Korah.
   
 How amiable is your dwelling, O Yahweh the God of armies.
   
@@ -54,6 +54,7 @@ Yahweh will give grace and glory to those who love him, he will provide all that
   
 h the God of armies.
   
+
 
 
 

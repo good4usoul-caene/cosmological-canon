@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%209.txt)
   
 
 
-﻿1 Then Abimelech the son of Jerubbaal went to Shechem to his mother's brothers.
+ï»¿1 Then Abimelech the son of Jerubbaal went to Shechem to his mother's brothers.
   
 And he spoke to them and to all the house of his mother's father in the following words.
   
@@ -214,6 +214,7 @@ And on them came the curse of Jotham the son of Jerubbaal.
   
 ess of the men of Shechem on their heads. And on them came the curse of Jotham the son of Jerubbaal.
   
+
 
 
 

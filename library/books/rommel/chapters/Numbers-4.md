@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%204.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses and Aaron in the following words.
+ï»¿1 And Yahweh spoke to Moses and Aaron in the following words.
   
 2 Number the sons of Kohath among the sons of Levi, according to their families, according to the houses of their fathers.
   
@@ -142,6 +142,7 @@ Thus they were numbered from the tribe of Levi, as Yahweh commanded Moses.
   
 were numbered from the tribe of Levi, as Yahweh commanded Moses.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20139.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20139.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 You probe me and know me, O Yahweh.
   
@@ -90,6 +90,7 @@ Test me, and know my thoughts.
   
 lead me in the way that lasts forever.
   
+
 
 
 

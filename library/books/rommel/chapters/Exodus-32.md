@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2032.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2032.txt)
   
 
 
-﻿1 When the people saw that Moses was slow to come down from the mountain, they gathered around Aaron and said to him, Arise and make us gods who will go before us.
+ï»¿1 When the people saw that Moses was slow to come down from the mountain, they gathered around Aaron and said to him, Arise and make us gods who will go before us.
   
 For this Moses, this man who brought us out of the land of Egypt, we do not know what has become of him.
   
@@ -132,6 +132,7 @@ Behold my angel will go before you, but in the day of my vengeance I will punish
   
 e they had caused Aaron to make the calf which he had made.
   
+
 
 
 

@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2044.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2044.txt)
   
 
 
@@ -116,6 +116,7 @@ And you will know that my words will surely stand against you to harm you.
   
 zzar king of Babylon his enemy who sought his life.
   
+
 
 
 

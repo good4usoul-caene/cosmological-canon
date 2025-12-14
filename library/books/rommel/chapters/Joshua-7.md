@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%207.txt)
   
 
 
-﻿1 But the children of Israel committed a transgression in the forbidden things.
+ï»¿1 But the children of Israel committed a transgression in the forbidden things.
   
 For Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, he took of the forbidden things.
   
@@ -118,6 +118,7 @@ This is why the name of this place has been called The valley of Achor, from tha
   
 ed The valley of Achor, from that event to this day.
   
+
 
 
 

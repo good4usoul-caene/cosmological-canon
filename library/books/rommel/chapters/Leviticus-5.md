@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%205.txt)
   
 
 
-﻿1 If anyone has sinned by not declaring what he has seen or what he knows while he appears as a witness in a case, then he will bear his iniquity.
+ï»¿1 If anyone has sinned by not declaring what he has seen or what he knows while he appears as a witness in a case, then he will bear his iniquity.
   
 2 Or if someone touches something unclean without knowing it, like the carcass of an unclean animal whether from a wild or domestic beast or from a reptile, then he did not do it voluntarily but he is impure when he realizes it and thus he has offended.
   
@@ -76,6 +76,7 @@ And the priest will make atonement for him for the sin that he has committed thr
   
 ssion committed against Yahweh.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2033.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2033.txt)
   
 
 
-﻿1 Now this is the blessing by which Moses the man of God blessed the children of Israel before his death.
+ï»¿1 Now this is the blessing by which Moses the man of God blessed the children of Israel before his death.
   
 2 Yahweh came from Sinai, and rose from Seir to them.
   
@@ -116,6 +116,7 @@ Therefore, your enemies will fail before you, and you will tread their high plac
   
 l before you, and you will tread their high places.
   
+
 
 
 

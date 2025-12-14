@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2098.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2098.txt)
   
 
 
-﻿1 A Psalm.
+ï»¿1 A Psalm.
   
 Sing to Yahweh a new song.
   
@@ -48,6 +48,7 @@ He will judge the world with righteousness, and the peoples with equity.
   
 ples with equity.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2028.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2028.txt)
   
 
 
-﻿1 Woe to the crown of pride of the drunkards of Ephraim, and to the faded flower that is the beauty of its adornment and that is on the heads of the people of the fertile valley of those who get drunk.
+ï»¿1 Woe to the crown of pride of the drunkards of Ephraim, and to the faded flower that is the beauty of its adornment and that is on the heads of the people of the fertile valley of those who get drunk.
   
 2 Behold a strong and mighty man comes from the Lord.
   
@@ -124,6 +124,7 @@ Wonderful is his counsel, and great is his wisdom.
   
 ies. Wonderful is his counsel, and great is his wisdom.
   
+
 
 
 

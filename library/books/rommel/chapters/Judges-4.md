@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%204.txt)
   
 
 
-﻿1 And the children of Israel began again to do evil in the sight of the Yahweh when Ehud was dead [after the times of Ehud].
+ï»¿1 And the children of Israel began again to do evil in the sight of the Yahweh when Ehud was dead [after the times of Ehud].
   
 2 And Yahweh sold them into the hand of Jabin the king of Canaan who reigned in Hazor.
   
@@ -110,6 +110,7 @@ And he entered her tent and behold, Sisera was lying dead with the nail in his t
   
 til they had destroyed Jabin the king of Canaan.
   
+
 
 
 

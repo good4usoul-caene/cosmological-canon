@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2011.txt)
   
 
 
-﻿1 The word of Yahweh came to Jeremiah in the following words.
+ï»¿1 The word of Yahweh came to Jeremiah in the following words.
   
 2 Hear the words of this covenant, and speak to the men of Judah and to the inhabitants of Jerusalem.
   
@@ -102,6 +102,7 @@ For I will bring a disaster on the men of Anathoth in the year that I will punis
   
 nathoth in the year that I will punish them.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2027.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2027.txt)
   
 
 
-﻿1 Isaac was growing old, and his eyes were so dim that he could no longer see.
+ï»¿1 Isaac was growing old, and his eyes were so dim that he could no longer see.
   
 Then he called his eldest son Esau and said to him, My son.
   
@@ -174,6 +174,7 @@ If Jacob takes a wife like these from the daughters of Heth, among the girls of 
   
 ughters of Heth, among the girls of the country, what is the use of life for me.
   
+
 
 
 

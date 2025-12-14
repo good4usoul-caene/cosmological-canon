@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2017.txt)
   
 
 
-﻿1 The whole assembly of the children of Israel departed from the wilderness of Sin, according to the steps which Yahweh commanded them.
+ï»¿1 The whole assembly of the children of Israel departed from the wilderness of Sin, according to the steps which Yahweh commanded them.
   
 And they camped in Rephidim where the people found no water to drink.
   
@@ -70,6 +70,7 @@ And declare to Joshua that I will blot out the memory of Amalek from under heave
   
 om generation to generation.
   
+
 
 
 

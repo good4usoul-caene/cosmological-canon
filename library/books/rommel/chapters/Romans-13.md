@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%2013.txt)
   
 
 
-﻿1 Let every soul be subject to the higher authorities.
+ï»¿1 Let every soul be subject to the higher authorities.
   
 For there is no authority except from God, and the authorities that exist have been placed by God.
   
@@ -62,6 +62,7 @@ Let us therefore cast off the works of darkness, and let us put on the armor of 
   
 sh to fulfill its lusts.
   
+
 
 
 

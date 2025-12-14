@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%2014.txt)
   
 
 
-﻿1 Conclusion.
+ï»¿1 Conclusion.
   
 2 When we come into the world we find different narratives on various subjects and they all have a historical character so that a classification in order of usefulness can only be made after examining and understanding the teachings offered.
   
@@ -58,6 +58,7 @@ And John the Baptist seems not to know it himself since he recognizes himself on
   
 used with admiration.
   
+
 
 
 

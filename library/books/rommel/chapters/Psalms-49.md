@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2049.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2049.txt)
   
 
 
-﻿1 A psalm of the sons of Korah.
+ï»¿1 A psalm of the sons of Korah.
   
 Listen to this, you all the peoples.
   
@@ -80,6 +80,7 @@ They will never see the light.
   
 g is like the beasts that perish.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%204.txt)
   
 
 
-﻿1 And seven women will take hold of one man in that day by saying: We will eat our own bread, and we will wear our own garments.
+ï»¿1 And seven women will take hold of one man in that day by saying: We will eat our own bread, and we will wear our own garments.
   
 Only take away our shame by allowing us be called by your name.
   
@@ -32,6 +32,7 @@ For all that is glorious will be covered.
   
 rom rain.
   
+
 
 
 

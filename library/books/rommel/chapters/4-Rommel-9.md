@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%209.txt)
   
 
 
-﻿1 How to offend or please the holy spirit (John 5:39-40 - Jeremiah 9:23-24), second part: Selected pieces.
+ï»¿1 How to offend or please the holy spirit (John 5:39-40 - Jeremiah 9:23-24), second part: Selected pieces.
   
 2 Joab strikes Absalom (2 Samuel 18:9-15) whom he brought back to the king (2 Samuel 14:1,18-21) and who rebelled after burning his field (2 Samuel 14:28-33).
   
@@ -54,6 +54,7 @@ He could have caused to build an equivalent of the tabernacle of Moses and used 
   
 h (2 Chronicles 36).
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Thessalonians%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Thessalonians%201.txt)
   
 
 
-﻿1 Paul, and Silvanus, and Timothy, to the church of the Thessalonians which is in God our Father and the Lord Jesus Christ.
+ï»¿1 Paul, and Silvanus, and Timothy, to the church of the Thessalonians which is in God our Father and the Lord Jesus Christ.
   
 2 Grace and peace to you from God our Father and the Lord Jesus Christ.
   
@@ -40,6 +40,7 @@ Your faith is growing more and more, and the love that all of you have for one a
   
 Jesus Christ.
   
+
 
 
 

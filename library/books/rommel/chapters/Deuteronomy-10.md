@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2010.txt)
   
 
 
-﻿1 At that time Yahweh said to me, Hew two tablets of stone like the first, and come up to me into the mountain.
+ï»¿1 At that time Yahweh said to me, Hew two tablets of stone like the first, and come up to me into the mountain.
   
 And make an ark of wood.
   
@@ -88,6 +88,7 @@ He who has done for you these great and terrible things that your eyes have seen
   
 a multitude like the stars of heaven.
   
+
 
 
 

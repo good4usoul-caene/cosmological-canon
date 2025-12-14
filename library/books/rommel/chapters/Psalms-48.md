@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2048.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2048.txt)
   
 
 
-﻿1 A psalm of the sons of Korah.
+ï»¿1 A psalm of the sons of Korah.
   
 Yahweh is great.
   
@@ -52,6 +52,7 @@ He will be our guide even to death.
   
 uide even to death.
   
+
 
 
 

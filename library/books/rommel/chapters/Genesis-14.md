@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2014.txt)
   
 
 
-﻿1 In the days of Amraphel king of Shinar, and Arioch king of Ellasar, and Chedorlaomer king of Elam, and Tidal king of Goiim.
+ï»¿1 In the days of Amraphel king of Shinar, and Arioch king of Ellasar, and Chedorlaomer king of Elam, and Tidal king of Goiim.
   
 2 It came to pass that they made war against Bera king of Sodom, and to Birsha king of Gomorrah, and to Shinab king of Admah, and to Shemeber king of Zeboiim, and to the king of Bela which is Zoar.
   
@@ -86,6 +86,7 @@ They will take their portion.
   
 Mamre. They will take their portion.
   
+
 
 
 

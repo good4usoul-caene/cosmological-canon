@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2095.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2095.txt)
   
 
 
-﻿1 Come, and let us rejoice in Yahweh.
+ï»¿1 Come, and let us rejoice in Yahweh.
   
 Let us sing joyfully to the rock of our salvation.
   
@@ -46,6 +46,7 @@ They do not know my ways.
   
 er into my rest.
   
+
 
 
 

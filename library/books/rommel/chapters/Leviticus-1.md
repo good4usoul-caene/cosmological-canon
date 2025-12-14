@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%201.txt)
   
 
 
-﻿1 Yahweh called Moses and spoke to him from the tent of meeting in the following words.
+ï»¿1 Yahweh called Moses and spoke to him from the tent of meeting in the following words.
   
 2 Speak to the children of Israel and say to them: If any of you offer a sacrifice to Yahweh, you will offer your sacrifice of the cattle, of the herds and of the flocks.
   
@@ -64,6 +64,7 @@ For it is a burnt offering, an offering made by fire for a pleasant smell to Yah
   
 pleasant smell to Yahweh.
   
+
 
 
 

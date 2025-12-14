@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2038.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2038.txt)
   
 
 
-﻿1 And he made the altar of burnt offerings of acacia wood.
+ï»¿1 And he made the altar of burnt offerings of acacia wood.
   
 Its length was five cubits, and its width was five cubits.
   
@@ -106,6 +106,7 @@ And the persons included in the number were from the age of twenty years and abo
   
 courtyard, and all the pins of the holy place.
   
+
 
 
 

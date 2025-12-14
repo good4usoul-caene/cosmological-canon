@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2025.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2025.txt)
   
 
 
-﻿1 The word that came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim the son of Josiah king of Judah.
+ï»¿1 The word that came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim the son of Josiah king of Judah.
   
 It was in the first year of Nebuchadrezzar king of Babylon.
   
@@ -106,6 +106,7 @@ I will punish the land of the Chaldeans, and I will make it a perpetual desolati
   
 . 30 . 31 . 32 . 33 . 34 . 35 . 36 . 37 . 38 .
   
+
 
 
 

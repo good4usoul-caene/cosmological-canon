@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%201.txt)
   
 
 
-﻿1 The words of Nehemiah the son of Hacaliah.
+ï»¿1 The words of Nehemiah the son of Hacaliah.
   
 In the month of Chislev, in the twentieth year [of king Artaxerxes], while I was in the palace of Shushan.
   
@@ -48,6 +48,7 @@ Now I was the king's cupbearer at that time.
   
 rer at that time.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%205.txt)
   
 
 
-﻿1 Afterward, there was a feast of the Jews and Jesus went up to Jerusalem.
+ï»¿1 Afterward, there was a feast of the Jews and Jesus went up to Jerusalem.
   
 [Much time had passed since the feast of the Passover which was mentioned previously.]
   
@@ -160,6 +160,7 @@ For he wrote about me.
   
 t if you do not believe his writings, then how will you believe my words.
   
+
 
 
 

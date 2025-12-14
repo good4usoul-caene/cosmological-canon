@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%202.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses and Aaron in the following words.
+ï»¿1 And Yahweh spoke to Moses and Aaron in the following words.
   
 2 The children of Israel will camp every one by his banner, under the ensigns of the house of his fathers.
   
@@ -98,6 +98,7 @@ This is how they camped according to their banners, and this is how they set out
   
 according to the houses of their fathers.
   
+
 
 
 

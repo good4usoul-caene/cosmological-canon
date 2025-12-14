@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2013.txt)
   
 
 
-﻿1 The word of Yahweh came to me in the following words.
+ï»¿1 The word of Yahweh came to me in the following words.
   
 2 Son of man, prophesy against the prophets of Israel who prophesy in falsity.
   
@@ -106,6 +106,7 @@ For I will deliver my people from your hand, and you will know that I am Yahweh.
   
 your hand, and you will know that I am Yahweh.
   
+
 
 
 

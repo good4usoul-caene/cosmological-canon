@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%208.txt)
   
 
 
-﻿1 Afterwards Elisha said to the woman whose son he had revived: Arise and go, you and your household, and sojourn wherever you can.
+ï»¿1 Afterwards Elisha said to the woman whose son he had revived: Arise and go, you and your household, and sojourn wherever you can.
   
 For Yahweh has called a famine which will come on the land for seven years.
   
@@ -114,6 +114,7 @@ And Ahaziah the son of Jehoram king of Judah went down to see Joram the son of A
   
 m the son of Ahab in Jezreel, because he was sick.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20109.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20109.txt)
   
 
 
-﻿1 A psalm of David [which is a prophecy concerning another person].
+ï»¿1 A psalm of David [which is a prophecy concerning another person].
   
 Do not be silent, O God of my praise.
   
@@ -94,6 +94,7 @@ Let them cover themselves with their bewilderments as with a robe.
   
 ave him from those who condemn his soul.
   
+
 
 
 

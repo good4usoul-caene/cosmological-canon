@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%205.txt)
   
 
 
-﻿1 On that day Deborah sang the following song with Barak the son of Abinoam.
+ï»¿1 On that day Deborah sang the following song with Barak the son of Abinoam.
   
 2 Praise Yahweh who avenged Israel when the people offered themselves willingly.
   
@@ -128,6 +128,7 @@ And the land had rest forty years.
   
 rises in his strength. And the land had rest forty years.
   
+
 
 
 

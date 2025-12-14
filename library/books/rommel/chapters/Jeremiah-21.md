@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2021.txt)
   
 
 
-﻿1 And the word of Yahweh came to Jeremiah when king Zedekiah sent to him Pashhur the son of Malchijah and Zephaniah the son of Maaseiah the priest.
+ï»¿1 And the word of Yahweh came to Jeremiah when king Zedekiah sent to him Pashhur the son of Malchijah and Zephaniah the son of Maaseiah the priest.
   
 2 He sent them to tell Jeremiah: Inquire of Yahweh for us, I pray you.
   
@@ -62,6 +62,7 @@ And I will kindle a fire in your forest, and it will devour all that is around i
   
 r all that is around it.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2026.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2026.txt)
   
 
 
-﻿1 At the beginning of the reign of Jehoiakim the son of Josiah king of Judah, the following word came from Yahweh.
+ï»¿1 At the beginning of the reign of Jehoiakim the son of Josiah king of Judah, the following word came from Yahweh.
   
 2 Thus says Yahweh: Stand in the courtyard of the house of the Yahweh, and speak to those who come from all the towns of Judah to worship in the temple of Yahweh.
   
@@ -90,6 +90,7 @@ But when Uriah heard it, he fled and went into Egypt because he was afraid.
   
 of the people who wanted to kill him.
   
+
 
 
 

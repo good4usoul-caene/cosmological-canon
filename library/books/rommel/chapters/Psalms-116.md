@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20116.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20116.txt)
   
 
 
-﻿1 I love Yahweh, because he has heard my voice and my supplications.
+ï»¿1 I love Yahweh, because he has heard my voice and my supplications.
   
 2 Since he has inclined his ear to me, therefore I will call on him as long as I live.
   
@@ -62,6 +62,7 @@ Praise Yahweh.
   
 f Yahweh. Praise Yahweh.
   
+
 
 
 

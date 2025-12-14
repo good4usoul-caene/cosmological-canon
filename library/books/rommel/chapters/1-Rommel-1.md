@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Rommel%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Rommel%201.txt)
   
 
 
@@ -208,7 +208,7 @@ The apostle Peter lived while the temple of God still existed (Acts 3:1-26 - 5:1
   
 And the apostle Paul was converted by a direct call from Jesus Christ in a vision at a time when Peter and John and the other ten had already been serving as apostles for some time, or rather he had a revelation a short time after he was converted through Ananias (Acts 9:10-20 - Galatians 1:11-20 - Ephesians 3:1-10), and the apostle Paul lived while the temple of God still existed, but the apostle Paul had reached the highest level of the purity of the spirit because he had understood that God does not want to know if a person is Jewish or not Jewish but is only interested in why a person does something and not in what that person does (4 Rommel 2:27-28 - 12:50-52 - 1 Corinthians 9:19-27 - 4 Rommel 6:33-35 - 11:22).
   
-So the apostles have understood everything with regard to the implementation of faith, and the understanding of Peter was gradual and continued even after the day of Pentecost, and it seems to me that the understanding of Paul was complete a short time after his miraculous conversion (Acts 22:12-21 - Galatians 2:6-9), but none of them had understood everything with regard to the exact definition of eternal life and that is why they had strange discussions (Acts 15:1-32 - 17:1-7,8-14 - 28:17-24,25-29 - Romans 4:6-17) including the trial of Paul before the Romans (Acts 24–26).
+So the apostles have understood everything with regard to the implementation of faith, and the understanding of Peter was gradual and continued even after the day of Pentecost, and it seems to me that the understanding of Paul was complete a short time after his miraculous conversion (Acts 22:12-21 - Galatians 2:6-9), but none of them had understood everything with regard to the exact definition of eternal life and that is why they had strange discussions (Acts 15:1-32 - 17:1-7,8-14 - 28:17-24,25-29 - Romans 4:6-17) including the trial of Paul before the Romans (Acts 24â€“26).
   
 It is remarkable that it is the Romans who will destroy the temple of God because of a revolt of those who do not believe in Jesus among the Jews, as in the past Nebuchadnezzar king of Babylon had destroyed the first temple built by Solomon because of a revolt of Zedekiah the last king of Judah.
   
@@ -238,6 +238,7 @@ And the understanding of how to behave in order to practice the holy commandment
   
 blical accounts (Ephesians 2:20-22 - 4 Rommel 4:8).] 39 All this justifies the need for a revision of the Bible.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%205.txt)
   
 
 
-﻿1 The Father and the Son and the holy spirit (John 1:17 - 10:30), second part: Intrinsic nature of embodied heavenly bodies.
+ï»¿1 The Father and the Son and the holy spirit (John 1:17 - 10:30), second part: Intrinsic nature of embodied heavenly bodies.
   
 2 Human beings are incarnations of abstract concepts therefore each one always acts according to one's nature but the complexity and subtleties of the different contexts can can highlight contrasts (2 Kings 21:1-16 - 2 Chronicles 33:10-17).
   
@@ -46,6 +46,7 @@
   
 2 Kings 2:7-10).
   
+
 
 
 

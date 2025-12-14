@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Chronicles%204.txt)
   
 
 
-﻿1 And he made an altar of brass which was twenty cubits in length, and twenty cubits in width, and ten cubits high.
+ï»¿1 And he made an altar of brass which was twenty cubits in length, and twenty cubits in width, and ten cubits high.
   
 2 And he made a molten container that was called the sea.
   
@@ -76,6 +76,7 @@ And the doors of the holy place of the house, and the doors within the house at 
   
 place, they were made of gold.
   
+
 
 
 

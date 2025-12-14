@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2025.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2025.txt)
   
 
 
-﻿1 Abraham took another wife, named Keturah.
+ï»¿1 Abraham took another wife, named Keturah.
   
 2 She bore him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.
   
@@ -130,6 +130,7 @@ Thus Esau despised his birthright.
   
 , then got up and left. Thus Esau despised his birthright.
   
+
 
 
 

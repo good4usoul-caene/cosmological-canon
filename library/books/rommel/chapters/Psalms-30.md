@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2030.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2030.txt)
   
 
 
-﻿1 A psalm.
+ï»¿1 A psalm.
   
 A song made at the dedication of the house of David.
   
@@ -60,6 +60,7 @@ I will praise you forever, O Yahweh my God.
   
 rever, O Yahweh my God.
   
+
 
 
 

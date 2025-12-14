@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2016.txt)
   
 
 
-﻿1 Sarai, Abram's wife, bore him no children.
+ï»¿1 Sarai, Abram's wife, bore him no children.
   
 She had an Egyptian servant named Hagar.
   
@@ -74,6 +74,7 @@ And Abram called the name of his son, whom Hagar bore, Ishmael.
   
 n Hagar bore Ishmael to Abram.
   
+
 
 
 

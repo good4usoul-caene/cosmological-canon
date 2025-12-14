@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%209.txt)
   
 
 
-﻿1 And all the kings who were on this side of the Jordan heard of these things.
+ï»¿1 And all the kings who were on this side of the Jordan heard of these things.
   
 Those who were in the mountain and in the valleys, and all along the coast of the great sea in front of Lebanon.
   
@@ -106,6 +106,7 @@ This is what they have done to this day.
   
 goes. This is what they have done to this day.
   
+
 
 
 

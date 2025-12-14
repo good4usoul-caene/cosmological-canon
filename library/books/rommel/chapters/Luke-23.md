@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2023.txt)
   
 
 
-﻿1 And they all got up and brought Jesus before Pilate.
+ï»¿1 And they all got up and brought Jesus before Pilate.
   
 2 And they began to accuse Jesus by saying: We found this man who was perverting our nation, and was forbidding them to pay tribute to Caesar.
   
@@ -160,6 +160,7 @@ And they rested on the sabbath day, according to the commandment of the law [giv
   
 ding to the commandment of the law [given by Moses who was a man of God].
   
+
 
 
 

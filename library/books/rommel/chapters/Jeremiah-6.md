@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%206.txt)
   
 
 
-﻿1 Flee from the midst of Jerusalem, you the children of Benjamin.
+ï»¿1 Flee from the midst of Jerusalem, you the children of Benjamin.
   
 Blow the trumpet in Tekoa, and set up a banner at Beth-haccherem.
   
@@ -146,6 +146,7 @@ It is in vain that one refines, the dross are not taken away.
   
 will be called contemptible silver, for Yahweh has rejected them.
   
+
 
 
 

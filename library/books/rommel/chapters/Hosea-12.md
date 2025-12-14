@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHosea%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Hosea%2012.txt)
   
 
 
-﻿1 Ephraim feeds himself with the wind, and follows the east wind [that is to say, they are wasting their time since they do not conform to my teaching].
+ï»¿1 Ephraim feeds himself with the wind, and follows the east wind [that is to say, they are wasting their time since they do not conform to my teaching].
   
 Every day they multiply lies and violence.
   
@@ -68,6 +68,7 @@ Therefore the [innocent] blood that he has poured will be brought on him, his Lo
   
 ll make him bear his shame.
   
+
 
 
 

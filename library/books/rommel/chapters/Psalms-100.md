@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20100.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20100.txt)
   
 
 
-﻿1 A Psalm of praise.
+ï»¿1 A Psalm of praise.
   
 Shout joyfully to Yahweh, you all the inhabitants of the earth.
   
@@ -34,6 +34,7 @@ His mercy endures forever, and his faithfulness is the same in all generations.
   
 nerations.
   
+
 
 
 

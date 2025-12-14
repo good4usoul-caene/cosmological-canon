@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2038.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2038.txt)
   
 
 
-﻿1 Then Shephatiah the son of Mattan, and Gedaliah the son of Pashhur, and Jucal the son of Shelemiah, and Pashhur the son of Malchijah, they heard the following words that Jeremiah had spoken to all the people.
+ï»¿1 Then Shephatiah the son of Mattan, and Gedaliah the son of Pashhur, and Jucal the son of Shelemiah, and Pashhur the son of Malchijah, they heard the following words that Jeremiah had spoken to all the people.
   
 2 Thus says Yahweh: Whoever will remain in this city will die by the sword, and by the famine, and by the pestilence.
   
@@ -122,6 +122,7 @@ And he was there when Jerusalem was taken.
   
 was taken. And he was there when Jerusalem was taken.
   
+
 
 
 

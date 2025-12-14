@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2044.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2044.txt)
   
 
 
-﻿1 And Joseph gave this command to the steward of his house, Filled with food the bags of these men, as much as they can carry.
+ï»¿1 And Joseph gave this command to the steward of his house, Filled with food the bags of these men, as much as they can carry.
   
 And put everyone's money at the mouth of his bag.
   
@@ -122,6 +122,7 @@ Let me not see the affliction of my father.
   
 t with me. Let me not see the affliction of my father.
   
+
 
 
 

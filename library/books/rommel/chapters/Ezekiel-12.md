@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2012.txt)
   
 
 
-﻿1 The word of Yahweh came to me in the following words.
+ï»¿1 The word of Yahweh came to me in the following words.
   
 2 Son of man, you dwell among a rebellious house.
   
@@ -116,6 +116,7 @@ The word that I speak will be accomplished, says the Lord Yahweh.
   
 I speak will be accomplished, says the Lord Yahweh.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2049.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2049.txt)
   
 
 
-﻿1 Jacob called his sons and said, Assemble and I will tell you what will happen to you in the course of time.
+ï»¿1 Jacob called his sons and said, Assemble and I will tell you what will happen to you in the course of time.
   
 2 Gather yourselves together and listen, sons of Jacob.
   
@@ -132,6 +132,7 @@ And there I buried Leah.
   
 into the bed and he expired and was gathered to his people.
   
+
 
 
 

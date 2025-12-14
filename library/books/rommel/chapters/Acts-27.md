@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2027.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2027.txt)
   
 
 
-﻿1 Now when it was decided that we should sail for Italy, Paul and some other prisoners were given to a centurion named Julius, of the Augustan band.
+ï»¿1 Now when it was decided that we should sail for Italy, Paul and some other prisoners were given to a centurion named Julius, of the Augustan band.
   
 2 And we boarded a ship from the city of Adramyttium, which was about to sail to Asia.
   
@@ -142,6 +142,7 @@ And this is how they have all escaped safely to the land.
   
 nd. [Now this includes Paul and also the narrator of the story.]
   
+
 
 
 

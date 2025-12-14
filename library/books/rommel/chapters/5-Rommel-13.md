@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%2013.txt)
   
 
 
-﻿1 Comments on the epistles of the apostles and the gospels, third part: Features of books.
+ï»¿1 Comments on the epistles of the apostles and the gospels, third part: Features of books.
   
 2 About Peter's letters.
   
@@ -48,6 +48,7 @@
   
 in God (Luke 12).
   
+
 
 
 

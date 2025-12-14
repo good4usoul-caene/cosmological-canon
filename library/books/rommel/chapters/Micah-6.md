@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CMicah%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Micah%206.txt)
   
 
 
-﻿1 Hear now what Yahweh says: Arise and plead before the mountains, and let the hills hear your voice.
+ï»¿1 Hear now what Yahweh says: Arise and plead before the mountains, and let the hills hear your voice.
   
 2 Hear the controversy of Yahweh, O mountains, and you the strong foundations of the earth.
   
@@ -78,6 +78,7 @@ Therefore I will make you a desolation, and I will make your inhabitants a subje
   
 e the culprits among my people].
   
+
 
 
 

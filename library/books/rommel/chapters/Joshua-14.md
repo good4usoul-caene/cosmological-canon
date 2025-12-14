@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2014.txt)
   
 
 
-﻿1 These now are the places that the children of Israel inherited in the land of Canaan, and which were distributed to them by Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel.
+ï»¿1 These now are the places that the children of Israel inherited in the land of Canaan, and which were distributed to them by Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel.
   
 2 The distribution took place by lot, as Yahweh had commanded by the hand of Moses, for the nine tribes and for the half-tribe.
   
@@ -60,6 +60,7 @@ And the land had rest from war.
   
 land had rest from war.
   
+
 
 
 

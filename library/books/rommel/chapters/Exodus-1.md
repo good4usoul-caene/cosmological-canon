@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%201.txt)
   
 
 
-﻿1 These are the names of the sons of Israel who came to Egypt with Jacob and the families of each of them.
+ï»¿1 These are the names of the sons of Israel who came to Egypt with Jacob and the families of each of them.
   
 2 Reuben, and Simeon, and Levi, and Judah.
   
@@ -76,6 +76,7 @@ For they are vigorous and they give birth before the midwife arrives.
   
 orn and let all the girls live.
   
+
 
 
 

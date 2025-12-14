@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2018.txt)
   
 
 
-﻿1 After these things, Paul departed from Athens and went to Corinth.
+ï»¿1 After these things, Paul departed from Athens and went to Corinth.
   
 2 And there he found a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to depart from Rome.
   
@@ -120,6 +120,7 @@ And when he had come there, he made himself very helpful by the grace of God to 
   
 e scriptures [of the Jews] that Jesus was the Christ.
   
+
 
 
 

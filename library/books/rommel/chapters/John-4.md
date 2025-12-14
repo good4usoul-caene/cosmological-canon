@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%204.txt)
   
 
 
-﻿1 And the Lord knew that the Pharisees had heard that he was making and baptizing more disciples than John.
+ï»¿1 And the Lord knew that the Pharisees had heard that he was making and baptizing more disciples than John.
   
 2 Jesus himself was not baptizing, for it was his disciples who were doing it.
   
@@ -182,6 +182,7 @@ And he believed, and so did all his household.
   
 nd it happened after he had come back from Judea [where he had done other miracles].
   
+
 
 
 

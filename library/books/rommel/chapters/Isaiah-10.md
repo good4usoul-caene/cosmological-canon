@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2010.txt)
   
 
 
-﻿1 Woe to those who decree unrighteous decrees, or who write sorrowful things [in their commands].
+ï»¿1 Woe to those who decree unrighteous decrees, or who write sorrowful things [in their commands].
   
 2 To deny justice to the powerless, and to take away the right of the poor of my people.
   
@@ -138,6 +138,7 @@ The great will be cut down, and the arrogant humbled.
   
 e Assyrian who will be like Lebanon will fall by a mighty hit.
   
+
 
 
 

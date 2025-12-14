@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2072.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2072.txt)
   
 
 
-﻿1 A psalm of Solomon.
+ï»¿1 A psalm of Solomon.
   
 Give your judgments to the king, O God, and your righteousness to the son of the king.
   
@@ -66,6 +66,7 @@ So be it, so be it.
   
 of David the son of Jesse.
   
+
 
 
 

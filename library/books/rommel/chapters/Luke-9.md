@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%209.txt)
   
 
 
-﻿1 Now Jesus called his twelve disciples together, and gave them the power to heal diseases and the power to cast out demons from people.
+ï»¿1 Now Jesus called his twelve disciples together, and gave them the power to heal diseases and the power to cast out demons from people.
   
 2 And he sent them to preach the kingdom of God, and to heal the sick.
   
@@ -206,6 +206,7 @@ But allow me first to go and say goodbye to those who are at my house.
   
 said to him: No one who puts his hand to the plow and looks back is fit for the kingdom of God.
   
+
 
 
 

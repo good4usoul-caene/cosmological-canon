@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2019.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 The heavens declare the glory of God, and the expanse shows the work of his hands.
   
@@ -56,6 +56,7 @@ Let them not rule over me, and then I will be upright and clean from great sins.
   
 ngth and my redeemer.
   
+
 
 
 

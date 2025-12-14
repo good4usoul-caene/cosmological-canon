@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2029.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2029.txt)
   
 
 
-﻿1 Moreover, on the first day of the seventh month you will have a holy convocation, and you will not do any servile work.
+ï»¿1 Moreover, on the first day of the seventh month you will have a holy convocation, and you will not do any servile work.
   
 It will be a day of blowing the trumpets to you.
   
@@ -108,6 +108,7 @@ And their drink offerings.
   
 according to all that Yahweh had commanded him.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2015.txt)
   
 
 
-﻿1 The land that was attributed by lot to the tribe of the children of Judah according to their families, spread to the border of Edom and the Zin desert, to the south at the southern end.
+ï»¿1 The land that was attributed by lot to the tribe of the children of Judah according to their families, spread to the border of Edom and the Zin desert, to the south at the southern end.
   
 2 And their southern border was the coast of the salt sea, from the point that looks southward.
   
@@ -196,6 +196,7 @@ Six cities with their villages.
   
 dren of Judah, but the Jebusites dwell with the children of Judah at Jerusalem to this day.
   
+
 
 
 

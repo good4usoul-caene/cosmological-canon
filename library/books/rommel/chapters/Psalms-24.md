@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2024.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 The earth and everything on it belong to Yahweh.
   
@@ -56,6 +56,7 @@ Pause.
   
 king of glory. Pause.
   
+
 
 
 

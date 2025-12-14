@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2031.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2031.txt)
   
 
 
-﻿1 Then Moses went and said the following words to all Israel.
+ï»¿1 Then Moses went and said the following words to all Israel.
   
 2 Today I am one hundred and twenty years old, and I can no more go out and come in.
   
@@ -124,6 +124,7 @@ And then evil will surely come on you because of your wickedness in the sight of
   
 g song in the presence of the whole assembly of Israel.
   
+
 
 
 

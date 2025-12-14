@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzra%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezra%206.txt)
   
 
 
-﻿1 Then king Darius gave an order to make a search in the house of the archives where the treasures were stored in Babylon.
+ï»¿1 Then king Darius gave an order to make a search in the house of the archives where the treasures were stored in Babylon.
   
 2 And they found a parchment in a coffer, in the palace that is in the province of Media, and the following thing was written on it.
   
@@ -82,6 +82,7 @@ For Yahweh had made them glad by causing the king of Persia to help them in the 
   
 of God, namely the God of Israel.
   
+
 
 
 

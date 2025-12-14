@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%203.txt)
   
 
 
-﻿1 When anyone offers a sacrifice of peace offering, if he offers from the herd, male or female, then he will offer it without blemish before Yahweh.
+ï»¿1 When anyone offers a sacrifice of peace offering, if he offers from the herd, male or female, then he will offer it without blemish before Yahweh.
   
 2 And he will put his hand on the head of his offering, and kill it at the entrance to the tent of meeting.
   
@@ -66,6 +66,7 @@ All the fat is for Yahweh.
   
 u do not eat fat or blood.
   
+
 
 
 

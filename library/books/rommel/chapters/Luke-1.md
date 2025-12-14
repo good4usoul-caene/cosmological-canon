@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%201.txt)
   
 
 
-﻿1 In view of the fact that many have undertaken to write a narrative of those things of which we are completely convinced that they have occurred among us.
+ï»¿1 In view of the fact that many have undertaken to write a narrative of those things of which we are completely convinced that they have occurred among us.
   
 2 According to what has been transmitted to us by those who were eyewitnesses from the beginning and who became ministers of the word.
   
@@ -206,6 +206,7 @@ For you will go before the face of the Lord to prepare his ways.
   
 trong in spirit, and he was in the wilderness until the day when he presented himself to Israel.
   
+
 
 
 

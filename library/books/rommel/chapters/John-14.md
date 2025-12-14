@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%2014.txt)
   
 
 
-﻿1 Let not your heart be troubled.
+ï»¿1 Let not your heart be troubled.
   
 Believe in God, and believe in me.
   
@@ -128,6 +128,7 @@ For the prince of this world is coming, and he has nothing in me.
   
 y Father has given me, get up and let us get out of here.
   
+
 
 
 

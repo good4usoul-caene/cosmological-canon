@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2051.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2051.txt)
   
 
 
-﻿1 A psalm of David, when Nathan the prophet came to him after David had copulated with Bathsheba.
+ï»¿1 A psalm of David, when Nathan the prophet came to him after David had copulated with Bathsheba.
   
 Have mercy on me according to your lovingkindness, O God.
   
@@ -76,6 +76,7 @@ You will thus also accept burnt offerings and whole burnt offerings [when the vi
   
 l offer bullocks on your altar.
   
+
 
 
 

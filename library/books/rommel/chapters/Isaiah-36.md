@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2036.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2036.txt)
   
 
 
-﻿1 In the fourteenth year of king Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah and took them.
+ï»¿1 In the fourteenth year of king Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah and took them.
   
 2 And the king of Assyria sent Rabshakeh with a great army from Lachish to king Hezekiah at Jerusalem.
   
@@ -98,6 +98,7 @@ For the king had commanded them by saying: You will not answer him.
   
 nd reported to him the words of Rabshakeh.
   
+
 
 
 

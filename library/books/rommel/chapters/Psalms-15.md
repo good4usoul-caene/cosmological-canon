@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2015.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 O Yahweh, who will dwell in your tabernacle [in the heaven].
   
@@ -30,6 +30,7 @@ He who does these things will never be moved.
   
 e moved.
   
+
 
 
 

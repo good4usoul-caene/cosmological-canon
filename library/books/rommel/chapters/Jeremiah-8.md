@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%208.txt)
   
 
 
-﻿1 At that time, says Yahweh, they will bring out of their graves the bones of [some of] the kings of Judah, and the bones of [some of] its leaders, and the bones of [some of] the priests, and the bones of [some of] the prophets, and the bones of [some of] the inhabitants of Jerusalem.
+ï»¿1 At that time, says Yahweh, they will bring out of their graves the bones of [some of] the kings of Judah, and the bones of [some of] its leaders, and the bones of [some of] the priests, and the bones of [some of] the prophets, and the bones of [some of] the inhabitants of Jerusalem.
   
 2 And they will spread them out before the sun and the moon, and before all the armies of the heaven [that is to say, all the stars], those things that theses dead persons had loved [during a part of their lives], and had served, and had followed, and had sought, and had worshiped.
   
@@ -114,6 +114,7 @@ Why then is the healing of the daughter of my people not accomplished.
   
 ing of the daughter of my people not accomplished.
   
+
 
 
 

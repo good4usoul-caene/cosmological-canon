@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%2016.txt)
   
 
 
-﻿1 I commend to you Phoebe our sister, who is a servant of the church which is at Cenchrea.
+ï»¿1 I commend to you Phoebe our sister, who is a servant of the church which is at Cenchrea.
   
 2 So that you may receive her in the Lord, in a manner worthy of saints, and assist her in whatever she may need you.
   
@@ -94,6 +94,7 @@ Amen.
   
 ver and ever through Jesus Christ. Amen.
   
+
 
 
 

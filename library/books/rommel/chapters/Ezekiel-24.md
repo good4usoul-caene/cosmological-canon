@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2024.txt)
   
 
 
-﻿1 In the ninth year [of the captivity of Jehoiachin king of Judah], on the tenth day of the tenth month, the word of Yahweh came to me in the following words.
+ï»¿1 In the ninth year [of the captivity of Jehoiachin king of Judah], on the tenth day of the tenth month, the word of Yahweh came to me in the following words.
   
 2 Son of man, write the date of the day, of this day.
   
@@ -114,6 +114,7 @@ So you will be a sign for them, and they will know that I am Yahweh.
   
 ign for them, and they will know that I am Yahweh.
   
+
 
 
 

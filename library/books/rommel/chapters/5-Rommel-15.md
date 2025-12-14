@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%2015.txt)
   
 
 
-﻿1 The mysteries raised and unexplained.
+ï»¿1 The mysteries raised and unexplained.
   
 2 Reincarnation.
   
@@ -34,6 +34,7 @@
   
 4:14-17).
   
+
 
 
 

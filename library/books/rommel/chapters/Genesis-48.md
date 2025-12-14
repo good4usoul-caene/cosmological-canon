@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2048.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2048.txt)
   
 
 
-﻿1 After these things one said to Joseph, Your father is ill.
+ï»¿1 After these things one said to Joseph, Your father is ill.
   
 And he took with him his two sons Manasseh and Ephraim.
   
@@ -86,6 +86,7 @@ But God will be with you and will bring you back to the land of your fathers.
   
 rites with my sword and with my bow.
   
+
 
 
 

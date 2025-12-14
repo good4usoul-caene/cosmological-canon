@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%203.txt)
   
 
 
-﻿1 The war continued for a long time between the house of Saul and the house of David.
+ï»¿1 The war continued for a long time between the house of Saul and the house of David.
   
 David became stronger and stronger, and the house of Saul became weaker and weaker.
   
@@ -144,6 +144,7 @@ May Yahweh repay him who does evil according to his wickedness.
   
 . May Yahweh repay him who does evil according to his wickedness.
   
+
 
 
 

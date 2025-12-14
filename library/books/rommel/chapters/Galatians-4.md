@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGalatians%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Galatians%204.txt)
   
 
 
-﻿1 Now I say the following thing: as long as the heir is a child, he differs in no way from a slave, although he is the master of everything.
+ï»¿1 Now I say the following thing: as long as the heir is a child, he differs in no way from a slave, although he is the master of everything.
   
 2 But he is under tutours and administrators, until the time set by the father.
   
@@ -134,6 +134,7 @@ For the son of the handmaid will not inherit with the son of the freewoman.
   
 t, and not the enslaved children of the law given by Moses.]
   
+
 
 
 

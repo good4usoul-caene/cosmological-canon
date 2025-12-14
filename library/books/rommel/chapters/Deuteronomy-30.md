@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2030.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2030.txt)
   
 
 
-﻿1 When all these things happen to you, the blessing and the curse that I have set before you, then you will think about them in your heart among all the nations where Yahweh your God has driven you.
+ï»¿1 When all these things happen to you, the blessing and the curse that I have set before you, then you will think about them in your heart among all the nations where Yahweh your God has driven you.
   
 2 And you will return to Yahweh your God, and obey his voice in all that I command you today, you and your children, with all your heart and with all your soul.
   
@@ -64,6 +64,7 @@ So that you may dwell in the land that Yahweh swore to your fathers Abraham and 
   
 c and Jacob to give them.
   
+
 
 
 

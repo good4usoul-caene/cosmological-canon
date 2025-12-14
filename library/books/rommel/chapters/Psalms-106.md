@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20106.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20106.txt)
   
 
 
-﻿1 Praise Yahweh.
+ï»¿1 Praise Yahweh.
   
 Praise Yahweh because he is good, for his mercy endures forever.
   
@@ -136,6 +136,7 @@ And let all the people say: So be it, praise Yahweh.
   
 nd ever. And let all the people say: So be it, praise Yahweh.
   
+
 
 
 

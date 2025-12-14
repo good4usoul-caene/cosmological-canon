@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%201.txt)
   
 
 
-﻿1 And Moab rebelled against Israel after the death of Ahab.
+ï»¿1 And Moab rebelled against Israel after the death of Ahab.
   
 2 And Ahaziah fell down by the railing of the upper room of his house in Samaria, and he was sick.
   
@@ -76,6 +76,7 @@ And Jehoram [the brother of Ahaziah] began to reign in his stead in the second y
   
 onicles of the kings of Israel.
   
+
 
 
 

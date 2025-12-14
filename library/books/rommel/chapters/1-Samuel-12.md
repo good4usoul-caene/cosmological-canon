@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Samuel%2012.txt)
   
 
 
@@ -112,6 +112,7 @@ For Moses was also available to give his opinion on the situations that were fou
   
 vil then you will perish, both you and your king.
   
+
 
 
 

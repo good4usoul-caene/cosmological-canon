@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2020.txt)
   
 
 
-﻿1 And the whole congregation of the children of Israel came to the wilderness of Zin in the first month.
+ï»¿1 And the whole congregation of the children of Israel came to the wilderness of Zin in the first month.
   
 And the people stopped at Kadesh.
   
@@ -118,6 +118,7 @@ And Moses and Eleazar came down from the mountain.
   
 l the house of Israel mourned for Aaron thirty days.
   
+
 
 
 

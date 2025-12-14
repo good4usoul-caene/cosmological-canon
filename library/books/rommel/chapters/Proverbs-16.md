@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2016.txt)
   
 
 
-﻿1 The plans of the heart belong to man, but the answer of the mouth is from Yahweh.
+ï»¿1 The plans of the heart belong to man, but the answer of the mouth is from Yahweh.
   
 2 All the ways of a man are clean in his own eyes [despite the fact that he may know that they are not publicly justifiable], but Yahweh weighs the spirits.
   
@@ -108,6 +108,7 @@ He who rules his own spirit in order to not let oneself be under the control of 
   
 er obtained in this way comes also from Yahweh.
   
+
 
 
 

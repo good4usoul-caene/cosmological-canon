@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2065.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2065.txt)
   
 
 
-﻿1 I have manifested myself to those who have asked me nothing.
+ï»¿1 I have manifested myself to those who have asked me nothing.
   
 I have let myself be found by those who were not looking for me.
   
@@ -114,6 +114,7 @@ They will no more hurt nor destroy on all my holy mountain, says Yahweh.
   
 nor destroy on all my holy mountain, says Yahweh.
   
+
 
 
 

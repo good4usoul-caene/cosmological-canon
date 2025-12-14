@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2014.txt)
   
 
 
-﻿1 The word of Yahweh that came to Jeremiah on the occasion of the drought.
+ï»¿1 The word of Yahweh that came to Jeremiah on the occasion of the drought.
   
 2 Judah mourns, and its cities are desolate.
   
@@ -118,6 +118,7 @@ Therefore we hope in you, because you have made all these things.
   
 hope in you, because you have made all these things.
   
+
 
 
 

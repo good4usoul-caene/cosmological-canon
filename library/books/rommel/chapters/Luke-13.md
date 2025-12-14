@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2013.txt)
   
 
 
@@ -130,6 +130,7 @@ And truly I say to you, you will not see me until the time comes when you say: B
   
 say: Blessed is the one who comes in the name of the Lord.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%201.txt)
   
 
 
-﻿1 The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem, in the days of Uzziah, and of Jotham, and of Ahaz, and of Hezekiah, kings of Judah.
+ï»¿1 The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem, in the days of Uzziah, and of Jotham, and of Ahaz, and of Hezekiah, kings of Judah.
   
 2 Hear, O heavens, and give ear, O earth, for Yahweh has spoken.
   
@@ -132,6 +132,7 @@ They will both burn together, and there will be no one to quench them.
   
 oth burn together, and there will be no one to quench them.
   
+
 
 
 

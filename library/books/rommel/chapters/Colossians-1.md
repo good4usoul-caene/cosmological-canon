@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CColossians%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Colossians%201.txt)
   
 
 
-﻿1 Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother.
+ï»¿1 Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother.
   
 2 To the saints and faithful brothers in Christ who are at Colossae: Grace and peace to you from God our Father.
   
@@ -78,6 +78,7 @@ For that which is lacking from the sufferings of Christ, I complete it in my fle
   
 gth which acts powerfully in me.
   
+
 
 
 

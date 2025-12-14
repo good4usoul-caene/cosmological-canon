@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHosea%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Hosea%2013.txt)
   
 
 
-﻿1 When Ephraim spoke, there was trembling.
+ï»¿1 When Ephraim spoke, there was trembling.
   
 He exalted himself in Israel, but he has sinned through Baal and has died.
   
@@ -78,6 +78,7 @@ Their little ones will be dashed in pieces, and their pregnant women will have t
   
 have their bellies ripped open.
   
+
 
 
 

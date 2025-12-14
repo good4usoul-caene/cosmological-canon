@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%204.txt)
   
 
 
-﻿1 And Moses answered and said, Behold they will not believe me and they will not listen to my voice.
+ï»¿1 And Moses answered and said, Behold they will not believe me and they will not listen to my voice.
   
 For they will say, Yahweh has not appeared to you.
   
@@ -132,6 +132,7 @@ Then they bowed down and worshiped.
   
 d seen their suffering. Then they bowed down and worshiped.
   
+
 
 
 

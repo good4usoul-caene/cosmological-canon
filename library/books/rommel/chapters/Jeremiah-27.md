@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2027.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2027.txt)
   
 
 
-﻿1 In the fourth year of the reign of Zedekiah the son of Josiah king of Judah, the following word came to Jeremiah from Yahweh.
+ï»¿1 In the fourth year of the reign of Zedekiah the son of Josiah king of Judah, the following word came to Jeremiah from Yahweh.
   
 2 Thus says Yahweh to me: Make a yoke out of straps and poles, and put it on your neck.
   
@@ -76,6 +76,7 @@ Then I will bring them back, and restore them to this place.
   
 and restore them to this place.
   
+
 
 
 

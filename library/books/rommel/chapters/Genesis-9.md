@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%209.txt)
   
 
 
-﻿1 And God blessed Noah and his sons, and said to them, Be fruitful and multiply, and replenish the earth.
+ï»¿1 And God blessed Noah and his sons, and said to them, Be fruitful and multiply, and replenish the earth.
   
 2 You will be a source of fear and terror to every animal on the earth, and to every bird of the heavens, to everything that moves on the earth and to all the fish of the sea.
   
@@ -86,6 +86,7 @@ Then he died.
   
 ndred and fifty years. Then he died.
   
+
 
 
 

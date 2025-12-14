@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2024.txt)
   
 
 
-﻿1 Abraham was old, well advanced in years.
+ï»¿1 Abraham was old, well advanced in years.
   
 And Yahweh had blessed Abraham in all things.
   
@@ -234,6 +234,7 @@ This is how Isaac was consoled after losing his mother.
   
 ok Rebekah, and she became his wife, and he loved her. This is how Isaac was consoled after losing his mother.
   
+
 
 
 

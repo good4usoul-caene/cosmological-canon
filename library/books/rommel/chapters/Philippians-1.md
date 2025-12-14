@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPhilippians%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Philippians%201.txt)
   
 
 
-﻿1 Paul and Timothy, servants of Jesus Christ, to all the saints in Christ Jesus who are in Philippi, with the bishops and deacons.
+ï»¿1 Paul and Timothy, servants of Jesus Christ, to all the saints in Christ Jesus who are in Philippi, with the bishops and deacons.
   
 2 May grace and peace be given to you from God our Father and the Lord Jesus Christ.
   
@@ -86,6 +86,7 @@ I have the desire to depart and be with Christ, and it is by far the best.
   
 u now hear that I am still fighting.
   
+
 
 
 

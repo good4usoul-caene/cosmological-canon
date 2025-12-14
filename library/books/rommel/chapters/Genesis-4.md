@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%204.txt)
   
 
 
-﻿1 Adam knew Eve, his wife.
+ï»¿1 Adam knew Eve, his wife.
   
 And she conceived and bore Cain and said, I have formed a man by the help of Yahweh.
   
@@ -100,6 +100,7 @@ It was then that people began to call on the name of Yahweh.
   
 people began to call on the name of Yahweh.
   
+
 
 
 

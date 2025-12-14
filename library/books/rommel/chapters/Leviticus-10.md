@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%2010.txt)
   
 
 
-﻿1 Now Nadab and Abihu the sons of Aaron arose, and they each took a censer and put fire in it.
+ï»¿1 Now Nadab and Abihu the sons of Aaron arose, and they each took a censer and put fire in it.
   
 And they put incense there, and offered a strange fire before Yahweh.
   
@@ -84,6 +84,7 @@ If I had eaten the sin offering today, would it have been accepted in the sight 
   
 d when Moses heard it, he was glad.
   
+
 
 
 

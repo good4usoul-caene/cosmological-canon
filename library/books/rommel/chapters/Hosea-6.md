@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHosea%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Hosea%206.txt)
   
 
 
-﻿1 Come, and let us return to Yahweh.
+ï»¿1 Come, and let us return to Yahweh.
   
 For he has torn, but he will heal us.
   
@@ -56,6 +56,7 @@ There is the whoredom of Ephraim, and Israel is defiled.
   
 ptivity of my people.
   
+
 
 
 

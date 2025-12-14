@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%202.txt)
   
 
 
-﻿1 Thus were the heavens and the earth completed, and all that is inside.
+ï»¿1 Thus were the heavens and the earth completed, and all that is inside.
   
 2 God finished his work that he had done on the seventh day.
   
@@ -84,6 +84,7 @@ And he took one of his ribs, and closed the flesh in its place.
   
 is wife, and they were not ashamed.
   
+
 
 
 

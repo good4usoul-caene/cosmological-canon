@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2035.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2035.txt)
   
 
 
-﻿1 The word of Yahweh came to Jeremiah in the following words, in the days of Jehoiakim the son of Josiah and king of Judah.
+ï»¿1 The word of Yahweh came to Jeremiah in the following words, in the days of Jehoiakim the son of Josiah and king of Judah.
   
 2 Go to the house of the Rechabites, and speak to them, and bring them to the house of Yahweh into one of the rooms [that had been built around the holy place and the most holy place].
   
@@ -84,6 +84,7 @@ For I have spoken to them but they have not wanted to listen, I have called them
   
 keep the commandments of Jonadab.]
   
+
 
 
 

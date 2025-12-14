@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CZechariah%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Zechariah%2013.txt)
   
 
 
-﻿1 In that day a fountain will be opened for the house of David and for the inhabitants of Jerusalem, for sin and for uncleanness.
+ï»¿1 In that day a fountain will be opened for the house of David and for the inhabitants of Jerusalem, for sin and for uncleanness.
   
 2 In that day, says Yahweh the God of armies, I will cut off the names of the idols from the land and they will no longer be remembered.
   
@@ -44,6 +44,7 @@ I will say, 'It is my people', and they will say, 'Yahweh is my God'.
   
 weh is my God'.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2041.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2041.txt)
   
 
 
-﻿1 And he brought me into the temple [that is to say, into the holy place of the temple].
+ï»¿1 And he brought me into the temple [that is to say, into the holy place of the temple].
   
 And he measured the doorposts.
   
@@ -104,6 +104,7 @@ And there were thick planks on the forefront of the porch outside.
   
 the rooms around the house, and thick planks.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20118.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20118.txt)
   
 
 
-﻿1 Praise Yahweh because he is good, for his mercy endures forever.
+ï»¿1 Praise Yahweh because he is good, for his mercy endures forever.
   
 2 Let Israel say now: For his mercy endures forever.
   
@@ -94,6 +94,7 @@ You are my God, and I will exalt you.
   
 is good, for his mercy endures forever.
   
+
 
 
 

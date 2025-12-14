@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2019.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses and Aaron in the following words.
+ï»¿1 And Yahweh spoke to Moses and Aaron in the following words.
   
 2 This is the ordinance of the law which Yahweh has commanded by saying, Speak to the children of Israel and let them bring you a red cow without blemish, and on which there is no spot, and on which never came yoke.
   
@@ -82,6 +82,7 @@ And he who sprinkles the water of purification will wash his clothes, and whoeve
   
 will be unclean until the evening.
   
+
 
 
 

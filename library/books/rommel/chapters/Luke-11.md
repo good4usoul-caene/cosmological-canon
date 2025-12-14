@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2011.txt)
   
 
 
-﻿1 One day Jesus was praying in a certain place, and he ceased after a certain time.
+ï»¿1 One day Jesus was praying in a certain place, and he ceased after a certain time.
   
 Then one of his disciples said to him: Lord, teach us to pray, as John also taught his disciples to do it.
   
@@ -188,6 +188,7 @@ You have not entered yourselves, and you have hindered those who were entering.
   
 ps for him, trying to catch something from his mouth in order to be able to accuse him.
   
+
 
 
 

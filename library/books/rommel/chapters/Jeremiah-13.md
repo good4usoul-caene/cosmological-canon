@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2013.txt)
   
 
 
-﻿1 And Yahweh spoke to me thus: Go and buy a linen belt for yourself, and put it around your waist.
+ï»¿1 And Yahweh spoke to me thus: Go and buy a linen belt for yourself, and put it around your waist.
   
 You will not put it into the water.
   
@@ -104,6 +104,7 @@ How long will you continue in your evil way.
   
 How long will you continue in your evil way.
   
+
 
 
 

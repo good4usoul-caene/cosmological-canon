@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2040.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2040.txt)
   
 
 
-﻿1 And Yahweh continued to speak to Job in the following words.
+ï»¿1 And Yahweh continued to speak to Job in the following words.
   
 2 Are all these facts for learning to argue with the Almighty.
   
@@ -84,6 +84,7 @@ He is confident that he can bring the Jordan into his mouth.
   
 through everything that meets him.
   
+
 
 
 

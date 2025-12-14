@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2040.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2040.txt)
   
 
 
-﻿1 In the twenty fifth year of our captivity [which is also the twenty fifth year of the captivity of Jehoiachin king of Judah], in the beginning of the year, on the tenth day of the month, in the fourteenth year after the destruction of the city of Jerusalem [and of the temple of Yahweh which was there], on that very day, the hand of Yahweh was on me and he brought me into the land of Israel.
+ï»¿1 In the twenty fifth year of our captivity [which is also the twenty fifth year of the captivity of Jehoiachin king of Judah], in the beginning of the year, on the tenth day of the month, in the fourteenth year after the destruction of the city of Jerusalem [and of the temple of Yahweh which was there], on that very day, the hand of Yahweh was on me and he brought me into the land of Israel.
   
 2 He brought me there by a vision from God.
   
@@ -206,6 +206,7 @@ And there were pillars near the posts, one on this side and another on that side
   
 d it by steps. And there were pillars near the posts, one on this side and another on that side.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%2014.txt)
   
 
 
-﻿1 Now Samson went down to Timnah, and he saw there a woman among the daughters of the Philistines.
+ï»¿1 Now Samson went down to Timnah, and he saw there a woman among the daughters of the Philistines.
   
 2 And he came up and told his father and his mother by saying: I have seen in Timnah a woman of the daughters of the Philistines.
   
@@ -96,6 +96,7 @@ And his anger was kindled, and he went up to his father's house.
   
 ompanion, whom he had used as his friend.
   
+
 
 
 

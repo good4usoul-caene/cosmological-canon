@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2013.txt)
   
 
 
-﻿1 If there arises among you a prophet or a dreamer of dreams, who announces to you a sign or a wonder.
+ï»¿1 If there arises among you a prophet or a dreamer of dreams, who announces to you a sign or a wonder.
   
 2 And there is a fulfillment of the sign or the wonder of which he spoke while saying to you, Let us go after other gods which you do not know and let us serve them.
   
@@ -70,6 +70,7 @@ You will keep all his commandments that I command you today, in order to do what
   
 the eyes of Yahweh your God.
   
+
 
 
 

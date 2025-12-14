@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJonah%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jonah%201.txt)
   
 
 
-﻿1 The word of Yahweh came to Jonah the son of Amittai in the following words.
+ï»¿1 The word of Yahweh came to Jonah the son of Amittai in the following words.
   
 [Jonah lived in the days of Jeroboam the son of Joash king of Israel.]
   
@@ -86,6 +86,7 @@ For you have done as it pleased you, O Yahweh.
   
 ish for three days and three nights.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2022.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2022.txt)
   
 
 
-﻿1 The prophecy about the valley of vision.
+ï»¿1 The prophecy about the valley of vision.
   
 What has caused all your people to go up to the housetops.
   
@@ -96,6 +96,7 @@ For Yahweh has spoken it.
   
 l be destroyed. For Yahweh has spoken it.
   
+
 
 
 

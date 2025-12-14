@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2034.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2034.txt)
   
 
 
-﻿1 And Elihu continued in the following words.
+ï»¿1 And Elihu continued in the following words.
   
 2 Wise men, listen to my words.
   
@@ -114,6 +114,7 @@ He claps his hands among us and multiplies his words against God.
   
 nds among us and multiplies his words against God.
   
+
 
 
 

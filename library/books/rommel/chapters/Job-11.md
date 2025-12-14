@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2011.txt)
   
 
 
-﻿1 Then Zophar the Naamathite spoke in the following words.
+ï»¿1 Then Zophar the Naamathite spoke in the following words.
   
 2 Should not the multitude of words be answered.
   
@@ -70,6 +70,7 @@ And their hope will be the sorrow of spirit.
   
 ill be the sorrow of spirit.
   
+
 
 
 

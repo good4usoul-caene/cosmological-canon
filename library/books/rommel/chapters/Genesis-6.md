@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%206.txt)
   
 
 
-﻿1 Men began to multiply on the face of the earth, and daughters were born to them.
+ï»¿1 Men began to multiply on the face of the earth, and daughters were born to them.
   
 2 And the sons of God saw that the daughters of men were beautiful, and they took wives from among all those whom they chose.
   
@@ -78,6 +78,7 @@ He carried out everything that God had commanded him.
   
 hing that God had commanded him.
   
+
 
 
 

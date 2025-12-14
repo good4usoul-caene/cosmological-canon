@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%2015.txt)
   
 
 
-﻿1 I am the true vinestock, and my Father is the gardener.
+ï»¿1 I am the true vinestock, and my Father is the gardener.
   
 2 He will cut off every branch that does not bear fruit through me.
   
@@ -100,6 +100,7 @@ But now they have seen those works, and they have hated both me and my Father.
   
 cause have been with me from the beginning.
   
+
 
 
 

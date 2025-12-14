@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2020.txt)
   
 
 
-﻿1 And God spoke all the following words.
+ï»¿1 And God spoke all the following words.
   
 2 I am Yahweh your God who brought you out of the land of Egypt, of the house of servitude.
   
@@ -84,6 +84,7 @@ For by passing your tool on the stones, you will desecrate them.
   
 ness may not be discovered thereon.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2016.txt)
   
 
 
-﻿1 After this, the whole assembly of the children of Israel left Elim.
+ï»¿1 After this, the whole assembly of the children of Israel left Elim.
   
 And on the fifteenth day of the second month after they departed from the land of Egypt, they came to the wilderness of Sin which is between Elim and Sinai.
   
@@ -138,6 +138,7 @@ They ate the manna until they came to the borders of the land of Canaan.
   
 the land of Canaan. 36 The omer is the tenth part of an ephah.
   
+
 
 
 

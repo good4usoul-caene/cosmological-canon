@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%2022.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%2022.txt)
   
 
 
-﻿1 Josiah was eight years old when he began to reign, and he reigned thirty one years in Jerusalem.
+ï»¿1 Josiah was eight years old when he began to reign, and he reigned thirty one years in Jerusalem.
   
 His mother's name was Jedidah the daughter of Adaiah of Bozkath.
   
@@ -72,6 +72,7 @@ And then those servants brought back this answer to the king.
   
 back this answer to the king.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2034.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2034.txt)
   
 
 
-﻿1 Dinah, the daughter Leah bore to Jacob, went out to see the girls of the country.
+ï»¿1 Dinah, the daughter Leah bore to Jacob, went out to see the girls of the country.
   
 2 She was seen by Shechem son of Hamor the Hivite, prince of the country.
   
@@ -112,6 +112,7 @@ And I only have a small number of men, and they will gather against me and they 
   
 red, Will one treat our sister like a prostitute.
   
+
 
 
 

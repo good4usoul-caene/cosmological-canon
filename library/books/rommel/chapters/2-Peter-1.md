@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Peter%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Peter%201.txt)
   
 
 
-﻿1 Simon Peter, a servant and an apostle of Jesus Christ, to those who have obtained a faith of the same value as ours, through the righteousness of our God and of the Savior Jesus Christ.
+ï»¿1 Simon Peter, a servant and an apostle of Jesus Christ, to those who have obtained a faith of the same value as ours, through the righteousness of our God and of the Savior Jesus Christ.
   
 2 Grace and peace be multiplied to you through the knowledge of God and of Jesus our Lord.
   
@@ -58,6 +58,7 @@ For if you do these things, then you will never fall.
   
 have spoken from God.
   
+
 
 
 

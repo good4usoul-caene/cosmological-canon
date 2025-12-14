@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Timothy%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Timothy%203.txt)
   
 
 
-﻿1 Know that there will be difficult times in the last days.
+ï»¿1 Know that there will be difficult times in the last days.
   
 2 For people will be lovers of their own selves, lovers of money, boastful, haughty, abusive, disobedient to parents, ungrateful, unholy.
   
@@ -56,6 +56,7 @@ And the Lord has rescued me from them all.
   
 for every good work.
   
+
 
 
 

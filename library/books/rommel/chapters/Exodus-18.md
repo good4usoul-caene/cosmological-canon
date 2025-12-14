@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2018.txt)
   
 
 
-﻿1 Jethro the priest of Midian, father in law of Moses, learned everything that God had done for Moses and for Israel his people.
+ï»¿1 Jethro the priest of Midian, father in law of Moses, learned everything that God had done for Moses and for Israel his people.
   
 And how Yahweh had brought Israel out of Egypt.
   
@@ -100,6 +100,7 @@ And they brought difficult causes before Moses, and they themselves decided on a
   
 law depart, and Jethro went to his country.
   
+
 
 
 

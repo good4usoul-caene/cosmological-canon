@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20130.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20130.txt)
   
 
 
-﻿1 Out of the depths I call on you, O Yahweh.
+ï»¿1 Out of the depths I call on you, O Yahweh.
   
 2 Hear my voice, O Lord.
   
@@ -36,6 +36,7 @@ For there is mercy with Yahweh, there is a great redemption with our Lord.
   
 iniquities.
   
+
 
 
 

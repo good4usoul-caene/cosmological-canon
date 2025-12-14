@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2023.txt)
   
 
 
-﻿1 You will not spread false rumor nor receive a false report.
+ï»¿1 You will not spread false rumor nor receive a false report.
   
 And you will not join hands with the wicked to be an unjust witness.
   
@@ -118,6 +118,7 @@ For if you serve their gods, it will surely be your destruction.
   
 erve their gods, it will surely be your destruction.
   
+
 
 
 

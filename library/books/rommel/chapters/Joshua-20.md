@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2020.txt)
   
 
 
-﻿1 And Yahweh spoke to Joshua in the following words.
+ï»¿1 And Yahweh spoke to Joshua in the following words.
   
 2 Speak to the children of Israel by saying: Establish cities of refuge for yourselves, as I commanded you by the hand of Moses.
   
@@ -38,6 +38,7 @@ Then the killer will return and can come to his own city and to his own house, t
   
 or judgment.
   
+
 
 
 

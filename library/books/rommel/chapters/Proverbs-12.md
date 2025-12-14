@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2012.txt)
   
 
 
-﻿1 He who loves instruction loves knowledge, but he who hates reproof is a fool.
+ï»¿1 He who loves instruction loves knowledge, but he who hates reproof is a fool.
   
 2 A good man obtains favor from Yahweh, and Yahweh will rebuke the man who conceives wicked plans.
   
@@ -68,6 +68,7 @@
   
 e is no death in that path.
   
+
 
 
 

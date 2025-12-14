@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Corinthians%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Corinthians%202.txt)
   
 
 
-﻿1 So I have resolved within myself that when I return to you, it will no longer be to sadden you.
+ï»¿1 So I have resolved within myself that when I return to you, it will no longer be to sadden you.
   
 2 For if I grieve you, who then is there to make me glad, except the one whom I have grieved.
   
@@ -62,6 +62,7 @@ But in sincerity, as from [the spirit] God, we speak in Christ in the sight of G
   
 ht of God [the creator].
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%206.txt)
   
 
 
-﻿1 Afterward, Jesus went over the sea of â€‹â€‹Galilee which is the sea of â€‹â€‹Tiberias.
+ï»¿1 Afterward, Jesus went over the sea of Ã¢â‚¬â€¹Ã¢â‚¬â€¹Galilee which is the sea of Ã¢â‚¬â€¹Ã¢â‚¬â€¹Tiberias.
   
 2 And a great multitude followed him, because they saw the miracles that he was performing on the sick.
   
@@ -228,6 +228,7 @@ For it was the one who should betray him, one of his twelve apostles.
   
 of Judas Iscariot, the son of Simon. For it was the one who should betray him, one of his twelve apostles.
   
+
 
 
 

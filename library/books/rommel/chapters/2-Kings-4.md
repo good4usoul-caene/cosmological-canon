@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%204.txt)
   
 
 
-﻿1 Now a woman of the wives of the sons of the prophets [disciples who study to become prophets - under the guidance of a leader in those days] cried to Elisha by saying: Your servant my husband is dead, and you know that your servant feared Yahweh.
+ï»¿1 Now a woman of the wives of the sons of the prophets [disciples who study to become prophets - under the guidance of a leader in those days] cried to Elisha by saying: Your servant my husband is dead, and you know that your servant feared Yahweh.
   
 But he owed money to a man, and now the creditor has come to take my two sons and make them his slaves.
   
@@ -200,6 +200,7 @@ For thus speaks Yahweh, They will eat, and there will be a remaining.
   
 set it before them and they ate, and there was a remaining, according to the word of Yahweh.
   
+
 
 
 

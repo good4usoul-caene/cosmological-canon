@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2094.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2094.txt)
   
 
 
-﻿1 O Yahweh God to whom vengeance belongs, O God to whom vengeance belongs, show yourself.
+ï»¿1 O Yahweh God to whom vengeance belongs, O God to whom vengeance belongs, show yourself.
   
 2 Arise, you the judge of the earth, and reward the proud according to their works.
   
@@ -78,6 +78,7 @@ Yes, Yahweh our God will destroy them.
   
 ahweh our God will destroy them.
   
+
 
 
 

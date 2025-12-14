@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2042.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2042.txt)
   
 
 
-﻿1 Here is my servant whom I support, my chosen one in whom my soul takes pleasure.
+ï»¿1 Here is my servant whom I support, my chosen one in whom my soul takes pleasure.
   
 For I have placed my spirit on him, and therefore he will proclaim justice to the nations.
   
@@ -128,6 +128,7 @@ They have been devoured, but afterward they have not considered.
   
 ve been devoured, but afterward they have not considered.
   
+
 
 
 

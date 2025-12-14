@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEphesians%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ephesians%206.txt)
   
 
 
-﻿1 Children, obey your parents in the Lord.
+ï»¿1 Children, obey your parents in the Lord.
   
 For this is right.
   
@@ -70,6 +70,7 @@ Do this with full perseverance, and pray for all the saints.
   
 Christ with an undying love.
   
+
 
 
 

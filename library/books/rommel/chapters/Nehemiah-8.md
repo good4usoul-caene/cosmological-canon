@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%208.txt)
   
 
 
-﻿1 Then all the people gathered together in the street that was before the water gate.
+ï»¿1 Then all the people gathered together in the street that was before the water gate.
   
 And they spoke to Ezra so that he might bring the book of the law of Moses which Yahweh had commanded to Israel.
   
@@ -80,6 +80,7 @@ And there was a solemn assembly on the eighth day, according to the manner [the 
   
 anner [the ordinance of the law].
   
+
 
 
 

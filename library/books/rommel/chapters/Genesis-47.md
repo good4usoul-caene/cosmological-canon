@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2047.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2047.txt)
   
 
 
-﻿1 Then Joseph went in and told Pharaoh, My brothers and my father came from the land of Canaan, with their flocks and their herds and all that they have.
+ï»¿1 Then Joseph went in and told Pharaoh, My brothers and my father came from the land of Canaan, with their flocks and their herds and all that they have.
   
 And behold, they are in the land of Goshen.
   
@@ -138,6 +138,7 @@ And Israel bowed himself on the head of his bed.
   
 swore to him. And Israel bowed himself on the head of his bed.
   
+
 
 
 

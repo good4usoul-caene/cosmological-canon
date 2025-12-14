@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%208.txt)
   
 
 
-﻿1 You will observe and do all the commandments that I command you today, so that you may live, and multiply, and go in, and possess the land that Yahweh swore to your fathers.
+ï»¿1 You will observe and do all the commandments that I command you today, so that you may live, and multiply, and go in, and possess the land that Yahweh swore to your fathers.
   
 2 Remember all the way by which Yahweh your God has led you these forty years in the wilderness to humble you, and to test you, and to know what was in your heart and whether or not you would keep his commandments.
   
@@ -60,6 +60,7 @@ The one who brought forth water for you out of the rock of flint.
   
 ice of Yahweh your God.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2080.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2080.txt)
   
 
 
-﻿1 A psalm of Asaph.
+ï»¿1 A psalm of Asaph.
   
 Give ear, O shepherd of Israel, you who lead Joseph like a flock.
   
@@ -70,6 +70,7 @@ Cause your face to shine on us, and we will be saved.
   
 on us, and we will be saved.
   
+
 
 
 

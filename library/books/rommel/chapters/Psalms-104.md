@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20104.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20104.txt)
   
 
 
-﻿1 My soul blesses Yahweh.
+ï»¿1 My soul blesses Yahweh.
   
 O Yahweh my God, you are exceedingly great.
   
@@ -112,6 +112,7 @@ Praise Yahweh.
   
 e no more. My soul blesses Yahweh. Praise Yahweh.
   
+
 
 
 

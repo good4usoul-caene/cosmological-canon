@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2033.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2033.txt)
   
 
 
-﻿1 Jacob lifted up his eyes and looked.
+ï»¿1 Jacob lifted up his eyes and looked.
   
 And behold, Esau was coming with four hundred men.
   
@@ -82,6 +82,7 @@ This is why the name of this place was called Succoth.
   
 lled it: The mighty God of Israel.
   
+
 
 
 

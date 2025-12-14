@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2024.txt)
   
 
 
-﻿1 And they came to the sepulcher on the first day of the week, early in the morning, and they had with them the spices that they had prepared.
+ï»¿1 And they came to the sepulcher on the first day of the week, early in the morning, and they had with them the spices that they had prepared.
   
 2 And they found the stone rolled away from the sepulcher.
   
@@ -138,6 +138,7 @@ But you must remain in the city until you are endued with the power from on high
   
 hey were continually in the temple, praising and blessing God.
   
+
 
 
 

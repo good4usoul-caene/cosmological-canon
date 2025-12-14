@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEsther%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Esther%202.txt)
   
 
 
-﻿1 After these things, when the anger of king Ahasuerus had appeased, he remembered Vashti and what she had done, and what had been decided concerning her.
+ï»¿1 After these things, when the anger of king Ahasuerus had appeased, he remembered Vashti and what she had done, and what had been decided concerning her.
   
 2 And the king's servants who work for his personal well-being in his presence said: Let young and beautiful virgins be sought for the king.
   
@@ -102,6 +102,7 @@ And she told it to the king and specified that this information came from Mordec
   
 the book of the Chronicles before the king.
   
+
 
 
 

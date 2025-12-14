@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2050.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2050.txt)
   
 
 
-﻿1 Then Joseph fell on his father's face and wept on him, and kissed him.
+ï»¿1 Then Joseph fell on his father's face and wept on him, and kissed him.
   
 2 And Joseph commanded his servants the physicians to embalm his father.
   
@@ -94,6 +94,7 @@ And they embalmed him and put him in a coffin in Egypt.
   
 ed him and put him in a coffin in Egypt.
   
+
 
 
 

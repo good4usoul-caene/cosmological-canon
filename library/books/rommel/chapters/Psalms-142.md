@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20142.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20142.txt)
   
 
 
-﻿1 A psalm of David, when he was in the cave.
+ï»¿1 A psalm of David, when he was in the cave.
   
 I cry to Yahweh with my voice, I implore Yahweh with my voice.
   
@@ -36,6 +36,7 @@ The righteous will surround me and learn from me, when you will have done me goo
   
 ne me good.
   
+
 
 
 

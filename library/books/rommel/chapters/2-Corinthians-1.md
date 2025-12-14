@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Corinthians%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Corinthians%201.txt)
   
 
 
-﻿1 Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the church of God which is at Corinth, and to all the saints who are in all Achaia.
+ï»¿1 Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, to the church of God which is at Corinth, and to all the saints who are in all Achaia.
   
 2 May grace and peace be given to you from God our Father and from the Lord Jesus Christ.
   
@@ -80,6 +80,7 @@ That is why it is through him that we say Amen to the glory of God.
   
 ou may stand firmly in the faith.
   
+
 
 
 

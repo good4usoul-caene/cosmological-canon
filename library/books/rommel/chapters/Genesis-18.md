@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2018.txt)
   
 
 
-﻿1 And Yahweh appeared to him by the oaks of Mamre, as he sat at the entrance to his tent during the heat of the day.
+ï»¿1 And Yahweh appeared to him by the oaks of Mamre, as he sat at the entrance to his tent during the heat of the day.
   
 2 He raised his eyes and looked, and behold, three men were standing near him.
   
@@ -138,6 +138,7 @@ And Abraham returned to his dwelling.
   
 hed speaking to Abraham. And Abraham returned to his dwelling.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2045.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2045.txt)
   
 
 
-﻿1 A psalm of the sons of Korah, a song of love [on the occasion of a wedding of king Solomon the son of David].
+ï»¿1 A psalm of the sons of Korah, a song of love [on the occasion of a wedding of king Solomon the son of David].
   
 My heart meditates on an excellent thing, therefore I say: My work is for the king.
   
@@ -76,6 +76,7 @@ The peoples will praise you forever and ever.
   
 ll praise you forever and ever.
   
+
 
 
 

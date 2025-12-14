@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEcclesiastes%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ecclesiastes%202.txt)
   
 
 
-﻿1 And I have said in my heart: Come now, and I will test you with joy.
+ï»¿1 And I have said in my heart: Come now, and I will test you with joy.
   
 Therefore enjoy the pleasant things.
   
@@ -122,6 +122,7 @@ This also is vanity and the pursuit of the wind.
   
 God. This also is vanity and the pursuit of the wind.
   
+
 
 
 

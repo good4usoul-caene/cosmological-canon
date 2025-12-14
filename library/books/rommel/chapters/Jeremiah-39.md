@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2039.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2039.txt)
   
 
 
-﻿1 In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadrezzar king of Babylon came with all his army against Jerusalem and they besieged it.
+ï»¿1 In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadrezzar king of Babylon came with all his army against Jerusalem and they besieged it.
   
 2 And in the eleventh year of Zedekiah, on the ninth day of the fourth month, the Chaldeans entered the city.
   
@@ -68,6 +68,7 @@ Your life will be your loot, because you have put your trust in me, says Yahweh.
   
 r trust in me, says Yahweh.
   
+
 
 
 

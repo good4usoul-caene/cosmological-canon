@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%207.txt)
   
 
 
-﻿1 Then Elisha said, Listen to the word of Yahweh, Thus speaks Yahweh: Tomorrow at this hour in the gate of Samaria, one measure of fine flour will be sold for a shekel, and two measures of barley for a shekel.
+ï»¿1 Then Elisha said, Listen to the word of Yahweh, Thus speaks Yahweh: Tomorrow at this hour in the gate of Samaria, one measure of fine flour will be sold for a shekel, and two measures of barley for a shekel.
   
 2 Then the officer on whose hand the king leaned replied to the man of God and said: Such a thing cannot happen even if Yahweh makes windows in the heaven to send food to us.
   
@@ -92,6 +92,7 @@ And Elisha had answered him: You will see it with your eyes but you will not eat
   
 le trod on him in the gate and he died.
   
+
 
 
 

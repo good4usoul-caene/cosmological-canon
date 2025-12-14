@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%203.txt)
   
 
 
-﻿1 These are the generations of Aaron and Moses in the day that Yahweh spoke with Moses at mount Sinai.
+ï»¿1 These are the generations of Aaron and Moses in the day that Yahweh spoke with Moses at mount Sinai.
   
 2 These are the names of Aaron's sons: Nadab the firstborn, and Abihu, and Eleazar, and Ithamar.
   
@@ -150,6 +150,7 @@ One shekel is equal to twenty gerahs.
   
 his sons according to the word of Yahweh, as Yahweh commanded Moses.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2021.txt)
   
 
 
-﻿1 And after we separated from them, we did set sail and went straight to Cos, and the next day we came to Rhodes, and from there we came to Patara.
+ï»¿1 And after we separated from them, we did set sail and went straight to Cos, and the next day we came to Rhodes, and from there we came to Patara.
   
 2 And we found a ship sailing to Phoenicia, and we went aboard and set sail.
   
@@ -162,6 +162,7 @@ And the people became quiet, and Paul said the following thing to them in the He
   
 e quiet, and Paul said the following thing to them in the Hebrew language.
   
+
 
 
 

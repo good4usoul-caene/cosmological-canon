@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2019.txt)
   
 
 
-﻿1 In the third month after their departure from the land of Egypt, the same day the children of Israel came to the wilderness of Sinai.
+ï»¿1 In the third month after their departure from the land of Egypt, the same day the children of Israel came to the wilderness of Sinai.
   
 2 They departed from Rephidim and came to the desert of Sinai, and they camped in the wilderness.
   
@@ -96,6 +96,7 @@ But let not the priests and the people rush up to Yahweh, lest he destroy them.
   
 to the people and told them these things.
   
+
 
 
 

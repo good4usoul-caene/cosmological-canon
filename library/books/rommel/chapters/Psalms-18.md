@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2018.txt)
   
 
 
-﻿1 A psalm of David the servant of Yahweh.
+ï»¿1 A psalm of David the servant of Yahweh.
   
 He spoke the words of this song to Yahweh in the day [at the time] when Yahweh had saved him out of the hand of all his enemies, and out of the hand of Saul.
   
@@ -142,6 +142,7 @@ You help me to defeat those who rise against me, you save me from the violent ma
   
 e shows mercy to his anointed, to David and to his seed forever.
   
+
 
 
 

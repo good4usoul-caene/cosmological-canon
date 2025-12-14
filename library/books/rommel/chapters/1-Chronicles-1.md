@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Chronicles%201.txt)
   
 
 
@@ -154,6 +154,7 @@ These were the chiefs of Edom.
   
 f Mibzar. 54 Chief Magdiel, chief Iram. These were the chiefs of Edom.
   
+
 
 
 

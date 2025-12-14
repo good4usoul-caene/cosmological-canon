@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%2016.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses after the death of Aaron's two sons.
+ï»¿1 And Yahweh spoke to Moses after the death of Aaron's two sons.
   
 They died when they came near to Yahweh.
   
@@ -108,6 +108,7 @@ And Moses did as Yahweh had commanded.
   
 ir sins. And Moses did as Yahweh had commanded.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%204.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words.
+ï»¿1 And Yahweh spoke to Moses in the following words.
   
 2 Speak to the children of Israel and say, If anyone sins through ignorance [an involuntary action is a circumstantial ignorance] by doing any of the things that Yahweh commanded not to do.
   
@@ -112,6 +112,7 @@ This is how the priest will make an atonement for him concerning the sin that he
   
 n that he has committed, and he will be forgiven.
   
+
 
 
 

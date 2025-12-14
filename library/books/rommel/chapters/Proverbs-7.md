@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%207.txt)
   
 
 
-﻿1 My son, keep my words.
+ï»¿1 My son, keep my words.
   
 Hide my commandments within you.
   
@@ -90,6 +90,7 @@ All those whom the women like her have killed are numerous.
   
 it goes down to the chambers of death.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Timothy%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Timothy%201.txt)
   
 
 
-﻿1 Paul, an apostle of Jesus Christ by the will of God, according to the promise of the life that is in Christ Jesus.
+ï»¿1 Paul, an apostle of Jesus Christ by the will of God, according to the promise of the life that is in Christ Jesus.
   
 2 To Timothy my beloved son: Grace, and mercy, and peace, from God the Father and Christ Jesus our Lord.
   
@@ -58,6 +58,7 @@ You know better than anyone how much he served me in Ephesus.
   
 served me in Ephesus.
   
+
 
 
 

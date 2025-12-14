@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%205.txt)
   
 
 
-﻿1 Therefore being justified by faith, we have peace with God through our Lord Jesus Christ.
+ï»¿1 Therefore being justified by faith, we have peace with God through our Lord Jesus Christ.
   
 2 For it is by Jesus that our faith can give us access into this grace in which we stand [that is to say, it is Jesus who has allowed us to know exactly how we must serve God].
   
@@ -70,6 +70,7 @@ All this will be finished after the destruction of the temple that existed durin
   
 rough Jesus Christ our Lord.
   
+
 
 
 

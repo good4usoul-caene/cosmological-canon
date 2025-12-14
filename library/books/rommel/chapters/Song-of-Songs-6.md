@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CSong%20of%20Songs%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Song%20of%20Songs%206.txt)
   
 
 
-﻿1 Where has your beloved gone, O you the most beautiful among women.
+ï»¿1 Where has your beloved gone, O you the most beautiful among women.
   
 Which way has your beloved turned.
   
@@ -60,6 +60,7 @@ Why do you contemplate the Shulamite as one contemplates the dance of Mahanaim.
   
 the dance of Mahanaim.
   
+
 
 
 

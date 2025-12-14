@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%2011.txt)
   
 
 
-﻿1 Now a Gileadite named Jephthah was a valiant man.
+ï»¿1 Now a Gileadite named Jephthah was a valiant man.
   
 He was the son of a prostitute woman and his father's name was Gilead.
   
@@ -146,6 +146,7 @@ She had known no man.
   
 ament the daughter of Jephthah the Gileadite for four days a year.
   
+
 
 
 

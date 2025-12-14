@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%203.txt)
   
 
 
-﻿1 These are now the nations to which Yahweh had given rest in order to probe through them all those in Israel who had not known all the wars of Canaan.
+ï»¿1 These are now the nations to which Yahweh had given rest in order to probe through them all those in Israel who had not known all the wars of Canaan.
   
 2 Only so that the descendants of the children of Israel know.
   
@@ -116,6 +116,7 @@ So they descended after him, and took the passages of the Jordan which allowed t
   
 tines with an ox goad and he also delivered Israel.
   
+
 
 
 

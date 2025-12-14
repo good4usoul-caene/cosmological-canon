@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%201.txt)
   
 
 
-﻿1 In the thirtieth year [after the book of the law given by Moses was discovered in the time of Josiah king of Judah], on the fifth day of the fourth month, while I was among the captives near the river Chebar, the heavens were opened and I saw visions of God.
+ï»¿1 In the thirtieth year [after the book of the law given by Moses was discovered in the time of Josiah king of Judah], on the fifth day of the fourth month, while I was among the captives near the river Chebar, the heavens were opened and I saw visions of God.
   
 2 On the fifth day of the month, which was the fifth year of the captivity of Jehoiachin king of Judah.
   
@@ -112,6 +112,7 @@ And then I heard a voice speaking to me.
   
 my face. And then I heard a voice speaking to me.
   
+
 
 
 

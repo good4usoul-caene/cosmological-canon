@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Corinthians%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Corinthians%204.txt)
   
 
 
-﻿1 Therefore, having this ministry, as we have received mercy, we do not lose courage.
+ï»¿1 Therefore, having this ministry, as we have received mercy, we do not lose courage.
   
 2 We reject the shameful things that are done in secret, and we do not act deceitfully, and we do not distort the word of God.
   
@@ -64,6 +64,7 @@ For the things that are visible are temporary, but the things that are invisible
   
 re invisible are eternal.
   
+
 
 
 

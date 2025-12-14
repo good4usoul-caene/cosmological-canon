@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%209.txt)
   
 
 
-﻿1 Falsifications in the bible, first part: The new testament.
+ï»¿1 Falsifications in the bible, first part: The new testament.
   
 2 If we presented a story of the future events to a scientist, he would be well inspired to check the correspondence between the events described and the reality of the facts before deciding on the plausibility of the extrasensory capacities of the author.
   
@@ -222,6 +222,7 @@ I am the alpha and the omega, the first and the last, the beginning and the end 
   
 about the only begotten Son of God (Isaiah 28:16) and about God the Father (Isaiah 41:4 - 44:6 - 48:12).
   
+
 
 
 

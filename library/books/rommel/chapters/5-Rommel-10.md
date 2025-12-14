@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%2010.txt)
   
 
 
-﻿1 Falsifications in the Bible, second part: The old testament.
+ï»¿1 Falsifications in the Bible, second part: The old testament.
   
 2 As I pointed out in the section 'The identity of God', the chronology that is exposed in the revelations of the holy spirit is not conceived from a human perspective.
   
@@ -36,6 +36,7 @@
   
 ing no one.
   
+
 
 
 

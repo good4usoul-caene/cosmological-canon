@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2021.txt)
   
 
 
-﻿1 The king Arad, a Canaanite who lived in the south, heard that Israel had come by the way of Atharim.
+ï»¿1 The king Arad, a Canaanite who lived in the south, heard that Israel had come by the way of Atharim.
   
 Then he fought against Israel and took prisoners among them.
   
@@ -126,6 +126,7 @@ So they took possession of his land.
   
 one left from him. So they took possession of his land.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Peter%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Peter%203.txt)
   
 
 
-﻿1 Beloved, this is now the second epistle that I write to you.
+ï»¿1 Beloved, this is now the second epistle that I write to you.
   
 In one and the other, I seek to cause your healthy minds to stay awake through warnings.
   
@@ -62,6 +62,7 @@ Amen.
   
 y now and forever. Amen.
   
+
 
 
 

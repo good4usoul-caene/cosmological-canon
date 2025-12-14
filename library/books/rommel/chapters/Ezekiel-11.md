@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2011.txt)
   
 
 
@@ -94,6 +94,7 @@ And the vision that I had seen vanished from me.
   
 e things that Yahweh had revealed to me.
   
+
 
 
 

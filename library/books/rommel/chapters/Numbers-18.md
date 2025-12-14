@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2018.txt)
   
 
 
-﻿1 And Yahweh said to Aaron: You and your sons, and your father's house with you, you will bear the iniquity of the sanctuary.
+ï»¿1 And Yahweh said to Aaron: You and your sons, and your father's house with you, you will bear the iniquity of the sanctuary.
   
 And you and your sons with you will bear the iniquity of your priesthood.
   
@@ -128,6 +128,7 @@ You will not defile the holy offerings of the children of Israel, lest you die.
   
 e holy offerings of the children of Israel, lest you die.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20126.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20126.txt)
   
 
 
-﻿1 Prophetic song.
+ï»¿1 Prophetic song.
   
 We will be like those who dream, when Yahweh brings back the captives of Zion.
   
@@ -30,6 +30,7 @@ Make us feel like an arid land on which rivers are brought.
   
 sheaves.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2013.txt)
   
 
 
-﻿1 And Abram went from Egypt to the South, he and his wife and all that belonged to him, and Lot with him.
+ï»¿1 And Abram went from Egypt to the South, he and his wife and all that belonged to him, and Lot with him.
   
 2 Abram was very rich in cattle and silver and gold.
   
@@ -70,6 +70,7 @@ And he built there an altar to Yahweh.
   
 lt there an altar to Yahweh.
   
+
 
 
 

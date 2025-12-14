@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2029.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2029.txt)
   
 
 
-﻿1 Ho Ariel, Ariel, the city where David made his home [that is to say, Jerusalem].
+ï»¿1 Ho Ariel, Ariel, the city where David made his home [that is to say, Jerusalem].
   
 For some time they will continue to make their feasts year after year.
   
@@ -116,6 +116,7 @@ They will sanctify the holy one of Jacob, they will fear the God of Israel.
   
 standing, those who murmur will learn the doctrine.
   
+
 
 
 

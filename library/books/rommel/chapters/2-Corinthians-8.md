@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Corinthians%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Corinthians%208.txt)
   
 
 
-﻿1 Brothers, we want you to know the grace of God that has been manifested in the churches of Macedonia.
+ï»¿1 Brothers, we want you to know the grace of God that has been manifested in the churches of Macedonia.
   
 2 In the midst of many tribulations which tested them, their overflowing joy and deep poverty have abundantly produced rich liberalities on their part.
   
@@ -68,6 +68,7 @@ And concerning our brothers, they are the messengers of the churches, they are t
   
 ave reason to glory in you.
   
+
 
 
 

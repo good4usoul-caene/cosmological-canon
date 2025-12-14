@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C3%20Rommel%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\3%20Rommel%201.txt)
   
 
 
-﻿1 Preface to the Testament of Jesus Christ, first part.
+ï»¿1 Preface to the Testament of Jesus Christ, first part.
   
 2 Until now it is not obvious to differentiate between Yahweh and his angels (Genesis 16:11-13 - 28:12-13 - 31:11-13 - Exodus 33:8-23 - Joshua 5:13-15 - Judges 2:1-5 - 5:23 - 6:11-13,14-17 - 13:1-25 - Zechariah 3:1-7 - 4 Rommel 4:6).
   
@@ -170,7 +170,7 @@ This is the tabernacle [the dwelling] which contained the ark of the covenant in
   
 And the tabernacle was created only to be an answer to the transgression of the people who have made a god that they could see with their eyes while Moses had gone to the mountain (1 Rommel 3:16).
   
-32 And by disobeying Moses' command not to add or subtract anything from the laws (Deuteronomy 4:1-2), David replaced the tabernacle with a fixed house which was to be different at least in the structure of the openings (Exodus 26:1-6,7-15 - 1 Kings 6 - 2 Chronicles 3â€"4).
+32 And by disobeying Moses' command not to add or subtract anything from the laws (Deuteronomy 4:1-2), David replaced the tabernacle with a fixed house which was to be different at least in the structure of the openings (Exodus 26:1-6,7-15 - 1 Kings 6 - 2 Chronicles 3Ã¢â‚¬"4).
   
 And we see that Solomon who actually built this temple has celebrated the creation of God in the courtyard according the plans given to him by his father David who is the first to have wanted to make the ark of God dwell in a more comfortable structure (2 Samuel 7:1-3 - 1 Kings 8:17-20 - 1 Chronicles 28:9-21).
   
@@ -220,7 +220,7 @@ And the Mishnah is established after Jesus Christ and is presumed to be an oral 
   
 This quote says: David and Job and Ezekiel have described the length of the Torah without putting a number to it.
   
-37 And Ezekiel is the only and unique prophet after Moses (Genesis - Exodus - Leviticus - Numbers - Deuteronomy) who enunciated new laws for the family of Jacob named Israel (Ezekiel 40 â€" 48), since all the other prophets simply made known the promises of God which concerned certain intervals of time of the future in relation to the time of their proclamation.
+37 And Ezekiel is the only and unique prophet after Moses (Genesis - Exodus - Leviticus - Numbers - Deuteronomy) who enunciated new laws for the family of Jacob named Israel (Ezekiel 40 Ã¢â‚¬" 48), since all the other prophets simply made known the promises of God which concerned certain intervals of time of the future in relation to the time of their proclamation.
   
 However, in order to bear witness to significant events that can be useful in instructing others about what behaviors they should or should not have in their relationship with God, certain commemorations were instituted (Judges 11:30-40 - 2 Kings 25:8-10 - Zechariah 7:1-5 - Esther 9:20-32 - John 10:22-24) for the people who were united by the desire for a rigorous practice of the law of Moses.
   
@@ -284,7 +284,7 @@ For Abraham was declared by God to be righteous, not on account of circumcision,
   
 For before he was circumcised the following statement was made regarding him, 'Abraham believed God, and it was accounted to him for righteousness', Genesis 15:6.
   
-And we, therefore, in the uncircumcision of our flesh, believing God through Christ, and having that circumcision which is of advantage to us who have acquired it â€” namely, that of the heart â€” we hope to appear righteous before and well-pleasing to God, since already we have received His testimony through the words of the prophets.
+And we, therefore, in the uncircumcision of our flesh, believing God through Christ, and having that circumcision which is of advantage to us who have acquired it Ã¢â‚¬â€ namely, that of the heart Ã¢â‚¬â€ we hope to appear righteous before and well-pleasing to God, since already we have received His testimony through the words of the prophets.
   
 And, further, God will be slandered unless you acknowledge that you were commanded to observe the Sabbath, and to present offerings, and that the Lord submitted to have a place called by the name of God, in order that, as has been said, you might not become impious and godless by worshipping idols and forgetting God, as indeed you do always appear to have been.
   
@@ -566,6 +566,7 @@ And hence there seem to be seeds of truth among all men, but they are charged wi
   
 , they have received such suggestions from the prophets as have enabled them to understand and interpret these things. And hence there seem to be seeds of truth among all men, but they are charged with not accurately understanding [the truth] when they assert contradictories. (The First Apology, Chapter 44)
   
+
 
 
 

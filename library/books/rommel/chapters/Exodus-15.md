@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2015.txt)
   
 
 
-﻿1 Then Moses and the children of Israel sang this song to Yahweh by saying, I will sing to Yahweh for he has triumphed gloriously.
+ï»¿1 Then Moses and the children of Israel sang this song to Yahweh by saying, I will sing to Yahweh for he has triumphed gloriously.
   
 He threw the horse and its rider into the sea.
   
@@ -112,6 +112,7 @@ And they camped there near the waters.
   
 alm trees. And they camped there near the waters.
   
+
 
 
 

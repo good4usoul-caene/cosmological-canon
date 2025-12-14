@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Kings%207.txt)
   
 
 
@@ -184,6 +184,7 @@ And Solomon brought in the things which David his father had dedicated, the silv
   
 nd the gold and the vessels, and he put them in the treasures of the house of Yahweh.
   
+
 
 
 

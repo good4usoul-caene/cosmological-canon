@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%202.txt)
   
 
 
-﻿1 Then Joshua the son of Nun sent two men from Shittim to spy secretly and he said to them, Go and see the land, and also Jericho.
+ï»¿1 Then Joshua the son of Nun sent two men from Shittim to spy secretly and he said to them, Go and see the land, and also Jericho.
   
 So they went and entered the house of a prostitute named Rahab, and spent the night there.
   
@@ -94,6 +94,7 @@ For all the inhabitants of the land are dismayed because of us.
   
 of the land are dismayed because of us.
   
+
 
 
 

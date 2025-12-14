@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2021.txt)
   
 
 
-﻿1 And there was a famine in the days of David that lasted three years.
+ï»¿1 And there was a famine in the days of David that lasted three years.
   
 And David sought the face of Yahweh, and Yahweh said: It is because of Saul and of his bloodthirsty house, because he killed the Gibeonites.
   
@@ -88,6 +88,7 @@ He was the son of Rapha.
   
 avid and by the hand of his servants.
   
+
 
 
 

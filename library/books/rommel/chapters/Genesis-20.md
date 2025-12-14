@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2020.txt)
   
 
 
-﻿1 Abraham departed from there toward the land of the South.
+ï»¿1 Abraham departed from there toward the land of the South.
   
 And he settled between Kadesh and Shur, and stayed in Gerar.
   
@@ -80,6 +80,7 @@ And they were able to give birth.
   
 because of Sarah, Abraham's wife.
   
+
 
 
 

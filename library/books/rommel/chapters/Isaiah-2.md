@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%202.txt)
   
 
 
-﻿1 A prophecy of Isaiah the son of Amoz concerning Judah and Jerusalem.
+ï»¿1 A prophecy of Isaiah the son of Amoz concerning Judah and Jerusalem.
   
 2 In the last days, it will happen that the mountain of the house of Yahweh will be established on the top of the mountains, and will be exalted above the hills, and all nations will flow into it.
   
@@ -74,6 +74,7 @@ Indeed, what value does he have.
   
 deed, what value does he have.
   
+
 
 
 

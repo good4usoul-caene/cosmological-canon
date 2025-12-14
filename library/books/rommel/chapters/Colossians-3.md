@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CColossians%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Colossians%203.txt)
   
 
 
-﻿1 So if you have been raised with Christ [that is to say, if you want to obey the Holy Spirit and thus be inhabited by the Holy Spirit], then seek the things that are above, where Christ has gone to sit at the right hand of God.
+ï»¿1 So if you have been raised with Christ [that is to say, if you want to obey the Holy Spirit and thus be inhabited by the Holy Spirit], then seek the things that are above, where Christ has gone to sit at the right hand of God.
   
 2 Set your mind on the things that are above, and not on the things that are on the earth.
   
@@ -84,6 +84,7 @@ God makes no distinction between persons when he defines the notion of righteous
   
 efines the notion of righteousness.
   
+
 
 
 

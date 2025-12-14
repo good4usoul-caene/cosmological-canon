@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzra%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezra%203.txt)
   
 
 
-﻿1 And the seventh month came, and the children of Israel were dwelling in their cities, and the people assembled as one man to Jerusalem.
+ï»¿1 And the seventh month came, and the children of Israel were dwelling in their cities, and the people assembled as one man to Jerusalem.
   
 2 And Jeshua the son of Jozadak, and his brothers the priests, and Zerubbabel the son of Shealtiel, and his brothers, they arose and built the altar of the God of Israel in order to offer burnt offerings thereon as it is written in the law of Moses the man of God.
   
@@ -48,6 +48,7 @@ For the people shouted with a loud cry, and the noise could be heard afar off.
   
 e heard afar off.
   
+
 
 
 

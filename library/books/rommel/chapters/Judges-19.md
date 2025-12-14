@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%2019.txt)
   
 
 
-﻿1 And also in those days when there was no king in Israel, there was a Levite who dwelt on the side of the mount Ephraim and who took for his concubine a woman from Bethlehem of Judah.
+ï»¿1 And also in those days when there was no king in Israel, there was a Levite who dwelt on the side of the mount Ephraim and who took for his concubine a woman from Bethlehem of Judah.
   
 2 And his concubine played the whore, and after that she went away from him to her father's house at Bethlehem of Judah, and remained there four months.
   
@@ -144,6 +144,7 @@ Consider, and consult, and pronounce judgment.
   
 pt until this day. Consider, and consult, and pronounce judgment.
   
+
 
 
 

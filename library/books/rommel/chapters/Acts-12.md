@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2012.txt)
   
 
 
-﻿1 In those days, Herod the king began to mistreat some of the church.
+ï»¿1 In those days, Herod the king began to mistreat some of the church.
   
 2 And he killed James the brother of John with the sword.
   
@@ -98,6 +98,7 @@ And he was eaten by worms inside his body, and he died.
   
 m John who was surnamed Mark and returned.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2032.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2032.txt)
   
 
 
-﻿1 Jacob continued on his way, and angels of God met him.
+ï»¿1 Jacob continued on his way, and angels of God met him.
   
 2 When Jacob saw them he said, This is God's camp.
   
@@ -110,6 +110,7 @@ For he said: I have seen God face to face, and my life has been preserved.
   
 hat shrinks in the hollow of the thigh of Jacob.
   
+
 
 
 

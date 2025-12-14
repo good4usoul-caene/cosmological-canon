@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2056.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2056.txt)
   
 
 
-﻿1 A psalm of David, when the Philistines received him to make him dwell in Gath [when he was fleeing from the presence of Saul].
+ï»¿1 A psalm of David, when the Philistines received him to make him dwell in Gath [when he was fleeing from the presence of Saul].
   
 Have mercy on me, O God.
   
@@ -64,6 +64,7 @@ You have prevented my feet from falling, so that I may walk before God in the li
   
 the light of the living.
   
+
 
 
 

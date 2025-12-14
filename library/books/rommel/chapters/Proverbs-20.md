@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2020.txt)
   
 
 
-﻿1 Wine is a mocker, a strong drink is a brawler.
+ï»¿1 Wine is a mocker, a strong drink is a brawler.
   
 Whoever drinks too much of it is not wise.
   
@@ -104,6 +104,7 @@ How then can a man understand his own way.
   
 the beauty of old men is the grey head. 30 .
   
+
 
 
 

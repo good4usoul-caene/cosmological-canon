@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%2015.txt)
   
 
 
-﻿1 But some time later, at the time of the wheat harvest, Samson went to his wife and brought her a kid of the flock.
+ï»¿1 But some time later, at the time of the wheat harvest, Samson went to his wife and brought her a kid of the flock.
   
 For he said, I will go in to my wife into her room.
   
@@ -94,6 +94,7 @@ Therefore the name of this spring of water was called Enhakkore, and it still ex
   
 ays of the Philistines for twenty years.
   
+
 
 
 

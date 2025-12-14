@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2037.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2037.txt)
   
 
 
-﻿1 My heart is trembling and moving away from its place.
+ï»¿1 My heart is trembling and moving away from its place.
   
 2 Hear, oh, hear the sound of his voice, and the thunder that comes out of his mouth.
   
@@ -76,6 +76,7 @@ He does not act unfairly.
   
 ccording to their own criteria.
   
+
 
 
 

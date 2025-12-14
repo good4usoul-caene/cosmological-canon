@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2023.txt)
   
 
 
-﻿1 And Balaam said to Balak, Build me here seven altars, and prepare here for me seven bullocks and seven rams.
+ï»¿1 And Balaam said to Balak, Build me here seven altars, and prepare here for me seven bullocks and seven rams.
   
 2 And Balak did as Balaam said, and Balak and Balaam offered a bullock and a ram on each altar.
   
@@ -106,6 +106,7 @@ Maybe it will please God if you curse these people from there.
   
 he offered a bullock and a ram on each altar.
   
+
 
 
 

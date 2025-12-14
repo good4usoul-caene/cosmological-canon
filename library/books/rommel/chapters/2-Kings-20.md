@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%2020.txt)
   
 
 
-﻿1 At that time Hezekiah became sick and was nearly dead.
+ï»¿1 At that time Hezekiah became sick and was nearly dead.
   
 And the prophet Isaiah the son of Amoz came to him and said to him, Thus says Yahweh: Put your house in order, because you will not live but you will die.
   
@@ -92,6 +92,7 @@ Let each generation take care of its own problems.
   
 Manasseh his son reigned in his stead.
   
+
 
 
 

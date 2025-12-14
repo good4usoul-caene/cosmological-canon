@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%204.txt)
   
 
 
-﻿1 And when Ishbosheth the son of Saul heard that Abner had died in Hebron, then his hands became feeble [he no longer had the strength to lift his hands], and all Israel was afraid.
+ï»¿1 And when Ishbosheth the son of Saul heard that Abner had died in Hebron, then his hands became feeble [he no longer had the strength to lift his hands], and all Israel was afraid.
   
 2 And Ishbosheth the son of Saul had two men who were captains of bands.
   
@@ -50,6 +50,7 @@ But they took the head of Ishbosheth and buried it in the sepulcher of Abner in 
   
 f Abner in Hebron.
   
+
 
 
 

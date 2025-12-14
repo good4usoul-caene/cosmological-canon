@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%206.txt)
   
 
 
-﻿1 Now on a sabbath day called the second-first, it happened that Jesus was crossing fields of grain.
+ï»¿1 Now on a sabbath day called the second-first, it happened that Jesus was crossing fields of grain.
   
 And his disciples plucked the ears, and rubbed them in their hands, and ate them.
   
@@ -184,6 +184,7 @@ And when floods came and the waters beat against it, then that house fell easily
   
 he waters beat against it, then that house fell easily and its destruction was great.
   
+
 
 
 

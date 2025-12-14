@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CMicah%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Micah%205.txt)
   
 
 
-﻿1 Now gather your troops, O daughter of troops.
+ï»¿1 Now gather your troops, O daughter of troops.
   
 They are besieging us, they are striking the judge of Israel on the cheek with a rod.
   
@@ -52,6 +52,7 @@ So I will destroy your cities.
   
 have not listened.
   
+
 
 
 

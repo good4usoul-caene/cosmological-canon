@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20108.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20108.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 My heart is prepared, O God.
   
@@ -56,6 +56,7 @@ Will you not go with us in the midst of our armies, O God.
   
 ead down our enemies.
   
+
 
 
 

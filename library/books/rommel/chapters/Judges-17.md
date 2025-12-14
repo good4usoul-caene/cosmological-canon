@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%2017.txt)
   
 
 
-﻿1 There was a man of the mount Ephraim whose name was Micah.
+ï»¿1 There was a man of the mount Ephraim whose name was Micah.
   
 2 And he said to his mother: The eleven hundred shekels of silver that have been taken from you, and for which you have declared curses even in my ears, behold the silver is now in my hands because I was the one who took it.
   
@@ -64,6 +64,7 @@ And the young man was his priest, and he dwelt in the house of Micah.
   
 se my priest is a Levite.
   
+
 
 
 

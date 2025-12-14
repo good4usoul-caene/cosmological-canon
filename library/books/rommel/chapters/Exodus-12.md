@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2012.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses and Aaron in the land of Egypt in the following words.
+ï»¿1 And Yahweh spoke to Moses and Aaron in the land of Egypt in the following words.
   
 2 This month will be the beginning of months for you.
   
@@ -178,6 +178,7 @@ They did so.
   
 brought the children of Israel out of the land of Egypt according to their armies.
   
+
 
 
 

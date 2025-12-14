@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%208.txt)
   
 
 
@@ -144,6 +144,7 @@ Both before the women and children, and before the foreigners who lived among th
   
 men and children, and before the foreigners who lived among them.
   
+
 
 
 

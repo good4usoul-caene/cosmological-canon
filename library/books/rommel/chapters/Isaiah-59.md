@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2059.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2059.txt)
   
 
 
-﻿1 Behold the hand of Yahweh is not too short to save, nor his ear too hard to hear.
+ï»¿1 Behold the hand of Yahweh is not too short to save, nor his ear too hard to hear.
   
 2 But it is your iniquities that separate you from your God.
   
@@ -102,6 +102,7 @@ When the enemy comes like a flood, the spirit of Yahweh will chase him away.
   
 d, says Yahweh, from henceforth and forever.
   
+
 
 
 

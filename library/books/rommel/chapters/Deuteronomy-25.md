@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2025.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2025.txt)
   
 
 
-﻿1 When there is controversy among men, then they will come into judgment, and the sentence will be given to them, and the righteous will be justified and the guilty will be condemned.
+ï»¿1 When there is controversy among men, then they will come into judgment, and the sentence will be given to them, and the righteous will be justified and the guilty will be condemned.
   
 2 If the offender deserves to be beaten, then the judge will cause him to lie on the ground and be beaten before the judge with a number of hits proportional to the gravity of his fault.
   
@@ -62,6 +62,7 @@ Do not forget it.
   
 eaven. Do not forget it.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%208.txt)
   
 
 
-﻿1 Then the men of Ephraim told Gideon, 'What is this way of acting towards us.
+ï»¿1 Then the men of Ephraim told Gideon, 'What is this way of acting towards us.
   
 Why did not you call us when you went to fight the Midianites'.
   
@@ -140,6 +140,7 @@ And he was buried in the sepulcher of Joash his father, in Ophrah of the father 
   
 l who is Gideon, after all the good that he had done to Israel.
   
+
 
 
 

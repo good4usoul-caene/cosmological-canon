@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%2010.txt)
   
 
 
-﻿1 Now these are those who sealed it: Nehemiah the governor, the son of Hacaliah, and Zedekiah.
+ï»¿1 Now these are those who sealed it: Nehemiah the governor, the son of Hacaliah, and Zedekiah.
   
 2 And Seraiah, and Azariah, and Jeremiah.
   
@@ -112,6 +112,7 @@ And thus we will not forsake the house of our God.
   
 nd thus we will not forsake the house of our God.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%205.txt)
   
 
 
-﻿1 And a certain man named Ananias, with his wife Sapphira, sold a possession.
+ï»¿1 And a certain man named Ananias, with his wife Sapphira, sold a possession.
   
 2 And he hid a part of the price, with the complicity of his wife.
   
@@ -140,6 +140,7 @@ And they called the apostles, and had them beaten, and commanded them that they 
   
 hrist every day, in the temple and in the houses of the people.
   
+
 
 
 

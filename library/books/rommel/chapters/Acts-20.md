@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2020.txt)
   
 
 
-﻿1 When the trouble had ceased, Paul called the disciples together and exhorted them.
+ï»¿1 When the trouble had ceased, Paul called the disciples together and exhorted them.
   
 Then he took leave of them, and departed for Macedonia.
   
@@ -122,6 +122,7 @@ And they accompanied him to the ship.
   
 his face again. And they accompanied him to the ship.
   
+
 
 
 

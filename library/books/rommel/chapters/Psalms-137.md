@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20137.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20137.txt)
   
 
 
-﻿1 We sat by the rivers of Babylon [where we have been taken into captivity], and we wept there while remembering Zion.
+ï»¿1 We sat by the rivers of Babylon [where we have been taken into captivity], and we wept there while remembering Zion.
   
 2 And we had hung our harps there on the willows trees.
   
@@ -34,6 +34,7 @@ For in the day of Jerusalem's misfortune, they were saying: Raze it, raze it to 
   
 he stones.
   
+
 
 
 

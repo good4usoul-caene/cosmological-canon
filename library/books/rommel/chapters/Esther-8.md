@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEsther%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Esther%208.txt)
   
 
 
-﻿1 And the same day king Ahasuerus gave to queen Esther the house of Haman the adversary of the Jews [For the king had given this house of office to Haman after having exalted him].
+ï»¿1 And the same day king Ahasuerus gave to queen Esther the house of Haman the adversary of the Jews [For the king had given this house of office to Haman after having exalted him].
   
 And Mordecai came before the king, because Esther had made known to the king what was the exact nature of the family relationship between her and Mordecai.
   
@@ -68,6 +68,7 @@ And many persons from among the peoples of the kingdom became Jews [that is to s
   
 e hidden power of the Jews.
   
+
 
 
 

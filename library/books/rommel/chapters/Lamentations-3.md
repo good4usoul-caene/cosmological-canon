@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLamentations%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Lamentations%203.txt)
   
 
 
-﻿1 [The lamentation of the prophet Jeremiah, shortly before the destruction of Jerusalem and of the house that had been built by king Solomon to be called by the name of Yahweh the God of Israel (Jeremiah 17:13-18 - 18:18-23)].
+ï»¿1 [The lamentation of the prophet Jeremiah, shortly before the destruction of Jerusalem and of the house that had been built by king Solomon to be called by the name of Yahweh the God of Israel (Jeremiah 17:13-18 - 18:18-23)].
   
 I am the man who has seen affliction by the rod of his fury.
   
@@ -170,6 +170,7 @@ Do me justice.
   
 them in your anger, and you will destroy them from under the heaven, O Yahweh.
   
+
 
 
 

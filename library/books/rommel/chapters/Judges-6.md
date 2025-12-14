@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%206.txt)
   
 
 
-﻿1 Then the children of Israel did evil in the sight of Yahweh, and Yahweh gave them into the hands of Midian for seven years.
+ï»¿1 Then the children of Israel did evil in the sight of Yahweh, and Yahweh gave them into the hands of Midian for seven years.
   
 2 And the hand of Midian was strong against Israel.
   
@@ -166,6 +166,7 @@ For only the fleece remained dry while the ground all around was covered with de
   
 ly the fleece remained dry while the ground all around was covered with dew.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2043.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2043.txt)
   
 
 
-﻿1 And now thus says Yahweh who created you, O Jacob, the one who formed you, O Israel: Do not fear, for I have redeemed you.
+ï»¿1 And now thus says Yahweh who created you, O Jacob, the one who formed you, O Israel: Do not fear, for I have redeemed you.
   
 I have called you by your name, you are mine.
   
@@ -126,6 +126,7 @@ Yes, the children according to the flesh of him whom I have called Israel will b
   
 have called Israel will become a subject of disapproval.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2025.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2025.txt)
   
 
 
-﻿1 While Israel was camping in Shittim, the people began to play the prostitute with the daughters of Moab.
+ï»¿1 While Israel was camping in Shittim, the people began to play the prostitute with the daughters of Moab.
   
 2 These daughters of Moab invited the people to the sacrifices of their gods, and the people ate and worshiped these gods.
   
@@ -56,6 +56,7 @@ He was a prince of the family of the Simeonites.
   
 f the matter of Peor.
   
+
 
 
 

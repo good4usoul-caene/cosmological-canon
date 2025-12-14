@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%207.txt)
   
 
 
-﻿1 A song of David that he sang to Yahweh concerning the words of Cush the Benjamite.
+ï»¿1 A song of David that he sang to Yahweh concerning the words of Cush the Benjamite.
   
 O Yahweh my God, I have put my trust in you.
   
@@ -66,6 +66,7 @@ He designs projects of iniquity, and he produces falsehood.
   
 e of Yahweh the Most High.
   
+
 
 
 

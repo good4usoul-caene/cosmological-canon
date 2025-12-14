@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%206.txt)
   
 
 
-﻿1 And in those days, while the number of disciples was increasing, there arose a murmuring of the Grecian Jews against the Hebrews, because their widows were being neglected in the daily distribution.
+ï»¿1 And in those days, while the number of disciples was increasing, there arose a murmuring of the Grecian Jews against the Hebrews, because their widows were being neglected in the daily distribution.
   
 2 Then the twelve called together the multitude of the disciples and said to them: It is not fitting for us to leave the word of God to supervise those who serve at the table.
   
@@ -70,6 +70,7 @@ And the temple will be destroyed by the Romans because of a revolt of the part o
   
 s like the face of an angel.
   
+
 
 
 

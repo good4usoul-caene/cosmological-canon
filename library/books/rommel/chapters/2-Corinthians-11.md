@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Corinthians%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Corinthians%2011.txt)
   
 
 
-﻿1 I wish you could bear me when I am a little foolish.
+ï»¿1 I wish you could bear me when I am a little foolish.
   
 And indeed you already bear me [since anyway I am already foolish in the sight of the men of the world because of my love for the Lord Jesus].
   
@@ -134,6 +134,7 @@ Who is the disciple who will say that he is stumbling in his endurance on the wa
   
 indow in the wall, and that is how I escaped from his hands.
   
+
 
 
 

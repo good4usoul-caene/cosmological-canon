@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%2012.txt)
   
 
 
-﻿1 And the men of Ephraim gathered themselves together and went northward.
+ï»¿1 And the men of Ephraim gathered themselves together and went northward.
   
 And they said to Jephthah: Why did you not call us when you went to fight against the children of Ammon.
   
@@ -78,6 +78,7 @@ And he was buried in Pirathon in the land of Ephraim, in the mount of the Amalek
   
 in the mount of the Amalekites.
   
+
 
 
 

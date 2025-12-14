@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2032.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2032.txt)
   
 
 
-﻿1 Heavens, give ear and I will speak.
+ï»¿1 Heavens, give ear and I will speak.
   
 Earth, listen to the words of my mouth.
   
@@ -180,6 +180,7 @@ I mean, into the land that I give to the children of Israel.
   
 ut you will not go in. I mean, into the land that I give to the children of Israel.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Corinthians%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Corinthians%205.txt)
   
 
 
-﻿1 For we know that when this tabernacle which is our earthly house is destroyed, namely our bodies, we will have in heavens a building that is not made with hands like those in which men dwell here on earth, an eternal dwelling place that is the work of God.
+ï»¿1 For we know that when this tabernacle which is our earthly house is destroyed, namely our bodies, we will have in heavens a building that is not made with hands like those in which men dwell here on earth, an eternal dwelling place that is the work of God.
   
 2 Therefore we groan, desiring to be clothed with our heavenly home.
   
@@ -64,6 +64,7 @@ We implore you in the name of Christ to do the following thing: Be reconciled to
   
 s before God through him.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%202.txt)
   
 
 
-﻿1 And on a day when the sons of God came to present themselves before Yahweh, Satan also came among them to present himself before Yahweh.
+ï»¿1 And on a day when the sons of God came to present themselves before Yahweh, Satan also came among them to present himself before Yahweh.
   
 2 And Yahweh said to Satan, Where do you come from.
   
@@ -70,6 +70,7 @@ For they saw that his sorrow was very great.
   
 t his sorrow was very great.
   
+
 
 
 

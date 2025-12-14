@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Chronicles%206.txt)
   
 
 
@@ -136,6 +136,7 @@ Remember the mercies that you promised to David your servant.
   
 Remember the mercies that you promised to David your servant.
   
+
 
 
 

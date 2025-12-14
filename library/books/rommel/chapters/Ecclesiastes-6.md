@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEcclesiastes%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ecclesiastes%206.txt)
   
 
 
-﻿1 There is an evil that I have seen under the sun, and it happens often among men.
+ï»¿1 There is an evil that I have seen under the sun, and it happens often among men.
   
 2 There is a man to whom God has given riches, and wealth, and honor, and he lacks nothing of all that his soul desires.
   
@@ -52,6 +52,7 @@ For who can tell a man what will be after him under the sun.
   
 him under the sun.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2010.txt)
   
 
 
-﻿1 And Yahweh said to Moses, Go to Pharaoh for I have hardened his heart and the hearts of his servants, to show my miracles among them.
+ï»¿1 And Yahweh said to Moses, Go to Pharaoh for I have hardened his heart and the hearts of his servants, to show my miracles among them.
   
 2 And you will tell your son and your son's son how I treated the Egyptians and what signs I showed among them.
   
@@ -120,6 +120,7 @@ And be careful not to appear in my presence again, for on the day you appear bef
   
 ou said it, I will no longer appear in your presence.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%205.txt)
   
 
 
-﻿1 Afterward there arose a great complaint from the people and their wives against their brothers the Jews.
+ï»¿1 Afterward there arose a great complaint from the people and their wives against their brothers the Jews.
   
 2 For some said: We with our sons and our daughters are many.
   
@@ -88,6 +88,7 @@ Yet I did not request the salary of the governor for all this, because the bonda
   
 all that I have done for this people.
   
+
 
 
 

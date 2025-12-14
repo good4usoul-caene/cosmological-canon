@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2043.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2043.txt)
   
 
 
-﻿1 Now when Jeremiah had finished speaking to all the people all the words of Yahweh their God, the words with which Yahweh their God had sent him to them.
+ï»¿1 Now when Jeremiah had finished speaking to all the people all the words of Yahweh their God, the words with which Yahweh their God had sent him to them.
   
 2 Then Azariah [also called Jezaniah] the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, they said to Jeremiah: You are speaking insincerely.
   
@@ -64,6 +64,7 @@ He will wrap himself in the land of Egypt as a shepherd wraps himself in his gar
   
 les of the gods of Egypt.
   
+
 
 
 

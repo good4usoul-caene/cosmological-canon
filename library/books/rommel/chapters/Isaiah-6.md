@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%206.txt)
   
 
 
-﻿1 In the year of the death of king Uzziah, I saw the Lord sitting on a throne which was high and wonderful, and whose lower parts was filling the temple.
+ï»¿1 In the year of the death of king Uzziah, I saw the Lord sitting on a throne which was high and wonderful, and whose lower parts was filling the temple.
   
 2 And seraphim [who are a kind of heavenly beings among angels] were standing above it.
   
@@ -58,6 +58,7 @@ But as a terebinth tree and as an oak, whose trunk remain when they are cut down
   
 rise from this people.
   
+
 
 
 

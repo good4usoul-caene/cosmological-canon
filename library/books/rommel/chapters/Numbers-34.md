@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2034.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2034.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words.
+ï»¿1 And Yahweh spoke to Moses in the following words.
   
 2 Command to the children of Israel and say to them, When you come into the land of Canaan, this land will become your inheritance, the land of Canaan of which here are the limits.
   
@@ -38,7 +38,7 @@ This will be your border in the north.
   
 10 And you will mark your eastern border from Hazar-enan to Shepham.
   
-11 And the border will go down from Shepham to Riblah, and to the east side of AÃ¯n.
+11 And the border will go down from Shepham to Riblah, and to the east side of AÃƒÂ¯n.
   
 And the same border will go down, and will extend along the sea of Chinnereth eastward.
   
@@ -86,6 +86,7 @@ Of the tribe of Judah, Caleb son of Jephunneh.
   
 en of Israel, in the land of Canaan.
   
+
 
 
 

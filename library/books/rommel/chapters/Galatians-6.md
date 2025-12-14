@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGalatians%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Galatians%206.txt)
   
 
 
-﻿1 Brothers, if a man among you is found to have done something wrong, then you who are spiritual should straighten him with a spirit of gentleness.
+ï»¿1 Brothers, if a man among you is found to have done something wrong, then you who are spiritual should straighten him with a spirit of gentleness.
   
 And take heed to yourself while doing such a thing, lest you also be tempted to act unwisely.
   
@@ -68,6 +68,7 @@ Amen.
   
 be with your spirits. Amen.
   
+
 
 
 

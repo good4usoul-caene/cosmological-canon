@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CMalachi%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Malachi%203.txt)
   
 
 
@@ -86,6 +86,7 @@ And I will spare them, as a man spares his son who serves him.
   
 God and those who do not serve him.
   
+
 
 
 

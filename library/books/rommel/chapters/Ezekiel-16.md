@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2016.txt)
   
 
 
@@ -226,6 +226,7 @@ And you will never open your mouth again because of your shame, when I will have
   
 of your shame, when I will have forgiven you for all the things that you have done, says the Lord Yahweh.
   
+
 
 
 

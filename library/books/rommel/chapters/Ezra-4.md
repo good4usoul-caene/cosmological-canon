@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzra%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezra%204.txt)
   
 
 
-﻿1 But the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple for Yahweh the God of Israel.
+ï»¿1 But the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple for Yahweh the God of Israel.
   
 2 And they came to Zerubbabel and to the chiefs of the fathers' houses, and said: We will build with you because we seek your God as you do, and we have been sacrificing to him since the time of Esar-Haddon king of Assyria who brought us here.
   
@@ -82,6 +82,7 @@ And the city will not be rebuilt without my permission.
   
 he reign of Darius king of Persia.
   
+
 
 
 

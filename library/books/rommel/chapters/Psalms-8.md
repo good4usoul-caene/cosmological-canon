@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%208.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 O Yahweh our Lord, how excellent is your name in all the world.
   
@@ -36,6 +36,7 @@ And the son of man, so that you visits him.
   
 the world.
   
+
 
 
 

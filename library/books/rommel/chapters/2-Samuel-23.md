@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2023.txt)
   
 
 
-﻿1 Now these are the last words of David: The word of David the son of Jesse, the word of the man who has been established at a high place, the anointed of the God of Jacob, the pleasant singer of Israel.
+ï»¿1 Now these are the last words of David: The word of David the son of Jesse, the word of the man who has been established at a high place, the anointed of the God of Jacob, the pleasant singer of Israel.
   
 2 The spirit of Yahweh spoke through me.
   
@@ -162,6 +162,7 @@ Thirty seven in all [whom had been called the thirty heroes].
   
 the Hittite. Thirty seven in all [whom had been called the thirty heroes].
   
+
 
 
 

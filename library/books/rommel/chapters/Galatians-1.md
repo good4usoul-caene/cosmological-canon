@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGalatians%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Galatians%201.txt)
   
 
 
-﻿1 Paul, an apostle who has not been established by men and who has not become so through some men, but by Jesus Christ and God the Father who has raised Jesus Christ from the dead.
+ï»¿1 Paul, an apostle who has not been established by men and who has not become so through some men, but by Jesus Christ and God the Father who has raised Jesus Christ from the dead.
   
 2 And all the brothers who are with me, to the churches of Galatia.
   
@@ -68,6 +68,7 @@ Then I returned to Damascus.
   
 lorified God because of me.
   
+
 
 
 

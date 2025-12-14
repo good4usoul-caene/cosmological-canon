@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Chronicles%209.txt)
   
 
 
-﻿1 And the queen of Sheba heard of the fame of Solomon, and she came to test Solomon with hard questions at Jerusalem.
+ï»¿1 And the queen of Sheba heard of the fame of Solomon, and she came to test Solomon with hard questions at Jerusalem.
   
 She arrived with a very numerous entourage, and with camels carrying spices, and with gold in large quantities, and with precious stones.
   
@@ -106,6 +106,7 @@ And Rehoboam his son reigned in his stead.
   
 er. And Rehoboam his son reigned in his stead.
   
+
 
 
 

@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20John%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20John%202.txt)
   
 
 
@@ -110,6 +110,7 @@ For since that anointing teaches you about all things, and its teaching is not a
   
 oly spirit and is loved by him in the same way.]
   
+
 
 
 

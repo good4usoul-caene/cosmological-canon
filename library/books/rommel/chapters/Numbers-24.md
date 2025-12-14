@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2024.txt)
   
 
 
-﻿1 Balaam understood that it pleased Yahweh to bless Israel and then he did not go like the other times to set divinations, but he turned his face toward the wilderness.
+ï»¿1 Balaam understood that it pleased Yahweh to bless Israel and then he did not go like the other times to set divinations, but he turned his face toward the wilderness.
   
 2 And Balaam looked up and saw Israel encamped according to their tribes.
   
@@ -92,6 +92,7 @@ And Balak also went away.
   
 to his place. And Balak also went away.
   
+
 
 
 

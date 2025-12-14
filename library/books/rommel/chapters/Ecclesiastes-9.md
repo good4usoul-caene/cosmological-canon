@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEcclesiastes%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ecclesiastes%209.txt)
   
 
 
-﻿1 I have occupied my heart with exploring all this, and I have seen that the righteous, and the wise, and their deeds, are in the hand of God [since he will not reward them in the same way that he will reward the wicked].
+ï»¿1 I have occupied my heart with exploring all this, and I have seen that the righteous, and the wise, and their deeds, are in the hand of God [since he will not reward them in the same way that he will reward the wicked].
   
 And also their emotions of love and hatred are in the hand of God.
   
@@ -82,6 +82,7 @@ Nevertheless no one remembered that poor man afterward.
   
 one sinner can destroy much goods.
   
+
 
 
 

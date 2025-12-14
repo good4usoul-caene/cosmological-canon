@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CSong%20of%20Songs%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Song%20of%20Songs%202.txt)
   
 
 
-﻿1 I am a rose of Sharon, and a lily of the valleys [O my bridegroom].
+ï»¿1 I am a rose of Sharon, and a lily of the valleys [O my bridegroom].
   
 2 As a lily among thorns, so is my love [my bride] among the young women.
   
@@ -70,6 +70,7 @@ He feeds his flock among the lilies until the day fades and the shadows flee.
   
 on the mountains of Bether.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2029.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2029.txt)
   
 
 
-﻿1 Jacob set out and went to the land of the children of the east.
+ï»¿1 Jacob set out and went to the land of the children of the east.
   
 2 He looked, and behold, there was a well in the field.
   
@@ -132,6 +132,7 @@ And she stopped giving birth.
   
 she gave him the name Judah. And she stopped giving birth.
   
+
 
 
 

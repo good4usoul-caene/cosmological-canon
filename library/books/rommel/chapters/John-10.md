@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%2010.txt)
   
 
 
-﻿1 Truly, truly, I say to you, if someone does not enter the sheepfold by the door, but climbs up some other way, then he is a thief and a robber.
+ï»¿1 Truly, truly, I say to you, if someone does not enter the sheepfold by the door, but climbs up some other way, then he is a thief and a robber.
   
 2 And the one who enters by the door is the shepherd of the sheep.
   
@@ -148,6 +148,7 @@ For you are only a man, but you make yourself God.
   
 ware that they did not understand the full meaning of those words.]
   
+
 
 
 

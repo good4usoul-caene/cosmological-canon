@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CZechariah%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Zechariah%205.txt)
   
 
 
-﻿1 Then I lifted up my eyes again and looked, and behold, a flying scroll.
+ï»¿1 Then I lifted up my eyes again and looked, and behold, a flying scroll.
   
 2 And he said to me, 'What do you see'.
   
@@ -52,6 +52,7 @@ And it will be prepared, and set there in her own place.
   
 e in her own place.
   
+
 
 
 

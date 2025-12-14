@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2030.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2030.txt)
   
 
 
-﻿1 And now I am the laughing stock of those younger than me, of those whose fathers I disdained to place among the dogs of my flock.
+ï»¿1 And now I am the laughing stock of those younger than me, of those whose fathers I disdained to place among the dogs of my flock.
   
 2 For what good would the strength of their hands have availed me before God, since they cannot reach old age because of their wickedness.
   
@@ -88,6 +88,7 @@ I stand up in the middle of the assembly and cry.
   
 mitates the voices of those who weep.
   
+
 
 
 

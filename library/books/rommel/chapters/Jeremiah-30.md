@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2030.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2030.txt)
   
 
 
-﻿1 The word of Yahweh came to Jeremiah in the following words.
+ï»¿1 The word of Yahweh came to Jeremiah in the following words.
   
 2 Thus speaks Yahweh the God of Israel: Write in a book all the words that I have spoken to you.
   
@@ -104,6 +104,7 @@ You will understand it in the latter days.
   
 t. You will understand it in the latter days.
   
+
 
 
 

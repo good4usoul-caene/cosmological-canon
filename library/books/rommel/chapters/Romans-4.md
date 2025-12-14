@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%204.txt)
   
 
 
-﻿1 What will we say then concerning the thing that Abraham our father has obtained according to the flesh.
+ï»¿1 What will we say then concerning the thing that Abraham our father has obtained according to the flesh.
   
 2 If Abraham had been justified by the very nature of the works that he was doing [and not by the quality of the justifications that he possessed while he was doing what he was doing], then he would have had reason to boast before men but not before God.
   
@@ -86,6 +86,7 @@ He is our father before the one in whom he believed, namely God who gives life t
   
 from the dead for our justification.
   
+
 
 
 
