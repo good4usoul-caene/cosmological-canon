@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%203.txt)
   
 
 
-﻿1 After that, Job opened his mouth and cursed the day of his birth.
+ï»¿1 After that, Job opened his mouth and cursed the day of his birth.
   
 2 And Job spoke in the following words.
   
@@ -78,6 +78,7 @@ But trouble has taken hold of me.
   
 ut trouble has taken hold of me.
   
+
 
 
 

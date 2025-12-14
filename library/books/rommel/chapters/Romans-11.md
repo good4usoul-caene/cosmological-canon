@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%2011.txt)
   
 
 
-﻿1 I say then, 'Has God rejected his people'.
+ï»¿1 I say then, 'Has God rejected his people'.
   
 Far from it.
   
@@ -136,6 +136,7 @@ Amen.
   
 him, are all things. To him be glory forever and ever. Amen.
   
+
 
 
 

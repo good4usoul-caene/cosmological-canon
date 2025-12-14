@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2015.txt)
   
 
 
-﻿1 And Yahweh said to me: Even if Moses and Samuel were standing before me in the flesh among the men of this people, I would not show favor to this people [and I would save only those who deserve it].
+ï»¿1 And Yahweh said to me: Even if Moses and Samuel were standing before me in the flesh among the men of this people, I would not show favor to this people [and I would save only those who deserve it].
   
 Cast them out of my sight, and let them go.
   
@@ -118,6 +118,7 @@ For I am with you to protect you and to save you, says Yahweh.
   
 nd I will redeem you out of the hand of the violent.
   
+
 
 
 

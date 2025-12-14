@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%203.txt)
   
 
 
-﻿1 What advantage then did the Jews have.
+ï»¿1 What advantage then did the Jews have.
   
 Or what benefit has circumcision offered.
   
@@ -148,6 +148,7 @@ And the law of Moses was given only to certain people who were carrying the pers
   
 known to all the world what one must do to be a righteous person.]
   
+
 
 
 

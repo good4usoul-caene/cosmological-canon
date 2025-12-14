@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%2011.txt)
   
 
 
-﻿1 Now when Athaliah the mother of Ahaziah king of Judah saw that her son was dead, she arose and destroyed the entire royal seed.
+ï»¿1 Now when Athaliah the mother of Ahaziah king of Judah saw that her son was dead, she arose and destroyed the entire royal seed.
   
 2 But Jehosheba the daughter of king Joram [namely Jehoram the previous king of Judah], the sister of Ahaziah [through another mother], she took away Joash the son of Ahaziah from among the king's sons who were to be killed.
   
@@ -80,6 +80,7 @@ For they had killed Athaliah with the sword near the king's house.
   
 en years old when he became king.
   
+
 
 
 

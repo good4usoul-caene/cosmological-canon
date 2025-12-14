@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2066.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2066.txt)
   
 
 
-﻿1 Thus says Yahweh: The heaven is my throne, and the earth is my footstool.
+ï»¿1 Thus says Yahweh: The heaven is my throne, and the earth is my footstool.
   
 What house could you build for me.
   
@@ -92,6 +92,7 @@ Leap with her for joy, you all who mourn for her.
   
 17 . 18 . 19 . 20 . 21 . 22 . 23 . 24 .
   
+
 
 
 

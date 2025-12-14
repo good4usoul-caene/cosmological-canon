@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2016.txt)
   
 
 
-﻿1 The word of Yahweh came to me in the following words.
+ï»¿1 The word of Yahweh came to me in the following words.
   
 2 You will not take a wife, and you will have neither sons nor daughters in this place.
   
@@ -94,6 +94,7 @@ I will cause them to know my hand and my power, and they will know that my name 
   
 d they will know that my name is Yahweh.
   
+
 
 
 

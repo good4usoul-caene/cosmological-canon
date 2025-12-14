@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20121.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20121.txt)
   
 
 
-﻿1 I lift up my eyes to the mountains.
+ï»¿1 I lift up my eyes to the mountains.
   
 Where will my help come from.
   
@@ -36,6 +36,7 @@ He will preserve your soul.
   
 nd forever.
   
+
 
 
 

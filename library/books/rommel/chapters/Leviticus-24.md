@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%2024.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words.
+ï»¿1 And Yahweh spoke to Moses in the following words.
   
 2 Command the children of Israel to bring you pure beaten olive oil for the candlestick, so that the lamps may burn continually.
   
@@ -82,6 +82,7 @@ And the children of Israel did as Yahweh commanded Moses.
   
 ael did as Yahweh commanded Moses.
   
+
 
 
 

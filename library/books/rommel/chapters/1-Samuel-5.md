@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Samuel%205.txt)
   
 
 
@@ -56,6 +56,7 @@ For there was destruction and death throughout the whole city, and the hand of G
   
 ty went up to heaven.
   
+
 
 
 

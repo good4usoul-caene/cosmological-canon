@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHosea%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Hosea%2014.txt)
   
 
 
-﻿1 O Israel, return to Yahweh your God.
+ï»¿1 O Israel, return to Yahweh your God.
   
 For you have fallen by your iniquity.
   
@@ -56,6 +56,7 @@ For the ways of Yahweh are righteous, and the honest persons will walk in them, 
   
 sors will fall there.
   
+
 
 
 

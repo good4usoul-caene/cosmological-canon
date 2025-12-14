@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%201.txt)
   
 
 
-﻿1 Dear Theophilus, I have written in my first book about all that Jesus began to do and teach from the beginning.
+ï»¿1 Dear Theophilus, I have written in my first book about all that Jesus began to do and teach from the beginning.
   
 2 Until the day that he was taken up into the heaven, after he had given orders through the Holy Spirit to the apostles whom he had chosen.
   
@@ -94,6 +94,7 @@ Show which of these two you have chosen.
   
 ined in this way always comes from God.]
   
+
 
 
 

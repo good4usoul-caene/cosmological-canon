@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CAmos%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Amos%207.txt)
   
 
 
-﻿1 The Lord Yahweh showed me this vision.
+ï»¿1 The Lord Yahweh showed me this vision.
   
 And behold, he was forming a swarm of locusts as the late crop was starting to come up.
   
@@ -84,6 +84,7 @@ And you will die in a foreign land, and Israel will surely be carried captive ou
   
 be carried captive out of his land.
   
+
 
 
 

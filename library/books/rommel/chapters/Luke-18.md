@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2018.txt)
   
 
 
@@ -146,6 +146,7 @@ And when all the people saw this thing, they praised God.
   
 ing God. And when all the people saw this thing, they praised God.
   
+
 
 
 

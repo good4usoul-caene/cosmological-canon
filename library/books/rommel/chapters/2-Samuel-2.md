@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%202.txt)
   
 
 
-﻿1 Afterward David inquired of Yahweh by saying: Will I go up into one of the cities of Judah.
+ï»¿1 Afterward David inquired of Yahweh by saying: Will I go up into one of the cities of Judah.
   
 And Yahweh answered him: Go up.
   
@@ -116,6 +116,7 @@ And Joab and his men went all that night, and they arrived at Hebron at the sunr
   
 t night, and they arrived at Hebron at the sunrise.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2041.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2041.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 Blessed is he who considers the weak.
   
@@ -58,6 +58,7 @@ So be it, so be it.
   
 g. So be it, so be it.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%203.txt)
   
 
 
-﻿1 Now Moses shepherded the flock of Jethro, his father in law the priest of Midian.
+ï»¿1 Now Moses shepherded the flock of Jethro, his father in law the priest of Midian.
   
 And he led the flock beyond the wilderness, and came to the mountain of God to Horeb.
   
@@ -88,6 +88,7 @@ And you will strip the Egyptians.
   
 rs. And you will strip the Egyptians.
   
+
 
 
 

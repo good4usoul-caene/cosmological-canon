@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%200.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%200.txt)
   
 
 
-﻿1 Introduction.
+ï»¿1 Introduction.
   
 2 Motivation, first part: Searching for the God of scientists.
   
@@ -40,6 +40,7 @@
   
 4 Conclusion.
   
+
 
 
 

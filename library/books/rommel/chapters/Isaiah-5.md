@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%205.txt)
   
 
 
-﻿1 I will sing to my beloved a song of my love for his vineyard.
+ï»¿1 I will sing to my beloved a song of my love for his vineyard.
   
 My beloved had a vineyard, on a very fruitful hill.
   
@@ -128,6 +128,7 @@ And the light will be darkened by the clouds in their sky.
   
 nd the light will be darkened by the clouds in their sky.
   
+
 
 
 

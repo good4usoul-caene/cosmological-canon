@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%2011.txt)
   
 
 
-﻿1 Now there was a certain man named Lazarus who was sick.
+ï»¿1 Now there was a certain man named Lazarus who was sick.
   
 He lived in the town of Bethany, where Mary and her sister Martha lived.
   
@@ -190,6 +190,7 @@ Will he not come to the feast.
   
 that anyone who knew where Jesus was must tell it to them, so that they may arrest him.
   
+
 
 
 

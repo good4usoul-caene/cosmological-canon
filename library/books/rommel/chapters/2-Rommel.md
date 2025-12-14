@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Rommel.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Rommel.txt)
   
 
 
-﻿1 Preface to Hebrew Bible: Men of honor Men of valor, a somewhat abstract notion for the simple minded.
+ï»¿1 Preface to Hebrew Bible: Men of honor Men of valor, a somewhat abstract notion for the simple minded.
   
 2 It is logical to appropriate the fruit of one's own labor (Genesis 15:13-16 - Exodus 12:35-41) but it is not holy to covet what belongs to others (1 Samuel 15:1-11 - Esther 9:5-10,15-16).
   
@@ -94,7 +94,7 @@ Lord we will never forget.
   
 21 And for those of you who speak of a certain legend concerning a Jesus of Nazareth that neither you nor we actually knew.
   
-22 You must understand that our God was angry because the corpses of kings touched his house (Jonah 3 - Haggai 2:10-13 - Ezekiel 43:7-12 - 2 Chronicles 13:1-22 - 14:1-7 - 1 Kings 15:1-4,8-12 - Psalms 50 - Amos 5â€"8 - Zechariah 7:1-14 - 8:16-17 - Jeremiah 4:1-4,5-10 - 5:23-31 - 7:1-15,16-34 - 8:4-9 - 9:1-9 - 21:1-10,11-14 - Isaiah 28:1-7 - Proverbs 6:12-19).
+22 You must understand that our God was angry because the corpses of kings touched his house (Jonah 3 - Haggai 2:10-13 - Ezekiel 43:7-12 - 2 Chronicles 13:1-22 - 14:1-7 - 1 Kings 15:1-4,8-12 - Psalms 50 - Amos 5Ã¢â‚¬"8 - Zechariah 7:1-14 - 8:16-17 - Jeremiah 4:1-4,5-10 - 5:23-31 - 7:1-15,16-34 - 8:4-9 - 9:1-9 - 21:1-10,11-14 - Isaiah 28:1-7 - Proverbs 6:12-19).
   
 When we will have built for him a magnificent place that is worthy of his greatness, then we will protect that place with all our strength (1 Kings 14:25-28).
   
@@ -126,9 +126,9 @@ Therefore it will stay shut (Ezekiel 44:1-2).
   
 For one cannot sincerely repent of a fault with a smile], our God cannot have had the sole purpose of making us think deeply about the logic that introduced the notion of a house of God (1 Rommel 3:16 - Exodus 25:10-16,17-22 - Numbers 7:89 - 1 Kings 8:9) and the distribution of roles to its occupants (Ezekiel 44:10-16 - 48:8-13 - 1 Rommel 3:11-12).
   
-Our God cannot have said the things that he does not think (Zechariah 12â€"14 - Isaiah 6:8-10 - 66:1-2 - Acts 7:37-53).
+Our God cannot have said the things that he does not think (Zechariah 12Ã¢â‚¬"14 - Isaiah 6:8-10 - 66:1-2 - Acts 7:37-53).
   
-Let us live by your side by continually seeking our true brothers (Zechariah 12â€"14), it is the will of God.
+Let us live by your side by continually seeking our true brothers (Zechariah 12Ã¢â‚¬"14), it is the will of God.
   
 It is written very clearly in this book which we received and which was translated a long time ago.
   
@@ -242,6 +242,7 @@ The God of our heart: this is what we are, this is what we deserve.
   
 give glory to our God, because he is the rock. The God of our heart: this is what we are, this is what we deserve.
   
+
 
 
 

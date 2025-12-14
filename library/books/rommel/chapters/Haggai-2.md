@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHaggai%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Haggai%202.txt)
   
 
 
-﻿1 On the twenty first day of the seventh month [in the seventh year of king Darius], the word of Yahweh came through Haggai the prophet in the following words.
+ï»¿1 On the twenty first day of the seventh month [in the seventh year of king Darius], the word of Yahweh came through Haggai the prophet in the following words.
   
 2 Speak now to Zerubbabel the son of Shealtiel and governor of Judah, and to the high priest Joshua the son of Jehozadak, and to the remnant of the people, and say to them the following thing.
   
@@ -88,6 +88,7 @@ For I have chosen you, says Yahweh the God of armies.
   
 n you, says Yahweh the God of armies.
   
+
 
 
 

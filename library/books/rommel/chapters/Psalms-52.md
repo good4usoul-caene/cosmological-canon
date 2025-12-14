@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2052.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2052.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 When Doeg The Edomite came to inform Saul, and told him that David had gone to meet Ahimelech [the high priest].
   
@@ -50,6 +50,7 @@ I will hope in your name, because this is what is good to do for all your saints
   
 r all your saints.
   
+
 
 
 

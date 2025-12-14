@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%207.txt)
   
 
 
-﻿1 Afterward when the king dwelt in his house and Yahweh had given him rest from all his enemies all around.
+ï»¿1 Afterward when the king dwelt in his house and Yahweh had given him rest from all his enemies all around.
   
 2 Then the king said to Nathan the prophet: Behold I dwell now in a house of cedar wood, and the ark of God dwells in a tent within curtains.
   
@@ -98,6 +98,7 @@ And by your blessing the house of your servant is blessed forever.
   
 house of your servant is blessed forever.
   
+
 
 
 

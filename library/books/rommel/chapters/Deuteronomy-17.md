@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2017.txt)
   
 
 
-﻿1 You will not offer to Yahweh your God a bullock or a sheep which has any blemish or deformity.
+ï»¿1 You will not offer to Yahweh your God a bullock or a sheep which has any blemish or deformity.
   
 For it is an abomination to Yahweh your God.
   
@@ -88,6 +88,7 @@ And thus he may prolong his days in his kingdom, he and his sons, in the midst o
   
 and his sons, in the midst of Israel.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2019.txt)
   
 
 
-﻿1 The poor man who walks in his integrity is better than the man who has perverse lips and is a fool.
+ï»¿1 The poor man who walks in his integrity is better than the man who has perverse lips and is a fool.
   
 2 It is not good for a man to lack understanding.
   
@@ -86,6 +86,7 @@ And if you reprove an intelligent man, then he will understand knowledge.
   
 the backs of fools will be whipped.
   
+
 
 
 

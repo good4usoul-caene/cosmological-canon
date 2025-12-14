@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Corinthians%2011.txt)
   
 
 
@@ -136,6 +136,7 @@ When I come to you, I will explain to you how to behave regarding your other con
   
 to practice in the other situations that you have mentioned].
   
+
 
 
 

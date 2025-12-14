@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2014.txt)
   
 
 
-﻿1 And some of the elders of Israel came to me, and sat before me.
+ï»¿1 And some of the elders of Israel came to me, and sat before me.
   
 2 And the word of Yahweh came to me in the following words.
   
@@ -24,7 +24,7 @@ Will I let myself be consulted by them.
   
 I Yahweh will answer such a person according to the multitude of his idols.
   
-5 Thus I will seize in their own hearts those of the house of Israel who come to consult me â€‹â€‹to test me, since their hearts are far from me through their idols.
+5 Thus I will seize in their own hearts those of the house of Israel who come to consult me Ã¢â‚¬â€¹Ã¢â‚¬â€¹to test me, since their hearts are far from me through their idols.
   
 6 Therefore say to the house of Israel, Thus says the Lord Yahweh: Return to me.
   
@@ -78,6 +78,7 @@ Behold they will come to you, and you will see their way and their deeds, and yo
   
 one to it, says the Lord Yahweh.
   
+
 
 
 

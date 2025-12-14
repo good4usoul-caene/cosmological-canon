@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2019.txt)
   
 
 
-﻿1 And Jesus entered Jericho, and he was passing through the town.
+ï»¿1 And Jesus entered Jericho, and he was passing through the town.
   
 2 And behold, there was a rich man named Zacchaeus.
   
@@ -152,6 +152,7 @@ For all the people were listening to Jesus with admiration.
   
 n danger. For all the people were listening to Jesus with admiration.
   
+
 
 
 

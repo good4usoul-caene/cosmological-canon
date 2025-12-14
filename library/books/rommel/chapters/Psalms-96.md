@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2096.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2096.txt)
   
 
 
-﻿1 Sing to Yahweh a new song.
+ï»¿1 Sing to Yahweh a new song.
   
 Sing to Yahweh, you all the inhabitants of the earth.
   
@@ -58,6 +58,7 @@ He will judge the world with righteousness, and the peoples in his truth.
   
 peoples in his truth.
   
+
 
 
 

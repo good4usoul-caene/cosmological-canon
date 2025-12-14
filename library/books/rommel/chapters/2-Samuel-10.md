@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2010.txt)
   
 
 
-﻿1 Afterward the king of the children of Ammon died, and Hanun his son reigned in his place.
+ï»¿1 Afterward the king of the children of Ammon died, and Hanun his son reigned in his place.
   
 2 And David said: I will show kindness to Hanun the son of Nahash, as his father showed kindness towards me.
   
@@ -72,6 +72,7 @@ And the Syrians no longer dared to help the children of Ammon.
   
 o help the children of Ammon.
   
+
 
 
 

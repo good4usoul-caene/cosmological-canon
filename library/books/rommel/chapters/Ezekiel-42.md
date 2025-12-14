@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2042.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2042.txt)
   
 
 
-﻿1 Then he brought me to the outer courtyard on the north side, and led me into the chamber that faced the separate place and faced the building on the north.
+ï»¿1 Then he brought me to the outer courtyard on the north side, and led me into the chamber that faced the separate place and faced the building on the north.
   
 2 Before the length of one hundred cubits was the north door, and the width was fifty cubits.
   
@@ -72,6 +72,7 @@ The length was five hundred reeds, and the width was five hundred reeds, to make
   
 ctuary and the profane place.
   
+
 
 
 

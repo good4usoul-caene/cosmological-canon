@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Samuel%203.txt)
   
 
 
@@ -92,6 +92,7 @@ And Yahweh was with him, and let none of his words fall to the ground.
   
 Samuel in Shiloh by the word of Yahweh.
   
+
 
 
 

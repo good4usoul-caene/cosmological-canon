@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2023.txt)
   
 
 
-﻿1 When you sit to eat with a ruler, think carefully about who is before you.
+ï»¿1 When you sit to eat with a ruler, think carefully about who is before you.
   
 2 And put a knife to your throat, if you are a gourmand.
   
@@ -114,6 +114,7 @@ For I want more of that wine.
   
 When will I wake up. For I want more of that wine.
   
+
 
 
 

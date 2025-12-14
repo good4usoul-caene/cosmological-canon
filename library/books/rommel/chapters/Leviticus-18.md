@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%2018.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words.
+ï»¿1 And Yahweh spoke to Moses in the following words.
   
 2 Speak to the children of Israel and say to them, I am Yahweh your God.
   
@@ -112,6 +112,7 @@ I am Yahweh your God.
   
 ourself by these practices. I am Yahweh your God.
   
+
 
 
 

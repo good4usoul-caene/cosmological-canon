@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%2014.txt)
   
 
 
-﻿1 You must welcome those who are weak in faith, and not argue over opinions.
+ï»¿1 You must welcome those who are weak in faith, and not argue over opinions.
   
 2 One person thinks that he can eat everything, and another person who is weak eats only vegetables.
   
@@ -100,6 +100,7 @@ Whatever is not done with faith is sin.
   
 r, then such a person is committing a sin.]
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2037.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2037.txt)
   
 
 
-﻿1 And Bezalel made the ark of acacia wood.
+ï»¿1 And Bezalel made the ark of acacia wood.
   
 Its length was two and a half cubits, and its width a cubit and a half, and its height a cubit and a half.
   
@@ -112,6 +112,7 @@ He put them on both sides to receive the bars that were used to carry it.
   
 e, composed according to the art of the perfumer.
   
+
 
 
 

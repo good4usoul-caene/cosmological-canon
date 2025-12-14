@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%202.txt)
   
 
 
-﻿1 A man of the house of Levi took a daughter of Levi to wife.
+ï»¿1 A man of the house of Levi took a daughter of Levi to wife.
   
 2 And the woman became pregnant and bore a son.
   
@@ -96,6 +96,7 @@ And these cries which were caused by bondage went up to God.
   
 f Israel, and God had compassion on them.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2034.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2034.txt)
   
 
 
-﻿1 And Yahweh said to Moses, Cut two tablets of stone like the first, and I will write on these tablets the words that were on the first tablets which you broke.
+ï»¿1 And Yahweh said to Moses, Cut two tablets of stone like the first, and I will write on these tablets the words that were on the first tablets which you broke.
   
 2 Be ready in the morning, and you will come up early to mount Sinai.
   
@@ -134,6 +134,7 @@ And Moses put the veil on his face again until he went in to speak with God.
   
 e veil on his face again until he went in to speak with God.
   
+
 
 
 

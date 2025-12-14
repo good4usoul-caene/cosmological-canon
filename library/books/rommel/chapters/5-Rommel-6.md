@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%206.txt)
   
 
 
-﻿1 About the Christ of God who lives forever.
+ï»¿1 About the Christ of God who lives forever.
   
 2 Paul differentiates between the man Jesus and Christ the only begotten Son of God (Colossians 1:15).
   
@@ -30,6 +30,7 @@
   
 :14,27).
   
+
 
 
 

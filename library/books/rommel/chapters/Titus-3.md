@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CTitus%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Titus%203.txt)
   
 
 
-﻿1 Remind them to be submitted to rulers and authorities, to be obedient and ready to do any good work.
+ï»¿1 Remind them to be submitted to rulers and authorities, to be obedient and ready to do any good work.
   
 [Indeed, a disciple of Christ has the obligation to seek the well-being of others in everything he does, and consequently to disobey any order that is given by any person having a certain authority if that order consists of harming others without publicly acceptable justification, as had been done by the midwives who lived in the kingdom of Egypt (Exodus 1:6-14,15-21).]
   
@@ -62,6 +62,7 @@ Amen.
   
 e be with you all. Amen.
   
+
 
 
 

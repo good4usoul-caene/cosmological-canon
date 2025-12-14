@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%208.txt)
   
 
 
-﻿1 Afterward David defeated the Philistines and subdued them, and David took Methegammah from the hands of the Philistines.
+ï»¿1 Afterward David defeated the Philistines and subdued them, and David took Methegammah from the hands of the Philistines.
   
 2 And he defeated the Moabites, and he killed by lot two thirds of the defeated soldiers by measuring them with a cord after having made them lie on the ground on a line.
   
@@ -66,6 +66,7 @@ And Seraiah was scribe.
   
 f David were chief rulers.
   
+
 
 
 

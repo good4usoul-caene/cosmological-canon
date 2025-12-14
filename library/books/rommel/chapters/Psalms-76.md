@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2076.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2076.txt)
   
 
 
-﻿1 A psalm of Asaph [concerning the glory of the temple of Yahweh at a time when the hearts of the people are not far from his commandments].
+ï»¿1 A psalm of Asaph [concerning the glory of the temple of Yahweh at a time when the hearts of the people are not far from his commandments].
   
 God is known in Judah, his name is great in Israel.
   
@@ -54,6 +54,7 @@ He is feared by the kings of the earth.
   
 kings of the earth.
   
+
 
 
 

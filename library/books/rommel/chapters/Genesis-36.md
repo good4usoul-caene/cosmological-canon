@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2036.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2036.txt)
   
 
 
-﻿1 These are the generations of Esau, who is Edom.
+ï»¿1 These are the generations of Esau, who is Edom.
   
 2 Esau took his wives from among the daughters of Canaan: Adah the daughter of Elon the Hittite, and Oholibamah the daughter of Anah, the daughter of Zibeon the Hivite.
   
@@ -152,6 +152,7 @@ This is Esau, the father of the Edomites.
   
 land which they possessed. This is Esau, the father of the Edomites.
   
+
 
 
 

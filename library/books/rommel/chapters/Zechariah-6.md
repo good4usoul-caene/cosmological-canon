@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CZechariah%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Zechariah%206.txt)
   
 
 
-﻿1 And I lifted up my eyes again and looked, and behold, four chariots were coming out from between two mountains, and the mountains were mountains of brass.
+ï»¿1 And I lifted up my eyes again and looked, and behold, four chariots were coming out from between two mountains, and the mountains were mountains of brass.
   
 2 The first chariot was pulled by red horses, and the second chariot was pulled by black horses.
   
@@ -52,6 +52,7 @@ This will happen if you obey the voice of Yahweh your God.
   
 of Yahweh your God.
   
+
 
 
 

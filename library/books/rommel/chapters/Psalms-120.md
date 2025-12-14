@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20120.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20120.txt)
   
 
 
-﻿1 I called on Yahweh in my distress, and he answered me.
+ï»¿1 I called on Yahweh in my distress, and he answered me.
   
 2 Keep the lying lips and the deceitful tongue away from me.
   
@@ -30,6 +30,7 @@ But when I speak, they are for war.
   
 for war.
   
+
 
 
 

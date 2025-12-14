@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Kings%2012.txt)
   
 
 
@@ -128,6 +128,7 @@ So he made a feast for the children of Israel, and he went up himself to the alt
   
 ael, and he went up himself to the altar to burn incense.
   
+
 
 
 

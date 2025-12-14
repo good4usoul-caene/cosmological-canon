@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Chronicles%2017.txt)
   
 
 
@@ -90,6 +90,7 @@ For you, O Yahweh, have blessed it, and it is blessed forever.
   
 blessed it, and it is blessed forever.
   
+
 
 
 

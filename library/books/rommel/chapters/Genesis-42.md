@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2042.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2042.txt)
   
 
 
-﻿1 Jacob saw that there was wheat in Egypt and said to his sons, Why do you look at one another.
+ï»¿1 Jacob saw that there was wheat in Egypt and said to his sons, Why do you look at one another.
   
 2 And he said, Behold I have heard that there is wheat in Egypt.
   
@@ -148,6 +148,7 @@ If anything bad happens to him during the journey that you are going to make, th
   
 , then you will make my gray hairs fall with sorrow into the grave.
   
+
 
 
 

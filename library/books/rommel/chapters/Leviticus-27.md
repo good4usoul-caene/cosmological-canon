@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%2027.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%2027.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words.
+ï»¿1 And Yahweh spoke to Moses in the following words.
   
 2 Speak to the children of Israel and say to them: [Every firstborn male among all the males who come from a womb belongs to me.
   
@@ -120,6 +120,7 @@ And if one animal is replaced by another, both will be holy things and will not 
   
 rough Moses to the children of Israel at mount Sinai.
   
+
 
 
 

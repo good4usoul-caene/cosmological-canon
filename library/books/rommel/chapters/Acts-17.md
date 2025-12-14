@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2017.txt)
   
 
 
-﻿1 Now when Paul and Silas went through Amphipolis and Apollonia, they came to Thessalonica, and there was a synagogue of Jews in that city.
+ï»¿1 Now when Paul and Silas went through Amphipolis and Apollonia, they came to Thessalonica, and there was a synagogue of Jews in that city.
   
 2 And Paul entered it, according to his custom.
   
@@ -118,6 +118,7 @@ Among them were Dionysius the Areopagite, and a woman named Damaris, and others 
   
 te, and a woman named Damaris, and others with them.
   
+
 
 
 

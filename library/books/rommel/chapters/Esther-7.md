@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEsther%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Esther%207.txt)
   
 
 
-﻿1 So the king and Haman went to the banquet with queen Esther.
+ï»¿1 So the king and Haman went to the banquet with queen Esther.
   
 2 It was the second day [after the queen had presented herself before the king], and the king said to Esther at the banquet of wine: What is your request, queen Esther.
   
@@ -56,6 +56,7 @@ Then the king's anger was pacified.
   
 s anger was pacified.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%2015.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses and Aaron in the following words.
+ï»¿1 And Yahweh spoke to Moses and Aaron in the following words.
   
 2 Speak to the children of Israel and say, Any man who has an issue out of his flesh is unclean because of his issue.
   
@@ -88,6 +88,7 @@ And the priest will make an atonement for her before Yahweh, for the issue of he
   
 e man who lies with an unclean woman.
   
+
 
 
 

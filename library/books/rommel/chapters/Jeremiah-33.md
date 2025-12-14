@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2033.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2033.txt)
   
 
 
-﻿1 And the word of Yahweh came to Jeremiah a second time in the following words, while he was still shut up in the courtyard of the guards.
+ï»¿1 And the word of Yahweh came to Jeremiah a second time in the following words, while he was still shut up in the courtyard of the guards.
   
 2 Thus says Yahweh who does these things, Yahweh who plans them and performs them.
   
@@ -58,6 +58,7 @@ For I will bring back the captives of the land as at the beginning, says Yahweh.
   
 nts them, says Yahweh.
   
+
 
 
 

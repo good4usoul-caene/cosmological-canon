@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20110.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20110.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 Yahweh has said to my Lord: Sit at my right hand, until I make your enemies your footstool.
   
@@ -34,6 +34,7 @@ He crushes the heads of arrogant people throughout the world.
   
 his head.
   
+
 
 
 

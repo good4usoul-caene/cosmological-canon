@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%2020.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words.
+ï»¿1 And Yahweh spoke to Moses in the following words.
   
 2 You will say to the children of Israel, If any man of the children of Israel or a foreigner who sojourns in Israel gives [burns] one of his children for Molech, then he will be put to death.
   
@@ -104,6 +104,7 @@ Their blood will be on them.
   
 stoned to death. Their blood will be on them.
   
+
 
 
 

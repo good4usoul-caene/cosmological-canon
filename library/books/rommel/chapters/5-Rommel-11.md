@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%2011.txt)
   
 
 
-﻿1 Comments on the epistles of the apostles and the gospels, first part: Falsifications.
+ï»¿1 Comments on the epistles of the apostles and the gospels, first part: Falsifications.
   
 2 The current contents of the Gospels have not always been as we see it.
   
@@ -66,6 +66,7 @@ And her daughter was healed at that same hour (Matthew 15:28).
   
 Peter(2), and First John.
   
+
 
 
 

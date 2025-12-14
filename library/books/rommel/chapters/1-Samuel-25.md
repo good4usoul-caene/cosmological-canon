@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2025.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Samuel%2025.txt)
   
 
 
@@ -160,6 +160,7 @@ And she went up on a donkey, and her five maidservant followed her, and she foll
   
 d given her to Palti the son of Laish who was from the town named Gallim.
   
+
 
 
 

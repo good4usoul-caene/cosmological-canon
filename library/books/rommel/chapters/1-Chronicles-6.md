@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Chronicles%206.txt)
   
 
 
@@ -110,7 +110,7 @@ Of the sons of the Kohathites there was Heman the singer the son of Joel, the so
   
 45 The son of Hashabiah, the son of Amaziah, the son of Hilkiah.
   
-46 The son of Amzi, ​​the son of Bani, the son of Shemer.
+46 The son of Amzi, â€‹â€‹the son of Bani, the son of Shemer.
   
 47 The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
   
@@ -190,6 +190,7 @@ And they also gave them Gezer with its suburbs.
   
 Mahanaim with its suburbs. 81 And Heshbon with its suburbs, and Jazer with its suburbs.
   
+
 
 
 

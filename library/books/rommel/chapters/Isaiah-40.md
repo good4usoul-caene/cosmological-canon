@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2040.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2040.txt)
   
 
 
-﻿1 Comfort, comfort my people, says your God.
+ï»¿1 Comfort, comfort my people, says your God.
   
 2 Speak to the heart of Jerusalem, and cry out to her by saying: your bondage is ended, your iniquity is forgiven, you have already received from the hand of Yahweh a punishment for the double of all your sins.
   
@@ -158,6 +158,7 @@ They will run and will not be weary, they will walk and will not faint.
   
 They will run and will not be weary, they will walk and will not faint.
   
+
 
 
 

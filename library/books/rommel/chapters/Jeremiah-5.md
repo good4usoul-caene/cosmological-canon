@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%205.txt)
   
 
 
-﻿1 Walk backwards and forwards throughout the streets of Jerusalem, in order to observe now and inquire in all open places, to know if there is anywhere a person who acts uprightly and searches for the truth.
+ï»¿1 Walk backwards and forwards throughout the streets of Jerusalem, in order to observe now and inquire in all open places, to know if there is anywhere a person who acts uprightly and searches for the truth.
   
 If you find such a person then I will forgive Jerusalem.
   
@@ -142,6 +142,7 @@ What will you do in the end.
   
 y people take pleasure in all this. What will you do in the end.
   
+
 
 
 

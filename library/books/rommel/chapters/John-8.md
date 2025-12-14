@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%208.txt)
   
 
 
-﻿1 And Jesus went to the mount of Olives.
+ï»¿1 And Jesus went to the mount of Olives.
   
 2 And early in the morning he came again into the temple, and all the people came to him.
   
@@ -242,6 +242,7 @@ I told you previously that I will go to a place where the majority of you cannot
   
 ept of righteousness.] 59 Then they took stones to throw at him, but Jesus hid himself and went out of the temple.
   
+
 
 
 

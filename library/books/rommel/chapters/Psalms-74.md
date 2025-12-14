@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2074.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2074.txt)
   
 
 
-﻿1 A song of Asaph [prophetic words, the thoughts of a person who is not evil in his intentions but who has not understood the identity of God].
+ï»¿1 A song of Asaph [prophetic words, the thoughts of a person who is not evil in his intentions but who has not understood the identity of God].
   
 Why should you reject us for so long, O God.
   
@@ -94,6 +94,7 @@ The tumult of those who rise up against you ascends continually.
   
 rise up against you ascends continually.
   
+
 
 
 

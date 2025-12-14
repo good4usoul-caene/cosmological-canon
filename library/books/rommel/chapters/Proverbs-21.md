@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2021.txt)
   
 
 
-﻿1 The king's heart is in the hand of Yahweh like the brooks of waters.
+ï»¿1 The king's heart is in the hand of Yahweh like the brooks of waters.
   
 He turns it wherever he pleases.
   
@@ -90,6 +90,7 @@ How much more when they bring it with wicked thoughts.
   
 battle, but victory belongs to Yahweh.
   
+
 
 
 

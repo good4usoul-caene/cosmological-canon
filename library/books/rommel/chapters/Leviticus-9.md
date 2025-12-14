@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%209.txt)
   
 
 
-﻿1 On the eighth day, Moses called Aaron and his sons and the elders of Israel.
+ï»¿1 On the eighth day, Moses called Aaron and his sons and the elders of Israel.
   
 2 And he said to Aaron, Take a young calf for a sin offering and a ram for a burnt offering, both without blemish.
   
@@ -84,6 +84,7 @@ All the people saw it and they shouted for joy, and fell on their faces.
   
 d for joy, and fell on their faces.
   
+
 
 
 

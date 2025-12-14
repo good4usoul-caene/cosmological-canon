@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2029.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2029.txt)
   
 
 
-﻿1 These are the words of the covenant which Yahweh commanded Moses to make with the children of Israel in the land of Moab, besides the covenant he had made with them in Horeb (which is Sinai).
+ï»¿1 These are the words of the covenant which Yahweh commanded Moses to make with the children of Israel in the land of Moab, besides the covenant he had made with them in Horeb (which is Sinai).
   
 2 Moses called all Israel and said to them, You have seen everything that Yahweh did before your eyes in the land of Egypt, to Pharaoh and to all his servants and to all his land.
   
@@ -80,6 +80,7 @@ And he cast them into another land, as it appears today.
   
 may do all the words of this law.
   
+
 
 
 

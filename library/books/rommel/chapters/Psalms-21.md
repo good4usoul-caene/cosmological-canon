@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2021.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 The king rejoices in your strength, O Yahweh.
   
@@ -56,6 +56,7 @@ We will sing and praise your power.
   
 nd praise your power.
   
+
 
 
 

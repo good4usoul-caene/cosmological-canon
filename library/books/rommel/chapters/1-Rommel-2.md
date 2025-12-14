@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Rommel%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Rommel%202.txt)
   
 
 
@@ -126,6 +126,7 @@ It is not abnormal to behave strangely when you are ignorant.
   
 not abnormal to behave strangely when you are ignorant.
   
+
 
 
 

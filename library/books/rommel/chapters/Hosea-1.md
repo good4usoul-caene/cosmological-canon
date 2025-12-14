@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHosea%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Hosea%201.txt)
   
 
 
-﻿1 The word of Yahweh that came to Hosea the son of Beeri, in the days of Uzziah [also called Azariah], and Jotham, and Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
+ï»¿1 The word of Yahweh that came to Hosea the son of Beeri, in the days of Uzziah [also called Azariah], and Jotham, and Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
   
 2 The first time that Yahweh spoke to Hosea, Yahweh said to Hosea: Go, take a wife of whoredom and children of whoredom.
   
@@ -54,6 +54,7 @@ For the day of Jezreel will be great.
   
 zreel will be great.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%206.txt)
   
 
 
-﻿1 And Sanballat, and Tobiah, and Geshem the Arabian, and the remaining of our enemies, they heard that I had rebuilt the wall and that there was no breach left in it.
+ï»¿1 And Sanballat, and Tobiah, and Geshem the Arabian, and the remaining of our enemies, they heard that I had rebuilt the wall and that there was no breach left in it.
   
 At that time I had not yet put the doors in the gates.
   
@@ -82,6 +82,7 @@ And Tobiah sent letters to scare me.
   
 d Tobiah sent letters to scare me.
   
+
 
 
 

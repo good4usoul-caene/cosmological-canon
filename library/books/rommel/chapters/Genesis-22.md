@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2022.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2022.txt)
   
 
 
-﻿1 After these things God tested Abraham and said to him, Abraham.
+ï»¿1 After these things God tested Abraham and said to him, Abraham.
   
 And he answered, Here I am.
   
@@ -92,6 +92,7 @@ These are the eight sons that Milcah bore to Nahor, Abraham's brother.
   
 bah, and Gaham, and Tahash, and Maacah.
   
+
 
 
 

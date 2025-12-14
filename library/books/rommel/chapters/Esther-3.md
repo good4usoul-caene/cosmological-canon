@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEsther%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Esther%203.txt)
   
 
 
-﻿1 After these things, king Ahasuerus promoted Haman the son of Hammedatha the Agagite, and exalted him, and set his seat above all the princes [leaders] who were with him.
+ï»¿1 After these things, king Ahasuerus promoted Haman the son of Hammedatha the Agagite, and exalted him, and set his seat above all the princes [leaders] who were with him.
   
 2 And all the king's servants who were at the king's gate bowed their knees and did reverence to Haman: For so was the king's commandment concerning Haman.
   
@@ -76,6 +76,7 @@ And the king and Haman sat down to drink, while the inhabitants of the city of S
   
 city of Shushan were perplexed.
   
+
 
 
 

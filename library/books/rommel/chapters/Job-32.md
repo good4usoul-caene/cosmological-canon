@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2032.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2032.txt)
   
 
 
-﻿1 And these three men stopped answering Job, for he considered himself righteous.
+ï»¿1 And these three men stopped answering Job, for he considered himself righteous.
   
 2 Then was kindled the anger of Elihu the son of Barachel the Buzite, of the family of Ram.
   
@@ -68,6 +68,7 @@ I will open my lips and I will answer.
   
 aker suddenly take me away.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%206.txt)
   
 
 
-﻿1 And Yahweh said to Moses, Now you will see what I will do to Pharaoh.
+ï»¿1 And Yahweh said to Moses, Now you will see what I will do to Pharaoh.
   
 For a strong hand will force him to let them go, a powerful hand will force him to drive them out of his land.
   
@@ -114,6 +114,7 @@ It is this Moses and this Aaron.
   
 uncircumcised lips, how will Pharaoh listen to me.
   
+
 
 
 

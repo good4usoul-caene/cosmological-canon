@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CZechariah%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Zechariah%208.txt)
   
 
 
-﻿1 Afterward the word of Yahweh the God of armies came to me in the following words.
+ï»¿1 Afterward the word of Yahweh the God of armies came to me in the following words.
   
 [Now these words are consistent with those of the prophet Haggai if we assume that they were revealed in the seventh year of king Darius.]
   
@@ -86,6 +86,7 @@ And others will hear it and say: I will go also.
   
 in the seventh year of king Darius.]
   
+
 
 
 

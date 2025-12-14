@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%208.txt)
   
 
 
-﻿1 In the sixth year [of the captivity of Jehoiachin king of Judah, that is to say, during the sixth year of the reign of Zedekiah king of Judah and five years before the destruction of Jerusalem and of the house of Yahweh built by Solomon], on the fifth day of the sixth month, I was sitting in my house and the elders of Judah were sitting in front of me [in the land where we had been carried away captive], and the hand of the Lord Yahweh fell there on me.
+ï»¿1 In the sixth year [of the captivity of Jehoiachin king of Judah, that is to say, during the sixth year of the reign of Zedekiah king of Judah and five years before the destruction of Jerusalem and of the house of Yahweh built by Solomon], on the fifth day of the sixth month, I was sitting in my house and the elders of Judah were sitting in front of me [in the land where we had been carried away captive], and the hand of the Lord Yahweh fell there on me.
   
 2 Then I looked, and lo, there was the likeness of a man who had the appearance of fire from his waist downward.
   
@@ -94,6 +94,7 @@ They will cry in my ears with a loud voice at that time, but I will not listen t
   
 hat time, but I will not listen to them.
   
+
 
 
 

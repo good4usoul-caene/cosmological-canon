@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%203.txt)
   
 
 
-﻿1 Now the serpent was more cunning than any other beast of the field which Yahweh God had made.
+ï»¿1 Now the serpent was more cunning than any other beast of the field which Yahweh God had made.
   
 And he said to the woman, Did God really say: You will not eat of every tree of the garden.
   
@@ -86,6 +86,7 @@ Let us now prevent him from putting forth his hand and taking from the tree of l
   
 o guard the way to the tree of life.
   
+
 
 
 

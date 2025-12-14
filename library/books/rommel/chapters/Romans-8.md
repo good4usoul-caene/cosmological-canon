@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%208.txt)
   
 
 
-﻿1 There is therefore now no condemnation for those who are in Christ Jesus, those who walk not according to the flesh but according to the Spirit.
+ï»¿1 There is therefore now no condemnation for those who are in Christ Jesus, those who walk not according to the flesh but according to the Spirit.
   
 [That is to say, even their own understanding cannot condemn them if they have truly understood the teaching of Jesus.]
   
@@ -132,6 +132,7 @@ We are counted as sheep for the slaughter.
   
 e us from the love of God that is in Christ Jesus our Lord.
   
+
 
 
 

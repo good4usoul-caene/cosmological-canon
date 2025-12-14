@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2037.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2037.txt)
   
 
 
-﻿1 And when king Hezekiah heard it, he tore his clothes and covered himself with a sackcloth, and went into the temple of Yahweh.
+ï»¿1 And when king Hezekiah heard it, he tore his clothes and covered himself with a sackcloth, and went into the temple of Yahweh.
   
 2 And Hezekiah sent Eliakim who was the steward of the king's household, and Shebna the secretary, and the elders of the priests.
   
@@ -146,6 +146,7 @@ And Esar-haddon his son reigned in his stead.
   
 the land of Ararat. And Esar-haddon his son reigned in his stead.
   
+
 
 
 

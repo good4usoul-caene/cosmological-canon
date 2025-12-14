@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Corinthians%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Corinthians%206.txt)
   
 
 
-﻿1 Since we are working with God, we entreat you not to receive the grace of God in vain.
+ï»¿1 Since we are working with God, we entreat you not to receive the grace of God in vain.
   
 2 For he says: I have heard you at an acceptable time, and I have succored you in the day of [your] salvation.
   
@@ -76,6 +76,7 @@ Touch no unclean thing, and I will receive you.
   
 livered from bondage in Egypt.]
   
+
 
 
 

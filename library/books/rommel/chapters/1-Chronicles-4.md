@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Chronicles%204.txt)
   
 
 
@@ -136,6 +136,7 @@ Their chiefs were Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of I
   
 of Amalek who had escaped, and they dwelt there to this day.
   
+
 
 
 

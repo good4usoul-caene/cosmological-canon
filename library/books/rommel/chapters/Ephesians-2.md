@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEphesians%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ephesians%202.txt)
   
 
 
-﻿1 You were dead through your trespasses and sins.
+ï»¿1 You were dead through your trespasses and sins.
   
 2 In which you formerly walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.
   
@@ -68,6 +68,7 @@ But if we consider people individually, then the holy spirit of God manifested i
   
 God by through your spirit.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%205.txt)
   
 
 
-﻿1 Objective of the holy scriptures and the sacrifice of the man Jesus.
+ï»¿1 Objective of the holy scriptures and the sacrifice of the man Jesus.
   
 2 The apostle Paul says that the purpose of the scriptures is to prepare the reader for the trials of life (2 Timothy 3:16-17 - Romans 15:4 - 1 Corinthians 10:11).
   
@@ -144,6 +144,7 @@ But the stumbling block and the rock of scandal on which many stumble and break,
   
 edagogical law of Moses (Acts 7:51 - John 1:17 - Isaiah 28:8-16).
   
+
 
 
 

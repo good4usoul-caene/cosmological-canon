@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Corinthians%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Corinthians%203.txt)
   
 
 
-﻿1 Are we beginning to commend ourselves again.
+ï»¿1 Are we beginning to commend ourselves again.
   
 Or do we need, as some do, letters of recommendation to you or letters of recommendation from you.
   
@@ -66,6 +66,7 @@ And where the spirit of the Lord is, there is freedom.
   
 he Lord who is the Spirit.
   
+
 
 
 

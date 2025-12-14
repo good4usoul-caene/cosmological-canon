@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHosea%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Hosea%204.txt)
   
 
 
-﻿1 Hear the word of Yahweh, you the children of Israel.
+ï»¿1 Hear the word of Yahweh, you the children of Israel.
   
 For Yahweh has a controversy with the inhabitants of the land, because there is no truth nor mercy in the land, there is no knowledge of God.
   
@@ -88,6 +88,7 @@ Their sacrifices will bring them shame.
   
 eir sacrifices will bring them shame.
   
+
 
 
 

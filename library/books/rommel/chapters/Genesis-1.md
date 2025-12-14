@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%201.txt)
   
 
 
-﻿1 In the beginning God created the heavens and the earth.
+ï»¿1 In the beginning God created the heavens and the earth.
   
 2 And the earth was formless and void, and darkness was over the face of the deep.
   
@@ -114,6 +114,7 @@ And there was evening and there was morning, it was the sixth day.
   
 ening and there was morning, it was the sixth day.
   
+
 
 
 

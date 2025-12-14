@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%201.txt)
   
 
 
-﻿1 Introduction.
+ï»¿1 Introduction.
   
 2 Rigorously it is legitimate to designate a living being by any information that it has actually created in the world and whose evolution, over time and under the effect of various interactions, has produced such or such other describable consequence.
   
@@ -72,12 +72,13 @@ David's sin was forgiven but he still received a punishment (2 Samuel 12:10-14).
   
 23 Not everyone is destined for eternal life (1 John 2:19-20) since one is led to eternal shame by blasphemy against the holy spirit, when one commits any sin after acquiring a perfect knowledge of this notion.
   
-24 Our actions always depend on the totality of the information that is at our disposal in real time and it is only works carried out under the influence of the holy spirit (3 Rommel 1:16-17) that are strengthened (2 Chronicles 20:34-37 â€" 25:5-10 - Psalms 101 - 133 - Proverbs 31:1-9 - Jeremiah 45 - Ecclesiastes 3:14 - Malachi 1:1-5), possibly in the form of an accumulated experience (Jeremiah 36), so as to endure eternally by their admirable consequences (1 Rommel 3:30-32 - 2 Chronicles 9:7-8 - John 17:1-3 - Ephesians 1:15-19,20-23).
+24 Our actions always depend on the totality of the information that is at our disposal in real time and it is only works carried out under the influence of the holy spirit (3 Rommel 1:16-17) that are strengthened (2 Chronicles 20:34-37 Ã¢â‚¬" 25:5-10 - Psalms 101 - 133 - Proverbs 31:1-9 - Jeremiah 45 - Ecclesiastes 3:14 - Malachi 1:1-5), possibly in the form of an accumulated experience (Jeremiah 36), so as to endure eternally by their admirable consequences (1 Rommel 3:30-32 - 2 Chronicles 9:7-8 - John 17:1-3 - Ephesians 1:15-19,20-23).
   
 25 In eternal life innovations shine as stars and imitations shine as the splendor of sky, God having prepared for each elect an original achievement likely to be indefinitely imitated by those who know about it (2 Kings 7:1-9 - John 14:1-2).
   
 t (2 Kings 7:1-9 - John 14:1-2).
   
+
 
 
 

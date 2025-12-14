@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2026.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2026.txt)
   
 
 
-﻿1 As snow in summer, and rain in harvest, thus glory is not fitting for a fool.
+ï»¿1 As snow in summer, and rain in harvest, thus glory is not fitting for a fool.
   
 2 Like the trail of the sparrow in the sky, or like the trail of the swallow in the sky, so a curse that is not the result of a completely diabolical cause will have no effect.
   
@@ -78,6 +78,7 @@ And a stone will return on him who rolls it.
   
 a flattering mouth causes ruin.
   
+
 
 
 

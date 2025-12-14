@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2016.txt)
   
 
 
-﻿1 Send lambs to the ruler of the land, send them from Selah through the wilderness to the mountain of the daughter of Zion.
+ï»¿1 Send lambs to the ruler of the land, send them from Selah through the wilderness to the mountain of the daughter of Zion.
   
 2 Like a fledgling that have fallen from their nest, thus will be the daughters of Moab be at the fords of the Arnon.
   
@@ -68,6 +68,7 @@ And despite all its great multitude that now exists, the remnant will be very sm
   
 ill be very small and weak.
   
+
 
 
 

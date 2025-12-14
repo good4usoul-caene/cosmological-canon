@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%208.txt)
   
 
 
-﻿1 And God remembered Noah and all the animals, and all the cattle that were with him in the ark.
+ï»¿1 And God remembered Noah and all the animals, and all the cattle that were with him in the ark.
   
 And God caused a wind to pass over the earth, and the waters subsided.
   
@@ -72,6 +72,7 @@ And I will no more smite every living thing as I have done.
   
 d night, they will not cease.
   
+
 
 
 

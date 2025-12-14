@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2028.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2028.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 I cry to you, O Yahweh.
   
@@ -44,6 +44,7 @@ Be their shepherd, and exalt them forever.
   
 t them forever.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%209.txt)
   
 
 
-﻿1 Then Elisha the prophet called one of the children of the prophets [disciples who study to become prophets - under the guidance of a leader in those days] and said to him: Gird up now your waist, and take this vial of oil in your hand, and go to Ramoth-gilead.
+ï»¿1 Then Elisha the prophet called one of the children of the prophets [disciples who study to become prophets - under the guidance of a leader in those days] and said to him: Gird up now your waist, and take this vial of oil in your hand, and go to Ramoth-gilead.
   
 2 And when you have come there, you will look for Jehu the son of Jehoshaphat the son of Nimshi.
   
@@ -154,6 +154,7 @@ And they threw her down, and her blood gushed on the wall and on the horses, and
   
 field of Jezreel, so that no one will be able to say: This is Jezebel.
   
+
 
 
 

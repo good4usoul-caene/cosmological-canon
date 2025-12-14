@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CZechariah%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Zechariah%202.txt)
   
 
 
-﻿1 Then I lifted my eyes and looked, and behold, a man with a measuring line in his hand.
+ï»¿1 Then I lifted my eyes and looked, and behold, a man with a measuring line in his hand.
   
 2 And I said, 'Where are you going'.
   
@@ -52,6 +52,7 @@ For he has arisen from his holy place.
   
 rom his holy place.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2026.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2026.txt)
   
 
 
-﻿1 There was a famine in the land, besides the first famine which took place in the days of Abraham.
+ï»¿1 There was a famine in the land, besides the first famine which took place in the days of Abraham.
   
 And Isaac went to Abimelech king of the Philistines, to Gerar.
   
@@ -124,6 +124,7 @@ This is why the name of the city is Beersheba to this day.
   
 ource of bitterness to the hearts of Isaac and Rebekah.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%2018.txt)
   
 
 
-﻿1 At that time there was no king in Israel, and the tribe of Dan was looking for an inheritance to live there [and thus complete their territory].
+ï»¿1 At that time there was no king in Israel, and the tribe of Dan was looking for an inheritance to live there [and thus complete their territory].
   
 For until that time all their inheritance [given by Joshua] was not in their possession among the tribes of Israel [and not all the other tribes owned all their lands].
   
@@ -130,6 +130,7 @@ And Jonathan the son of Gershom the son of Manasseh [this Manasseh was from the 
   
 ntained the tent of meeting built by Moses] was in Shiloh.
   
+
 
 
 

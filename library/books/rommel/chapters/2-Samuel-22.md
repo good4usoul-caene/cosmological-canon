@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2022.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2022.txt)
   
 
 
-﻿1 And David had spoken the words of this song to Yahweh when Yahweh had delivered him out of the hand of all his enemies and out of the hand of Saul.
+ï»¿1 And David had spoken the words of this song to Yahweh when Yahweh had delivered him out of the hand of all his enemies and out of the hand of Saul.
   
 2 And he said: Yahweh is my strength and my fortress, he is my liberator.
   
@@ -140,6 +140,7 @@ You help me to defeat those who rise against me, you save me from the violent ma
   
 shows mercy to his anointed, to David and to his seed forever.
   
+
 
 
 

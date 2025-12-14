@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%204.txt)
   
 
 
-﻿1 Now therefore listen, O Israel, to the ordinances and laws which I teach you.
+ï»¿1 Now therefore listen, O Israel, to the ordinances and laws which I teach you.
   
 Put them into practice so that you may live, and enter and possess the land which Yahweh the God of your fathers gives you.
   
@@ -156,6 +156,7 @@ These two kings of the Amorites were on this side of the Jordan toward the sunri
   
 the east, to the sea of the plain at the foot of the springs of Pisgah.
   
+
 
 
 

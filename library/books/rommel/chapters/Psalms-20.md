@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2020.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 May Yahweh answer you in the day [the times] of trouble.
   
@@ -40,6 +40,7 @@ Let the King [Yahweh] answer us when we call on him.
   
 call on him.
   
+
 
 
 

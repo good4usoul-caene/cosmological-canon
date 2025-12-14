@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%208.txt)
   
 
 
-﻿1 So Saul had approved the murder of Stephen [but he did not know that the witnesses who had laid their clothes at his feet before stoning Stephen had given false testimonies].
+ï»¿1 So Saul had approved the murder of Stephen [but he did not know that the witnesses who had laid their clothes at his feet before stoning Stephen had given false testimonies].
   
 On that day there arose a great persecution against the Church in Jerusalem, and all the disciples were scattered throughout the regions of Judea and Samaria, except the apostles.
   
@@ -134,6 +134,7 @@ And the eunuch continued on his way rejoicing.
   
 very town through which he passed until he came to Caesarea.
   
+
 
 
 

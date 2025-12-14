@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%205.txt)
   
 
 
-﻿1 This is the book of the generations of Adam.
+ï»¿1 This is the book of the generations of Adam.
   
 In the day that God created man, he made him in the likeness of God.
   
@@ -106,6 +106,7 @@ Then he died.
   
 red years old, fathered Shem, Ham and Japheth.
   
+
 
 
 

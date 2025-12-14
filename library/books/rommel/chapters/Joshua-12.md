@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2012.txt)
   
 
 
-﻿1 Now these are the kings of the land on the other side of the Jordan toward the rising of the sun, from the river Arnon to mount Hermon and all the plain to the east.
+ï»¿1 Now these are the kings of the land on the other side of the Jordan toward the rising of the sun, from the river Arnon to mount Hermon and all the plain to the east.
   
 Those whom the children of Israel smote and possessed their land.
   
@@ -18,7 +18,7 @@ Those whom the children of Israel smote and possessed their land.
   
 His dominion extended from Aroer which is on the edge of the river of the Arnon, and from the middle of the river and over the half of Gilead, as far as the river of Jabbok at the border of the children of Ammon.
   
-3 And from the plain to the sea of â€‹â€‹Chinneroth on the east, and to the sea of â€‹â€‹the plain, to the salt sea on the east, the way to Beth-jeshimoth.
+3 And from the plain to the sea of Ã¢â‚¬â€¹Ã¢â‚¬â€¹Chinneroth on the east, and to the sea of Ã¢â‚¬â€¹Ã¢â‚¬â€¹the plain, to the salt sea on the east, the way to Beth-jeshimoth.
   
 And on the south under the springs of Pisgah.
   
@@ -104,6 +104,7 @@ All these kings were thirty one.
   
 Tirzah, one. All these kings were thirty one.
   
+
 
 
 

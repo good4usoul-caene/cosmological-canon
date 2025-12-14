@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%2015.txt)
   
 
 
-﻿1 In the fifteenth year of Jeroboam king of Israel, Azariah [also called Uzziah] the son of Amaziah king of Judah began reign.
+ï»¿1 In the fifteenth year of Jeroboam king of Israel, Azariah [also called Uzziah] the son of Amaziah king of Judah began reign.
   
 2 He was sixteen years old when he became king, and he reigned fifty two years in Jerusalem.
   
@@ -124,6 +124,7 @@ And Ahaz his son reigned in his stead.
   
 avid his father. And Ahaz his son reigned in his stead.
   
+
 
 
 

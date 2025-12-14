@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2035.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2035.txt)
   
 
 
-﻿1 And Moses called all the congregation of the children of Israel and said to them, These are the words which Yahweh commands you to do.
+ï»¿1 And Moses called all the congregation of the children of Israel and said to them, These are the words which Yahweh commands you to do.
   
 2 You will work six days, but the seventh day will be holy to you.
   
@@ -94,6 +94,7 @@ And all those who had acacia wood for any works of the service brought it.
   
 to do all kinds of work and inventions.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CZechariah%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Zechariah%203.txt)
   
 
 
-﻿1 And he showed me Joshua the high priest standing before the angel of Yahweh, and Satan standing at his right hand to resist him.
+ï»¿1 And he showed me Joshua the high priest standing before the angel of Yahweh, and Satan standing at his right hand to resist him.
   
 [Now this Joshua is alive in the flesh on the day when Zechariah is having this vision, and he is the son of Jehozadak as it is mentioned by Haggai the prophet.]
   
@@ -52,6 +52,7 @@ And behold, I will engrave what is to be engraved on it, says Yahweh the God of 
   
 eh is not trivial.]
   
+
 
 
 

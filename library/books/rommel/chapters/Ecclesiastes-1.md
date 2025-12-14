@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEcclesiastes%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ecclesiastes%201.txt)
   
 
 
-﻿1 The meditations of the preacher, the son of David and king in Jerusalem.
+ï»¿1 The meditations of the preacher, the son of David and king in Jerusalem.
   
 [His understanding of the nature of Yahweh the God of Israel.]
   
@@ -74,6 +74,7 @@ And I understood that all this is also the pursuit of the wind.
   
 knowledge increases his pain.
   
+
 
 
 

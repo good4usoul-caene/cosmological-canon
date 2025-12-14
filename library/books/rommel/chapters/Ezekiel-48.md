@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2048.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2048.txt)
   
 
 
-﻿1 Now these are the names of the tribes.
+ï»¿1 Now these are the names of the tribes.
   
 From the north end, beside the way of Hethlon to the entrance of Hamath, Hazar-enan at the border of Damascus, northward beside Hamath, from the east side to the west side: Dan, one portion.
   
@@ -116,6 +116,7 @@ And the name of the city from that day will be: Yahweh is here.
   
 of the city from that day will be: Yahweh is here.
   
+
 
 
 

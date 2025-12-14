@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2047.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2047.txt)
   
 
 
-﻿1 Afterward he brought me back to the door of the house.
+ï»¿1 Afterward he brought me back to the door of the house.
   
 And behold, waters were flowing out from under the threshold of the house eastward.
   
@@ -116,6 +116,7 @@ For they will be considered as natives among the children of Israel, and they wi
   
 the tribe where he sojourns, says the Lord Yahweh.
   
+
 
 
 

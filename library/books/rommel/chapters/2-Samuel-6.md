@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%206.txt)
   
 
 
-﻿1 And David again gathered together all the chosen men of Israel, thirty thousand men.
+ï»¿1 And David again gathered together all the chosen men of Israel, thirty thousand men.
   
 2 And David and all the people who were with him went to Baale of Judah [which is Kiriath-baal or Kiriath-jearim], to bring up from there the ark of God which is called by the name of Yahweh the God of armies who dwells between the cherubim above the ark.
   
@@ -80,6 +80,7 @@ Therefore I danced before Yahweh.
   
 ldren until the day of her death.
   
+
 
 
 

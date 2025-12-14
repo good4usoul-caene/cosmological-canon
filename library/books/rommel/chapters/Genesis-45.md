@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2045.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2045.txt)
   
 
 
-﻿1 Joseph could no longer contain himself in front of everyone around him.
+ï»¿1 Joseph could no longer contain himself in front of everyone around him.
   
 And he cried out, Get everyone out.
   
@@ -126,6 +126,7 @@ I will go and I will see him before I die.
   
 still lives. I will go and I will see him before I die.
   
+
 
 
 

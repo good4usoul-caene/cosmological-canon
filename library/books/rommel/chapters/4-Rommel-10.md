@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%2010.txt)
   
 
 
-﻿1 David the man after the heart of the God of Israel.
+ï»¿1 David the man after the heart of the God of Israel.
   
 2 The holy spirit considers only the information at our disposal (Deuteronomy 23:24-25) and David who seeks only to satisfy a whim cannot approve what is not to be reproduced (1 Chronicles 11:15-19 - 2 Samuel 23:13-17).
   
@@ -66,6 +66,7 @@ And it is not a contradiction if David wants to entrust new responsibilities to 
   
 n, the light of the world.
   
+
 
 
 

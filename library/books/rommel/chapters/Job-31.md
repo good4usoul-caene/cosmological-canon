@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2031.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2031.txt)
   
 
 
-﻿1 I made a covenant with my eyes, and I could not lust after a virgin.
+ï»¿1 I made a covenant with my eyes, and I could not lust after a virgin.
   
 2 For what is the portion of God from above, and the inheritance of the Almighty from on high.
   
@@ -110,6 +110,7 @@ End of Job's words.
   
 es grow instead of barley. End of Job's words.
   
+
 
 
 

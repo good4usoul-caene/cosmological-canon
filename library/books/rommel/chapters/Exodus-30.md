@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2030.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2030.txt)
   
 
 
-﻿1 You will make an altar to burn incense.
+ï»¿1 You will make an altar to burn incense.
   
 You will make it from acacia wood.
   
@@ -130,6 +130,7 @@ You will consider it holy and reserved for Yahweh.
   
 r composition to smell it will be cut off from his people.
   
+
 
 
 

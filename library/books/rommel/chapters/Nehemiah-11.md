@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%2011.txt)
   
 
 
-﻿1 And the leaders of the people dwelt in Jerusalem.
+ï»¿1 And the leaders of the people dwelt in Jerusalem.
   
 And the remaining of the people cast lots in order to bring one out of ten to dwell in Jerusalem the holy city, and to make nine out of ten live in other cities.
   
@@ -106,6 +106,7 @@ So they dwelt from Beersheba to the valley of Hinnom.
   
 sions of the Levites in Judah and in Benjamin.
   
+
 
 
 

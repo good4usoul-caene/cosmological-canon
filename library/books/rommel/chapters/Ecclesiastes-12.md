@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEcclesiastes%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ecclesiastes%2012.txt)
   
 
 
-﻿1 So remember your creator during the days of your youth, before the evil days come and before the arrival of the years in which you will say: I have no more pleasure in those things.
+ï»¿1 So remember your creator during the days of your youth, before the evil days come and before the arrival of the years in which you will say: I have no more pleasure in those things.
   
 2 Before the sun is darkened [when you die], with the light, and the moon, and the stars.
   
@@ -50,6 +50,7 @@ There would always be things to say if the aim were to make a large number of bo
   
 t be good or evil.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2025.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2025.txt)
   
 
 
-﻿1 And when Festus arrived in the province, three days later he went up from Caesarea to Jerusalem.
+ï»¿1 And when Festus arrived in the province, three days later he went up from Caesarea to Jerusalem.
   
 2 Then the high priest and the leaders of the Jews came before him to complain about Paul.
   
@@ -98,6 +98,7 @@ Therefore I have brought him before you all, and especially before you, king Agr
   
 facts with which that prisoner is accused.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoel%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joel%201.txt)
   
 
 
-﻿1 The word of Yahweh that came to Joel the son of Pethuel.
+ï»¿1 The word of Yahweh that came to Joel the son of Pethuel.
   
 [This happened after the abominations that the people committed in the days of Manasseh king of Judah, and before the destruction of the city that took place in the days of Zedekiah king of Judah.]
   
@@ -92,6 +92,7 @@ Have not joy and gladness been cut off from the house of our God.
   
 aw given by Moses.] 17 . 18 . 19 . 20 .
   
+
 
 
 

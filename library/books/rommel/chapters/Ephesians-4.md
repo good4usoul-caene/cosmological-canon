@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEphesians%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ephesians%204.txt)
   
 
 
-﻿1 I therefore exhort you, I the prisoner in the Lord, to walk worthily in the calling to which you have been called.
+ï»¿1 I therefore exhort you, I the prisoner in the Lord, to walk worthily in the calling to which you have been called.
   
 2 With all humility and gentleness, with patience, bearing with one another in love.
   
@@ -80,6 +80,7 @@ For we are members of one another.
   
 s God has forgiven you in Christ.
   
+
 
 
 

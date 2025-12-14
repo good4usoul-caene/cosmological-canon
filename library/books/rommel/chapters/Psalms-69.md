@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2069.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2069.txt)
   
 
 
-﻿1 A psalm of David [which is consistent with the state of mind that he might have had when he fled because of his son Absalom who stole the hearts of the people without king David suspecting it, and which contain poetic words to describe a period of suffering of any person who clings to the spirit of justice].
+ï»¿1 A psalm of David [which is consistent with the state of mind that he might have had when he fled because of his son Absalom who stole the hearts of the people without king David suspecting it, and which contain poetic words to describe a period of suffering of any person who clings to the spirit of justice].
   
 Save me, O God.
   
@@ -126,6 +126,7 @@ He does not despise those who are unjustly oppressed.
   
 so the seas and everything that moves in them. 35 . 36 .
   
+
 
 
 

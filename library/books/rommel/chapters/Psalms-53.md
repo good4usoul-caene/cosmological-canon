@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2053.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2053.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 The fool says in his heart, 'There is no God'.
   
@@ -40,6 +40,7 @@ When God turns the captivity of his people, then Jacob will rejoice and Israel w
   
 will be glad.
   
+
 
 
 

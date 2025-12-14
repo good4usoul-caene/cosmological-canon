@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2024.txt)
   
 
 
-﻿1 And Joshua gathered together again all the tribes of Israel to Shechem.
+ï»¿1 And Joshua gathered together again all the tribes of Israel to Shechem.
   
 And he called the elders of Israel, and their princes, and their judges, and their officers, and they presented themselves before God.
   
@@ -116,6 +116,7 @@ This ground belonged to the inheritance of the children of Joseph.
   
 which was given to him in the mountain of Ephraim.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%201.txt)
   
 
 
-﻿1 After the death of Moses the servant of Yahweh, Yahweh spoke in the following words to Joshua the son of Nun and servant of Moses.
+ï»¿1 After the death of Moses the servant of Yahweh, Yahweh spoke in the following words to Joshua the son of Nun and servant of Moses.
   
 2 Moses my servant is dead.
   
@@ -70,6 +70,7 @@ Only be strong and have a good courage.
   
 ong and have a good courage.
   
+
 
 
 

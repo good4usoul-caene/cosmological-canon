@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20136.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20136.txt)
   
 
 
-﻿1 Praise Yahweh because he is good.
+ï»¿1 Praise Yahweh because he is good.
   
 For his mercy endures forever.
   
@@ -66,6 +66,7 @@ For his mercy endures forever.
   
 his mercy endures forever.
   
+
 
 
 

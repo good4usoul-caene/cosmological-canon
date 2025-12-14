@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%207.txt)
   
 
 
-﻿1 When Moses had finished setting up the tabernacle, and had anointed it and sanctified it with all its utensils, as well as the altar with all its utensils, and had anointed them and sanctified them.
+ï»¿1 When Moses had finished setting up the tabernacle, and had anointed it and sanctified it with all its utensils, as well as the altar with all its utensils, and had anointed them and sanctified them.
   
 2 Then the princes of Israel, heads of the houses of their fathers, presented their offering.
   
@@ -258,6 +258,7 @@ And he spoke to him.
   
 speaking to him from between the two cherubim of the mercy seat that was on the ark of the testimony. And he spoke to him.
   
+
 
 
 

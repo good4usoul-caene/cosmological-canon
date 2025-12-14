@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%202.txt)
   
 
 
@@ -50,7 +50,7 @@ Blaspheming is lying in the name of truth and I think that truth is a relative n
   
 13 Alexander Yurkin: When to me there were so many years as to you, I thought too that the truth is a relative concept, but there was it no so.
 
-There is such Ancient Greek logical paradox: ‘All Cretans lie, Cretan Brut has told’.
+There is such Ancient Greek logical paradox: â€˜All Cretans lie, Cretan Brut has toldâ€™.
 
 The truth was told by Cretan Brut or he has told a lie?
 
@@ -138,7 +138,7 @@ But Jehu had also destroyed Ahaziah king of Judah and his family without being a
   
 And in those days of the patience of God regarding the memory of Jeroboam in the kingdom of Israel, Yahweh used Joash king of Israel to punish Amaziah, king of Judah concerning a personal transgression (2 Chronicles 25).
   
-And there were also good prophets [namely true prophets] in the kingdom of Israel like Elijah the Tishbite and Elisha, and others who have been mentioned, and all those who transmitted this knowledge to us, but Yahweh was not patient any longer because of the behavior of the people (Amos 5â€“8).
+And there were also good prophets [namely true prophets] in the kingdom of Israel like Elijah the Tishbite and Elisha, and others who have been mentioned, and all those who transmitted this knowledge to us, but Yahweh was not patient any longer because of the behavior of the people (Amos 5Ã¢â‚¬â€œ8).
   
 Moreover, Manasseh has caused the destruction of the kingdom of Judah (2 Kings 21:1-16 - 24:1-4 - 2 Chronicles 33:1-9 - Jeremiah 15:1-4,5-7 - 19:1-5,6-15 - 32:29-35) but we also have the memory of his repentance (2 Chronicles 33:10-17).
   
@@ -146,7 +146,7 @@ And it was the behavior of the people in the kingdom of Judah that did not encou
   
 Now it can be deduced from the scriptures that some of the people obey the word of Jeremiah every time that he repeats the same warnings, while there is a part of the people who choose the hardness of heart (Jeremiah 21:8-12 - 37:11-16 - 38:1-5,17-20).
   
-27 Similarly, in Galatians 5:3 'Î¼Î±ÏÏ„ÏÏÎ¿Î¼Î±Î¹ Î´á½² Ï€Î¬Î»Î¹Î½' cannot mean 'I attest' or 'I declare' but rather 'I protest' as indicated by some commentators who choose to assume that the word protest is used here to reinforce an argument and not to contest it.
+27 Similarly, in Galatians 5:3 'ÃŽÂ¼ÃŽÂ±ÃÂÃâ€žÃÂÃÂÃŽÂ¿ÃŽÂ¼ÃŽÂ±ÃŽÂ¹ ÃŽÂ´Ã¡Â½Â² Ãâ‚¬ÃŽÂ¬ÃŽÂ»ÃŽÂ¹ÃŽÂ½' cannot mean 'I attest' or 'I declare' but rather 'I protest' as indicated by some commentators who choose to assume that the word protest is used here to reinforce an argument and not to contest it.
   
 Yet it is evident that in the same document and the other letters associated with the apostles Paul and Peter and John, the teaching is that salvation comes only from faith in Christ (Galatians 5:6-12 - Acts 10:34-43 - 15:5-11) and not from the practice of the law namely the Moses' pedagogical law.
   
@@ -455,3 +455,4 @@ Thank you Larry the Aesthetics.
   
 finished designing the content of 4 Rommel 2:59-61 two or three days before giving it as a response on the first of April 2019 to Larry Carlson who had been kind enough to interact with me. Thank you Larry the Aesthetics.
   
+

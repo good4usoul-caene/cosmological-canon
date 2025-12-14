@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20114.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20114.txt)
   
 
 
-﻿1 When Israel went out of Egypt, when the house of Jacob departed from the brutish people [who oppressed them].
+ï»¿1 When Israel went out of Egypt, when the house of Jacob departed from the brutish people [who oppressed them].
   
 2 Judah was his sanctuary, and Israel his kingdom.
   
@@ -34,6 +34,7 @@ And you hills, why have you leaped like lambs.
   
 of waters.
   
+
 
 
 

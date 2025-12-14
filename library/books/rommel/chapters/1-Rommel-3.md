@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Rommel%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Rommel%203.txt)
   
 
 
@@ -56,7 +56,7 @@ In other words it is about realizing that nothing is equal to the beauty of the 
   
 Therefore there is a striking contrast between on the one hand the seriousness and the intensity of the emotions released by the testament of Jesus Christ despite the joyful nature of his unique teaching (John 16:22 - Philippians 4:4 - 1 Thessalonians 5:16 - 5 Rommel 7 - It is not about laughing stupidly all the time, but it is just about not being sad or do anything without a motivation that is pleasant to the holy spirit.
   
-For one cannot repent of an inappropriate behavior without being sad - Psalms 51:17 - Ecclesiastes 7:1-4), and on the other hand the comical nature of the behavior of the guilty in the Hebrew Bible despite the extreme brutality of the events described there (Exodus 14–16 - Numbers 13–14 - 16–17 - 2 Samuel 10:1-7).
+For one cannot repent of an inappropriate behavior without being sad - Psalms 51:17 - Ecclesiastes 7:1-4), and on the other hand the comical nature of the behavior of the guilty in the Hebrew Bible despite the extreme brutality of the events described there (Exodus 14â€“16 - Numbers 13â€“14 - 16â€“17 - 2 Samuel 10:1-7).
   
 7 And Moses who calls others rebels while he himself does not trust God enough since he did not simply speak to the rock but struck it and more than once (Numbers 20:1-13).
   
@@ -112,7 +112,7 @@ We know that he sent them away [to avoid having to worry about them constantly] 
   
 15 Therefore the promise that the spirit made to David (2 Samuel 7:4-16 - 3 Rommel 1:10-13) cannot be corrupted by the behavior of his children according to the flesh (Psalms 132:10-12 - 1 Kings 2:1-4 - 6:11-13 - 8:25 - 9:1-9 - 11:29-39 - 15:1-5 - 2 Chronicles 7:11-22 - 12:1-16 - 2 Kings 8:16-19 - 2 Chronicles 21).
   
-Thus the kingdom of Judah was destroyed because of the behavior of Manasseh who was a descendant of David (2 Kings 21:1-16 - 23:25-27 - 24:1-4 - 2 Chronicles 33:1-9 - Jeremiah 1:1-3 - 4:1-4,5-10 - 15:1-4,5-7 - 19:1-5,6-15 - 32:29-35), and it is in Jesus Christ that God the Father has fulfilled the promise made to David (Isaiah 9:6-7 - Luke 1:28-35 - 4 Rommel 6:44-48) concerning the inheritance of his own kingship (2 Samuel 7:16) and concerning the inheritance of the kingship of his immediate successor who was Solomon (1 Chronicles 17:14 – 22:6-13 - 28:1-10), because God fulfills all the words of the holy spirit.
+Thus the kingdom of Judah was destroyed because of the behavior of Manasseh who was a descendant of David (2 Kings 21:1-16 - 23:25-27 - 24:1-4 - 2 Chronicles 33:1-9 - Jeremiah 1:1-3 - 4:1-4,5-10 - 15:1-4,5-7 - 19:1-5,6-15 - 32:29-35), and it is in Jesus Christ that God the Father has fulfilled the promise made to David (Isaiah 9:6-7 - Luke 1:28-35 - 4 Rommel 6:44-48) concerning the inheritance of his own kingship (2 Samuel 7:16) and concerning the inheritance of the kingship of his immediate successor who was Solomon (1 Chronicles 17:14 â€“ 22:6-13 - 28:1-10), because God fulfills all the words of the holy spirit.
   
 However our transgressions influence the nature of the tests undergone by our descendants according to the flesh but only for a few generations, and our obedience influences those tests for many generations (Exodus 34:5-7 - 1 Kings 21:20-29 - 2 Chronicles 32:23-26 - 2 Kings 10:9-11,28-31 - Jeremiah 16:1-4 - 32:17-19).
   
@@ -340,7 +340,7 @@ But this event is described in chapter thirty four of the book of the exodus (Ex
   
 Therefore the importance of the rigor of any particular detail in a story depends only on the useful information that the reader is supposed to extract from this story (Ecclesiastes 12:10-14).
   
-Therefore it seems necessary to me to delete the following verses from the Bible: Job 15:28-29 - 2 Kings 13:23 - 24:13b - 1 Chronicles 7:24-29 - Psalms 10:8-11 - 44:20-26 - 55 - 68 - 69:35-36 - 87 - 88 - 102 - 107 - 119:79 - 127 - 128 - 129 - 141 - Proverbs 16:31 - 17:8,16 - 18:18 - 19:10,24 - 20:21,30 - 21:20 - 22:29 - 23:23 - 25:15,25-28 - 26:15 - 27:10-11,18-19,23-27 - Ecclesiastes 4:13-16 - Isaiah 11:14-16 - 13–14 - 17–19 - 23–27 - 30:22-33 - 31–35 - 46–47 - 49 - 60 - 62–64 - 66:12-24 - Jeremiah 3:17-25 - 17:19-27 - 25:13-38 - 30:16 - 31:38-40 - 33:14-26 - 46–51 - Lamentations 1–2,4–5 - Ezekiel 7 - 15 - 19 - 21–23 - 25–32 - 35–36 - 38–39 - Daniel 8 - 11 - 12:11-13 - Hosea 7–10 - Joel 1:17-20 - 2:20 - 3 - Obadiah - Micah 2–3 - 5:5-6 - Nahum - Zephaniah - Habakkuk 3 - Zechariah 9–11 - Luke 8:56 - 22:19-20,30,43-44 - John 7:53 - 12:14b-16 - 16:5b - Acts 18:18b - 27:9b.
+Therefore it seems necessary to me to delete the following verses from the Bible: Job 15:28-29 - 2 Kings 13:23 - 24:13b - 1 Chronicles 7:24-29 - Psalms 10:8-11 - 44:20-26 - 55 - 68 - 69:35-36 - 87 - 88 - 102 - 107 - 119:79 - 127 - 128 - 129 - 141 - Proverbs 16:31 - 17:8,16 - 18:18 - 19:10,24 - 20:21,30 - 21:20 - 22:29 - 23:23 - 25:15,25-28 - 26:15 - 27:10-11,18-19,23-27 - Ecclesiastes 4:13-16 - Isaiah 11:14-16 - 13â€“14 - 17â€“19 - 23â€“27 - 30:22-33 - 31â€“35 - 46â€“47 - 49 - 60 - 62â€“64 - 66:12-24 - Jeremiah 3:17-25 - 17:19-27 - 25:13-38 - 30:16 - 31:38-40 - 33:14-26 - 46â€“51 - Lamentations 1â€“2,4â€“5 - Ezekiel 7 - 15 - 19 - 21â€“23 - 25â€“32 - 35â€“36 - 38â€“39 - Daniel 8 - 11 - 12:11-13 - Hosea 7â€“10 - Joel 1:17-20 - 2:20 - 3 - Obadiah - Micah 2â€“3 - 5:5-6 - Nahum - Zephaniah - Habakkuk 3 - Zechariah 9â€“11 - Luke 8:56 - 22:19-20,30,43-44 - John 7:53 - 12:14b-16 - 16:5b - Acts 18:18b - 27:9b.
   
 [Now I reject John 12:14b-16 because the content of Zechariah 9 from which that reference comes seems very suspect to me, and I reject John 16:5b because of John 13:36-37 - 14:4-9.
   
@@ -408,9 +408,9 @@ Another modification that I have made concerns the ark of the covenant, the ment
   
 And I think that all these verses are voluntary falsifications because there are indications each time for a coherent correction, and therefore the authors of these alterations seem to have said in their hearts, 'Forgive us for making this falsification, O Yahweh, because it is so that those who had loved what they knew of you before Jesus will not be completely destroyed by your true followers'.
   
-This is why I think that king Darius who appears in Daniel 6 is the same as the one who appears in Ezra 4–6, by making the connection between Esther 1:18-19 - 8:7-8 and Daniel 6:8-9,14-15, and that it is another king who should appear at the beginning of Daniel 9 because it is not necessary that the whole book of Daniel should preserve the chronological order that is apparent in its first five chapters (1 Rommel 3:41).
+This is why I think that king Darius who appears in Daniel 6 is the same as the one who appears in Ezra 4â€“6, by making the connection between Esther 1:18-19 - 8:7-8 and Daniel 6:8-9,14-15, and that it is another king who should appear at the beginning of Daniel 9 because it is not necessary that the whole book of Daniel should preserve the chronological order that is apparent in its first five chapters (1 Rommel 3:41).
   
-And also the number of years in Haggai 2:10 because it seems obvious to me that the events of chapter two of the book of Haggai have taken place after the events of Ezra 4–6, and it is completely obvious that the names which appear in Zechariah 6:10 must be the same as those which appear in Zechariah 6:14, and the number of years in 1 Chronicles 23:3 must be the same as that in 1 Chronicles 23:27, and I have reduced by fifty thousand the number of dead concerning those who looked into the ark of the covenant (1 Samuel 6:19).
+And also the number of years in Haggai 2:10 because it seems obvious to me that the events of chapter two of the book of Haggai have taken place after the events of Ezra 4â€“6, and it is completely obvious that the names which appear in Zechariah 6:10 must be the same as those which appear in Zechariah 6:14, and the number of years in 1 Chronicles 23:3 must be the same as that in 1 Chronicles 23:27, and I have reduced by fifty thousand the number of dead concerning those who looked into the ark of the covenant (1 Samuel 6:19).
   
 I think these are the only significant changes that I have made in the whole history part (Genesis - Job - Exodus - Leviticus - Numbers - Deuteronomy - Joshua - Judges - Ruth - 1 Samuel - 2 Samuel - 1 Kings - 2 Kings - 1 Chronicles - 2 Chronicles - Ezra - Nehemiah - Esther), because I have only made clarifications regarding the meaning of words in other verses of those books like in Exodus 22:18.
   
@@ -428,7 +428,7 @@ I may be wrong (5 Rommel 2:27) but concerning some of the chapters that I have r
   
 47 The major prophets are those who have explicitly announced that there is something greater than the law of Moses, concerning the duty of mankind toward the creator of all things.
   
-These announcements are in Isaiah, and in Jeremiah, and in Ezekiel, and in Daniel, and in Daniel we see that it is not the genealogy that concerns the creator of all things (Daniel 1–2), and the eternal king is announced a second time (Daniel 7), and it is an indirect announcement that is made in Ezekiel (Ezekiel 37:15-28 - 48:29-35).
+These announcements are in Isaiah, and in Jeremiah, and in Ezekiel, and in Daniel, and in Daniel we see that it is not the genealogy that concerns the creator of all things (Daniel 1â€“2), and the eternal king is announced a second time (Daniel 7), and it is an indirect announcement that is made in Ezekiel (Ezekiel 37:15-28 - 48:29-35).
   
 For the writings of Ezekiel make us think about the usefulness of a house of God that is built by human hands, about the usefulness of all that is obligatory in such a house.
   
@@ -436,13 +436,13 @@ More specifically, it is necessary to consider on the one hand the exact plans o
   
 And the events that were shown to Ezekiel in the vision on that day were not ordered according to their chronology since it seems that Jerusalem was not yet destroyed in Ezekiel 11.
   
-Now I have selected and arranged the preceding excerpts from the books of Exodus and Numbers and Ezekiel to illustrate the Jewish thought according to which Yahweh needs a house to dwell in - 1 Kings 8:9 - 2 Chronicles 5:10 - Numbers 10:29-33 - Haggai 1:12-15 - 2:1-5,10-15,20-23 - Zechariah 2:10-13 - 8:1-3 - 3 Rommel 1:2 - 5 Rommel 5:10-12 - John 10:30-31 - Acts 7:46-54,55-60 - 1 Rommel 3:35), because Moses specified other plans with the description of construction materials in the written law (Exodus 25–27), and on the other hand it is necessary to think about the quantities and qualities of the things that are offered Yahweh alone on dates that the written law of Moses have fixed in advance (4 Rommel 13 - Micah 6:6-8 - Psalms 50:1-15,16-23 - John 1:17-18).
+Now I have selected and arranged the preceding excerpts from the books of Exodus and Numbers and Ezekiel to illustrate the Jewish thought according to which Yahweh needs a house to dwell in - 1 Kings 8:9 - 2 Chronicles 5:10 - Numbers 10:29-33 - Haggai 1:12-15 - 2:1-5,10-15,20-23 - Zechariah 2:10-13 - 8:1-3 - 3 Rommel 1:2 - 5 Rommel 5:10-12 - John 10:30-31 - Acts 7:46-54,55-60 - 1 Rommel 3:35), because Moses specified other plans with the description of construction materials in the written law (Exodus 25â€“27), and on the other hand it is necessary to think about the quantities and qualities of the things that are offered Yahweh alone on dates that the written law of Moses have fixed in advance (4 Rommel 13 - Micah 6:6-8 - Psalms 50:1-15,16-23 - John 1:17-18).
   
 It has been said somewhere about the scriptures of the Hebrew Bible that one should read David [who is the author of the majority of psalms] for piety, and Isaiah for consolation, and Jeremiah for punishment, and Ezekiel for wisdom [and I add Daniel for understanding].
   
 Now each of these authors makes us feel all these emotions, but with a particular emphasis on his specialty.
   
-48 And I advise against trying to understand the exact structure of the temple described by Ezekiel (Ezekiel 40:4-49 - 41–42 - 43:13-17 - 45:1-8 - 48:8-22) because it does not have the same simplicity as the written description of the tabernacle of Moses, and it is a total waste of time since the useful teaching is found in the comparison between its laws of operation and the laws of operation of the tabernacle of Moses which had been preserved in the house built by the initiative of David.
+48 And I advise against trying to understand the exact structure of the temple described by Ezekiel (Ezekiel 40:4-49 - 41â€“42 - 43:13-17 - 45:1-8 - 48:8-22) because it does not have the same simplicity as the written description of the tabernacle of Moses, and it is a total waste of time since the useful teaching is found in the comparison between its laws of operation and the laws of operation of the tabernacle of Moses which had been preserved in the house built by the initiative of David.
   
 And I even think that not dwelling on this aspect is part of the wisdom contained in Ezekiel [even if there can be no internal contradiction in his writings], because logically this description must have been designed to be unintelligible since the Gospel of Jesus Christ teaches that this eternal house is not supposed to exist (2 Rommel 23-24).
   
@@ -460,7 +460,7 @@ And then there was the actual construction of the sanctuary which will be subjec
   
 And this sanctuary is also the place where children of Israel are supposed to offer to Yahweh gifts that one wants to offer only to Yahweh alone, like the burnt offerings on the altar of sacrifices which must be located outside the house made of the holy place and of the most holy place (Deuteronomy 12:10-12,13-14,17-19), and like the pleasant smell of the incense burned by a priest on the unique altar of perfumes which must be located inside the holy place in front of the most holy place (1 Rommel 3:37).
   
-And the sanctuary is the place of service of the whole tribe of Levi which contains the priests who are the descendants of Aaron (Numbers 16–17).
+And the sanctuary is the place of service of the whole tribe of Levi which contains the priests who are the descendants of Aaron (Numbers 16â€“17).
   
 But Yahweh can express himself through prophets who can be ordinary people while the high priest who is a descendant of Aaron is the supreme intermediary between Yahweh and men since he is the one who has the last word in all controversies if the people has not established a king (3 Rommel 1:22).
   
@@ -498,7 +498,7 @@ All of this is completely insane for three reasons.
   
 The first reason is that no one gives a mysterious name to a person whose name is already known, and the second reason is that the content of Zechariah 6:13 must be modified to suggest that it is not the same person who should be a king sitting on his throne and a high priest, and the third reason is the very definition of Judaism in 4 Rommel 6:2-3.
   
-Now I have established that the end of the book of Ezekiel was written with a certain form of humor that encourages repentance from the one whose desire is to cling to the law given by Moses to the children of Jacob (Ezekiel 40–48 - 2 Rommel 21-24), and I think that the end of the book of Zechariah was written with another form of humor that encourages contempt for one whose desire is to cling to this law given by Moses (Zechariah 12–14).
+Now I have established that the end of the book of Ezekiel was written with a certain form of humor that encourages repentance from the one whose desire is to cling to the law given by Moses to the children of Jacob (Ezekiel 40â€“48 - 2 Rommel 21-24), and I think that the end of the book of Zechariah was written with another form of humor that encourages contempt for one whose desire is to cling to this law given by Moses (Zechariah 12â€“14).
   
 Considering all these circumstances, it is not surprising that these real actors choose to say that the five books of the Torah of Moses (Genesis - Exodus - Leviticus - Numbers - Deuteronomy) were invented by a very intelligent people at a time when they felt the desire to build a cultural identity for themselves.
   
@@ -508,11 +508,11 @@ But I choose to entirely dedicate this book on the knowledge of God to one of my
   
 Because several of her own initiatives have completely directed my steps to date.
   
-But I will also mention the young Kassandra Wehrlen for her emotional support (read and share), and Stefan Heinz Peter for all the financial assistance over the past several years [for more than ten years], and Jean Dutchou and Marthe Djiogue my parents according to the flesh, and the mathematician Jacques Azéma (1938 - 2019) who was one of my teachers in 2006 and who is the teacher who left the greatest impression on me by his personality, may his memory be a blessing, he and his colleague René Spector (1939 - 2018), may his memory be a blessing, but also their colleagues Lionel Moisan and Pierre Calka for their simplicity when I contacted them by email in September 2006 thinking to have made a discovery for the description of the notion of relative immobility in mathematical physics.
+But I will also mention the young Kassandra Wehrlen for her emotional support (read and share), and Stefan Heinz Peter for all the financial assistance over the past several years [for more than ten years], and Jean Dutchou and Marthe Djiogue my parents according to the flesh, and the mathematician Jacques AzÃ©ma (1938 - 2019) who was one of my teachers in 2006 and who is the teacher who left the greatest impression on me by his personality, may his memory be a blessing, he and his colleague RenÃ© Spector (1939 - 2018), may his memory be a blessing, but also their colleagues Lionel Moisan and Pierre Calka for their simplicity when I contacted them by email in September 2006 thinking to have made a discovery for the description of the notion of relative immobility in mathematical physics.
   
 Now I remember that I had not wanted to contact the other two because Pierre Calka had told me at some point that I seemed to be only seeking closeness with the already experienced teachers.
   
-I also want to quote the Egyptologist Ahmed Osman for his original theories concerning religion, in order to nourish the contradictory debate, and the preacher Chaudhry Rajinder Nijjhar Jatt who contacted me at the beginning of December 2020 and who allowed me to remember the analysis that I had done a few years earlier concerning the Gospel of Thomas, and Jonathan David Doolin for his way of doing things [thank you for your simplicity Jonathan], but also the religious researcher William Mayor and physics researcher Alan Dennis Clark for having manifested their interests, and also the philosopher of sciences Roberto Torretti (1930 – 2022) who kindly replied to me in July 2013, may his memory be a blessing.
+I also want to quote the Egyptologist Ahmed Osman for his original theories concerning religion, in order to nourish the contradictory debate, and the preacher Chaudhry Rajinder Nijjhar Jatt who contacted me at the beginning of December 2020 and who allowed me to remember the analysis that I had done a few years earlier concerning the Gospel of Thomas, and Jonathan David Doolin for his way of doing things [thank you for your simplicity Jonathan], but also the religious researcher William Mayor and physics researcher Alan Dennis Clark for having manifested their interests, and also the philosopher of sciences Roberto Torretti (1930 â€“ 2022) who kindly replied to me in July 2013, may his memory be a blessing.
   
 I really think all the evil that I have said of those who claim to be of jewish origin whether by conversion or not.
   
@@ -520,7 +520,7 @@ For I myself have noticed all the subtleties of their behaviors, it has not just
   
 But I also think that the apostle Paul must be right when he says that they are not all dogs (5 Rommel 2:27 - Romans 9:1-13) [But I repeat it, Judaism must completely disappear for the glorification of the God of Israel, for the love of Jesus Christ, and those among them who are not ignorant are simply human waste (1 Rommel 1:17 - Ecclesiastes 7:23-24)].
   
-52 Pope Francis of the Roman Catholic Church, 13 September 2024, a few months before Donald John Trump became president of the United States for the second time, and the two controversial salutes made by the businessman Elon Reeve Musk on the day of the second inauguration of the president, and the publication by the president of an image generated by artificial intelligence of himself disguised as the pope, a few months before the announcement by the president in office of the French Republic Emmanuel Jean-Michel Frédéric Macron of his intention to recognize the right of the Palestinian people not to live in slavery (1 John 4:20-21), eleven months before Donald John Trump declared that he wanted to do his best to go to Heaven if possible: There is only one God.
+52 Pope Francis of the Roman Catholic Church, 13 September 2024, a few months before Donald John Trump became president of the United States for the second time, and the two controversial salutes made by the businessman Elon Reeve Musk on the day of the second inauguration of the president, and the publication by the president of an image generated by artificial intelligence of himself disguised as the pope, a few months before the announcement by the president in office of the French Republic Emmanuel Jean-Michel FrÃ©dÃ©ric Macron of his intention to recognize the right of the Palestinian people not to live in slavery (1 John 4:20-21), eleven months before Donald John Trump declared that he wanted to do his best to go to Heaven if possible: There is only one God.
   
 And we, our religions are languages, paths to reach God.
   
@@ -534,7 +534,7 @@ And since God is God for everyone, we are all children of God.
   
 But 'My God is more important than yours', is it true (to compare with Psalms 82 and John 1:1-18).
   
-53 It is remarkable that the ability to speak in different languages ​​is the first gift distributed by the holy spirit, and also the most mentioned in the testament of Jesus Christ which describes the early days of Christianity (5 Rommel 14).
+53 It is remarkable that the ability to speak in different languages â€‹â€‹is the first gift distributed by the holy spirit, and also the most mentioned in the testament of Jesus Christ which describes the early days of Christianity (5 Rommel 14).
   
 There may be a natural justification for this, since the apostles and disciples then had the opportunity to interact more easily with other communities, and thus spread in their own words the message of the Gospel which is inseparable from the complexity of the Hebrew Bible (Psalms 32:1-6 - 4 Rommel 7:18-19 - Luke 1:67-75,76-79 - 1 John 2:21-25,26-29 - 2 Peter 1:1-11,12-15 - Philippians 3:1-3 - Romans 10:1-4).
   
@@ -548,6 +548,7 @@ More than two thousand years later, the holy spirit continues to descend on all 
   
 the Christian faith, marking the beginning of the Church against which even the evils of hell will not prevail. More than two thousand years later, the holy spirit continues to descend on all those who proclaim the name of Christ, enabling them to spread the Gospel.
   
+
 
 
 

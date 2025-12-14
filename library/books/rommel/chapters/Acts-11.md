@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2011.txt)
   
 
 
-﻿1 Now the apostles and the brothers [disciples] who were in Judea heard that the Gentiles had also received the word of God.
+ï»¿1 Now the apostles and the brothers [disciples] who were in Judea heard that the Gentiles had also received the word of God.
   
 2 And when Peter came up to Jerusalem, the circumcised believers [namely the Jews] rebuked him.
   
@@ -100,6 +100,7 @@ And this occurred at the time of the reign of Claudius Caesar.
   
 he elders by the hand of Barnabas and Saul.
   
+
 
 
 

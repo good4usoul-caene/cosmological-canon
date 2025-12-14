@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20105.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20105.txt)
   
 
 
-﻿1 Praise Yahweh and call on his name.
+ï»¿1 Praise Yahweh and call on his name.
   
 Declare his deeds among the peoples.
   
@@ -118,6 +118,7 @@ Praise Yahweh.
   
 is statutes, and to observe his laws. Praise Yahweh.
   
+
 
 
 

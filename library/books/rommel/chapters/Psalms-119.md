@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20119.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20119.txt)
   
 
 
@@ -514,6 +514,7 @@ Seek your servant, for I have not forgotten your commandments.
   
 precepts. 174 I long for your salvation, O Yahweh. Your law is my delight. 175 Let my soul live in order to praise you. Let your law sustain me. 176 I have gone astray like a lost sheep. Seek your servant, for I have not forgotten your commandments.
   
+
 
 
 

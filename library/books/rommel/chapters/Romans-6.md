@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%206.txt)
   
 
 
-﻿1 What will we say then.
+ï»¿1 What will we say then.
   
 Will we continue in sin so that grace may abound.
   
@@ -100,6 +100,7 @@ For the end of those things is death [that is to say, eternal death].
   
 eternal life through Jesus Christ our Lord.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2035.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2035.txt)
   
 
 
-﻿1 God said to Jacob, Arise, and go up to Bethel and dwell there.
+ï»¿1 God said to Jacob, Arise, and go up to Bethel and dwell there.
   
 And there you will set up an altar to the God who appeared to you when you were fleeing your brother Esau.
   
@@ -108,6 +108,7 @@ And his sons Esau and Jacob buried him.
   
 f days. And his sons Esau and Jacob buried him.
   
+
 
 
 

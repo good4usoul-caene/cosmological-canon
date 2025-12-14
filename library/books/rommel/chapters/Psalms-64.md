@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2064.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2064.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 Hear my voice when I cry out, O God.
   
@@ -46,6 +46,7 @@ All those who are upright in heart will rejoice.
   
 rt will rejoice.
   
+
 
 
 

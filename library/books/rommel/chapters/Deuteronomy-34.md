@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2034.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2034.txt)
   
 
 
-﻿1 Then Moses went up from the plain of Moab to mount Nebo, at the top of Pisgah opposite Jericho.
+ï»¿1 Then Moses went up from the plain of Moab to mount Nebo, at the top of Pisgah opposite Jericho.
   
 And Yahweh showed him the whole land.
   
@@ -50,6 +50,7 @@ And the children of Israel obeyed him and did as Yahweh commanded Moses.
   
 ght of all Israel.
   
+
 
 
 

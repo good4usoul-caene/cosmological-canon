@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%2010.txt)
   
 
 
-﻿1 Brothers, the desire of my heart and prayer to God for them is that they may be saved.
+ï»¿1 Brothers, the desire of my heart and prayer to God for them is that they may be saved.
   
 2 For I bear them witness that they have a zeal for God, but not according to knowledge.
   
@@ -78,6 +78,7 @@ Moses first said: I will provoke you to jealousy by those who are not a people, 
   
 llious and contradictory people.
   
+
 
 
 

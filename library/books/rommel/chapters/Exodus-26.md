@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2026.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2026.txt)
   
 
 
-﻿1 And you will make the tabernacle with ten curtains of fine twisted linen, and of fabrics dyed blue and purple and scarlet.
+ï»¿1 And you will make the tabernacle with ten curtains of fine twisted linen, and of fabrics dyed blue and purple and scarlet.
   
 And they will be worked to represent cherubim, an embroidery work.
   
@@ -124,6 +124,7 @@ They will have golden hooks, and you will cast for them five bases of brass.
   
 hooks, and you will cast for them five bases of brass.
   
+
 
 
 

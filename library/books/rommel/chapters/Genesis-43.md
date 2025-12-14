@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2043.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2043.txt)
   
 
 
-﻿1 The famine was great in the country.
+ï»¿1 The famine was great in the country.
   
 2 They finished eating the grain that they had brought from Egypt, and Jacob said to his sons, Go again and buy us a little food.
   
@@ -140,6 +140,7 @@ And they drank and were merry with him.
   
 han each of the others. And they drank and were merry with him.
   
+
 
 
 

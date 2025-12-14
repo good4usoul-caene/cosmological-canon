@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2035.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2035.txt)
   
 
 
-﻿1 And Elihu continued in the following words.
+ï»¿1 And Elihu continued in the following words.
   
 2 Do you think that you are right to say, I am more righteous than God.
   
@@ -52,6 +52,7 @@ But your case is before him, so wait for him.
   
 without knowledge.
   
+
 
 
 

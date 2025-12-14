@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%205.txt)
   
 
 
-﻿1 Then Moses called all Israel and said to them: Listen, O Israel, the ordinances and the laws that I declare to you today.
+ï»¿1 Then Moses called all Israel and said to them: Listen, O Israel, the ordinances and the laws that I declare to you today.
   
 Learn them, and put them into practice carefully.
   
@@ -114,6 +114,7 @@ You will not turn aside to the right or to the left.
   
 olong your days in the land that you will possess.
   
+
 
 
 

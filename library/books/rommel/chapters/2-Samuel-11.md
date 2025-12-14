@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2011.txt)
   
 
 
-﻿1 And the following year at the period when kings went out to war because the climate is favorable, David sent to destroy the children of Ammon.
+ï»¿1 And the following year at the period when kings went out to war because the climate is favorable, David sent to destroy the children of Ammon.
   
 David sent Joab, and his servants with him, and all [the army of] Israel.
   
@@ -108,6 +108,7 @@ But the thing that David had done displeased Yahweh.
   
 he thing that David had done displeased Yahweh.
   
+
 
 
 

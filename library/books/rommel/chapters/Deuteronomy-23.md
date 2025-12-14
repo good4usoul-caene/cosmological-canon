@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2023.txt)
   
 
 
-﻿1 The one whose testicle is crushed or whose private member is cut off will not enter the assembly of Yahweh.
+ï»¿1 The one whose testicle is crushed or whose private member is cut off will not enter the assembly of Yahweh.
   
 2 A bastard [one who is born of an illicit union] will not enter the assembly of Yahweh.
   
@@ -74,6 +74,7 @@ For Yahweh your God will certainly demand it from you, and you will bear a sin.
   
 ckle on your neighbor's grain.
   
+
 
 
 

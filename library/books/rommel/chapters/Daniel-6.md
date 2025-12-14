@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDaniel%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Daniel%206.txt)
   
 
 
-﻿1 Now Darius king of Persia took the kingdom when he was twenty eight years old.
+ï»¿1 Now Darius king of Persia took the kingdom when he was twenty eight years old.
   
 And it pleased Darius to set one hundred and twenty seven satraps over the kingdom, and they were to be throughout the whole kingdom.
   
@@ -110,7 +110,7 @@ And the lions seized them and broke all their bones in pieces before they reache
   
 They had observed the manner in which Daniel worshiped his God, and they had incited the king to establish a decree that should have caused the destruction of Daniel, and the king had done it without knowing their true motives.]
   
-25 Afterward [that is to say later in the time] king Darius wrote to all the peoples of all nations and languages â€‹â€‹who dwell throughout the whole earth: May peace be multiplied to you.
+25 Afterward [that is to say later in the time] king Darius wrote to all the peoples of all nations and languages Ã¢â‚¬â€¹Ã¢â‚¬â€¹who dwell throughout the whole earth: May peace be multiplied to you.
   
 26 I command that throughout all the dominion of my kingdom, every person should fear and tremble before the God of Daniel.
   
@@ -126,6 +126,7 @@ He has saved Daniel from the power of the lions.
   
 Persian and until the reign of Darius [king of Persia].
   
+
 
 
 

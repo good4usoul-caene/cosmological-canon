@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2016.txt)
   
 
 
-﻿1 Now Korah the son of Izhar, the son of Kohath, the son of Levi, went apart with Dathan and Abiram the sons of Eliab, and On the son of Peleth, all from the sons of Reuben.
+ï»¿1 Now Korah the son of Izhar, the son of Kohath, the son of Levi, went apart with Dathan and Abiram the sons of Eliab, and On the son of Peleth, all from the sons of Reuben.
   
 2 And they rose up against Moses with some of the children of Israel, two hundred and fifty princes of the congregation which means from those who had been appointed to govern different parts of the people and who were famous men.
   
@@ -176,6 +176,7 @@ And the plague was stopped.
   
 rned to Moses at the entrance to the tent of meeting. And the plague was stopped.
   
+
 
 
 

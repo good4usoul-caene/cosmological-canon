@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%2013.txt)
   
 
 
-﻿1 Moses (Numbers 28â€"29) vs Ezekiel (Ezekiel 45â€"46) concerning the obligatory part of burnt offerings, and burnt offerings are not eaten (4 Rommel 7:13).
+ï»¿1 Moses (Numbers 28Ã¢â‚¬"29) vs Ezekiel (Ezekiel 45Ã¢â‚¬"46) concerning the obligatory part of burnt offerings, and burnt offerings are not eaten (4 Rommel 7:13).
   
 And these are the only offerings for which there are fixed dates in advance.
   
@@ -52,6 +52,7 @@ We notice that Yahweh loves very much the deeds that are done voluntarily by the
   
 el 43:18-21,22-27).
   
+
 
 
 

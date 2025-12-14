@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2012.txt)
   
 
 
-﻿1 And Miriam and Aaron spoke against Moses [by the initiative of Miriam], concerning the Ethiopian woman whom he had married.
+ï»¿1 And Miriam and Aaron spoke against Moses [by the initiative of Miriam], concerning the Ethiopian woman whom he had married.
   
 For he had married an Ethiopian woman.
   
@@ -66,6 +66,7 @@ Let her be locked up outside the camp for seven days, and after she will be rece
   
 n the wilderness of Paran.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2060.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2060.txt)
   
 
 
-﻿1 A psalm of David, when he [his army] went to fight against the Syrians of Mesopotamia and the Syrians of Zobah, and when Joab returned and defeated twelve thousand Edomites in the valley of salt.
+ï»¿1 A psalm of David, when he [his army] went to fight against the Syrians of Mesopotamia and the Syrians of Zobah, and when Joab returned and defeated twelve thousand Edomites in the valley of salt.
   
 O God, you have rejected us and you have scattered us because you were angry [at the end of Saul's reign].
   
@@ -54,6 +54,7 @@ Will you not go with us in the midst of our armies, O God.
   
 ad down our enemies.
   
+
 
 
 

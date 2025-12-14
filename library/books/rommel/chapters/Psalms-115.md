@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20115.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20115.txt)
   
 
 
-﻿1 Do not act because of us, O Yahweh.
+ï»¿1 Do not act because of us, O Yahweh.
   
 Do not act because of us, but only for the glory of your name, and for the sake of your mercy and your faithfulness.
   
@@ -70,6 +70,7 @@ Praise Yahweh.
   
 and forever. Praise Yahweh.
   
+
 
 
 

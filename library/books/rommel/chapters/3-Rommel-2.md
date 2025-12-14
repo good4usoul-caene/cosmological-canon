@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C3%20Rommel%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\3%20Rommel%202.txt)
   
 
 
-﻿1 Preface to the Testament of Jesus Christ, second part.
+ï»¿1 Preface to the Testament of Jesus Christ, second part.
   
 2 Jesus has prayed only to strengthen himself (4 Rommel 6:36) and he has spoken out loud so that we may trust the holy spirit and know how to strengthen ourselves (John 11:40-42 - 17:13-15 - Luke 11:1-4,13).
   
@@ -124,6 +124,7 @@ For it was a pedagogy in which everyone simply had to do his best (Leviticus 4:2
   
 to serve you (1 Corinthians 3:21-23 - Colossians 3:17).
   
+
 
 
 

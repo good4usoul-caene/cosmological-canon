@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20125.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20125.txt)
   
 
 
-﻿1 Those who trust in Yahweh are like mount Zion.
+ï»¿1 Those who trust in Yahweh are like mount Zion.
   
 It cannot be removed, since it is established forever.
   
@@ -26,6 +26,7 @@ May peace be on Israel.
   
 srael.
   
+
 
 
 

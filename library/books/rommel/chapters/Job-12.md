@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2012.txt)
   
 
 
-﻿1 And Job spoke in the following words.
+ï»¿1 And Job spoke in the following words.
   
 2 It seems, in truth, that the human kind is you and wisdom will go away when you die.
   
@@ -76,6 +76,7 @@ He extends them far away, and he brings them back within their limits.
   
 them wander like a drunken man.
   
+
 
 
 

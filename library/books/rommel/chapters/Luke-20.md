@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2020.txt)
   
 
 
-﻿1 One of those days, while Jesus was teaching the people in the temple and preaching the gospel, the chief priests came to him, and also the scribes and the elders.
+ï»¿1 One of those days, while Jesus was teaching the people in the temple and preaching the gospel, the chief priests came to him, and also the scribes and the elders.
   
 2 And they said to Jesus: Tell us by what authority you are doing these things, or who has given you this authority.
   
@@ -146,6 +146,7 @@ They will be condemned more strictly.
   
 idows and make long prayers. They will be condemned more strictly.
   
+
 
 
 

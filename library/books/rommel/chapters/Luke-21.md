@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2021.txt)
   
 
 
-﻿1 And Jesus looked up, and saw the rich people putting their gifts into the treasury.
+ï»¿1 And Jesus looked up, and saw the rich people putting their gifts into the treasury.
   
 [That is to say, people were putting gifts into a box that had been set there for this purpose.
   
@@ -128,6 +128,7 @@ But Jesus also said previously that in the eyes of God those who are dead accord
   
 e area early in the morning, in order to listen to Jesus.
   
+
 
 
 

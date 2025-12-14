@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%201.txt)
   
 
 
-﻿1 Paul, a servant of Jesus Christ called to be an apostle, set apart to proclaim the gospel of God.
+ï»¿1 Paul, a servant of Jesus Christ called to be an apostle, set apart to proclaim the gospel of God.
   
 2 The good news that God had promised before through his prophets in the holy scriptures.
   
@@ -110,6 +110,7 @@ And even their women have changed the natural use into that which is against nat
   
 o them, but they also approve those who do them.
   
+
 
 
 

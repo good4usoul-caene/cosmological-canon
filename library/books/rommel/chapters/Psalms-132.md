@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20132.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20132.txt)
   
 
 
-﻿1 O Yahweh, remember David and all his affliction.
+ï»¿1 O Yahweh, remember David and all his affliction.
   
 2 He swore to Yahweh, he made the following vow to the mighty one of Jacob.
   
@@ -56,6 +56,7 @@ For I will set there a lamp for my anointed.
   
 wn will shine on him.
   
+
 
 
 

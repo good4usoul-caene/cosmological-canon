@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2082.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2082.txt)
   
 
 
@@ -36,6 +36,7 @@ For you will inherit all nations.
   
 ll nations.
   
+
 
 
 

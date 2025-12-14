@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Timothy%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Timothy%204.txt)
   
 
 
-﻿1 I beseech you before God, and before Jesus Christ who will judge the living and the dead when he appears to establish his kingdom.
+ï»¿1 I beseech you before God, and before Jesus Christ who will judge the living and the dead when he appears to establish his kingdom.
   
 2 Preach the word, reminds others of the right way to practice the true faith in any situation, regardless of whether the situation is favorable or not.
   
@@ -88,6 +88,7 @@ Amen.
   
 spirit. May grace be with you. Amen.
   
+
 
 
 

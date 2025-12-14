@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2012.txt)
   
 
 
-﻿1 You will say in that day: I will praise you, O Yahweh.
+ï»¿1 You will say in that day: I will praise you, O Yahweh.
   
 For you were angry with me, but your anger has turned away and you have comforted me.
   
@@ -38,6 +38,7 @@ For he is great in your midst, the holy one of Israel.
   
 e of Israel.
   
+
 
 
 

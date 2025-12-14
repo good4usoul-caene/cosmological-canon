@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2092.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2092.txt)
   
 
 
-﻿1 A psalm for the sabbath day.
+ï»¿1 A psalm for the sabbath day.
   
 It is a good thing to thank Yahweh, and to sing praises to your name, O Most High.
   
@@ -62,6 +62,7 @@ He is my rock, and there is no unrighteousness in him.
   
 unrighteousness in him.
   
+
 
 
 

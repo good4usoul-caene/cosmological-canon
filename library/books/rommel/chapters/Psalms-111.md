@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20111.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20111.txt)
   
 
 
-﻿1 Praise Yahweh.
+ï»¿1 Praise Yahweh.
   
 I will praise Yahweh with my whole heart, in the assembly of the upright and in the congregation.
   
@@ -42,6 +42,7 @@ Everyone who learns from his commandments has a good understanding, for the glor
   
 dures forever.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2055.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2055.txt)
   
 
 
-﻿1 All of you who are thirsty, come to the waters.
+ï»¿1 All of you who are thirsty, come to the waters.
   
 It does not matter if you do not have money, come to buy and eat.
   
@@ -62,6 +62,7 @@ And this happiness will come to exalt the name of Yahweh, and to serve as a sign
   
 memory will never fade.
   
+
 
 
 

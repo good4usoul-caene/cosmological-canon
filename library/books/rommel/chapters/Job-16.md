@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2016.txt)
   
 
 
-﻿1 Then Job spoke in the following words.
+ï»¿1 Then Job spoke in the following words.
   
 2 I have frequently heard such things.
   
@@ -80,6 +80,7 @@ He runs towards me like a giant.
   
 ath from which I will not return.
   
+
 
 
 

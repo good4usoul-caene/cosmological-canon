@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJonah%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jonah%203.txt)
   
 
 
-﻿1 And the word of Yahweh came to Jonah the second time in the following words.
+ï»¿1 And the word of Yahweh came to Jonah the second time in the following words.
   
 [The second time concerning the events described in this book.]
   
@@ -44,6 +44,7 @@ And God repented of the evil he had intended to do to them, and he did it not.
   
 he did it not.
   
+
 
 
 

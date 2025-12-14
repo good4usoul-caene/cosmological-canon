@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2071.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2071.txt)
   
 
 
-﻿1 I put my trust in you, O Yahweh.
+ï»¿1 I put my trust in you, O Yahweh.
   
 Let me never be confused.
   
@@ -100,6 +100,7 @@ For those who seek my destruction will be bewildered and ashamed.
   
 destruction will be bewildered and ashamed.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2027.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2027.txt)
   
 
 
-﻿1 Do not boast of tomorrow, for you do not know what a day may bring forth.
+ï»¿1 Do not boast of tomorrow, for you do not know what a day may bring forth.
   
 2 Let another man praise you, and not your own mouth.
   
@@ -70,6 +70,7 @@ Exact from him a pledge, because of the stranger.
   
 im. 23 . 24 . 25 . 26 . 27 .
   
+
 
 
 

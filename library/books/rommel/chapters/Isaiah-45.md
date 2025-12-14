@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2045.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2045.txt)
   
 
 
-﻿1 Thus says Yahweh to Cyrus his anointed, the one whose right hand I will hold in order to subdue nations before him: I will weaken the waists of kings in order to open the doors before him, and those gates will not be closed again.
+ï»¿1 Thus says Yahweh to Cyrus his anointed, the one whose right hand I will hold in order to subdue nations before him: I will weaken the waists of kings in order to open the doors before him, and those gates will not be closed again.
   
 2 I will go before you, and I will smooth the rough places.
   
@@ -130,6 +130,7 @@ All those who have provoked his anger will come before him and will be ashamed.
   
 eed of Israel will be justified in Yahweh, and will glory.
   
+
 
 
 

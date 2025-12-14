@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2029.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2029.txt)
   
 
 
-﻿1 This is what you will do to consecrate them, so that they may be at my service in the priesthood.
+ï»¿1 This is what you will do to consecrate them, so that they may be at my service in the priesthood.
   
 Take a young bullock and two rams without blemish.
   
@@ -156,6 +156,7 @@ I am Yahweh their God.
   
 em out of the land of Egypt to dwell among them. I am Yahweh their God.
   
+
 
 
 

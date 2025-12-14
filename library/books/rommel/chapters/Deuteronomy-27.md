@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2027.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2027.txt)
   
 
 
-﻿1 Then Moses and the elders of Israel commanded the people and said, Keep all the commandments I command you this day.
+ï»¿1 Then Moses and the elders of Israel commanded the people and said, Keep all the commandments I command you this day.
   
 2 When you pass over the Jordan to enter the land that Yahweh your God gives you, then you will set up large stones and you will plaster them with plaster.
   
@@ -98,6 +98,7 @@ And all the people will say, So be it.
   
 ce. And all the people will say, So be it.
   
+
 
 
 

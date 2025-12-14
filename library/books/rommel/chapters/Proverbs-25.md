@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2025.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2025.txt)
   
 
 
-﻿1 These also are proverbs of Solomon, which was collected by the men of Hezekiah king of Judah.
+ï»¿1 These also are proverbs of Solomon, which was collected by the men of Hezekiah king of Judah.
   
 2 It is the glory of God to conceal a thing, but the honor of kings is to search out a matter.
   
@@ -72,6 +72,7 @@ If he is thirsty then give him water to drink.
   
 de house. 25 . 26 . 27 . 28 .
   
+
 
 
 

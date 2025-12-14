@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Corinthians%207.txt)
   
 
 
@@ -170,6 +170,7 @@ And whatever she does, she must do it with the intention of pleasing the Lord.
   
 pier if she remains as she is, and I think that I also have the Spirit of God.
   
+
 
 
 

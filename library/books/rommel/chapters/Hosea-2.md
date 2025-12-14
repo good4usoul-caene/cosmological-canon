@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CHosea%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Hosea%202.txt)
   
 
 
-﻿1 Say to your brothers 'Ammi [my people]', and to your sisters 'Ruhamah [mercy]'.
+ï»¿1 Say to your brothers 'Ammi [my people]', and to your sisters 'Ruhamah [mercy]'.
   
 2 Argue with your mother.
   
@@ -96,6 +96,7 @@ And I will say to those who were not my people 'You are my people', and they wil
   
 ple', and they will say 'You are my God'.
   
+
 
 
 

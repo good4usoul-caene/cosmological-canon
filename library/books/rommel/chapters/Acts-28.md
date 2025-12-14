@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2028.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2028.txt)
   
 
 
@@ -106,6 +106,7 @@ Lest they understand with their hearts, and convert, and I should heal them.
   
 t with complete freedom and without hindrance.
   
+
 
 
 

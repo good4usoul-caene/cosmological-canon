@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%2019.txt)
   
 
 
-﻿1 Then Pilate took Jesus and caused him to be whipped.
+ï»¿1 Then Pilate took Jesus and caused him to be whipped.
   
 2 And the soldiers plaited a crown of thorns, and put it on his head, and clothed him with a purple coat.
   
@@ -152,6 +152,7 @@ For the tomb was nearby.
   
 because of the preparation day of the Jews. For the tomb was nearby.
   
+
 
 
 

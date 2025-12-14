@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%202.txt)
   
 
 
@@ -116,6 +116,7 @@ Then two bears came out of the forest and tore to pieces forty two of these chil
   
 ount Carmel, and from there he returned to Samaria.
   
+
 
 
 

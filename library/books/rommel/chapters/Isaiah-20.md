@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2020.txt)
   
 
 
-﻿1 In the year that Tartan came and besieged Ashdod, and captured it, when Sargon the king of Assyria sent him to do it.
+ï»¿1 In the year that Tartan came and besieged Ashdod, and captured it, when Sargon the king of Assyria sent him to do it.
   
 2 At that time Yahweh spoke to Isaiah the son of Amoz by saying: Go now and untie the sackcloth from around your waist, and take your shoes off your feet.
   
@@ -30,6 +30,7 @@ And now, how will we be saved.
   
 e saved.
   
+
 
 
 

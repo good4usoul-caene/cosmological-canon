@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20135.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20135.txt)
   
 
 
-﻿1 Praise Yahweh, praise the name of Yahweh.
+ï»¿1 Praise Yahweh, praise the name of Yahweh.
   
 Praise him, you the servants of Yahweh.
   
@@ -36,7 +36,7 @@ He brings the wind out of his treasuries.
   
 10 He smote great nations, and killed mighty kings.
   
-11 Sihon king of the Amorites, and Og â€‹â€‹king of Bashan, and all the kingdoms of Canaan.
+11 Sihon king of the Amorites, and Og Ã¢â‚¬â€¹Ã¢â‚¬â€¹king of Bashan, and all the kingdoms of Canaan.
   
 12 And he gave their land for an inheritance, an inheritance for his people Israel.
   
@@ -72,6 +72,7 @@ Praise Yahweh.
   
 in Jerusalem. Praise Yahweh.
   
+
 
 
 

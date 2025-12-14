@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2022.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2022.txt)
   
 
 
-﻿1 And the children of Israel departed and they encamped in the plain of Moab, near the Jordan opposite Jericho.
+ï»¿1 And the children of Israel departed and they encamped in the plain of Moab, near the Jordan opposite Jericho.
   
 2 Now Balak the son of Zippor saw everything that Israel had done to the Amorites.
   
@@ -82,7 +82,7 @@ The two servants of Balaam were with him.
   
 [Now the angel of Yahweh wanted to resist him because of the thing that Balaam was hoping in his heart while he was going with the princes of Moab.
   
-For Balaam had chosen to consult God â€‹â€‹a second time rather than respond directly to the messengers when they came back to him with exactly the same request.]
+For Balaam had chosen to consult God Ã¢â‚¬â€¹Ã¢â‚¬â€¹a second time rather than respond directly to the messengers when they came back to him with exactly the same request.]
   
 23 And the donkey saw the angel of Yahweh standing in the path with his sword drawn in his hand, and the donkey turned out of the path and went into the fields.
   
@@ -118,7 +118,7 @@ Then Balaam bowed himself, and Balaam fell flat on his face.
   
 32 And the angel of Yahweh said to him: Why have you already struck your donkey three times.
   
-Behold I have come out to resist you, because your way is not straight before me [because of the thing that you are hoping in your heart while you are going with the princes of Moab, because you have chosen to consult me â€‹â€‹a second time rather than respond directly to the messengers when they came back to you with exactly the same request].
+Behold I have come out to resist you, because your way is not straight before me [because of the thing that you are hoping in your heart while you are going with the princes of Moab, because you have chosen to consult me Ã¢â‚¬â€¹Ã¢â‚¬â€¹a second time rather than respond directly to the messengers when they came back to you with exactly the same request].
   
 33 And the donkey saw me and turned away from me three times already.
   
@@ -154,6 +154,7 @@ For the only things I will speak to you are the words that God will put in my mo
   
 Baal, that from there he might see the greatest extent of the people.
   
+
 
 
 

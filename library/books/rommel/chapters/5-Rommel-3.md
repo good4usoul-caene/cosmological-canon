@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%203.txt)
   
 
 
-﻿1 The identity of God.
+ï»¿1 The identity of God.
   
 2 Science aims to establish knowledge about the work of God and experiment is then used to purify speculations, while the holy scriptures reveal the will of the creator.
   
@@ -34,6 +34,7 @@ The hand of God is the laws of nature that scientists seek (John 14:9-10 - 1:18 
   
 rd of God.
   
+
 
 
 

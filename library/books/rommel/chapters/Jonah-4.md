@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJonah%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jonah%204.txt)
   
 
 
-﻿1 And the thing displeased Jonah exceedingly, and he was angry.
+ï»¿1 And the thing displeased Jonah exceedingly, and he was angry.
   
 2 And Jonah prayed to Yahweh and said: O Yahweh, is this not what I said to myself when I was still in my own country.
   
@@ -60,6 +60,7 @@ It came up in a night, and perished in a night.
   
 e are also many cattle.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CTitus%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Titus%202.txt)
   
 
 
-﻿1 As for you, speak the things that are in accordance with the healthy doctrine.
+ï»¿1 As for you, speak the things that are in accordance with the healthy doctrine.
   
 2 Say that the old men [who are disciples of Christ] must be self-controlled, earnest, gentle, strong in the faith, and in love, and in patience.
   
@@ -48,6 +48,7 @@ Let no one despise you.
   
 one despise you.
   
+
 
 
 

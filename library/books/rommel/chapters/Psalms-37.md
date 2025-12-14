@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2037.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2037.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 Do not fret because of the wicked, and envy not those who do iniquity.
   
@@ -124,6 +124,7 @@ He rescues them from the wicked and saves them, because they take refuge in him.
   
 wicked and saves them, because they take refuge in him.
   
+
 
 
 

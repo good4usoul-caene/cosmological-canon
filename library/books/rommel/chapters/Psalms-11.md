@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2011.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 I have put my trust in Yahweh.
   
@@ -38,6 +38,7 @@ The upright will behold his face.
   
 ld his face.
   
+
 
 
 

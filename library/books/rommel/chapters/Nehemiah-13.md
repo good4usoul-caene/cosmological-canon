@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%2013.txt)
   
 
 
-﻿1 On that day they did read in the book of Moses in the audience of the people, and it was found written that the Ammonite and the Moabite should not come into the assembly of God forever.
+ï»¿1 On that day they did read in the book of Moses in the audience of the people, and it was found written that the Ammonite and the Moabite should not come into the assembly of God forever.
   
 2 For they had not come to meet the children of Israel with bread and water, but they had hired Balaam against them to curse them.
   
@@ -118,6 +118,7 @@ We must not seek to understand the exact intentions of God in any situation but 
   
 y situation but only obey him with a devoted heart.]
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%204.txt)
   
 
 
-﻿1 O Israel.
+ï»¿1 O Israel.
   
 If you come back, if you come back to me, says Yahweh, if you remove your abominations from before me, then you will no longer be a wanderer.
   
@@ -138,6 +138,7 @@ The voice of the daughter of Zion who groans and spreads out her hands by saying
   
 g: Woe is me now, for my soul faints because of the murderers.
   
+
 
 
 

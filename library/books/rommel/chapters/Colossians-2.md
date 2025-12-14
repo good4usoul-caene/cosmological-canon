@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CColossians%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Colossians%202.txt)
   
 
 
-﻿1 For I want you to know how great is the battle that I sustain for you, and for those who are at Laodicea, and for all those who have not seen my face in the flesh.
+ï»¿1 For I want you to know how great is the battle that I sustain for you, and for those who are at Laodicea, and for all those who have not seen my face in the flesh.
   
 2 So that their hearts may be comforted, and united in love, and enriched with the full assurance of understanding, through the knowledge of the mystery of God, namely Christ.
   
@@ -72,6 +72,7 @@ Do not touch.
   
 he satisfaction of the flesh.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%2014.txt)
   
 
 
-﻿1 In the second year of Joash the son of Jehoahaz king of Israel, Amaziah the son of Joash king of Judah began to reign.
+ï»¿1 In the second year of Joash the son of Jehoahaz king of Israel, Amaziah the son of Joash king of Judah began to reign.
   
 2 He was twenty five years old when he began to reign, and he reigned twenty nine years in Jerusalem.
   
@@ -96,6 +96,7 @@ Therefore he saved them by the hand of Jeroboam the son of Joash.
   
 d Zechariah his son reigned in his stead.
   
+
 
 
 

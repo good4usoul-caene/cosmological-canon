@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CAmos%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Amos%206.txt)
   
 
 
-﻿1 Woe to those who enjoy life in Zion, and those who feel so safe on the hill country of Samaria.
+ï»¿1 Woe to those who enjoy life in Zion, and those who feel so safe on the hill country of Samaria.
   
 They are the leaders of my people, and the house of Israel seeks counsel from them, and this people considers itself as the most privileged of the nations.
   
@@ -68,6 +68,7 @@ And they will oppress you from the entrance of Hamath to the brook of the wilder
   
 he brook of the wilderness.
   
+
 
 
 

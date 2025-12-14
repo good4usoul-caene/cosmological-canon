@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2042.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2042.txt)
   
 
 
-﻿1 Then Job answered Yahweh in the following words.
+ï»¿1 Then Job answered Yahweh in the following words.
   
 2 I know that you can do anything and that none of your purposes can be changed.
   
@@ -66,6 +66,7 @@ And he saw his sons, and his sons' sons, to the fourth generation.
   
 eing old and full of days.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2018.txt)
   
 
 
-﻿1 The word of Yahweh came to me in the following words.
+ï»¿1 The word of Yahweh came to me in the following words.
   
 2 Why do you use the following proverb in the land of Israel: The fathers have eaten sour grapes, and the children's teeth are set on edge.
   
@@ -138,6 +138,7 @@ Therefore repent and live.
   
 one who dies, says the Lord Yahweh. Therefore repent and live.
   
+
 
 
 

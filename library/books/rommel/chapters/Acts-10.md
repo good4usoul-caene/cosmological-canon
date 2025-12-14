@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2010.txt)
   
 
 
-﻿1 Now there was a man in Caesarea named Cornelius, a centurion of the a Roman army in the regiment that was called the Italian.
+ï»¿1 Now there was a man in Caesarea named Cornelius, a centurion of the a Roman army in the regiment that was called the Italian.
   
 2 He was a religious man, and feared God with all his household.
   
@@ -162,6 +162,7 @@ Then they urged Peter to stay with them for a few days.
   
 e there with him]. Then they urged Peter to stay with them for a few days.
   
+
 
 
 

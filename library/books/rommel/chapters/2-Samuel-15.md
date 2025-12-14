@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2015.txt)
   
 
 
-﻿1 After this, Absalom took a chariot and horses, and fifty men to run before him while he drove the chariot.
+ï»¿1 After this, Absalom took a chariot and horses, and fifty men to run before him while he drove the chariot.
   
 2 And Absalom usually got up early in the morning and stood near the entrance of the gate.
   
@@ -146,6 +146,7 @@ You will send me by them everything that you will hear.
   
 went back to the city of Jerusalem, and Absalom entered Jerusalem.
   
+
 
 
 

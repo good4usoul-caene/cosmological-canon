@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%208.txt)
   
 
 
-﻿1 Then Bildad the Shuhite spoke in the following words.
+ï»¿1 Then Bildad the Shuhite spoke in the following words.
   
 2 How long do you want to talk like that.
   
@@ -64,6 +64,7 @@ He clings to it, but it will not endure.
   
 he wicked will disappear.
   
+
 
 
 

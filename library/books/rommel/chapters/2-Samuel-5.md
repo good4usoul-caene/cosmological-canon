@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%205.txt)
   
 
 
-﻿1 Then all the tribes of Israel came to David at Hebron and said: Behold we are your bones and your flesh.
+ï»¿1 Then all the tribes of Israel came to David at Hebron and said: Behold we are your bones and your flesh.
   
 2 In the past when Saul was our king, it was you who brought Israel in and out.
   
@@ -88,6 +88,7 @@ But turn around them from behind, and come on them opposite the mulberry trees.
   
 d the Philistines from Geba to Gezer.
   
+
 
 
 

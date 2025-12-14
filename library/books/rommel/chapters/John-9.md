@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%209.txt)
   
 
 
-﻿1 And Jesus was walking, and he saw a man who was blind from birth.
+ï»¿1 And Jesus was walking, and he saw a man who was blind from birth.
   
 2 And the disciples of Jesus questioned him by saying: Rabbi, is it because of his own sin that this man was born blind or is it because of the sin of his parents.
   
@@ -156,6 +156,7 @@ Therefore your sin remains.
   
 uld have no sin. But now you say, 'We see'. Therefore your sin remains.
   
+
 
 
 

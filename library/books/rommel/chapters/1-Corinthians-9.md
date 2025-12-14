@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Corinthians%209.txt)
   
 
 
@@ -110,6 +110,7 @@ I do not fight like a boxer beating the air to train himself, but like a boxer w
   
 give little importance to his works of justice.]
   
+
 
 
 

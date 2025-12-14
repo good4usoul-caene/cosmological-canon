@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%203.txt)
   
 
 
-﻿1 Then Eliashib the high priest arose with his brothers the priests, and they built the sheep gate.
+ï»¿1 Then Eliashib the high priest arose with his brothers the priests, and they built the sheep gate.
   
 They repaired it and set up its doors.
   
@@ -116,6 +116,7 @@ And Meshullam the son of Berechiah repaired the section of the wall in front of 
   
 between the house of the corner and the sheep gate.
   
+
 
 
 

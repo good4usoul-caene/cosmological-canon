@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2035.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2035.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 Defend me against my adversaries, O Yahweh.
   
@@ -72,7 +72,7 @@ I will praise you among many people.
   
 19 Let not those who are my enemies wrongfully rejoice over me.
   
-Let not those who hate me without a cause insult me â€‹â€‹with their eyes.
+Let not those who hate me without a cause insult me Ã¢â‚¬â€¹Ã¢â‚¬â€¹with their eyes.
   
 20 For they speak not peace, but they plan deceitful words against those who are quiet in the land.
   
@@ -104,6 +104,7 @@ It will praise you every day.
   
 righteousness. It will praise you every day.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2019.txt)
   
 
 
-﻿1 And the two angels arrived in Sodom in the evening, and Lot was sitting at the gate of Sodom.
+ï»¿1 And the two angels arrived in Sodom in the evening, and Lot was sitting at the gate of Sodom.
   
 And when Lot saw them, then he got up to meet them, and he knelt down and bowed himself with his face to the ground.
   
@@ -154,6 +154,7 @@ He is the father of the Ammonites to this day.
   
 lled his name Ben-ammi. He is the father of the Ammonites to this day.
   
+
 
 
 

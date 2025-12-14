@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzra%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezra%2010.txt)
   
 
 
-﻿1 While Ezra was praying thus and confessing, and weeping and bowing down before the house of God, a crowd of the children of Israel gathered around him.
+ï»¿1 While Ezra was praying thus and confessing, and weeping and bowing down before the house of God, a crowd of the children of Israel gathered around him.
   
 There were men and women and children, because some of the people were weeping bitterly.
   
@@ -136,6 +136,7 @@ Of the sons of Parosh: Ramiah, and Izziah, and Malchijah, and Mijamin, and Eleaz
   
 arried foreign women, and a part of those women had children.
   
+
 
 
 

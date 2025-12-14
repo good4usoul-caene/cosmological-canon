@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2017.txt)
   
 
 
-﻿1 Moreover Ahithophel said to Absalom: Let me now choose twelve thousand men, and I will arise and pursue David this night.
+ï»¿1 Moreover Ahithophel said to Absalom: Let me now choose twelve thousand men, and I will arise and pursue David this night.
   
 2 And I will come on him while he is weary and his hands are weak.
   
@@ -114,6 +114,7 @@ For they said: The people are hungry and weary and thirsty in the wilderness.
   
 re hungry and weary and thirsty in the wilderness.
   
+
 
 
 

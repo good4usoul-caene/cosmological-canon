@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2012.txt)
   
 
 
-﻿1 You are righteous, O Yahweh, therefore I cannot argue with you.
+ï»¿1 You are righteous, O Yahweh, therefore I cannot argue with you.
   
 But I desire to speak to you about your judgments.
   
@@ -98,6 +98,7 @@ I will destroy it and make it perish, says Yahweh.
   
 estroy it and make it perish, says Yahweh.
   
+
 
 
 

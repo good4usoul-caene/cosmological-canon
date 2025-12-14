@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%2013.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses and Aaron in the following words.
+ï»¿1 And Yahweh spoke to Moses and Aaron in the following words.
   
 2 When a man will have on the skin of his body a swelling or a scab or a white spot, which looks like the plague of leprosy on the skin of his body, then he will be brought to Aaron the priest or to one of his sons who are priests.
   
@@ -202,6 +202,7 @@ It is according to this that they will be declared clean or unclean.
   
 or in any object of skin. It is according to this that they will be declared clean or unclean.
   
+
 
 
 

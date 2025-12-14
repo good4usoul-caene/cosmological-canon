@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2036.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2036.txt)
   
 
 
-﻿1 Then Bezalel and Oholiab, and all the skilled men to whom Yahweh had given wisdom and understanding to know how to do all the work for the service of the sanctuary, they did according to all that Yahweh had commanded.
+ï»¿1 Then Bezalel and Oholiab, and all the skilled men to whom Yahweh had given wisdom and understanding to know how to do all the work for the service of the sanctuary, they did according to all that Yahweh had commanded.
   
 2 For Moses had called Bezalel and Oholiab, and all the skilled men into whose minds Yahweh had put understanding, and all those whose hearts were willing to apply themselves to the work and to carry it out.
   
@@ -118,6 +118,7 @@ It was an embroidery work.
   
 llets with gold, and their five bases were of brass.
   
+
 
 
 

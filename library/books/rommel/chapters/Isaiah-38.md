@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2038.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2038.txt)
   
 
 
-﻿1 At that time Hezekiah became sick and was nearly dead.
+ï»¿1 At that time Hezekiah became sick and was nearly dead.
   
 And the prophet Isaiah the son of Amoz came to him and said to him, Thus says Yahweh: Put your house in order, because you will not live but you will die.
   
@@ -98,6 +98,7 @@ For it is known that the prophet Elisha had asked the servant of the king of Syr
   
 s while knowing that he was going to die.]
   
+
 
 
 

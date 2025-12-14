@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%209.txt)
   
 
 
-﻿1 Then Job spoke in the following words.
+ï»¿1 Then Job spoke in the following words.
   
 2 I really know that this is so.
   
@@ -114,6 +114,7 @@ Otherwise, I am not myself.
   
 nd I will not fear it. Otherwise, I am not myself.
   
+
 
 
 

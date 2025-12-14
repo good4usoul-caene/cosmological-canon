@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2044.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2044.txt)
   
 
 
-﻿1 Then he brought me back by the way of the outer gate of the sanctuary that looks toward the east, and it was closed.
+ï»¿1 Then he brought me back by the way of the outer gate of the sanctuary that looks toward the east, and it was closed.
   
 2 And Yahweh said to me: This gate will stay shut.
   
@@ -116,6 +116,7 @@ And you will give the firstfruits of your dough to the priests, so that a blessi
   
 or that has been torn, whether it be bird or beast.
   
+
 
 
 

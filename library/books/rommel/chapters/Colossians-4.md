@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CColossians%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Colossians%204.txt)
   
 
 
-﻿1 Masters, behave towards your servants justly and fairly, knowing that you also have a master in heaven.
+ï»¿1 Masters, behave towards your servants justly and fairly, knowing that you also have a master in heaven.
   
 2 Continue steadfastly in prayer, taking care to do so with thanksgiving.
   
@@ -62,6 +62,7 @@ Grace be with you.
   
 ains. Grace be with you.
   
+
 
 
 

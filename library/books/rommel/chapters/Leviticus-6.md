@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%206.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words.
+ï»¿1 And Yahweh spoke to Moses in the following words.
   
 2 If anyone sins and is unfaithful to Yahweh by acting falsely with his neighbor in a matter of deposit or of bargain, or by being guilty of theft committed with or without violence.
   
@@ -108,6 +108,7 @@ If it was cooked in a brazen vessel, then it will be cleaned and washed with wat
   
 he holy place, for it will be burned with fire.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CMicah%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Micah%204.txt)
   
 
 
-﻿1 But it will happen in the last days that the mountain of the house of Yahweh will be established on the top of the mountains, and will be exalted above the hills, and peoples will flow to it.
+ï»¿1 But it will happen in the last days that the mountain of the house of Yahweh will be established on the top of the mountains, and will be exalted above the hills, and peoples will flow to it.
   
 2 And many nations will go and say: Come, and let us go up to the mountain of Yahweh, to the house of the God of Jacob.
   
@@ -68,6 +68,7 @@ And I will dedicate their riches to Yahweh, and their wealth to the Lord of the 
   
 he Lord of the whole earth.
   
+
 
 
 

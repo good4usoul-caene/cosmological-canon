@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2014.txt)
   
 
 
-﻿1 Then Joab the son of Zeruiah realized that the king's heart was continually thinking about Absalom.
+ï»¿1 Then Joab the son of Zeruiah realized that the king's heart was continually thinking about Absalom.
   
 2 Therefore Joab sent messengers at Tekoa and brought from there a subtle woman.
   
@@ -134,6 +134,7 @@ And the king kissed Absalom.
   
 nd on his face before the king. And the king kissed Absalom.
   
+
 
 
 

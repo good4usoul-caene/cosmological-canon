@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%2021.txt)
   
 
 
-﻿1 Moreover, the men of Israel had sworn in Mizpah by saying: None of us will give his daughter to a Benjamite to be a wife.
+ï»¿1 Moreover, the men of Israel had sworn in Mizpah by saying: None of us will give his daughter to a Benjamite to be a wife.
   
 2 And the people came to Bethel, and stayed there before God until the evening.
   
@@ -86,6 +86,7 @@ And they returned to their inheritance, and repaired the cities and dwelt there.
   
 was doing what was good in his eyes.
   
+
 
 
 

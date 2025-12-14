@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20150.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20150.txt)
   
 
 
-﻿1 Praise Yahweh.
+ï»¿1 Praise Yahweh.
   
 Praise God in his sanctuary.
   
@@ -38,6 +38,7 @@ Praise Yahweh.
   
 aise Yahweh.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%2012.txt)
   
 
 
-﻿1 And six days before the Passover, Jesus came to Bethany where Lazarus was, the one whom Jesus had raised from the dead.
+ï»¿1 And six days before the Passover, Jesus came to Bethany where Lazarus was, the one whom Jesus had raised from the dead.
   
 2 And they made him a supper there.
   
@@ -174,6 +174,7 @@ Therefore concerning the things that I speak, as the Father has taught it me, so
   
 concerning the things that I speak, as the Father has taught it me, so I speak.
   
+
 
 
 

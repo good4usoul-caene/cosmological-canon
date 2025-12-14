@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2057.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2057.txt)
   
 
 
-﻿1 A psalm of David, when he fled from Saul and went into the cave.
+ï»¿1 A psalm of David, when he fled from Saul and went into the cave.
   
 Have mercy on me, O God, have mercy on me.
   
@@ -62,6 +62,7 @@ Let your glory fill all the earth.
   
 lory fill all the earth.
   
+
 
 
 

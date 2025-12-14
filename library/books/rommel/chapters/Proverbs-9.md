@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%209.txt)
   
 
 
-﻿1 Wisdom has built her house, and she has hewn out her seven pillars.
+ï»¿1 Wisdom has built her house, and she has hewn out her seven pillars.
   
 2 And she has killed her beasts, and mixed her wine, and prepared her table.
   
@@ -62,6 +62,7 @@ She is simple-minded, and knows nothing.
   
 in the depths of Sheol.
   
+
 
 
 

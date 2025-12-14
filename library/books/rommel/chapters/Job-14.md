@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2014.txt)
   
 
 
-﻿1 Man is born of woman.
+ï»¿1 Man is born of woman.
   
 His life is short and full of trouble.
   
@@ -78,6 +78,7 @@ He changes his face when you send him away.
   
 at he feels sadness in his soul.
   
+
 
 
 

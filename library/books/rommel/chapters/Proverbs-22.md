@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2022.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2022.txt)
   
 
 
-﻿1 A good reputation is better than great riches.
+ï»¿1 A good reputation is better than great riches.
   
 Yes, a good name is better than silver and gold.
   
@@ -84,6 +84,7 @@ Do not discriminate against them in judgments.
   
 es that your fathers have set. 29 .
   
+
 
 
 

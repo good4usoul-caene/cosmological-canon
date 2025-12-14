@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%208.txt)
   
 
 
-﻿1 After this, Jesus went from town to town and from village to village, preaching and proclaiming the good news of the kingdom of God.
+ï»¿1 After this, Jesus went from town to town and from village to village, preaching and proclaiming the good news of the kingdom of God.
   
 2 The twelve were with him, and also some women who had been healed of evil spirits and infirmities.
   
@@ -200,6 +200,7 @@ And Jesus commanded to give her something to eat.
   
 d to her, and she rose up immediately. And Jesus commanded to give her something to eat. 56 .
   
+
 
 
 

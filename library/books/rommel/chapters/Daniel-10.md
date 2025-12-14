@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDaniel%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Daniel%2010.txt)
   
 
 
-﻿1 In the third year of Cyrus king of Persia, a thing was revealed to Daniel who was also called Belteshazzar.
+ï»¿1 In the third year of Cyrus king of Persia, a thing was revealed to Daniel who was also called Belteshazzar.
   
 And the thing was true, but the time appointed was long.
   
@@ -104,6 +104,7 @@ No one helps me in these things, except Michael your prince.
   
 in these things, except Michael your prince.
   
+
 
 
 

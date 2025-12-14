@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%2013.txt)
   
 
 
-﻿1 In the twenty one year of Joash the son of Ahaziah and king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria and he reigned seventeen years.
+ï»¿1 In the twenty one year of Joash the son of Ahaziah and king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria and he reigned seventeen years.
   
 2 And he did what was evil in the sight of Yahweh.
   
@@ -106,6 +106,7 @@ For [the army of] Joash smote [the army of] Ben-hadad three times, and restored 
   
 hree times, and restored the cities to Israel.
   
+
 
 
 

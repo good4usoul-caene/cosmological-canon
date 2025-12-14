@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2052.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2052.txt)
   
 
 
-﻿1 Zedekiah was twenty one years old when he began to reign, and he reigned eleven years in Jerusalem.
+ï»¿1 Zedekiah was twenty one years old when he began to reign, and he reigned eleven years in Jerusalem.
   
 His mother's name was Hamutal the daughter of Jeremiah of Libnah.
   
@@ -112,6 +112,7 @@ And on that day Evil-merodach lifted up the head of Jehoiachin king of Judah by 
   
 the days of his life until the day of his death.
   
+
 
 
 

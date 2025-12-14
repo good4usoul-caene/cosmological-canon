@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2013.txt)
   
 
 
-﻿1 Now there were prophets and teachers in the church at Antioch: Barnabas, and Simeon called Niger, and Lucius of Cyrene, and Manaen who had grown up with Herod the tetrarch, and Saul.
+ï»¿1 Now there were prophets and teachers in the church at Antioch: Barnabas, and Simeon called Niger, and Lucius of Cyrene, and Manaen who had grown up with Herod the tetrarch, and Saul.
   
 2 And while they were ministering to the Lord and fasting, the Holy Spirit said: Separate Barnabas and Saul for me, for the work to which I have called them.
   
@@ -158,6 +158,7 @@ And all those who were destined for eternal life believed.
   
 . 52 While the disciples were filled with joy, and with the Holy Spirit.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2020.txt)
   
 
 
-﻿1 And Pashhur heard Jeremiah prophesying these things.
+ï»¿1 And Pashhur heard Jeremiah prophesying these things.
   
 He was the son of Immer the priest, and a high officer in the temple of Yahweh.
   
@@ -100,6 +100,7 @@ Or why has she not kept me in her womb forever rather than to give birth to me.
   
 the eyes of all those with whom I interact.
   
+
 
 
 

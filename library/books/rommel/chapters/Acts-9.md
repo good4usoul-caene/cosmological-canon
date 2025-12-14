@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%209.txt)
   
 
 
-﻿1 And Saul was in Jerusalem, and he was still overwhelmed by the desire to threaten the disciples of the Lord with death.
+ï»¿1 And Saul was in Jerusalem, and he was still overwhelmed by the desire to threaten the disciples of the Lord with death.
   
 2 And he went to the high priest to ask him for letters for the synagogues in Damascus, so that if he found any disciple of the new teaching, men or women, then he might bring them bound to Jerusalem.
   
@@ -148,6 +148,7 @@ Then he called the saints and the widows, and presented her alive to them.
   
 . 43 And Peter stayed many days in Joppa with a tanner named Simon.
   
+
 
 
 

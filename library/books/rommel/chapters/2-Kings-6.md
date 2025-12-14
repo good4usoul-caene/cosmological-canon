@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%206.txt)
   
 
 
-﻿1 And the children of the prophets said to Elisha: Behold now, the place where we dwell with you is too narrow for us.
+ï»¿1 And the children of the prophets said to Elisha: Behold now, the place where we dwell with you is too narrow for us.
   
 2 Let us go now to the Jordan, we pray you.
   
@@ -146,6 +146,7 @@ Is not the sound of his master's feet heard behind him.
   
 is from Yahweh, therefore why should I wait for Yahweh any longer.
   
+
 
 
 

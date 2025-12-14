@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2091.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2091.txt)
   
 
 
-﻿1 He who dwells in the secret place of the Most High will rest in the shadow of the Almighty.
+ï»¿1 He who dwells in the secret place of the Most High will rest in the shadow of the Almighty.
   
 2 I say of Yahweh: He is my hope and my fortress, my God in whom I trust.
   
@@ -56,6 +56,7 @@ I will free him, and I will honor him.
   
 how him my salvation.
   
+
 
 
 

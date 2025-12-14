@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2016.txt)
   
 
 
-﻿1 You will keep the month of Abib, and celebrate the passover to Yahweh your God.
+ï»¿1 You will keep the month of Abib, and celebrate the passover to Yahweh your God.
   
 For it is in the month of Abib that Yahweh your God brought you out of Egypt by night.
   
@@ -80,6 +80,7 @@ For gifts blind the eyes of the wise and pervert the words of the righteous.
   
 Yahweh your God hates this thing.
   
+
 
 
 

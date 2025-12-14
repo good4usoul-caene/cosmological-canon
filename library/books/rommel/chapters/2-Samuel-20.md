@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2020.txt)
   
 
 
-﻿1 And in that place there was a wicked man named Sheba the son of Bichri, a Benjamite.
+ï»¿1 And in that place there was a wicked man named Sheba the son of Bichri, a Benjamite.
   
 And he sounded the trumpet and said: We have no part in David, neither have we any inheritance in the son of Jesse.
   
@@ -114,6 +114,7 @@ And Joab returned to Jerusalem to the king.
   
 d Ira the Jairite was the chief minister of David.
   
+
 
 
 

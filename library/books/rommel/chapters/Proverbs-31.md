@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2031.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2031.txt)
   
 
 
-﻿1 The words of king Lemuel.
+ï»¿1 The words of king Lemuel.
   
 The words by which his mother instructed him.
   
@@ -102,6 +102,7 @@ Let her works praise her in the gates.
   
 weh]. Let her works praise her in the gates.
   
+
 
 
 

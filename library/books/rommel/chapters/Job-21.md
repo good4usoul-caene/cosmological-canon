@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2021.txt)
   
 
 
-﻿1 And Job spoke in the following words.
+ï»¿1 And Job spoke in the following words.
   
 2 Listen carefully to my words, give me only this consolation.
   
@@ -100,6 +100,7 @@ You cannot ignore the signs.
   
 ut I meditate in my pain and my innocence].
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEphesians%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ephesians%205.txt)
   
 
 
-﻿1 Therefore be imitators of [the spirit of] God, as beloved children.
+ï»¿1 Therefore be imitators of [the spirit of] God, as beloved children.
   
 2 And walk in love, following the example of Christ, who has loved us and has given himself to God for us as an offering and a sacrifice of a pleasant smell.
   
@@ -110,6 +110,7 @@ I say this in relation to Christ and the church.
   
 himself, and the wife must respect her husband.
   
+
 
 
 

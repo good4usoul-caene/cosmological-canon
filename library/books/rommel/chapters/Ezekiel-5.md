@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%205.txt)
   
 
 
-﻿1 And you, son of man, take a sharp knife, a barber's razor.
+ï»¿1 And you, son of man, take a sharp knife, a barber's razor.
   
 Take it and cause it to pass on your head and on your beard.
   
@@ -84,6 +84,7 @@ I Yahweh, I have spoken it.
   
 on you. I Yahweh, I have spoken it.
   
+
 
 
 

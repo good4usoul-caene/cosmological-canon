@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2029.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Chronicles%2029.txt)
   
 
 
@@ -74,7 +74,7 @@ And behold, they are before the altar of Yahweh.
   
 21 And they brought seven bullocks, and seven rams, and seven lambs, and seven male goats for a sin offering concerning the kingdom and the sanctuary and the people of Judah.
   
-​​And Hezekiah commanded the priests the sons of Aaron to offer it on the altar of Yahweh.
+â€‹â€‹And Hezekiah commanded the priests the sons of Aaron to offer it on the altar of Yahweh.
   
 22 So they killed the bullocks, and the priests received the blood and sprinkled it on the altar.
   
@@ -136,6 +136,7 @@ For the thing had been done suddenly.
   
 made the people ready. For the thing had been done suddenly.
   
+
 
 
 

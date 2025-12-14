@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2010.txt)
   
 
 
-﻿1 Adoni-zedek the king of Jerusalem heard how Joshua had taken Ai and destroyed it.
+ï»¿1 Adoni-zedek the king of Jerusalem heard how Joshua had taken Ai and destroyed it.
   
 For as he did to Jericho and to its king, so he did to Ai and to its king.
   
@@ -178,6 +178,7 @@ He left no remaining, but he utterly destroyed every soul as Yahweh the God of I
   
 for Israel. 43 Then Joshua and all Israel with him returned to the camp at Gilgal.
   
+
 
 
 

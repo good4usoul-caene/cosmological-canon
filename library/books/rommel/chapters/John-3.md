@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%203.txt)
   
 
 
-﻿1 Now there was a man named Nicodemus, He was one of the Pharisees, and an important leader among the Jews.
+ï»¿1 Now there was a man named Nicodemus, He was one of the Pharisees, and an important leader among the Jews.
   
 2 He came to Jesus by night, and said to him: Rabbi, we know that you are a teacher sent from God.
   
@@ -112,6 +112,7 @@ And whoever does not obey the Son will not see life, because the wrath of God re
   
 ee life, because the wrath of God remains on him.
   
+
 
 
 

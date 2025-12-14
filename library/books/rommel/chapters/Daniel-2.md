@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDaniel%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Daniel%202.txt)
   
 
 
-﻿1 And in the second [rather twelfth] year of the reign of Nebuchadnezzar, Nebuchadnezzar had a dream that troubled his spirit so much that he could no longer fall asleep.
+ï»¿1 And in the second [rather twelfth] year of the reign of Nebuchadnezzar, Nebuchadnezzar had a dream that troubled his spirit so much that he could no longer fall asleep.
   
 2 Then the king commanded to call the magicians, and the astrologers, and the enchanters, and [the wise men of] the Chaldeans, in order to tell the king his dream.
   
@@ -186,6 +186,7 @@ And Daniel sat in the gate of the king.
   
 abylon to Shadrach, and Meshach, and Abednego. And Daniel sat in the gate of the king.
   
+
 
 
 

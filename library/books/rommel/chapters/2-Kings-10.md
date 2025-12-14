@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%2010.txt)
   
 
 
-﻿1 There was seventy sons [the spiritual sons among whom were the male descendant] of Ahab in Samaria.
+ï»¿1 There was seventy sons [the spiritual sons among whom were the male descendant] of Ahab in Samaria.
   
 And Jehu wrote letters and sent them to the rulers of Jezreel in Samaria, and to the elders, and to the servants of the kingdom who educated the children of Ahab.
   
@@ -144,6 +144,7 @@ And Jehoahaz his son reigned in his stead.
   
 d. 36 And Jehu reigned over Israel in Samaria twenty eight years.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2032.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2032.txt)
   
 
 
-﻿1 Now the children of Reuben and the children of Gad had a very great multitude of cattle.
+ï»¿1 Now the children of Reuben and the children of Gad had a very great multitude of cattle.
   
 And they saw that the land of Jazer and the land of Gilead were a fit place for cattle.
   
@@ -110,6 +110,7 @@ And they gave other names to the cities that they built.
   
 h its towns and called it Nobah, after his name.
   
+
 
 
 

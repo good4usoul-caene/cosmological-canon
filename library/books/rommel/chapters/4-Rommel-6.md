@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%206.txt)
   
 
 
-﻿1 The pedagogy initiated through Moses (Isaiah 1:2-3 - 2 Corinthians 3:12-18), first part.
+ï»¿1 The pedagogy initiated through Moses (Isaiah 1:2-3 - 2 Corinthians 3:12-18), first part.
   
 2 The necessarily imperfect laws enunciated through Moses were deliberately evil (Ezekiel 20:25) for some of those that occurred after revolts offending the holy spirit (Exodus 20:18-23 - Deuteronomy 5:22-29,30-33).
   
@@ -210,6 +210,7 @@ And the promised land will therefore be shared equally among the members of the 
   
 f the celebration having no significance and being akin to numerology which is a form of idolatry.
   
+
 
 
 

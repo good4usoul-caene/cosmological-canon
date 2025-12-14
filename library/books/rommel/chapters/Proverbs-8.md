@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%208.txt)
   
 
 
-﻿1 Does not wisdom cry out.
+ï»¿1 Does not wisdom cry out.
   
 Does not understanding lift up her voice.
   
@@ -114,6 +114,7 @@ All those who hate me love death.
   
 ms his own soul. All those who hate me love death.
   
+
 
 
 

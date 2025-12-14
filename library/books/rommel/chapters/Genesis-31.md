@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2031.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2031.txt)
   
 
 
-﻿1 Jacob heard the words of the sons of Laban, who said, Jacob took everything that belonged to our father, and it is with our father's property that he acquired all this wealth.
+ï»¿1 Jacob heard the words of the sons of Laban, who said, Jacob took everything that belonged to our father, and it is with our father's property that he acquired all this wealth.
   
 2 And Jacob also noticed Laban's face.
   
@@ -194,6 +194,7 @@ And Laban left to return to his home.
   
 kissed his sons and his daughters, and blessed them. And Laban left to return to his home.
   
+
 
 
 

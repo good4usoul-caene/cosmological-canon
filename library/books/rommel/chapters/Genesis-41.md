@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2041.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2041.txt)
   
 
 
-﻿1 After two years, Pharaoh had a dream.
+ï»¿1 After two years, Pharaoh had a dream.
   
 Behold he stood by the river.
   
@@ -196,6 +196,7 @@ For the famine was increasing in the land of Egypt.
   
 they came to Egypt to buy grain from Joseph, because the famine was great in all countries.
   
+
 
 
 

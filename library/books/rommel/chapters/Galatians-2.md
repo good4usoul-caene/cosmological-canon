@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGalatians%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Galatians%202.txt)
   
 
 
-﻿1 Fourteen years later, I went up again to Jerusalem with Barnabas, taking Titus also with me.
+ï»¿1 Fourteen years later, I went up again to Jerusalem with Barnabas, taking Titus also with me.
   
 2 And I went up there because of a revelation.
   
@@ -100,6 +100,7 @@ For if righteousness can be attained by the practice of the law given to Moses, 
   
 w given to Moses, then Christ died in vain.
   
+
 
 
 

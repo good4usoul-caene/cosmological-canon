@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2056.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2056.txt)
   
 
 
-﻿1 Thus speaks Yahweh: Keep what is right, and practice justice.
+ï»¿1 Thus speaks Yahweh: Keep what is right, and practice justice.
   
 For my salvation will not be long in coming, and my justice will manifest itself.
   
@@ -60,6 +60,7 @@ We will do as much tomorrow, and much more.
   
 omorrow, and much more.
   
+
 
 
 

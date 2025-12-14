@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2017.txt)
   
 
 
-﻿1 The prayer of David.
+ï»¿1 The prayer of David.
   
 Hear what is right, O Yahweh, consider my cry.
   
@@ -66,6 +66,7 @@ I will be satisfied with your image when I awake.
   
 h your image when I awake.
   
+
 
 
 

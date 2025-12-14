@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CSong%20of%20Songs%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Song%20of%20Songs%203.txt)
   
 
 
-﻿1 On my bed during the night, I sought him whom my soul loves.
+ï»¿1 On my bed during the night, I sought him whom my soul loves.
   
 I sought him [who is my bridegroom], but I did not find him.
   
@@ -48,6 +48,7 @@ The seat was made of purple, and inlaid in its midst with the love by the daught
   
 ess of his heart.
   
+
 
 
 

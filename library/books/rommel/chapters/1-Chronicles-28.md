@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Chronicles%2028.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Chronicles%2028.txt)
   
 
 
@@ -82,6 +82,7 @@ And the princes [of the tribes] and all the people will be wholly under your com
   
 ill be wholly under your commands.
   
+
 
 
 

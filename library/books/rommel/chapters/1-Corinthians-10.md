@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Corinthians%2010.txt)
   
 
 
@@ -128,6 +128,7 @@ You must even distance yourself from any person who has known the will of the Lo
   
 ffended someone else in a publicly unjustifiable manner.]
   
+
 
 
 

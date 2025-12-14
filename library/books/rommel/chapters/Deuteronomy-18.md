@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2018.txt)
   
 
 
-﻿1 The priests the Levites and the entire tribe of Levi will have neither part nor inheritance with Israel.
+ï»¿1 The priests the Levites and the entire tribe of Levi will have neither part nor inheritance with Israel.
   
 They will eat the sacrifices made by fire to Yahweh, and the inheritance of Yahweh.
   
@@ -66,6 +66,7 @@ Therefore you will not be afraid of him.
   
 will not be afraid of him.
   
+
 
 
 

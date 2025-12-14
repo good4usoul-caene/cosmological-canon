@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2014.txt)
   
 
 
-﻿1 You are the children of Yahweh your God.
+ï»¿1 You are the children of Yahweh your God.
   
 You will not make any cut in your flesh, and you will not make any baldness on your head from between your eyes [or in any other fancy way] for a dead man.
   
@@ -106,6 +106,7 @@ All these persons who are within your gates, and they will eat and be satisfied,
   
 bless you in all the work that you undertake.
   
+
 
 
 

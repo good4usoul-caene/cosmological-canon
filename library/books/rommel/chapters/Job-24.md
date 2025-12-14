@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2024.txt)
   
 
 
-﻿1 Why should not the times be hidden from the Almighty, since those who know him do not see his days.
+ï»¿1 Why should not the times be hidden from the Almighty, since those who know him do not see his days.
   
 2 Some move the boundaries, and rob the flocks with their food.
   
@@ -84,6 +84,7 @@ Who will prove me a liar and make my words worthless.
   
 a liar and make my words worthless.
   
+
 
 
 

@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%202.txt)
   
 
 
@@ -114,6 +114,7 @@ The praise of such a person does not come from men, but from God.
   
 uch a person does not come from men, but from God.
   
+
 
 
 

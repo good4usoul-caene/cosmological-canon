@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEcclesiastes%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ecclesiastes%207.txt)
   
 
 
-﻿1 A good reputation is better than a good perfume, and the day of death is better than the day of birth.
+ï»¿1 A good reputation is better than a good perfume, and the day of death is better than the day of birth.
   
 2 It is better to go to a house where there is mourning than to go to a house where there is entertainment.
   
@@ -110,6 +110,7 @@ He who is pleasing to God will escape from such a woman, but the sinner will be 
   
 o say, they do not want to act with simplicity.]
   
+
 
 
 

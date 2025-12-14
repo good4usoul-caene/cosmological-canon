@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CAmos%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Amos%201.txt)
   
 
 
-﻿1 The words of Amos, one of the shepherds from the city Tekoa.
+ï»¿1 The words of Amos, one of the shepherds from the city Tekoa.
   
 He had this revelation concerning Israel in the days of Uzziah [also called Azariah] king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.
   
@@ -62,6 +62,7 @@ For they have ripped open the bellies of the pregnant women of Gilead, in order 
   
 s with him, says Yahweh.
   
+
 
 
 

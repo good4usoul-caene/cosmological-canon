@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%207.txt)
   
 
 
-﻿1 The humor of the holy scriptures.
+ï»¿1 The humor of the holy scriptures.
   
 2 To renounce all that I possess (to be poor) means to possess only to render service to everyone in general and to no one in particular (Luke 6:20 - 12:33-34 - 14:33 - 4 Rommel 8:15).
   
@@ -82,6 +82,7 @@ In fact, he first remarks that he came to sacrifice himself (John 4:31-34).
   
 esus (John 16:7-11 - Malachi 3:6).
   
+
 
 
 

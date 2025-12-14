@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2028.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2028.txt)
   
 
 
-﻿1 And Isaac called Jacob, and blessed him, and commanded him, You will not take a wife from among the daughters of Canaan.
+ï»¿1 And Isaac called Jacob, and blessed him, and commanded him, You will not take a wife from among the daughters of Canaan.
   
 2 Arise, go to Paddan-aram, to the house of Bethuel your mother's father, and take there a wife from among the daughters of Laban, your mother's brother.
   
@@ -80,6 +80,7 @@ And I will give you one-tenth of all that you will give me.
   
 d ever fail to keep his promise.]
   
+
 
 
 

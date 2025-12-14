@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEcclesiastes%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ecclesiastes%205.txt)
   
 
 
-﻿1 Take heed to your foot when you enter into the house of God.
+ï»¿1 Take heed to your foot when you enter into the house of God.
   
 Come near in order to hear rather than to offer the sacrifice of fools.
   
@@ -90,6 +90,7 @@ For this is his portion.
   
 e God has also given joy to his heart.
   
+
 
 
 

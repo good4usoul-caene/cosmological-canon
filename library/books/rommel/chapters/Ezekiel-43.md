@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2043.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2043.txt)
   
 
 
-﻿1 Afterward he brought me to the gate, the gate that faced east.
+ï»¿1 Afterward he brought me to the gate, the gate that faced east.
   
 2 And behold, the glory of the God of Israel came from the east.
   
@@ -106,6 +106,7 @@ And I will be favorable to you, says the Lord Yahweh.
   
 ill be favorable to you, says the Lord Yahweh.
   
+
 
 
 

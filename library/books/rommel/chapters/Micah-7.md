@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CMicah%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Micah%207.txt)
   
 
 
-﻿1 Woe is me, for I am like when they have gathered the summer fruits, like the gleaning of grapes after the vintage.
+ï»¿1 Woe is me, for I am like when they have gathered the summer fruits, like the gleaning of grapes after the vintage.
   
 There are no clusters to eat, nor the first fruits that my soul desires.
   
@@ -90,6 +90,7 @@ He will tread our iniquities under his feet, and cast all their sins into the de
   
 orn to our fathers in the days of old.
   
+
 
 
 

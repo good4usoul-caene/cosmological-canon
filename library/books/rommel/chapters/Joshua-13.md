@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2013.txt)
   
 
 
-﻿1 Now Joshua was very old and Yahweh said to him: You have become old.
+ï»¿1 Now Joshua was very old and Yahweh said to him: You have become old.
   
 You are advanced in years, and the country that remains for you to subdue is very large.
   
@@ -98,6 +98,7 @@ And it belonged to the half-tribe from the children of Manasseh according to the
   
 l is their inheritance as he said to them.
   
+
 
 
 

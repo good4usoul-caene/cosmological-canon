@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2054.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2054.txt)
   
 
 
-﻿1 Rejoice, O barren one, you who have not borne children.
+ï»¿1 Rejoice, O barren one, you who have not borne children.
   
 Be comforted and be glad, you who have not known the pains of childbirth.
   
@@ -76,6 +76,7 @@ This is the heritage of the servants of Yahweh, and their salvation will come fr
   
 will come from me, says Yahweh.
   
+
 
 
 

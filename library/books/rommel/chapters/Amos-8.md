@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CAmos%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Amos%208.txt)
   
 
 
-﻿1 The Lord Yahweh showed me this vision.
+ï»¿1 The Lord Yahweh showed me this vision.
   
 And behold, there was a basket of summer fruit.
   
@@ -68,6 +68,7 @@ But they will fall, and will never rise up again [namely those false gods].
   
 [namely those false gods].
   
+
 
 
 

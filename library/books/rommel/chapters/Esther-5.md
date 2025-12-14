@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEsther%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Esther%205.txt)
   
 
 
-﻿1 And on the third day Esther put on her royal apparel and stood in the inner courtyard of the king's house, in front of the king's house.
+ï»¿1 And on the third day Esther put on her royal apparel and stood in the inner courtyard of the king's house, in front of the king's house.
   
 And the king was sitting on the royal throne of his royal house, near the gate of the house.
   
@@ -66,6 +66,7 @@ And the thing pleased Haman, and he caused the gibbet to be made.
   
 sed the gibbet to be made.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%203.txt)
   
 
 
-﻿1 Then we turned and went up by the way of Bashan.
+ï»¿1 Then we turned and went up by the way of Bashan.
   
 And Og the king of Bashan came out against us, he and all his people to fight us at Edrei.
   
@@ -104,6 +104,7 @@ For he will go before this people and he will divide the inheritance to them, th
   
 we remained in the valley opposite Beth-peor.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2028.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2028.txt)
   
 
 
-﻿1 There is surely a mine for silver, and for gold a place from which it is extracted to refine it.
+ï»¿1 There is surely a mine for silver, and for gold a place from which it is extracted to refine it.
   
 2 Iron comes from dust, and the stone is melted to produce brass.
   
@@ -76,6 +76,7 @@ He prepared it and considered it also.
   
 way from evil is understanding.
   
+
 
 
 

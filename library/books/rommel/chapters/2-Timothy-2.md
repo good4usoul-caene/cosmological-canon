@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Timothy%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Timothy%202.txt)
   
 
 
-﻿1 You therefore, my son, strengthen yourself in the grace that is in Jesus Christ.
+ï»¿1 You therefore, my son, strengthen yourself in the grace that is in Jesus Christ.
   
 2 And what you have heard from me in the presence of many witnesses, entrust it to faithful men who are capable of teaching it also to others.
   
@@ -78,6 +78,7 @@ On the contrary, he must be gentle toward everyone, apt to teach, endowed with p
   
 them to submit them to his will.
   
+
 
 
 

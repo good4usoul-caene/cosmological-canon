@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2018.txt)
   
 
 
-﻿1 The word of Yahweh came to Jeremiah in the following words.
+ï»¿1 The word of Yahweh came to Jeremiah in the following words.
   
 2 Arise, and go down to the potter's house, and there I will make you hear my words.
   
@@ -98,6 +98,7 @@ Let them be overthrown before you, punish them in your anger.
   
 own before you, punish them in your anger.
   
+
 
 
 

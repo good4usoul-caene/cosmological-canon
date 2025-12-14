@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2019.txt)
   
 
 
-﻿1 And the second lot came out for Simeon, namely for the tribe of the children of Simeon according to their families.
+ï»¿1 And the second lot came out for Simeon, namely for the tribe of the children of Simeon according to their families.
   
 And their inheritance was in the midst of the inheritance of the children of Judah.
   
@@ -144,6 +144,7 @@ And he built the city and dwelt there.
   
 un and the chief fathers of the tribes of the children of Israel.
   
+
 
 
 

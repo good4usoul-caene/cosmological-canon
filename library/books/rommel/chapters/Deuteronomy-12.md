@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2012.txt)
   
 
 
-﻿1 These are the ordinances and the laws that you will keep and do in the land that Yahweh the God of your fathers gives you to possess it, as long as you live on the earth.
+ï»¿1 These are the ordinances and the laws that you will keep and do in the land that Yahweh the God of your fathers gives you to possess it, as long as you live on the earth.
   
 2 All the places where the nations you are going to drive out serve their gods, you will destroy.
   
@@ -106,6 +106,7 @@ You will add nothing to it and you will take nothing away from it.
   
 to it and you will take nothing away from it.
   
+
 
 
 

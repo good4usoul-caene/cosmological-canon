@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%203.txt)
   
 
 
-﻿1 Joshua got up early in the morning and left Shittim with all the children of Israel.
+ï»¿1 Joshua got up early in the morning and left Shittim with all the children of Israel.
   
 They came to the Jordan and spent the night there before crossing it.
   
@@ -60,6 +60,7 @@ Then the people went to Jericho.
   
 ed crossing the Jordan.
   
+
 
 
 

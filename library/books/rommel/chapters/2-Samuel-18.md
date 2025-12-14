@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2018.txt)
   
 
 
-﻿1 And David counted the men who were with him, and he established captains of thousands and captains of hundreds over them.
+ï»¿1 And David counted the men who were with him, and he established captains of thousands and captains of hundreds over them.
   
 2 And David placed one third of the people under the hand of Joab, and one third under the hand of Abishai the son of Zeruiah and brother of Joab, and one third under the hand of Ittai the Gittite.
   
@@ -144,6 +144,7 @@ I wish I had died instead of you, O Absalom, my son, my son.
   
 lom. I wish I had died instead of you, O Absalom, my son, my son.
   
+
 
 
 

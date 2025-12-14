@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%2025.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%2025.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words at mount Sinai.
+ï»¿1 And Yahweh spoke to Moses in the following words at mount Sinai.
   
 2 Speak to the children of Israel and say to them, When you enter the land that I give you, the land will keep a sabbath to Yahweh.
   
@@ -192,6 +192,7 @@ I am Yahweh your God.
   
 laves. They are my slaves, whom I brought out of the land of Egypt. I am Yahweh your God.
   
+
 
 
 

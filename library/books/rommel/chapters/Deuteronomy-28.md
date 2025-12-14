@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2028.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2028.txt)
   
 
 
-﻿1 If you diligently obey the voice of Yahweh your God, and observe and do all his commandments that I command you today, then Yahweh your God will set you on high above all the nations of the earth.
+ï»¿1 If you diligently obey the voice of Yahweh your God, and observe and do all his commandments that I command you today, then Yahweh your God will set you on high above all the nations of the earth.
   
 2 And Here are all the blessings that will come on you, and overtake you, if you obey the voice of Yahweh your God.
   
@@ -210,6 +210,7 @@ And there you will sell yourself to your enemies to be bondmen and bondwomen, an
   
 re you will sell yourself to your enemies to be bondmen and bondwomen, and there will be no buyer.
   
+
 
 
 

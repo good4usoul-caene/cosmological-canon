@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2011.txt)
   
 
 
-﻿1 Afterward a branch will come out of the trunk of Jesse, that is to say, a sprout will grow out of his roots.
+ï»¿1 Afterward a branch will come out of the trunk of Jesse, that is to say, a sprout will grow out of his roots.
   
 2 And the spirit of Yahweh will stay on him.
   
@@ -60,6 +60,7 @@ Ephraim was no longer jealous of Judah, and Judah was no longer vexed by Ephraim
   
 Ephraim. 14 . 15 . 16 .
   
+
 
 
 

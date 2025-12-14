@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%204.txt)
   
 
 
-﻿1 But when Sanballat heard that we were rebuilding the wall, he was angry and very grieved, and he mocked the Jews.
+ï»¿1 But when Sanballat heard that we were rebuilding the wall, he was angry and very grieved, and he mocked the Jews.
   
 2 And he spoke before his brothers and before the army of Samaria, and said: What are these weak Jews doing.
   
@@ -92,6 +92,7 @@ Except that each one took them off when he washed himself.
   
 e took them off when he washed himself.
   
+
 
 
 

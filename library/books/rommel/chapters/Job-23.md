@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2023.txt)
   
 
 
-﻿1 And Job spoke in the following words.
+ï»¿1 And Job spoke in the following words.
   
 2 Despite the fact that my speeches of these days are in bitterness, and the fact that my scourge is greater than my groans.
   
@@ -64,6 +64,7 @@ When I think about it, I am afraid of him.
   
 he darkness from my face.
   
+
 
 
 

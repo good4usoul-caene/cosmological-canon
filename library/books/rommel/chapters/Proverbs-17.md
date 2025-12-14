@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2017.txt)
   
 
 
-﻿1 A dry morsel obtained in peaceful circumstances is better than a house that is full of meat and in which there is a quarrel.
+ï»¿1 A dry morsel obtained in peaceful circumstances is better than a house that is full of meat and in which there is a quarrel.
   
 2 A wise servant will have rule over a son who causes shame, and he will also have a part of the inheritance among the brothers.
   
@@ -88,6 +88,7 @@ For he who shuts his lips is supposed to be prudent.
   
 s his lips is supposed to be prudent.
   
+
 
 
 

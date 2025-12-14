@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%2013.txt)
   
 
 
-﻿1 But the children of Israel continued to do evil in the sight of Yahweh, and Yahweh delivered them into the hands of the Philistines for forty years.
+ï»¿1 But the children of Israel continued to do evil in the sight of Yahweh, and Yahweh delivered them into the hands of the Philistines for forty years.
   
 2 Then there was a man in Zorah of the family of the Danites.
   
@@ -82,7 +82,7 @@ And then the angel did a wonderful thing before the eyes of Manoah and his wife.
   
 And Manoah and his wife looked at it intently, and they fell on their faces to the ground.
   
-21 And â€‹â€‹the angel of Yahweh no longer appeared to Manoah or his wife.
+21 And Ã¢â‚¬â€¹Ã¢â‚¬â€¹the angel of Yahweh no longer appeared to Manoah or his wife.
   
 And Manoah understood that it was an angel of Yahweh.
   
@@ -100,6 +100,7 @@ And the child grew, and Yahweh blessed him.
   
 the land of Dan, between Zorah and Eshtaol.
   
+
 
 
 

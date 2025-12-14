@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDaniel%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Daniel%209.txt)
   
 
 
-﻿1 The following thing also happened in the first year of Belshazzar king of the Chaldeans.
+ï»¿1 The following thing also happened in the first year of Belshazzar king of the Chaldeans.
   
 2 In the first year of his reign, I Daniel understood by the books that seventy years should be spent in the desolations of Jerusalem, according to the number of years that Yahweh had spoken to Jeremiah the prophet.
   
@@ -116,6 +116,7 @@ It is determined that the devastations will last until the end of the war.
   
 he devastations will last until the end of the war.
   
+
 
 
 

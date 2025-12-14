@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2053.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2053.txt)
   
 
 
-﻿1 Who has believed what was announced to us.
+ï»¿1 Who has believed what was announced to us.
   
 Who has recognized the arm of Yahweh.
   
@@ -68,6 +68,7 @@ For he has poured out his soul to death, and was numbered with the transgressors
   
 sion for the transgressors.
   
+
 
 
 

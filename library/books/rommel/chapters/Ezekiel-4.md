@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%204.txt)
   
 
 
-﻿1 And you, son of man, take a brick and place it in front of you, and portray the city of Jerusalem on it.
+ï»¿1 And you, son of man, take a brick and place it in front of you, and portray the city of Jerusalem on it.
   
 2 And lay a siege against it, and build forts against it, and cast up a mound against it.
   
@@ -74,6 +74,7 @@ And they will drink water by measure, and with astonishment.
   
 e consumed for their iniquity.
   
+
 
 
 

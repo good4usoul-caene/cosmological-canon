@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2012.txt)
   
 
 
-﻿1 Yahweh said to Abram, Go from your country, from your kindred, and from your father's house, to the land that I will show you.
+ï»¿1 Yahweh said to Abram, Go from your country, from your kindred, and from your father's house, to the land that I will show you.
   
 2 I will make you a great nation, and I will bless you.
   
@@ -76,6 +76,7 @@ And they send him and his wife away, with all that belonged to him.
   
 with all that belonged to him.
   
+
 
 
 

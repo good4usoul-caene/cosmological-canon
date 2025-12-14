@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2029.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2029.txt)
   
 
 
-﻿1 A man who is rebuked and who stiffens his neck will ultimately be broken suddenly and without remedy.
+ï»¿1 A man who is rebuked and who stiffens his neck will ultimately be broken suddenly and without remedy.
   
 2 When the righteous have authority, the people rejoice.
   
@@ -86,6 +86,7 @@ For he will not be willing to remove deceit from his lips when they have committ
   
 ays is an abomination to the wicked.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2011.txt)
   
 
 
-﻿1 Therefore you will love Yahweh your God, and you will always observe what he commands.
+ï»¿1 Therefore you will love Yahweh your God, and you will always observe what he commands.
   
 That is, his ordinances, and his laws, and his commandments.
   
@@ -96,6 +96,7 @@ You will possess it, and you will dwell there.
   
 and the laws that I set before you today.
   
+
 
 
 

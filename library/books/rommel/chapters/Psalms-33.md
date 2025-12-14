@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2033.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2033.txt)
   
 
 
-﻿1 Rejoice in Yahweh, O you the righteous.
+ï»¿1 Rejoice in Yahweh, O you the righteous.
   
 For praise is suitable for the upright.
   
@@ -66,6 +66,7 @@ He decides whether the plans of the peoples will be carried out or not.
   
 , because we wait for you.
   
+
 
 
 

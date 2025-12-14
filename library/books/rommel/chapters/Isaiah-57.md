@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2057.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2057.txt)
   
 
 
@@ -98,6 +98,7 @@ I will heal them.
   
 e is no peace for the wicked, says my God.
   
+
 
 
 

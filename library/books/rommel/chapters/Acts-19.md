@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2019.txt)
   
 
 
-﻿1 And while Apollos was at Corinth, Paul came to Ephesus after having passed through the upper coasts.
+ï»¿1 And while Apollos was at Corinth, Paul came to Ephesus after having passed through the upper coasts.
   
 2 And it happened that Paul found certain disciples at Ephesus and said to them, 'Have you received the Holy Spirit when you have believed'.
   
@@ -32,7 +32,7 @@ And they said.
   
 5 And when they heard it, they were baptized in the name of the Lord Jesus.
   
-6 And when Paul had laid his hands on them, the Holy Spirit came on them, and they spoke in other languages, â€‹â€‹and prophesied.
+6 And when Paul had laid his hands on them, the Holy Spirit came on them, and they spoke in other languages, Ã¢â‚¬â€¹Ã¢â‚¬â€¹and prophesied.
   
 7 The number of those persons was about twelve.
   
@@ -130,6 +130,7 @@ For there is no reason for us to gather together now.
   
 41 And when he had spoken thus, he dismissed the assembly.
   
+
 
 
 

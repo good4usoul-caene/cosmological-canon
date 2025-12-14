@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Corinthians%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Corinthians%201.txt)
   
 
 
@@ -100,6 +100,7 @@ God has chosen the weak things of the world to confound the strong things.
   
 ne who glorifies himself glory in the Lord.
   
+
 
 
 

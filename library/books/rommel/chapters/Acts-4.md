@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%204.txt)
   
 
 
-﻿1 Peter and John were speaking to the people, and then the priests and the captain of [the guards of] the temple and the Sadducees came to them.
+ï»¿1 Peter and John were speaking to the people, and then the priests and the captain of [the guards of] the temple and the Sadducees came to them.
   
 2 And they were displeased by the fact that Peter and John were teaching the people and were proclaiming the resurrection from the dead in the name of Jesus.
   
@@ -110,6 +110,7 @@ He was a Levite from Cyprus.
   
 money, and laid it at the feet of the apostles.
   
+
 
 
 

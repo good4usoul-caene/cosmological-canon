@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2020.txt)
   
 
 
@@ -176,6 +176,7 @@ The flame that will burn will not be quenched, and every face will be burned thr
   
 ord Yahweh, the people who are here say of me, 'Is this not a maker of parables'.
   
+
 
 
 

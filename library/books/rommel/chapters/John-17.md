@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%2017.txt)
   
 
 
-﻿1 After Jesus had spoken those words, he lifted up his eyes to heaven and said: Father, the hour has come.
+ï»¿1 After Jesus had spoken those words, he lifted up his eyes to heaven and said: Father, the hour has come.
   
 Glorify your Son, so that your Son may glorify you.
   
@@ -94,6 +94,7 @@ The inhabitants of the town of the Samaritan woman had believed with simplicity 
   
 loved me may be in them, and I in them.
   
+
 
 
 

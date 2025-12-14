@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2014.txt)
   
 
 
-﻿1 And at Iconium, Paul and Barnabas entered together the synagogue of the Jews, and they spoke in such a convincing way that a large crowd of both Jews and Greeks believed [that is to say, they believed that the message taught to them was worthy of being received].
+ï»¿1 And at Iconium, Paul and Barnabas entered together the synagogue of the Jews, and they spoke in such a convincing way that a large crowd of both Jews and Greeks believed [that is to say, they believed that the message taught to them was worthy of being received].
   
 2 But those who disbelieved among the Jews stirred up the Gentiles and corrupted their minds against the brothers.
   
@@ -102,6 +102,7 @@ It is because of this particular context that the apostle Paul creates assemblie
   
 hey remained a long time with the disciples.
   
+
 
 
 

@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2019.txt)
   
 
 
@@ -178,6 +178,7 @@ And the words of the men of Judah were fiercer than the words of the men of Isra
   
 nd the words of the men of Judah were fiercer than the words of the men of Israel.
   
+
 
 
 

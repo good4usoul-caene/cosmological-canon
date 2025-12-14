@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%207.txt)
   
 
 
-﻿1 Do you not know, brothers, that the law exercises its power over man as long as he lives.
+ï»¿1 Do you not know, brothers, that the law exercises its power over man as long as he lives.
   
 For I speak to men who know the law [which was given by Moses to the children of Jacob and which authorizes conversions of foreigners].
   
@@ -138,6 +138,7 @@ And as for the Gentiles, some may have had the desire to do what is right but co
   
 en the law of the Lord Jesus had not yet been taught to them.]
   
+
 
 
 

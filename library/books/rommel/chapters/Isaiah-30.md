@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2030.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2030.txt)
   
 
 
-﻿1 And Yahweh says: Woe to the rebellious children, those who take resolutions without seeking to obey my will that has been taught to them.
+ï»¿1 And Yahweh says: Woe to the rebellious children, those who take resolutions without seeking to obey my will that has been taught to them.
   
 They make alliances without seeking to please my spirit, they continue to add new sins to other sins.
   
@@ -118,6 +118,7 @@ Those who instruct you will not hide anymore, but your eyes will see your teache
   
 . 24 . 25 . 26 . 27 . 28 . 29 . 30 . 31 . 32 . 33 .
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%205.txt)
   
 
 
-﻿1 Call now, but who will answer you.
+ï»¿1 Call now, but who will answer you.
   
 Who are the saints to whom you will turn.
   
@@ -78,6 +78,7 @@ It is up to you to hear and take advantage.
   
 you to hear and take advantage.
   
+
 
 
 

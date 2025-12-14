@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2016.txt)
   
 
 
-﻿1 Jesus also said to his disciples: There was a certain rich man who had a steward, and it was said to that rich man that his steward was wasting his goods.
+ï»¿1 Jesus also said to his disciples: There was a certain rich man who had a steward, and it was said to that rich man that his steward was wasting his goods.
   
 2 And he called his steward and said to him: What is this that I hear concerning you.
   
@@ -110,6 +110,7 @@ But if someone goes to them from the dead, then they will amend their lives.
   
 e persuaded even if someone rises from the dead.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%202.txt)
   
 
 
-﻿1 Why this tumult among the nations.
+ï»¿1 Why this tumult among the nations.
   
 Why do the people imagine vain things.
   
@@ -48,6 +48,7 @@ Blessed are all those who will believe in his message.
   
 e in his message. [For you will have no other gods before me]
   
+
 
 
 

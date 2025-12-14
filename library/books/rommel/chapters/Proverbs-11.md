@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2011.txt)
   
 
 
-﻿1 False scales are an abomination to Yahweh, and he is delighted by accurate weights.
+ï»¿1 False scales are an abomination to Yahweh, and he is delighted by accurate weights.
   
 2 When pride comes, then comes shame.
   
@@ -84,6 +84,7 @@ And it will certainly also be the case for the wicked and the sinners.
   
 ase for the wicked and the sinners.
   
+
 
 
 

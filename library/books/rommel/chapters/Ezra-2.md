@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzra%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezra%202.txt)
   
 
 
-﻿1 Now these are the men of the province who returned from captivity, whom Nebuchadnezzar king of Babylon had carried away to Babylon, and who returned to Jerusalem and Judah, every one to his city.
+ï»¿1 Now these are the men of the province who returned from captivity, whom Nebuchadnezzar king of Babylon had carried away to Babylon, and who returned to Jerusalem and Judah, every one to his city.
   
 2 They went to Jerusalem with Zerubbabel, and Jeshua, and Nehemiah, and Seraiah, and Reelaiah, and Mordecai, and Bilshan, and Mispar, and Bigvai, and Rehum, and Baanah.
   
@@ -162,6 +162,7 @@ And there were also two hundred singers, both men and women.
   
 ethinims, they dwelt in their cities and all Israel dwelt in their cities.
   
+
 
 
 

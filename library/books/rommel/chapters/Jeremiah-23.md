@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2023.txt)
   
 
 
-﻿1 Woe to the pastors who destroy and scatter the sheep of my pasture, says Yahweh.
+ï»¿1 Woe to the pastors who destroy and scatter the sheep of my pasture, says Yahweh.
   
 2 Therefore thus says Yahweh the God of Israel, concerning the pastors who feed my people: You have scattered my flock and driven them away, and have not cared for them.
   
@@ -178,6 +178,7 @@ It will be a perpetual shame that will never be forgotten.
   
 n everlasting reproach. It will be a perpetual shame that will never be forgotten.
   
+
 
 
 

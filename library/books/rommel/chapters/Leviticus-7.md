@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%207.txt)
   
 
 
-﻿1 This is the law of the transgress offering.
+ï»¿1 This is the law of the transgress offering.
   
 It is most holy.
   
@@ -110,6 +110,7 @@ It will be a perpetual law among their descendants.
   
 offerings to Yahweh in the wilderness of Sinai.
   
+
 
 
 

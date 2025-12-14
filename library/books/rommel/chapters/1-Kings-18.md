@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Kings%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Kings%2018.txt)
   
 
 
@@ -186,6 +186,7 @@ And Ahab rode in his chariot and went back to Jezreel.
   
 on Elijah, and he girded up his waist and ran ahead of Ahab until he came to Jezreel.
   
+
 
 
 

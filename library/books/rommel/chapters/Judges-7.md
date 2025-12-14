@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%207.txt)
   
 
 
-﻿1 Then Jerubbaal, who is Gideon, and all the people who were with him, they got up early in the morning and encamped near the well of Harod.
+ï»¿1 Then Jerubbaal, who is Gideon, and all the people who were with him, they got up early in the morning and encamped near the well of Harod.
   
 The Midianites were encamped in the valley near the hill of Moreh, on the north side of Gideon and his men.
   
@@ -120,6 +120,7 @@ And they pursued the Midianites, and brought the heads of Oreb and Zeeb to Gideo
   
 b and Zeeb to Gideon on the other side of the Jordan.
   
+
 
 
 

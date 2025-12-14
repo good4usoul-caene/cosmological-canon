@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%209.txt)
   
 
 
-﻿1 And Yahweh said to Moses, Go to Pharaoh and say to him: Thus says Yahweh the God of the Hebrews, Let my people go that they may serve me.
+ï»¿1 And Yahweh said to Moses, Go to Pharaoh and say to him: Thus says Yahweh the God of the Hebrews, Let my people go that they may serve me.
   
 2 If you refuse to let them go and if you still hold them.
   
@@ -122,6 +122,7 @@ And he did not let the children of Israel go, as Yahweh had spoken through Moses
   
 dren of Israel go, as Yahweh had spoken through Moses.
   
+
 
 
 

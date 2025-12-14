@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%207.txt)
   
 
 
-﻿1 When Yahweh your God bring you into the land where you go to possess it, and cast out many nations before you, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations more numerous and more powerful than you.
+ï»¿1 When Yahweh your God bring you into the land where you go to possess it, and cast out many nations before you, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations more numerous and more powerful than you.
   
 2 And when Yahweh your God delivers them to you and you smite them, then you will completely destroy them because you will not make an alliance with them.
   
@@ -100,6 +100,7 @@ But you will utterly abhor it and consider it the most abominable because it is 
   
 the most abominable because it is accursed.
   
+
 
 
 

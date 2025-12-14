@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%209.txt)
   
 
 
@@ -158,6 +158,7 @@ And it has been sealed by our princes [leaders], and our Levites, and our priest
   
 been sealed by our princes [leaders], and our Levites, and our priests.
   
+
 
 
 

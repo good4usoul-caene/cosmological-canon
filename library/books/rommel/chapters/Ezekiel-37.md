@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2037.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2037.txt)
   
 
 
-﻿1 The hand of Yahweh was on me, and he carried me out in the spirit of Yahweh [that is to say, in a vision], and set me down in the midst of a valley which was full of bones.
+ï»¿1 The hand of Yahweh was on me, and he carried me out in the spirit of Yahweh [that is to say, in a vision], and set me down in the midst of a valley which was full of bones.
   
 2 And he caused me to pass near them all around, and behold, there were many of them on the surface of the valley, and lo, they were completely dry.
   
@@ -108,6 +108,7 @@ Yes, I will be their God, and they will be my people.
   
 sanctuary will be in the midst of them forever.
   
+
 
 
 

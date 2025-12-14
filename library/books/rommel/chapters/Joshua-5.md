@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%205.txt)
   
 
 
-﻿1 And all the kings of the Amorites who were beyond the Jordan to the west, and all the kings of the Canaanites who were by the sea, they heard that Yahweh had dried up the waters of the Jordan before the children of Israel until they crossed.
+ï»¿1 And all the kings of the Amorites who were beyond the Jordan to the west, and all the kings of the Canaanites who were by the sea, they heard that Yahweh had dried up the waters of the Jordan before the children of Israel until they crossed.
   
 Then their hearts collapsed and there was no more courage in them because of the children of Israel.
   
@@ -66,6 +66,7 @@ And Joshua did so.
   
 holy'. And Joshua did so.
   
+
 
 
 

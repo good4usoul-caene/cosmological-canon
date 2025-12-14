@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2030.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2030.txt)
   
 
 
-﻿1 The words of Agur the son of Jakeh.
+ï»¿1 The words of Agur the son of Jakeh.
   
 The words that he spoke to Ithiel, even to Ithiel and to Ucal.
   
@@ -112,6 +112,7 @@ Yes, there are four that have a beautiful gait.
   
 blood, and the pressure of anger produces strife.
   
+
 
 
 

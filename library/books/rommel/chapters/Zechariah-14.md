@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CZechariah%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Zechariah%2014.txt)
   
 
 
-﻿1 Behold the day of Yahweh is coming, and your spoil will be divided in your midst.
+ï»¿1 Behold the day of Yahweh is coming, and your spoil will be divided in your midst.
   
 2 For I will gather all the nations to battle against Jerusalem.
   
@@ -86,6 +86,7 @@ And in that day there will be no more merchants buying and selling things in the
   
 e house of Yahweh the God of armies.
   
+
 
 
 

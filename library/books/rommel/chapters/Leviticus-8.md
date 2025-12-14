@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLeviticus%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Leviticus%208.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words.
+ï»¿1 And Yahweh spoke to Moses in the following words.
   
 2 Take Aaron and his sons with him, and the garments and the anointing oil, and a bullock for the sin offering, and two rams, and a basket of unleavened bread.
   
@@ -118,6 +118,7 @@ And thus you will not die, for this is the commandment I received.
   
 is sons did all that Yahweh commanded through Moses.
   
+
 
 
 

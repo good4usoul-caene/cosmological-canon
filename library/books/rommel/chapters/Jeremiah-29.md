@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2029.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2029.txt)
   
 
 
-﻿1 Now here are the words of the letter that Jeremiah the prophet sent from Jerusalem to the residue of the elders who had been carried away captive, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon.
+ï»¿1 Now here are the words of the letter that Jeremiah the prophet sent from Jerusalem to the residue of the elders who had been carried away captive, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon.
   
 2 So this letter was sent after the departure for captivity of Jeconiah [also called Jehoiachin], and of the queen mother, and of the eunuchs, and of the princes [leaders] of Judah and Jerusalem, and of the workemen, and of the craftsmen, all those who had been carried away from Jerusalem at that time.
   
@@ -132,6 +132,7 @@ And king Solomon who built the new house for the name of Yahweh had explicitly s
   
 nced to him while he was building the new house of Yahweh.]
   
+
 
 
 

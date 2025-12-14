@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2038.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2038.txt)
   
 
 
-﻿1 A psalm of David for remembrance, words designed to be valid for all possible life situations.
+ï»¿1 A psalm of David for remembrance, words designed to be valid for all possible life situations.
   
 O Yahweh, do not rebuke me in your anger, do not punish me in your fury.
   
@@ -84,6 +84,7 @@ Do not be far from me, you my God.
   
 o my aid, my Lord and my salvation.
   
+
 
 
 

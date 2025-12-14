@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%208.txt)
   
 
 
-﻿1 And Yahweh said to Moses, Go to Pharaoh and say to him: Thus says Yahweh, Let my people go, that they may serve me.
+ï»¿1 And Yahweh said to Moses, Go to Pharaoh and say to him: Thus says Yahweh, Let my people go, that they may serve me.
   
 2 And If you refuse to let them go, I will smite the whole extent of your country with frogs.
   
@@ -124,6 +124,7 @@ And there remained not one.
   
 oh hardened his heart and he did not let the people go.
   
+
 
 
 

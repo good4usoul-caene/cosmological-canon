@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%2016.txt)
   
 
 
-﻿1 In the seventeenth year of Pekah the son of Remaliah, Ahaz the son of Jotham king of Judah began to reign.
+ï»¿1 In the seventeenth year of Pekah the son of Remaliah, Ahaz the son of Jotham king of Judah began to reign.
   
 2 Ahaz was twenty years old when he became king.
   
@@ -74,6 +74,7 @@ And Hezekiah his son reigned in his stead.
   
 his son reigned in his stead.
   
+
 
 
 

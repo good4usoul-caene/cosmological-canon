@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2033.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2033.txt)
   
 
 
-﻿1 These are the journeys of the children of Israel, who came out of the land of Egypt according to their armies under the hand of Moses and Aaron.
+ï»¿1 These are the journeys of the children of Israel, who came out of the land of Egypt according to their armies under the hand of Moses and Aaron.
   
 2 And Moses wrote their goings out according to their journeys by the commandment of Yahweh.
   
@@ -146,6 +146,7 @@ And they will vex you in the land of your dwellings.
   
 ome to pass that I will treat you as I had resolved to treat them.
   
+
 
 
 

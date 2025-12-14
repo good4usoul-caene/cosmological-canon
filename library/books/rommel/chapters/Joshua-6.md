@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%206.txt)
   
 
 
-﻿1 Now Jericho was closed and barricaded because of the children of Israel.
+ï»¿1 Now Jericho was closed and barricaded because of the children of Israel.
   
 No one was going out, and no one was coming in.
   
@@ -108,6 +108,7 @@ He will lay its foundation at the cost of the life of his eldest son, and he wil
   
 hua, whose fame spread throughout all the land.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2017.txt)
   
 
 
-﻿1 My breath is corrupted.
+ï»¿1 My breath is corrupted.
   
 My days are cut off, and the grave is ready for me.
   
@@ -54,6 +54,7 @@ Who will consider the things that I hoped for.
   
 ogether in the dust.
   
+
 
 
 

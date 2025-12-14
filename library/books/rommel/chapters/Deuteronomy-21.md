@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2021.txt)
   
 
 
-﻿1 If a killed man is found lying in a field of the land that Yahweh your God gives you for possession, and it is not know who has killed him.
+ï»¿1 If a killed man is found lying in a field of the land that Yahweh your God gives you for possession, and it is not know who has killed him.
   
 2 Then your elders and your judges will measure the distance between the corpse and the surrounding towns.
   
@@ -76,6 +76,7 @@ Therefore you will not defile the land that Yahweh your God gives you for an inh
   
 d gives you for an inheritance.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2011.txt)
   
 
 
-﻿1 And the people murmured, and it displeased Yahweh.
+ï»¿1 And the people murmured, and it displeased Yahweh.
   
 And Yahweh heard it, and therefore his anger was kindled.
   
@@ -130,6 +130,7 @@ And Yahweh smote the people with a very great plague.
   
 eople journeyed to Hazeroth, and they stopped at Hazeroth.
   
+
 
 
 

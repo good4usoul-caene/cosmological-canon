@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2039.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2039.txt)
   
 
 
-﻿1 At that time Merodach-baladan the son of Baladan and king of Babylon sent letters and a gift to Hezekiah.
+ï»¿1 At that time Merodach-baladan the son of Baladan and king of Babylon sent letters and a gift to Hezekiah.
   
 For he had heard how Hezekiah had been sick and had recovered.
   
@@ -46,6 +46,7 @@ Now Hezekiah is not perfect as it is the case of any normal human being, because
   
 is not Christ.]
   
+
 
 
 

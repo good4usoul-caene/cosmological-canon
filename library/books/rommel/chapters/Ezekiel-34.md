@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2034.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2034.txt)
   
 
 
-﻿1 And the word of Yahweh came to me in the following words.
+ï»¿1 And the word of Yahweh came to me in the following words.
   
 2 Son of man, prophesy against the shepherds of Israel.
   
@@ -116,6 +116,7 @@ They will dwell in safety, and no one will make them afraid.
   
 ou are men and I am your God, says the Lord Yahweh.
   
+
 
 
 

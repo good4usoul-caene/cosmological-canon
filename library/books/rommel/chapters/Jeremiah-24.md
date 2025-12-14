@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2024.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2024.txt)
   
 
 
-﻿1 And behold, Yahweh made me see two baskets of figs that were placed in front of the temple of Yahweh, after Nebuchadrezzar king of Babylon had carried away captive from Jerusalem to Babylon Jeconiah [also called Jehoiachin] the son of Jehoiakim king of Judah, and the princes [leaders] of Judah, with the workmen and the craftsmen of Jerusalem.
+ï»¿1 And behold, Yahweh made me see two baskets of figs that were placed in front of the temple of Yahweh, after Nebuchadrezzar king of Babylon had carried away captive from Jerusalem to Babylon Jeconiah [also called Jehoiachin] the son of Jehoiakim king of Judah, and the princes [leaders] of Judah, with the workmen and the craftsmen of Jerusalem.
   
 2 One of the baskets contained very good figs, like the figs of the first harvest, and the other basket had very bad figs that could not be eaten because of their bad quality.
   
@@ -44,6 +44,7 @@ And they will be my people, and I will be their God, for they will return to me 
   
 their fathers.
   
+
 
 
 

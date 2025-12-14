@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Kings%2021.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Kings%2021.txt)
   
 
 
-﻿1 Manasseh was twelve years old when he began to reign, and he reigned fifty five years in Jerusalem.
+ï»¿1 Manasseh was twelve years old when he began to reign, and he reigned fifty five years in Jerusalem.
   
 His mother's name was Hephzibah.
   
@@ -78,6 +78,7 @@ He served the idols that his father had served, and he bowed down to them.
   
 ah his son reigned in his stead.
   
+
 
 
 

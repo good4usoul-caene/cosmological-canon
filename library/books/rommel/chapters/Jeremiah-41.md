@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2041.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2041.txt)
   
 
 
-﻿1 Now Ishmael the son of Nethaniah the son of Elishama was of the family of the king and one of the chief officers of the king.
+ï»¿1 Now Ishmael the son of Nethaniah the son of Elishama was of the family of the king and one of the chief officers of the king.
   
 And he came in the seventh month with ten men to meet Gedaliah the son of Ahikam at Mizpah.
   
@@ -80,6 +80,7 @@ They were in fear because Ishmael the son of Nethaniah had killed Gedaliah the s
   
 on had made governor of the land.
   
+
 
 
 

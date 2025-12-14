@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%202.txt)
   
 
 
@@ -84,6 +84,7 @@ They did not cease to be inventive and rebellious.
   
 e did not hasten to drive them out.
   
+
 
 
 

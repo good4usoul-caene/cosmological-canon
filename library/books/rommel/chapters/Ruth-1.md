@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRuth%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ruth%201.txt)
   
 
 
-﻿1 In the days when the judges ruled, there was a famine in the land.
+ï»¿1 In the days when the judges ruled, there was a famine in the land.
   
 And a man from Bethlehem of Judah departed to sojourn in the land of Moab, he, his wife, and his two sons.
   
@@ -106,6 +106,7 @@ And they arrived in Bethlehem at the beginning of the barley harvest.
   
 hlehem at the beginning of the barley harvest.
   
+
 
 
 

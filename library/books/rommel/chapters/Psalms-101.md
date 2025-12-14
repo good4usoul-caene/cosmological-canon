@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20101.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20101.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 I will sing of mercy and righteousness.
   
@@ -46,6 +46,7 @@ And thus I will cut off all the workers of iniquity from the city of Yahweh.
   
 city of Yahweh.
   
+
 
 
 

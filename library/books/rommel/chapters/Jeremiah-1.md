@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%201.txt)
   
 
 
-﻿1 The words of Jeremiah the son of Hilkiah.
+ï»¿1 The words of Jeremiah the son of Hilkiah.
   
 Hilkiah was one of the priests who lived in Anathoth, in the land of Benjamin.
   
@@ -72,6 +72,7 @@ For I am with you to protect you, says Yahweh.
   
 to protect you, says Yahweh.
   
+
 
 
 

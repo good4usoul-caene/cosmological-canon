@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2016.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2016.txt)
   
 
 
-﻿1 Then he went to Derbe and to Lystra.
+ï»¿1 Then he went to Derbe and to Lystra.
   
 And behold, there was a certain disciple named Timothy.
   
@@ -146,6 +146,7 @@ And when they had seen the brothers, they comforted them and departed out of the
   
 en the brothers, they comforted them and departed out of the city.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CSong%20of%20Songs%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Song%20of%20Songs%201.txt)
   
 
 
-﻿1 The song of songs, which is written by Solomon.
+ï»¿1 The song of songs, which is written by Solomon.
   
 2 Let him kiss me with the kisses of his mouth.
   
@@ -72,6 +72,7 @@ Our bed is greenery.
   
 and our rafters are of firs.
   
+
 
 
 

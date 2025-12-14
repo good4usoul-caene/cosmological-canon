@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2011.txt)
   
 
 
-﻿1 And when Jabin the king of Hazor heard this, then he sent to Jobab the king of Madon, and to the king of Shimron, and to the king of Achshaph.
+ï»¿1 And when Jabin the king of Hazor heard this, then he sent to Jobab the king of Madon, and to the king of Shimron, and to the king of Achshaph.
   
 2 And to the kings who were toward the north, in the mountains and the plains toward the south of Chinneroth, and in the valleys, and on the borders of Dor westward.
   
@@ -92,6 +92,7 @@ Then the land rested from the war.
   
 bes. Then the land rested from the war.
   
+
 
 
 

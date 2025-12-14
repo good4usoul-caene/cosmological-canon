@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%204.txt)
   
 
 
-﻿1 The Father and the Son and the holy spirit (John 1:17 - 10:30), first part: The Trinity.
+ï»¿1 The Father and the Son and the holy spirit (John 1:17 - 10:30), first part: The Trinity.
   
 2 Our intrinsic nature and the totality of information at our disposal determine our actions.
   
@@ -60,6 +60,7 @@ It is the consistency of the good quality of the concerns of a person that makes
   
 1-4 - 1 Kings 19:1-13).
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%2018.txt)
   
 
 
-﻿1 When Jesus had spoken those words, he went with his disciples to the other side of the valley Kidron, where there was a garden into which he entered with his disciples.
+ï»¿1 When Jesus had spoken those words, he went with his disciples to the other side of the valley Kidron, where there was a garden into which he entered with his disciples.
   
 2 And Judas, the one who was to betray him, knew that place.
   
@@ -162,6 +162,7 @@ Now Barabbas was a murderer.
   
 gain by saying, 'Not this man, but Barabbas'. Now Barabbas was a murderer.
   
+
 
 
 

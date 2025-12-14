@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2041.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2041.txt)
   
 
 
-﻿1 Keep silent and listen to me, O islands.
+ï»¿1 Keep silent and listen to me, O islands.
   
 Let the peoples renew their strength in future times, and let them come near to answer.
   
@@ -152,6 +152,7 @@ Their works are worthless, their molten images are wind and confusion.
   
 heir works are worthless, their molten images are wind and confusion.
   
+
 
 
 

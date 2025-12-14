@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%209.txt)
   
 
 
-﻿1 Listen, O Israel.
+ï»¿1 Listen, O Israel.
   
 This day you will pass over the Jordan, to go into the promise land to be master of nations greater and more powerful than you, and of cities great and walled up to heaven.
   
@@ -118,6 +118,7 @@ This is why he took them away to kill them in the wilderness.
   
 pt by your great power and by your outstretched arm.
   
+
 
 
 

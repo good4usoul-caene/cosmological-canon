@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%201.txt)
   
 
 
-﻿1 In the beginning was the Word, and the Word was with God, and the Word was God.
+ï»¿1 In the beginning was the Word, and the Word was with God, and the Word was God.
   
 2 This thing was in the beginning with God.
   
@@ -166,6 +166,7 @@ And we must think that he has been informed by Philip, who himself could have be
   
 aven open, and the angels of God ascending and descending on the Son of man.
   
+
 
 
 

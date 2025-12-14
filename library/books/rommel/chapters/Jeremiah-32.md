@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2032.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2032.txt)
   
 
 
-﻿1 The word that came to Jeremiah from Yahweh in the tenth year of Zedekiah king of Judah.
+ï»¿1 The word that came to Jeremiah from Yahweh in the tenth year of Zedekiah king of Judah.
   
 It was the eighteenth year of Nebuchadrezzar.
   
@@ -162,6 +162,7 @@ For I will cause their captives to return, says Yahweh.
   
 ties of the south. For I will cause their captives to return, says Yahweh.
   
+
 
 
 

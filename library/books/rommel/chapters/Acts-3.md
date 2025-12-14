@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%203.txt)
   
 
 
-﻿1 Now Peter and John were going up together to the temple at the hour of prayer, which was the ninth hour.
+ï»¿1 Now Peter and John were going up together to the temple at the hour of prayer, which was the ninth hour.
   
 2 And there was a certain man who was lame from the womb of his mother.
   
@@ -86,6 +86,7 @@ He will give power to his king and exalt the strength of his anointed.]
   
 ery one of you from your iniquities.
   
+
 
 
 

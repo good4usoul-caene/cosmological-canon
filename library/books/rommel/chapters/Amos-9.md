@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CAmos%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Amos%209.txt)
   
 
 
@@ -72,6 +72,7 @@ And the mountains will drop sweet wine, and all the hills will melt.
   
 n them, says Yahweh your God.
   
+
 
 
 

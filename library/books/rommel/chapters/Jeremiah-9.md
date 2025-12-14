@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%209.txt)
   
 
 
-﻿1 Oh if my head were full of water and my eyes were a fountain of tears, then I would have wept day and night for those who will be killed in the midst of the daughter of my people.
+ï»¿1 Oh if my head were full of water and my eyes were a fountain of tears, then I would have wept day and night for those who will be killed in the midst of the daughter of my people.
   
 [I Jeremiah.]
   
@@ -120,6 +120,7 @@ For all the nations are uncircumcised, and all the house of Israel are uncircumc
   
 d all the house of Israel are uncircumcised in heart.
   
+
 
 
 

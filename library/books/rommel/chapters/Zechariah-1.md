@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CZechariah%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Zechariah%201.txt)
   
 
 
-﻿1 In the eighth month of the second year of Darius, the word of Yahweh came to the prophet Zechariah the son of Berechiah the son of Iddo in the following words.
+ï»¿1 In the eighth month of the second year of Darius, the word of Yahweh came to the prophet Zechariah the son of Berechiah the son of Iddo in the following words.
   
 2 Yahweh has been very displeased with your fathers.
   
@@ -80,6 +80,7 @@ And it seems that these are the events that have already begin to occur.]
   
 hat have already begin to occur.]
   
+
 
 
 

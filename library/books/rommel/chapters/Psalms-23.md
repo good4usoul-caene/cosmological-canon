@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2023.txt)
   
 
 
-﻿1 The psalm of David.
+ï»¿1 The psalm of David.
   
 Yahweh is my shepherd, I will not be short of anything.
   
@@ -32,6 +32,7 @@ You have anointed my head with oil, so that my cup overflows.
   
 forever.
   
+
 
 
 

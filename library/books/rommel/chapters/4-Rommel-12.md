@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%2012.txt)
   
 
 
-﻿1 Theological vocabulary (Luke 1:31-33 - John 8:51), second part: Ultimate revelation.
+ï»¿1 Theological vocabulary (Luke 1:31-33 - John 8:51), second part: Ultimate revelation.
   
 2 The only will of the creator of all things (God the Father) in the life of men is obedience to the holy spirit.
   
@@ -250,6 +250,7 @@ Thus the trick of the Devil consists in promoting behaviors that are either usel
   
 t (Zechariah 4:6). Thus the trick of the Devil consists in promoting behaviors that are either useless or destructive.
   
+
 
 
 

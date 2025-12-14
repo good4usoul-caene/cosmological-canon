@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2030.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2030.txt)
   
 
 
-﻿1 And Moses spoke to the chiefs of the tribes of the children of Israel by saying, This is what Yahweh has commanded.
+ï»¿1 And Moses spoke to the chiefs of the tribes of the children of Israel by saying, This is what Yahweh has commanded.
   
 2 When a man makes a vow to Yahweh, or makes an oath to bind oneself by a commitment, then he will not break his promise but he will do according to all that proceeds from his mouth.
   
@@ -52,6 +52,7 @@ He has confirmed them because he kept silent towards her on the same day that he
   
 r father's house.
   
+
 
 
 

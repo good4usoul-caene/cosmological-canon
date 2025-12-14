@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%2020.txt)
   
 
 
-﻿1 On the first day of the week, Mary Magdalene came to the tomb early in the morning, while it was still dark.
+ï»¿1 On the first day of the week, Mary Magdalene came to the tomb early in the morning, while it was still dark.
   
 And she saw that the stone had been taken away from [the opening of] the tomb.
   
@@ -114,6 +114,7 @@ Blessed are those who have not seen, and have believed.
   
 d that by believing you may have life in his name.
   
+
 
 
 

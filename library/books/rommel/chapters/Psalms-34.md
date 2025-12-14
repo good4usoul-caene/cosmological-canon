@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2034.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2034.txt)
   
 
 
-﻿1 A psalm of David, when he changed his behavior before Abimelech [Achish] by pretending to be mad and was sent away by Achish.
+ï»¿1 A psalm of David, when he changed his behavior before Abimelech [Achish] by pretending to be mad and was sent away by Achish.
   
 I will bless Yahweh at all times, his praise will be in my mouth continuously.
   
@@ -78,6 +78,7 @@ Keep your lips from speaking cunningly without having publicly acceptable justif
   
 take refuge in him will perish.
   
+
 
 
 

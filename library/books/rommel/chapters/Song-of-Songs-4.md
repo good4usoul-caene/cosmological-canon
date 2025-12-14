@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CSong%20of%20Songs%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Song%20of%20Songs%204.txt)
   
 
 
-﻿1 You are so beautiful, my love [my bride].
+ï»¿1 You are so beautiful, my love [my bride].
   
 You are so beautiful.
   
@@ -72,6 +72,7 @@ Let my beloved [my bridegroom] come into his garden and eat its pleasant fruit.
   
 n and eat its pleasant fruit.
   
+
 
 
 

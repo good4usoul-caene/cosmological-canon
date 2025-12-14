@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2033.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Chronicles%2033.txt)
   
 
 
@@ -74,6 +74,7 @@ And Amon sacrificed to all the remaining images that Manasseh his father had mad
   
 iah his son king in his stead.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDaniel%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Daniel%201.txt)
   
 
 
-﻿1 In the third [rather eleventh and final] year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came against Jerusalem and besieged it.
+ï»¿1 In the third [rather eleventh and final] year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came against Jerusalem and besieged it.
   
 2 And the Lord gave Jehoiakim king of Judah into his hand, with a part of the utensils of the house of God.
   
@@ -76,6 +76,7 @@ Therefore they stood before the king [that is to say, he chose them to be at his
   
 to say, he excelled in wisdom].
   
+
 
 
 

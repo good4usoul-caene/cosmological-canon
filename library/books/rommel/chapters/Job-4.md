@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%204.txt)
   
 
 
-﻿1 Then Eliphaz the Temanite answered in the following words.
+ï»¿1 Then Eliphaz the Temanite answered in the following words.
   
 2 If we dare to communicate with you, will you be afflicted.
   
@@ -68,6 +68,7 @@ Do they not die without wisdom.
   
 hey not die without wisdom.
   
+
 
 
 

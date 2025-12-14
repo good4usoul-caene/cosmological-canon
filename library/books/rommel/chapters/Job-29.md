@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2029.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2029.txt)
   
 
 
-﻿1 And Job continued his parable in the following words.
+ï»¿1 And Job continued his parable in the following words.
   
 2 Oh, I wish I were like in the old months, like in the days when God watched over me.
   
@@ -68,6 +68,7 @@ I was like a king in the midst of a troop, and like a comforter to the afflicted
   
 comforter to the afflicted.
   
+
 
 
 

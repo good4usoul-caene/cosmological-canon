@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2010.txt)
   
 
 
-﻿1 My soul is disgusted with life.
+ï»¿1 My soul is disgusted with life.
   
 I will continue my complaint, I will speak in the bitterness of my soul.
   
@@ -72,6 +72,7 @@ Therefore stop and leave me alone, so that I can take some comfort.
   
 and whose light is darkness.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNehemiah%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Nehemiah%202.txt)
   
 
 
-﻿1 Now in the month Nisan, in the twentieth year of king Artaxerxes, I took the wine from before the king and gave it to him while being sad in his presence.
+ï»¿1 Now in the month Nisan, in the twentieth year of king Artaxerxes, I took the wine from before the king and gave it to him while being sad in his presence.
   
 Now I had never appeared sad in his presence.
   
@@ -86,6 +86,7 @@ But as for you, you have in Jerusalem no portion, nor right, nor memorial.
   
 no portion, nor right, nor memorial.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2030.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2030.txt)
   
 
 
-﻿1 When Rachel saw that she bore Jacob no children, she envied her sister and said to Jacob, Give me children or I die.
+ï»¿1 When Rachel saw that she bore Jacob no children, she envied her sister and said to Jacob, Give me children or I die.
   
 2 Jacob's anger was kindled against Rachel, and he said, Am I in God's place, who prevents you from being fruitful.
   
@@ -154,6 +154,7 @@ He had livestock in abundance, and maids and male servants, and camels and donke
   
 ock in abundance, and maids and male servants, and camels and donkeys.
   
+
 
 
 

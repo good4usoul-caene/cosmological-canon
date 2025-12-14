@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%2011.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%2011.txt)
   
 
 
-﻿1 And Yahweh said to Moses, I will bring another plague on Pharaoh and on Egypt.
+ï»¿1 And Yahweh said to Moses, I will bring another plague on Pharaoh and on Egypt.
   
 After that, he will let you leave here.
   
@@ -44,6 +44,7 @@ And Moses went out from Pharaoh's house in fierce anger.
   
 ut of his land.
   
+
 
 
 

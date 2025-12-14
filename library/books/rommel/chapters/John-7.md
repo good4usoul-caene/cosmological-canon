@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJohn%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\John%207.txt)
   
 
 
-﻿1 After these things, Jesus was walking in Galilee.
+ï»¿1 After these things, Jesus was walking in Galilee.
   
 For he did not want to walk in Judea, because the Jews wanted to kill him.
   
@@ -172,6 +172,7 @@ Examine, and you will see that no prophet arises from Galilee.
   
 om Galilee. Examine, and you will see that no prophet arises from Galilee. 53 .
   
+
 
 
 

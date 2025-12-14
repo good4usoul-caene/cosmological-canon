@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%209.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the wilderness of Sinai, in the first month of the second year after their departure from the land of Egypt.
+ï»¿1 And Yahweh spoke to Moses in the wilderness of Sinai, in the first month of the second year after their departure from the land of Egypt.
   
 He spoke in the following words.
   
@@ -92,6 +92,7 @@ And they obeyed to Yahweh according to the commandment of Yahweh by the hand of 
   
 andment of Yahweh by the hand of Moses.
   
+
 
 
 

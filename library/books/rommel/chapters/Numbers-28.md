@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2028.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2028.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words.
+ï»¿1 And Yahweh spoke to Moses in the following words.
   
 2 Command the children of Israel and say to them: You will take care to present at the appointed time my offerings and my food, for my sacrifices which are made by fire and which are of a pleasant smell for me.
   
@@ -102,6 +102,7 @@ All of what is offer will be without blemish, and with their drink offerings.
   
 out blemish, and with their drink offerings.
   
+
 
 
 

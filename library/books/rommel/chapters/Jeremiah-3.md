@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%203.txt)
   
 
 
@@ -100,6 +100,7 @@ It will not come into the mind, and it will not be remembered, and the need of i
   
 7 . 18 . 19 . 20 . 21 . 22 . 23 . 24 . 25 .
   
+
 
 
 

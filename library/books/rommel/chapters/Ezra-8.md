@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzra%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezra%208.txt)
   
 
 
-﻿1 Now these are the chiefs of the fathers' houses, and the genealogies of those who came up with me from Babylon during the reign of king Artaxerxes.
+ï»¿1 Now these are the chiefs of the fathers' houses, and the genealogies of those who came up with me from Babylon during the reign of king Artaxerxes.
   
 2 Of the sons of Phinehas, Gershom.
   
@@ -132,6 +132,7 @@ And all these leaders assisted the people for the service of the house of God.
   
 rs assisted the people for the service of the house of God.
   
+
 
 
 

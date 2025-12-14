@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Thessalonians%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Thessalonians%202.txt)
   
 
 
-﻿1 As regards the advent of our Lord Jesus Christ and our meeting with him, we ask you, brothers, not to let yourselves be easily shaken in your minds.
+ï»¿1 As regards the advent of our Lord Jesus Christ and our meeting with him, we ask you, brothers, not to let yourselves be easily shaken in your minds.
   
 2 Do not let yourself be troubled, neither by some inspiration, nor by some word, nor by some letters that would be presented to you as coming from us, as if the day of Christ has already come.
   
@@ -56,6 +56,7 @@ For God has chosen you from the beginning, for salvation through the sanctificat
   
 and every good word.
   
+
 
 
 

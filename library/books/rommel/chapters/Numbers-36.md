@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2036.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2036.txt)
   
 
 
-﻿1 Then the chiefs of fathers' houses of the family of the children of Gilead, who is the son of Machir the son of Manasseh, from the families of the sons of Joseph, they came and spoke before Moses and the princes of the families of the children of Israel.
+ï»¿1 Then the chiefs of fathers' houses of the family of the children of Gilead, who is the son of Machir the son of Manasseh, from the families of the sons of Joseph, they came and spoke before Moses and the princes of the families of the children of Israel.
   
 2 And they said: Yahweh commanded my lord to give the land for an inheritance by lot to the children of Israel.
   
@@ -54,6 +54,7 @@ And thus the children of Israel will each enjoy the inheritance of his tribe.
   
 an opposite Jericho.
   
+
 
 
 

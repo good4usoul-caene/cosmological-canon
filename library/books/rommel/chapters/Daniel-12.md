@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDaniel%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Daniel%2012.txt)
   
 
 
-﻿1 At that time Michael will stand up, the great prince who stands for the children of your people.
+ï»¿1 At that time Michael will stand up, the great prince who stands for the children of your people.
   
 And there will be a time of trouble, such as has not been since there was a nation even to that same time.
   
@@ -54,6 +54,7 @@ But the wicked will do wickedly, and none of the wicked will understand, but tho
   
 tand. 11 . 12 . 13 .
   
+
 
 
 

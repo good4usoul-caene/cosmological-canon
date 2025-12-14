@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2036.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2036.txt)
   
 
 
-﻿1 A psalm of David the servant of Yahweh.
+ï»¿1 A psalm of David the servant of Yahweh.
   
 The transgression of the wicked man causes me to say in my heart: There is no fear of God before his eyes.
   
@@ -52,6 +52,7 @@ They are overthrown and will not be able to arise again.
   
 ble to arise again.
   
+
 
 
 

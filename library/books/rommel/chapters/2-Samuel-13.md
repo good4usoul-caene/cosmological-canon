@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Samuel%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Samuel%2013.txt)
   
 
 
-﻿1 Afterwards, the following things happened.
+ï»¿1 Afterwards, the following things happened.
   
 Absalom the son of David had a sister who was beautiful and whose name was Tamar.
   
@@ -168,6 +168,7 @@ And David mourned for Amnon his son every day.
   
 bsalom and wanted to see him, because he was comforted of the death of Amnon.
   
+
 
 
 

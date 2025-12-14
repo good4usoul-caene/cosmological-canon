@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C4%20Rommel%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\4%20Rommel%207.txt)
   
 
 
-﻿1 The pedagogy initiated through Moses (Isaiah 1:2-3 - 2 Corinthians 3:12-18), second part.
+ï»¿1 The pedagogy initiated through Moses (Isaiah 1:2-3 - 2 Corinthians 3:12-18), second part.
   
 2 The following things happened after the destruction of their temple (Deuteronomy 13 - John 9:28-29).
   
@@ -106,11 +106,11 @@ Jesus has come into the world in order to teach all peoples the exact knowledge 
   
 Because identical words are used to designate things having a certain connection and then the exact meaning depends on the context.
   
-21 After Moses who knew God face to face (Exodus 33:7-11 - Deuteronomy 34:9-12), Ezekiel is said to have been the only prophet who gave new laws for the people (Ezekiel 40â€"48).
+21 After Moses who knew God face to face (Exodus 33:7-11 - Deuteronomy 34:9-12), Ezekiel is said to have been the only prophet who gave new laws for the people (Ezekiel 40Ã¢â‚¬"48).
   
 22 And these laws contradict the architectural teachings of Moses concerning the structure of the temple which is the place of worship (Exodus 26:1-15 - Ezekiel 44:1-2 - 48:29-35 - John 4:22).
   
-23 And also concerning the quantities of sacrifices that must be offered to Yahweh alone (Ezekiel 45â€"46 - Numbers 28â€"29 - 4 Rommel 13), the obligatory part of burnt offerings [and burnt offerings are not eaten].
+23 And also concerning the quantities of sacrifices that must be offered to Yahweh alone (Ezekiel 45Ã¢â‚¬"46 - Numbers 28Ã¢â‚¬"29 - 4 Rommel 13), the obligatory part of burnt offerings [and burnt offerings are not eaten].
   
 But the laws concerning the offerings that are eaten have not been changed (Leviticus 2:1-16 - 3:1-17 - 7:1-10 - 1 Samuel 2:12-17,27-29 - Ezekiel 44:15-16).
   
@@ -138,6 +138,7 @@ And we know all this because it is written in the Bible.
   
 ions 3:21-41 - Ecclesiastes 11:9-10 - 12:1-7 - 1 Peter 5:6-9).
   
+
 
 
 

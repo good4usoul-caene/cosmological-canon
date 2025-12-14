@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJudges%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Judges%201.txt)
   
 
 
-﻿1 After the death of Joshua, the children of Israel asked Yahweh by saying: Who among us will go up first against the Canaanites to fight them.
+ï»¿1 After the death of Joshua, the children of Israel asked Yahweh by saying: Who among us will go up first against the Canaanites to fight them.
   
 2 And Yahweh said: Judah will go up.
   
@@ -130,6 +130,7 @@ But when the hand of the family of Joseph became more powerful, then they were s
   
 ites extended from Maaleh-akrabbim, from Selah and upward.
   
+
 
 
 

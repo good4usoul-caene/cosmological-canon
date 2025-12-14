@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2019.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2019.txt)
   
 
 
-﻿1 When Yahweh your God has destroyed the nations whose land Yahweh your God gives you, and you possess them and dwell in their cities and in their houses.
+ï»¿1 When Yahweh your God has destroyed the nations whose land Yahweh your God gives you, and you possess them and dwell in their cities and in their houses.
   
 2 Then you will separate three cities in the midst of your land that Yahweh your God gives you to possess it.
   
@@ -72,6 +72,7 @@ Thus you will eliminate evil from among you.
   
 hand, and a foot for a foot.
   
+
 
 
 

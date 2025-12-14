@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CZechariah%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Zechariah%2012.txt)
   
 
 
-﻿1 The burden of the word of Yahweh concerning Israel [that is to say, concerning those who hold to the law given to the children of Jacob and who are in this way the spiritual children of those who were called Israel when the exact identity of Yahweh had not yet revealed].
+ï»¿1 The burden of the word of Yahweh concerning Israel [that is to say, concerning those who hold to the law given to the children of Jacob and who are in this way the spiritual children of those who were called Israel when the exact identity of Yahweh had not yet revealed].
   
 Thus says Yahweh who stretched out the heavens and laid the foundations of the earth, and formed the spirit of man within him.
   
@@ -72,6 +72,7 @@ The family of Shimei separately, and their wives separately.
   
 , and their wives separately.
   
+
 
 
 

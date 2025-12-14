@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2045.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2045.txt)
   
 
 
-﻿1 Jeremiah the prophet said the following word to Baruch the son of Neriah, when he wrote these words in a book under the dictation of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah.
+ï»¿1 Jeremiah the prophet said the following word to Baruch the son of Neriah, when he wrote these words in a book under the dictation of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah.
   
 2 Thus says Yahweh the God of Israel, to you, O Baruch.
   
@@ -32,6 +32,7 @@ For behold, I will bring disaster on all flesh, says Yahweh, but I will give you
   
 will go.
   
+
 
 
 

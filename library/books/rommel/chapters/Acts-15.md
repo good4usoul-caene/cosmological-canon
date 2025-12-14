@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CActs%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Acts%2015.txt)
   
 
 
-﻿1 And some men came to Antioch from Judea, and they were teaching the brothers by saying: Unless you are circumcised according to the custom taught by Moses, you cannot be saved.
+ï»¿1 And some men came to Antioch from Judea, and they were teaching the brothers by saying: Unless you are circumcised according to the custom taught by Moses, you cannot be saved.
   
 [Now when Abraham was ninety nine years old, and his son was Ishmael was thirteen years old, God had made a covenant with him by asking him to circumcise at eight days old all the males under his care, from generation to generation, and Abraham had circumcised all the people of his household on that day.
   
@@ -142,6 +142,7 @@ And Barnabas took Mark with him, and sailed to the island of Cyprus.
   
 d he went through Syria and Cilicia, strengthening the churches.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%209.txt)
   
 
 
-﻿1 I speak the truth in Christ, I do not lie, and my conscience bears me witness in the Holy Spirit.
+ï»¿1 I speak the truth in Christ, I do not lie, and my conscience bears me witness in the Holy Spirit.
   
 2 I have a great heaviness and a continual sorrow in my heart.
   
@@ -104,6 +104,7 @@ Whoever believes in him will not be put to shame.
   
 ver believes in him will not be put to shame.
   
+
 
 
 

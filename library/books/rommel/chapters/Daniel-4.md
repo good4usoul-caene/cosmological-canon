@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDaniel%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Daniel%204.txt)
   
 
 
-﻿1 Nebuchadnezzar the king, to all the peoples of all nations and languages â€‹â€‹who dwell throughout the whole earth: May peace be multiplied to you.
+ï»¿1 Nebuchadnezzar the king, to all the peoples of all nations and languages Ã¢â‚¬â€¹Ã¢â‚¬â€¹who dwell throughout the whole earth: May peace be multiplied to you.
   
 2 It seemed good to me to make known the signs and wonders that the Most High God has performed toward me.
   
@@ -148,6 +148,7 @@ I should not have behaved as if it was me who was above all things because it is
   
 ngs because it is rather this holy spirit who is above all things.]
   
+
 
 
 

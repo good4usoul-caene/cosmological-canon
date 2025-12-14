@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2018.txt)
   
 
 
-﻿1 He who separates himself from all others seeks his own desire, and he is irritated against all that is wise.
+ï»¿1 He who separates himself from all others seeks his own desire, and he is irritated against all that is wise.
   
 2 A fool has no delight in understanding, but only in the manifestation of his thoughts.
   
@@ -74,6 +74,7 @@ But there is such a friend who is more supportive than a brother.
   
 ore supportive than a brother.
   
+
 
 
 

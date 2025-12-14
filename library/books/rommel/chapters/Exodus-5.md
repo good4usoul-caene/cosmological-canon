@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%205.txt)
   
 
 
@@ -78,6 +78,7 @@ For you have made us odious to Pharaoh and his servants, and you have put a swor
   
 have not delivered your people.
   
+
 
 
 

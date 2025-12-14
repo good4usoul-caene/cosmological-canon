@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2037.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2037.txt)
   
 
 
-﻿1 Zedekiah the son of Josiah reigned instead of Coniah [also called Jehoiachin] the son of Jehoiakim.
+ï»¿1 Zedekiah the son of Josiah reigned instead of Coniah [also called Jehoiachin] the son of Jehoiakim.
   
 Zedekiah has been made king in the land of Judah by Nebuchadrezzar king of Babylon.
   
@@ -86,6 +86,7 @@ So Jeremiah remained in the courtyard of the guards.
   
 ined in the courtyard of the guards.
   
+
 
 
 

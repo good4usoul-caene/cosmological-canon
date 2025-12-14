@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%206.txt)
   
 
 
-﻿1 My son, if you have made yourself an unrestricted surety for your neighbor, if you have pledged yourself for another.
+ï»¿1 My son, if you have made yourself an unrestricted surety for your neighbor, if you have pledged yourself for another.
   
 2 If you are snared by the words of your mouth, if you are taken by the words of your own mouth.
   
@@ -108,6 +108,7 @@ He who does this thing is destroying his own soul.
   
 not consent, although you may give many gifts.
   
+
 
 
 

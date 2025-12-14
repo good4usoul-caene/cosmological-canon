@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CMalachi%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Malachi%202.txt)
   
 
 
-﻿1 And now, O you the priests, the following warning concerns you.
+ï»¿1 And now, O you the priests, the following warning concerns you.
   
 2 If you do not listen, if the desire of your heart is not to give glory to my name, says Yahweh the God of armies, then I will send a curse on you to curse your blessings.
   
@@ -80,6 +80,7 @@ It is when you say, 'Everyone who does evil is good in the sight of Yahweh, and 
   
 e God of the concept of justice'.
   
+
 
 
 

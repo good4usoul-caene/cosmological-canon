@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%202.txt)
   
 
 
-﻿1 My son, if you receive my words and keep my commandments within you.
+ï»¿1 My son, if you receive my words and keep my commandments within you.
   
 2 In order to incline your ear to wisdom, and to incline your heart to understanding.
   
@@ -60,6 +60,7 @@ You will understand all the good paths.
   
 ll be uprooted from it.
   
+
 
 
 

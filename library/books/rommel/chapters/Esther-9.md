@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEsther%209.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Esther%209.txt)
   
 
 
-﻿1 And in the twelfth month which is the month of Adar, on the thirteenth day of the month when the king's commandments and his decrees were to be implemented, those who were enemies of the Jews hoped to dominate them.
+ï»¿1 And in the twelfth month which is the month of Adar, on the thirteenth day of the month when the king's commandments and his decrees were to be implemented, those who were enemies of the Jews hoped to dominate them.
   
 But it was the opposite that happened, for the Jews dominated those who hated them.
   
@@ -134,6 +134,7 @@ They might not have felt the need to return to the promised land because they ha
   
 firmed the ordinance of Purim, and it was written in a book. [Queen Esther did not have a religious authority over those of the children of Israel who were in the kingdom of king Ahasuerus, but an administrative authority like queen Athaliah in the time of the kings and queens of Israel or Deborah in the time of the judges]
   
+
 
 
 

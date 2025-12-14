@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2014.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2014.txt)
   
 
 
-﻿1 A wise woman builds her house, but a foolish woman destroys it with her own hands.
+ï»¿1 A wise woman builds her house, but a foolish woman destroys it with her own hands.
   
 2 He who walks with an honest heart fears Yahweh, but he who is perverse in his ways despises Yahweh.
   
@@ -90,6 +90,7 @@ But he who has pity on the needy honors the creator.
   
 against the servants who cause shame.
   
+
 
 
 

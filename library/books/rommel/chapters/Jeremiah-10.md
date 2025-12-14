@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2010.txt)
   
 
 
-﻿1 Hear the word that Yahweh speaks to you, O house of Israel.
+ï»¿1 Hear the word that Yahweh speaks to you, O house of Israel.
   
 2 Thus says Yahweh: Do not behave like other nations.
   
@@ -118,6 +118,7 @@ For they devour Jacob, they devour him and consume him, and they ravaged his dwe
   
 him and consume him, and they ravaged his dwelling.
   
+
 
 
 

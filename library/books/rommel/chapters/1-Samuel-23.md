@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C1%20Samuel%2023.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\1%20Samuel%2023.txt)
   
 
 
@@ -120,6 +120,7 @@ Therefore they called that place Sela-hammahlekoth.
   
 from there, and dwelt in the strongholds of En-gedi.
   
+
 
 
 

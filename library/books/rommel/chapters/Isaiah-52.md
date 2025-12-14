@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2052.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2052.txt)
   
 
 
-﻿1 Awake, awake O Zion, and put on your strength.
+ï»¿1 Awake, awake O Zion, and put on your strength.
   
 Put on your beautiful garments, O Jerusalem the holy city.
   
@@ -84,6 +84,7 @@ For they will learn what they had not heard, and they will see what had not been
   
 see what had not been told to them.
   
+
 
 
 

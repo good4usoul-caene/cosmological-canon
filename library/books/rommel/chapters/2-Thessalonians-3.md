@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Thessalonians%203.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Thessalonians%203.txt)
   
 
 
-﻿1 Finally, brothers, pray for us, to desire that the word of the Lord may spread easily and be honored, just as it has been among you.
+ï»¿1 Finally, brothers, pray for us, to desire that the word of the Lord may spread easily and be honored, just as it has been among you.
   
 2 And that we may be delivered from unreasonable and evil people, since not all have faith.
   
@@ -60,6 +60,7 @@ Amen.
   
 be with you all. Amen.
   
+
 
 
 

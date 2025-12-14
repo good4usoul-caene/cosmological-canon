@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2034.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2034.txt)
   
 
 
-﻿1 The word that came to Jeremiah from Yahweh when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth that were under his dominion, and all the peoples, were fighting against Jerusalem and against all its cities.
+ï»¿1 The word that came to Jeremiah from Yahweh when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth that were under his dominion, and all the peoples, were fighting against Jerusalem and against all its cities.
   
 2 Thus says Yahweh the God of Israel, Go and speak to Zedekiah king of Judah, and tell him: Thus says Yahweh, Behold I will give this city into the hand of the king of Babylon, and he will burn it with fire.
   
@@ -94,6 +94,7 @@ And I will make the cities of Judah a desolation without inhabitants.
   
 Judah a desolation without inhabitants.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CLuke%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Luke%2010.txt)
   
 
 
-﻿1 After these things, the Lord appointed seventy other disciples, and sent them ahead of him two by two into every town and place where he himself was about to come.
+ï»¿1 After these things, the Lord appointed seventy other disciples, and sent them ahead of him two by two into every town and place where he himself was about to come.
   
 2 And he said to them: The harvest is plentiful, but the workers are few.
   
@@ -140,6 +140,7 @@ Mary has chosen that good part, which will not be taken away from her.
   
 s chosen that good part, which will not be taken away from her.
   
+
 
 
 

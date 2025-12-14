@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CAmos%204.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Amos%204.txt)
   
 
 
@@ -80,6 +80,7 @@ His name is Yahweh the God of armies.
   
 name is Yahweh the God of armies.
   
+
 
 
 

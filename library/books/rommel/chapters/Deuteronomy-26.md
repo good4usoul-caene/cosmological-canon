@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDeuteronomy%2026.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Deuteronomy%2026.txt)
   
 
 
-﻿1 When you enter the land that Yahweh your God gives you as an inheritance, and possess it and dwell there.
+ï»¿1 When you enter the land that Yahweh your God gives you as an inheritance, and possess it and dwell there.
   
 2 Then you will take of the first fruits of all the fruits of the ground that you produce in the land that Yahweh your God gives you.
   
@@ -66,6 +66,7 @@ And so that you should be a people holy to Yahweh your God, as he has said.
   
 your God, as he has said.
   
+
 
 
 

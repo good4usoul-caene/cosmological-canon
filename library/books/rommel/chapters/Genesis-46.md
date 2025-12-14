@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2046.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2046.txt)
   
 
 
-﻿1 And Israel took his journey with all that he had.
+ï»¿1 And Israel took his journey with all that he had.
   
 And he came to Beersheba, and he offered sacrifices to the God of his father Isaac.
   
@@ -122,6 +122,7 @@ In this way you will dwell in the land of Goshen, for all shepherds are an abomi
   
 for all shepherds are an abomination to the Egyptians.
   
+
 
 
 

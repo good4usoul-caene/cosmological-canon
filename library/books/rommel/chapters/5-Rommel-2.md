@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%202.txt)
   
 
 
-﻿1 Overview.
+ï»¿1 Overview.
   
 2 Indeed, and it is necessary not to be wrong, it is not a man that we must believe to have eternal life.
   
@@ -74,6 +74,7 @@ I am simply the work of God, as each of between us.
   
 of God, as each of between us.
   
+
 
 
 

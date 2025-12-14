@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CAmos%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Amos%202.txt)
   
 
 
-﻿1 Thus says Yahweh: Because of three transgressions of Moab, and even four, I will not revoke the punishment.
+ï»¿1 Thus says Yahweh: Because of three transgressions of Moab, and even four, I will not revoke the punishment.
   
 For he has burned the bones of the king of Edom into lime.
   
@@ -62,6 +62,7 @@ It is Yahweh your God who is asking you this question.
   
 n that day, says Yahweh.
   
+
 
 
 

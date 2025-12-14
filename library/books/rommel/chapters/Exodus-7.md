@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CExodus%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Exodus%207.txt)
   
 
 
-﻿1 And Yahweh said to Moses: See, I have made you God for Pharaoh and Aaron your brother will be your prophet.
+ï»¿1 And Yahweh said to Moses: See, I have made you God for Pharaoh and Aaron your brother will be your prophet.
   
 2 You will say whatever I command you and Aaron your brother will speak to Pharaoh, that he let the children of Israel go out of his land.
   
@@ -88,6 +88,7 @@ And he did not listen to Moses and Aaron, as Yahweh had said.
   
 d after Yahweh had smitten the river.
   
+
 
 
 

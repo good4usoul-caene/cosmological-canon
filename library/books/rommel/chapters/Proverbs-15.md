@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2015.txt)
   
 
 
-﻿1 A soft answer turns away wrath, but a harsh word stirs up anger.
+ï»¿1 A soft answer turns away wrath, but a harsh word stirs up anger.
   
 2 The tongue of the wise makes a judicious use of knowledge, but the mouth of fools pours out folly.
   
@@ -86,6 +86,7 @@ But in the multitude of counsellors they are established.
   
 d true humility precedes true honor.
   
+
 
 
 

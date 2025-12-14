@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2046.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2046.txt)
   
 
 
@@ -110,6 +110,7 @@ All these four places were of the same measurement, at the corners.
   
 offerings that are eaten by the common people.]
   
+
 
 
 

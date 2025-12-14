@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEcclesiastes%208.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ecclesiastes%208.txt)
   
 
 
-﻿1 Who is like the wise.
+ï»¿1 Who is like the wise.
   
 And who knows the interpretation of a thing.
   
@@ -76,6 +76,7 @@ And even if a wise man wants to know it, he will not be able to find it.
   
 he will not be able to find it.
   
+
 
 
 

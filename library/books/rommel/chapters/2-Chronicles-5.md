@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Chronicles%205.txt)
   
 
 
-﻿1 So all the work that Solomon made for the house of Yahweh was finished.
+ï»¿1 So all the work that Solomon made for the house of Yahweh was finished.
   
 And Solomon brought in the things that David his father had dedicated, and also the silver, and the gold, and all the vessels, and he did put them in the treasuries of the house of God.
   
@@ -56,6 +56,7 @@ For the glory of Yahweh had filled the house of God.
   
 led the house of God.
   
+
 
 
 

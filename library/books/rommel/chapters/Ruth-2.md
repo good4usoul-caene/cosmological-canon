@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRuth%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ruth%202.txt)
   
 
 
-﻿1 Naomi's husband had a kinsman who was a powerful and rich man from the family of Elimelech, and whose name was Boaz.
+ï»¿1 Naomi's husband had a kinsman who was a powerful and rich man from the family of Elimelech, and whose name was Boaz.
   
 2 And Ruth the Moabite said to Naomi: I pray you to let me go and gather ears of grain in the field of him in whose eyes I will find favor.
   
@@ -96,6 +96,7 @@ And she dwelt with her mother in law.
   
 st. And she dwelt with her mother in law.
   
+
 
 
 

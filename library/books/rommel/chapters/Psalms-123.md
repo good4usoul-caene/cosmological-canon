@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20123.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20123.txt)
   
 
 
-﻿1 I lift up my eyes to you, the one who sits in the heavens.
+ï»¿1 I lift up my eyes to you, the one who sits in the heavens.
   
 2 Behold, as the eyes of servants look at the hand of their masters, and as the eyes of a maidservant look at the hand of her mistress, thus our eyes look at Yahweh our God to implore his mercy.
   
@@ -22,6 +22,7 @@ For we have suffered a lot of contempt.
   
 oud.
   
+
 
 
 

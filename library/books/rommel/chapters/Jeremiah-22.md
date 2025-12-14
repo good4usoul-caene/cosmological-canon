@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2022.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2022.txt)
   
 
 
-﻿1 Thus speaks Yahweh: Go down to the house of the king of Judah, and there you will declare the following thing.
+ï»¿1 Thus speaks Yahweh: Go down to the house of the king of Judah, and there you will declare the following thing.
   
 2 You will say: Listen to the word of Yahweh, O you the king of Judah who is sitting on the throne of David, you and your servants, and your people who enter by these gates.
   
@@ -114,6 +114,7 @@ For none of his descendants will succeed in sitting on the throne of David to ru
   
 sitting on the throne of David to rule over Judah.
   
+
 
 
 

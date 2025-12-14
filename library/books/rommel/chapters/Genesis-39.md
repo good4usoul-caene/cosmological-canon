@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2039.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2039.txt)
   
 
 
-﻿1 Joseph was brought to Egypt.
+ï»¿1 Joseph was brought to Egypt.
   
 And Potiphar, officer of Pharaoh and chief of the guards and Egyptian, bought him from the Ishmaelites who had brought it there.
   
@@ -82,6 +82,7 @@ And Yahweh made everything he undertook succeed.
   
 e everything he undertook succeed.
   
+
 
 
 

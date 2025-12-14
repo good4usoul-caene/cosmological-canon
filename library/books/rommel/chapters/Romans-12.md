@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CRomans%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Romans%2012.txt)
   
 
 
-﻿1 I urge you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy, acceptable to God.
+ï»¿1 I urge you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy, acceptable to God.
   
 For it is in this way that you can serve God in an appropriate way.
   
@@ -86,6 +86,7 @@ For in doing so, you will heap coals of fire on his head.
   
 y evil, but overcome evil with good.
   
+
 
 
 

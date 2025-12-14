@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CDaniel%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Daniel%207.txt)
   
 
 
-﻿1 In the first year of Belshazzar king of Babylon, Daniel had a dream and there were visions in his head on his bed.
+ï»¿1 In the first year of Belshazzar king of Babylon, Daniel had a dream and there were visions in his head on his bed.
   
 Then he wrote concerning that dream to report its main events.
   
@@ -120,6 +120,7 @@ And I Daniel was greatly troubled by my thoughts, and my countenance was changed
   
 was changed in me, and I kept this thing in my heart.
   
+
 
 
 

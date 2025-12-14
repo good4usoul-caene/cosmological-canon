@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%206.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%206.txt)
   
 
 
-﻿1 And Job answered in the following words.
+ï»¿1 And Job answered in the following words.
   
 2 Oh if it were possible to weigh my pain, and if all my suffering were in a scale.
   
@@ -100,6 +100,7 @@ Does not my mouth feel sorrow.
   
 n my tongue. Does not my mouth feel sorrow.
   
+
 
 
 

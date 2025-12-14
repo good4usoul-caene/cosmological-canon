@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJoshua%2018.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Joshua%2018.txt)
   
 
 
-﻿1 And the whole congregation of the children of Israel met at Shiloh.
+ï»¿1 And the whole congregation of the children of Israel met at Shiloh.
   
 Because it was there that they installed the tent of meeting after the land was submitted to them.
   
@@ -106,6 +106,7 @@ This is the inheritance of the children of Benjamin according to their families.
   
 ldren of Benjamin according to their families.
   
+
 
 
 

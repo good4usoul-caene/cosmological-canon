@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CZechariah%207.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Zechariah%207.txt)
   
 
 
-﻿1 In the fourth year of king Darius, the word of Yahweh came to Zechariah on the fourth day of the ninth month which is the month Chislev.
+ï»¿1 In the fourth year of king Darius, the word of Yahweh came to Zechariah on the fourth day of the ninth month which is the month Chislev.
   
 [Now the house of Yahweh is under construction at that time, since this construction was completed in the sixth year of the reign of king Darius.]
   
@@ -56,6 +56,7 @@ And the land was desolate behind them, and there was no one to come or go there,
   
 become a desolation.
   
+
 
 
 

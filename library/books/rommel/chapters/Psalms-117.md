@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20117.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20117.txt)
   
 
 
-﻿1 Praise Yahweh, you all nations.
+ï»¿1 Praise Yahweh, you all nations.
   
 Praise him, you all peoples.
   
@@ -20,6 +20,7 @@ Praise Yahweh.
   
 eh.
   
+
 
 
 

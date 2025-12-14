@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CProverbs%2013.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Proverbs%2013.txt)
   
 
 
-﻿1 A wise son listens to his father's instruction, but a scorner does not pay attention to reproof.
+ï»¿1 A wise son listens to his father's instruction, but a scorner does not pay attention to reproof.
   
 [And God is the father of all.]
   
@@ -66,6 +66,7 @@ And there is another who acts like a poor despite the fact that he has great pos
   
 ed multiplies his desires.
   
+
 
 
 

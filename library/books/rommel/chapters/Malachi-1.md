@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CMalachi%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Malachi%201.txt)
   
 
 
@@ -86,6 +86,7 @@ For I am a great king, says Yahweh the God of armies, and my name is awesome amo
   
 y name is awesome among the nations.
   
+
 
 
 

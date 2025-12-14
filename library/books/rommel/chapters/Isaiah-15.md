@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2015.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2015.txt)
   
 
 
-﻿1 The prophecy concerning Moab.
+ï»¿1 The prophecy concerning Moab.
   
 The same night when it is ravaged, Ar of Moab is destroyed.
   
@@ -50,6 +50,7 @@ For I will bring more on Dimon, a lion against those of Moab who have escape and
   
 mnant of the land.
   
+
 
 
 

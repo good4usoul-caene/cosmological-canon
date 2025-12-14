@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%201.txt)
   
 
 
-﻿1 Introduction, The principle of the second trinity (Jonah 2 - 2 Samuel 22:20-32).
+ï»¿1 Introduction, The principle of the second trinity (Jonah 2 - 2 Samuel 22:20-32).
   
 2 In order to understand what is the meaning of life.
   
@@ -36,6 +36,7 @@
   
 ah 6:9-10).
   
+
 
 
 

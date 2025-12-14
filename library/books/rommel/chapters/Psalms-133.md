@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%20133.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%20133.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 It is good and pleasant for persons fearing God to work together.
   
@@ -22,6 +22,7 @@ For Yahweh has sent the blessing there, in order to give the life that endures f
   
 ver.
   
+
 
 
 

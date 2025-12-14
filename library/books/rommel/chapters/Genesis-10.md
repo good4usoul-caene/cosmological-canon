@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CGenesis%2010.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Genesis%2010.txt)
   
 
 
-﻿1 Here are the descendants of the sons of Noah, Shem and Ham and Japheth.
+ï»¿1 Here are the descendants of the sons of Noah, Shem and Ham and Japheth.
   
 Sons were born to them after the flood.
   
@@ -92,6 +92,7 @@ And from them came the nations that spread over the earth after the flood.
   
 spread over the earth after the flood.
   
+
 
 
 

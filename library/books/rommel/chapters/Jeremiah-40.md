@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJeremiah%2040.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Jeremiah%2040.txt)
   
 
 
-﻿1 The word that came to Jeremiah from Yahweh, after Nebuzaradan the chief of the guard had sent him away from Ramah, when he had taken Jeremiah from among the captives of Jerusalem and Judah who were bonded in chains to be carried away to Babylon.
+ï»¿1 The word that came to Jeremiah from Yahweh, after Nebuzaradan the chief of the guard had sent him away from Ramah, when he had taken Jeremiah from among the captives of Jerusalem and Judah who were bonded in chains to be carried away to Babylon.
   
 2 The chief of the guard took Jeremiah and said to him: Yahweh your God has pronounced this evil against this place.
   
@@ -72,6 +72,7 @@ Why should all the people of Judah who have gathered around you be scattered, an
   
 ceived by some other people.]
   
+
 
 
 

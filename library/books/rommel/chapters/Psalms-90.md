@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2090.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2090.txt)
   
 
 
-﻿1 A prayer of Moses the man of God.
+ï»¿1 A prayer of Moses the man of God.
   
 Lord, you have been our refuge from generation to generation.
   
@@ -68,6 +68,7 @@ Yes, establish the work of our hands.
   
 lish the work of our hands.
   
+
 
 
 

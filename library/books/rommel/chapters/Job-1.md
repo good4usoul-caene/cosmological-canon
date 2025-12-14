@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%201.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%201.txt)
   
 
 
-﻿1 There was a man in the land of Uz whose name was Job, and this man was righteous and upright.
+ï»¿1 There was a man in the land of Uz whose name was Job, and this man was righteous and upright.
   
 He feared God and turned away from evil.
   
@@ -90,6 +90,7 @@ Blessed be the name of Yahweh.
   
 not attribute anything unjust to God.
   
+
 
 
 

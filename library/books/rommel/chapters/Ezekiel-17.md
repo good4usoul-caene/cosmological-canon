@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%2017.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%2017.txt)
   
 
 
-﻿1 And the word of Yahweh came to me in the following words.
+ï»¿1 And the word of Yahweh came to me in the following words.
   
 2 Son of man, propose a riddle.
   
@@ -108,6 +108,7 @@ I Yahweh have spoken it, and I will do it.
   
 ish. I Yahweh have spoken it, and I will do it.
   
+
 
 
 

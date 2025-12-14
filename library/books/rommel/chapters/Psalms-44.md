@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2044.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2044.txt)
   
 
 
-﻿1 A psalm of the sons of Korah.
+ï»¿1 A psalm of the sons of Korah.
   
 We have heard with our ears, O God.
   
@@ -86,6 +86,7 @@ We will no longer act falsely concerning your covenant.
   
 f death. 20. 21. 22. 23. 24. 25. 26.
   
+
 
 
 

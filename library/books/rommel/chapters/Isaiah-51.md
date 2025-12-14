@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CIsaiah%2051.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Isaiah%2051.txt)
   
 
 
-﻿1 Listen to me, you who pursue righteousness, you who seek Yahweh.
+ï»¿1 Listen to me, you who pursue righteousness, you who seek Yahweh.
   
 Look to the rock from which you have been hewn, and to the hole of the pit from which you have been dug.
   
@@ -124,6 +124,7 @@ You will no longer drink it [as long as you will be my people].
   
 d have been like a street on which they have gone over.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2038.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2038.txt)
   
 
 
-﻿1 And Yahweh answered Job out of the whirlwind in the following words.
+ï»¿1 And Yahweh answered Job out of the whirlwind in the following words.
   
 2 Who is he who obscures my plans by words without knowledge.
   
@@ -122,6 +122,7 @@ Who gave understanding to the mind.
   
 is little ones cry to God and wander for lack of food.
   
+
 
 
 

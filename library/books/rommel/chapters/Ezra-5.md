@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzra%205.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezra%205.txt)
   
 
 
-﻿1 Then the prophet Haggai and the prophet Zechariah the son [grandson] of Iddo prophesied in the name of the God of Israel to the Jews who were in Judah and Jerusalem.
+ï»¿1 Then the prophet Haggai and the prophet Zechariah the son [grandson] of Iddo prophesied in the name of the God of Israel to the Jews who were in Judah and Jerusalem.
   
 2 Then Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak arose and began to build the house of God in Jerusalem.
   
@@ -58,6 +58,7 @@ And may the king make known to us his will concerning this matter.
   
 oncerning this matter.
   
+
 
 
 

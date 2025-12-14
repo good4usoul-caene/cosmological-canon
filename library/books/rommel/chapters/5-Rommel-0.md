@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C5%20Rommel%200.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\5%20Rommel%200.txt)
   
 
 
-﻿1 Introduction, The principle of the second trinity.
+ï»¿1 Introduction, The principle of the second trinity.
   
 2 Overview.
   
@@ -42,6 +42,7 @@
   
 d unexplained.
   
+
 
 
 

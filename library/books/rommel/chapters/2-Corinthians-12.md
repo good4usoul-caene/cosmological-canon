@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Corinthians%2012.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Corinthians%2012.txt)
   
 
 
@@ -82,6 +82,7 @@ For I fear finding quarrels, jealousy, animosities, intrigues, backbiting, whisp
   
 eness in which they have indulged.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2070.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2070.txt)
   
 
 
-﻿1 A psalm of David, to bring to remembrance.
+ï»¿1 A psalm of David, to bring to remembrance.
   
 Make haste to rescue me, O God.
   
@@ -34,6 +34,7 @@ Do not delay, O Yahweh.
   
 O Yahweh.
   
+
 
 
 

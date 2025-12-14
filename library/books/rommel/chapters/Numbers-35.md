@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CNumbers%2035.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Numbers%2035.txt)
   
 
 
-﻿1 And Yahweh spoke to Moses in the plain of Moab near the Jordan opposite Jericho.
+ï»¿1 And Yahweh spoke to Moses in the plain of Moab near the Jordan opposite Jericho.
   
 He spoke in the following words.
   
@@ -112,6 +112,7 @@ For I Yahweh, I dwell among the children of Israel.
   
 r I Yahweh, I dwell among the children of Israel.
   
+
 
 
 

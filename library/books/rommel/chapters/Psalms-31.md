@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CPsalms%2031.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Psalms%2031.txt)
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 I have put my trust in you, O Yahweh.
   
@@ -108,6 +108,7 @@ For Yahweh preserves the faithful, but he punishes the proud severely.
   
 ts be strengthened, you all who hope in Yahweh.
   
+
 
 
 

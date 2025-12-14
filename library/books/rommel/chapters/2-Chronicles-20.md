@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,7 +6,7 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5C2%20Chronicles%2020.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\2%20Chronicles%2020.txt)
   
 
 
@@ -126,7 +126,7 @@ For Yahweh had filled them with joy in saving them from their enemies.
   
 31 And Jehoshaphat reigned over Judah.
   
-​​He was thirty five years old when he began to reign, and he reigned twenty five years in Jerusalem.
+â€‹â€‹He was thirty five years old when he began to reign, and he reigned twenty five years in Jerusalem.
   
 His mother's name was Azubah the daughter of Shilhi.
   
@@ -148,6 +148,7 @@ And the ships were broken, so that Jehoshaphat and Ahaziah were not able to send
   
 hat Jehoshaphat and Ahaziah were not able to send them to Tarshish.
   
+
 
 
 

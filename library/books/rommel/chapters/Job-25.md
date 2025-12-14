@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CJob%2025.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Job%2025.txt)
   
 
 
-﻿1 Then Bildad the Shuhite spoke in the following words.
+ï»¿1 Then Bildad the Shuhite spoke in the following words.
   
 2 Power and terror belong to God.
   
@@ -30,6 +30,7 @@ How can he who is born of a woman be pure.
   
 a worm.
   
+
 
 
 

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -6,11 +6,11 @@
   
 <!-- navigation end -->
   
-[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files%5CEzekiel%202.txt)
+[Backup text file in The-Most-Holy-Bible-text-files](The-Most-Holy-Bible-text-files\Ezekiel%202.txt)
   
 
 
-﻿1 And he said to me: Son of man, stand on your feet and I will speak to you.
+ï»¿1 And he said to me: Son of man, stand on your feet and I will speak to you.
   
 2 And when he spoke these words to me, the spirit entered into me and set me on my feet.
   
@@ -50,6 +50,7 @@ And there were written lamentations, and mourning, and woe.
   
 mourning, and woe.
   
+
 
 
 
