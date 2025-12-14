@@ -1,5 +1,9 @@
-
 ---
+<!--description: Consolidated instructions for GitHub Copilot 
+agents working within the Temple framework - 
+guiding artificial scribes in proper Temple protocols, 
+directory usage, and promotion workflows
+applyTo: "*"-->
 Repository-Target: /.github/copilot-instructions.md
 Ultimate-Target-Directory: /.github/
 Version: v0.2.0
@@ -9,6 +13,7 @@ Date: 2025-11-09T19:37:20Z
 Genre: repository-guidance
 Change-Note: Removing /pasture/ type directories.  Adding rule to acknowledge sources besides copilot agent.
 Change-Magnitude: major
+Agent-Writable: SHAIBR
 Ritual-Note: "Train up a child in the way he should go" (Proverbs 22:6)
 Space: repository
 Promotion-Ready-Agent: TBD
