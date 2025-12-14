@@ -1,5 +1,4 @@
 ---
----
 Echo-Filepath: none
 Local-Filepath: policies/spirits.md
 Repository-Source: none
