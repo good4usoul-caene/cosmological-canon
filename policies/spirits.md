@@ -14,7 +14,7 @@ Prev-Version: none
 Author: Jonathan Doolin
 Date: 2025-12-14
 Genre: policy
-Change-Note: Applied full SHAIBR-compliant YAML front-matter header; ready for repository promotion
+Change-Note: "Applied full SHAIBR-compliant YAML front-matter header; ready for repository promotion"
 RitualNote: Naming a stance is an act of clarity: it records what we asked of our scribe, what kind of guidance was primary, and where responsibility for verification lies.
 RitualNoteKey: spirits-header-clarity
 Promotion-Ready-Agent: yes
