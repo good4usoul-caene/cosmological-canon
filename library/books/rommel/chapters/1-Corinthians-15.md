@@ -184,3 +184,6 @@ O death, where is your sting.
   
 , knowing that your labor is not in vain in the Lord [because there is an afterlife].
   
+
+
+

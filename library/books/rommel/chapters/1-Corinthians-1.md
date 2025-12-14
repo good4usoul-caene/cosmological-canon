@@ -100,3 +100,6 @@ God has chosen the weak things of the world to confound the strong things.
   
 ne who glorifies himself glory in the Lord.
   
+
+
+

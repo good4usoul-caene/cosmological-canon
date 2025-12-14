@@ -114,3 +114,6 @@ So you will be a sign for them, and they will know that I am Yahweh.
   
 ign for them, and they will know that I am Yahweh.
   
+
+
+

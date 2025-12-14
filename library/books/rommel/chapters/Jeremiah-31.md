@@ -178,3 +178,6 @@ His name is Yahweh the God of armies.
   
 ole seed of Israel because of all that they have done, says Yahweh. 38 . 39 . 40 .
   
+
+
+

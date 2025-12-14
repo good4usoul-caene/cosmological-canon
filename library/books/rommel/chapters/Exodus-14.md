@@ -118,3 +118,6 @@ And the people feared Yahweh, and believed in Yahweh and in Moses his servant.
   
 eh, and believed in Yahweh and in Moses his servant.
   
+
+
+

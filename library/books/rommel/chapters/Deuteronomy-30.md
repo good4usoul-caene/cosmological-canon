@@ -64,3 +64,6 @@ So that you may dwell in the land that Yahweh swore to your fathers Abraham and 
   
 c and Jacob to give them.
   
+
+
+

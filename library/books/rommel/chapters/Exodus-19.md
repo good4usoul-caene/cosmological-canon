@@ -96,3 +96,6 @@ But let not the priests and the people rush up to Yahweh, lest he destroy them.
   
 to the people and told them these things.
   
+
+
+

@@ -140,9 +140,12 @@ And before the messenger had come to him, Elisha had said to the elders: See now
   
 Be on your guard and when the messenger comes, close the door and push him away with the door.
   
-Is not the sound of his masterâ€™s feet heard behind him.
+Is not the sound of his master's feet heard behind him.
   
 33 And while he was still talking with them, the messenger came down to him and said: [Thus has spoken the king] Behold this evil is from Yahweh, therefore why should I wait for Yahweh any longer.
   
 is from Yahweh, therefore why should I wait for Yahweh any longer.
   
+
+
+

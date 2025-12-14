@@ -84,3 +84,6 @@ I Yahweh, I have spoken it.
   
 on you. I Yahweh, I have spoken it.
   
+
+
+

@@ -76,3 +76,6 @@ And the priest will make atonement for him for the sin that he has committed thr
   
 ssion committed against Yahweh.
   
+
+
+

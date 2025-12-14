@@ -106,3 +106,6 @@ I will punish the land of the Chaldeans, and I will make it a perpetual desolati
   
 . 30 . 31 . 32 . 33 . 34 . 35 . 36 . 37 . 38 .
   
+
+
+

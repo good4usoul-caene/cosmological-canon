@@ -22,7 +22,7 @@ And this contribution is exactly the form of our heavenly body.
   
 5 However, at best one imagines a density of presence of such person in such accessible reality but this definition of eternal life does not allow the scientist to carry out a hierarchy of responsibilities so as to be able to clarify the religious notions of hell and heaven.
   
-6 In other words, to be saved directly or to be saved only through fire (eventually by undergoing a progressive eradication of oneâ€™s presence in eternal life to leave at most a disgusting memory - Deuteronomy 29:20 - John 6:47-50,51-58 - Numbers 14:21-23,27-32 - Luke 20:34-38).
+6 In other words, to be saved directly or to be saved only through fire (eventually by undergoing a progressive eradication of one's presence in eternal life to leave at most a disgusting memory - Deuteronomy 29:20 - John 6:47-50,51-58 - Numbers 14:21-23,27-32 - Luke 20:34-38).
   
 7 A different analysis helps to understand this classification.
   
@@ -66,15 +66,18 @@ It is the deep conviction of being well-intentioned in relation to arbitrarily c
   
 21 Or without having ourselves forgiven those who have offended us, but forgiveness does not mean forgetting and ignoring it by not taking appropriate precautions at a later stage (1 Corinthians 5:9-13).
   
-Davidâ€™s sin was forgiven but he still received a punishment (2 Samuel 12:10-14).
+David's sin was forgiven but he still received a punishment (2 Samuel 12:10-14).
   
-22 The acquisition of the holy spirit makes a person a new creature through the concerns that now constitute oneâ€™s motivations (2 Corinthians 6:14-18 - Colossians 3:1-11 - Philippians 4:8-9).
+22 The acquisition of the holy spirit makes a person a new creature through the concerns that now constitute one's motivations (2 Corinthians 6:14-18 - Colossians 3:1-11 - Philippians 4:8-9).
   
 23 Not everyone is destined for eternal life (1 John 2:19-20) since one is led to eternal shame by blasphemy against the holy spirit, when one commits any sin after acquiring a perfect knowledge of this notion.
   
-24 Our actions always depend on the totality of the information that is at our disposal in real time and it is only works carried out under the influence of the holy spirit (3 Rommel 1:16-17) that are strengthened (2 Chronicles 20:34-37 â€“ 25:5-10 - Psalms 101 - 133 - Proverbs 31:1-9 - Jeremiah 45 - Ecclesiastes 3:14 - Malachi 1:1-5), possibly in the form of an accumulated experience (Jeremiah 36), so as to endure eternally by their admirable consequences (1 Rommel 3:30-32 - 2 Chronicles 9:7-8 - John 17:1-3 - Ephesians 1:15-19,20-23).
+24 Our actions always depend on the totality of the information that is at our disposal in real time and it is only works carried out under the influence of the holy spirit (3 Rommel 1:16-17) that are strengthened (2 Chronicles 20:34-37 â€" 25:5-10 - Psalms 101 - 133 - Proverbs 31:1-9 - Jeremiah 45 - Ecclesiastes 3:14 - Malachi 1:1-5), possibly in the form of an accumulated experience (Jeremiah 36), so as to endure eternally by their admirable consequences (1 Rommel 3:30-32 - 2 Chronicles 9:7-8 - John 17:1-3 - Ephesians 1:15-19,20-23).
   
 25 In eternal life innovations shine as stars and imitations shine as the splendor of sky, God having prepared for each elect an original achievement likely to be indefinitely imitated by those who know about it (2 Kings 7:1-9 - John 14:1-2).
   
 t (2 Kings 7:1-9 - John 14:1-2).
   
+
+
+

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 Then the king sent, and gathered all the elders of Judah and of Jerusalem to him.
+ï»¿1 Then the king sent, and gathered all the elders of Judah and of Jerusalem to him.
   
 2 And the king went up to the temple of Yahweh with all the men of Judah and all the inhabitants of Jerusalem, and with the priests and the prophets, and with all the people from the least to the greatest.
   
@@ -122,3 +122,11 @@ His mother's name was Zebudah the daughter of Pedaiah of Rumah.
   
 of Yahweh, according to all that his fathers had done.
   
+
+
+
+
+
+
+
+

@@ -174,3 +174,6 @@ Therefore concerning the things that I speak, as the Father has taught it me, so
   
 concerning the things that I speak, as the Father has taught it me, so I speak.
   
+
+
+

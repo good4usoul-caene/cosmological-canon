@@ -80,3 +80,6 @@ It is when you say, 'Everyone who does evil is good in the sight of Yahweh, and 
   
 e God of the concept of justice'.
   
+
+
+

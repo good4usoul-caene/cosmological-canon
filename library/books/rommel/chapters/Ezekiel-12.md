@@ -116,3 +116,6 @@ The word that I speak will be accomplished, says the Lord Yahweh.
   
 I speak will be accomplished, says the Lord Yahweh.
   
+
+
+

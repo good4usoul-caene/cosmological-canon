@@ -102,3 +102,6 @@ When the enemy comes like a flood, the spirit of Yahweh will chase him away.
   
 d, says Yahweh, from henceforth and forever.
   
+
+
+

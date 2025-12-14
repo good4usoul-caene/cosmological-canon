@@ -12,11 +12,11 @@
 
 ﻿1 The Father and the Son and the holy spirit (John 1:17 - 10:30), second part: Intrinsic nature of embodied heavenly bodies.
   
-2 Human beings are incarnations of abstract concepts therefore each one always acts according to oneâ€™s nature but the complexity and subtleties of the different contexts can can highlight contrasts (2 Kings 21:1-16 - 2 Chronicles 33:10-17).
+2 Human beings are incarnations of abstract concepts therefore each one always acts according to one's nature but the complexity and subtleties of the different contexts can can highlight contrasts (2 Kings 21:1-16 - 2 Chronicles 33:10-17).
   
 3 By definition, to be born by being indwelled by the holy spirit so as to be physically sinless (Romans 6:22-23 - 1 Timothy 3:16-17 - Luke 24:1-5), one must be an incarnation of Christ or a reincarnation of a spirit who has already had knowledge of the purpose of life after necessarily offending the holy spirit.
   
-4 So if Jesus of Nazareth who teaches the exact knowledge of God paid a compliment following what is clearly an offense to the holy spirit (John 1:45-47 - Genesis 18:9-15) as Jonathan David Doolin pointed out to me, Jesus having the ability to see beyond physical appearance as he sees things happening at a distance (John 1:48-50), it is to teach that an ordinary person cannot be without sin and that one is a child of Israel by training oneâ€™s mind in holiness (1 Kings 15:5 - 1 Rommel 3:20).
+4 So if Jesus of Nazareth who teaches the exact knowledge of God paid a compliment following what is clearly an offense to the holy spirit (John 1:45-47 - Genesis 18:9-15) as Jonathan David Doolin pointed out to me, Jesus having the ability to see beyond physical appearance as he sees things happening at a distance (John 1:48-50), it is to teach that an ordinary person cannot be without sin and that one is a child of Israel by training one's mind in holiness (1 Kings 15:5 - 1 Rommel 3:20).
   
 5 Balaam who was not a member of the tribes of Israel had the gift of cursing and blessing (Numbers 22:5-6,10-12 - 23:8-10) but not being Jesus Christ he committed sins.
   
@@ -46,3 +46,6 @@
   
 2 Kings 2:7-10).
   
+
+
+

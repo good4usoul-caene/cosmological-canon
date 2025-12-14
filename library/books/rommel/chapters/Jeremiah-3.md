@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 Yahweh says: If a man divorces his wife [because of a sincere disagreement between the two of them] and she leaves him, and if she becomes the wife of another man, should her first husband take her back after that.
+ï»¿1 Yahweh says: If a man divorces his wife [because of a sincere disagreement between the two of them] and she leaves him, and if she becomes the wife of another man, should her first husband take her back after that.
   
 Will not the land itself be polluted by such practices.
   
@@ -26,7 +26,7 @@ You have sat down to wait for them from place to place like an Arabian in the wi
   
 3 Therefore the rains have been withheld, and there was no latter rain.
   
-Nevertheless you have had the forehead of a whore, for you have refused to be ashamed.
+Nevertheless You have had the forehead of a whore, for you have refused to be ashamed.
   
 4 And now you [the whole nation] cry to me by saying: You are my father, for you were the guide of my youth [that is to say, the guide of our ancestors].
   
@@ -100,3 +100,8 @@ It will not come into the mind, and it will not be remembered, and the need of i
   
 7 . 18 . 19 . 20 . 21 . 22 . 23 . 24 . 25 .
   
+
+
+
+
+

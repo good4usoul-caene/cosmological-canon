@@ -142,3 +142,6 @@ Thus they were numbered from the tribe of Levi, as Yahweh commanded Moses.
   
 were numbered from the tribe of Levi, as Yahweh commanded Moses.
   
+
+
+

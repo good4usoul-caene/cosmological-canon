@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 I saw the Lord standing on the altar, and he said: Smite the tops of the columns and shake them to the ground.
+ï»¿1 I saw the Lord standing on the altar, and he said: Smite the tops of the columns and shake them to the ground.
   
 Cause them to fall in pieces on the heads of everyone.
   
@@ -72,3 +72,8 @@ And the mountains will drop sweet wine, and all the hills will melt.
   
 n them, says Yahweh your God.
   
+
+
+
+
+

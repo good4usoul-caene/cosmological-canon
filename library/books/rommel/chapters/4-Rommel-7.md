@@ -106,11 +106,11 @@ Jesus has come into the world in order to teach all peoples the exact knowledge 
   
 Because identical words are used to designate things having a certain connection and then the exact meaning depends on the context.
   
-21 After Moses who knew God face to face (Exodus 33:7-11 - Deuteronomy 34:9-12), Ezekiel is said to have been the only prophet who gave new laws for the people (Ezekiel 40â€“48).
+21 After Moses who knew God face to face (Exodus 33:7-11 - Deuteronomy 34:9-12), Ezekiel is said to have been the only prophet who gave new laws for the people (Ezekiel 40â€"48).
   
 22 And these laws contradict the architectural teachings of Moses concerning the structure of the temple which is the place of worship (Exodus 26:1-15 - Ezekiel 44:1-2 - 48:29-35 - John 4:22).
   
-23 And also concerning the quantities of sacrifices that must be offered to Yahweh alone (Ezekiel 45â€“46 - Numbers 28â€“29 - 4 Rommel 13), the obligatory part of burnt offerings [and burnt offerings are not eaten].
+23 And also concerning the quantities of sacrifices that must be offered to Yahweh alone (Ezekiel 45â€"46 - Numbers 28â€"29 - 4 Rommel 13), the obligatory part of burnt offerings [and burnt offerings are not eaten].
   
 But the laws concerning the offerings that are eaten have not been changed (Leviticus 2:1-16 - 3:1-17 - 7:1-10 - 1 Samuel 2:12-17,27-29 - Ezekiel 44:15-16).
   
@@ -122,13 +122,13 @@ But the laws concerning the offerings that are eaten have not been changed (Levi
   
 27 God insists that there be no mixing between the heritages of the different paternal tribes of Israel (Numbers 36 - Ezekiel 46:16-18 - 48:1-29) this is why we must find the lost tribes and identify their paternal tribes (Jeremiah 23:5-8).
   
-28 Some of Godâ€™s people were scattered several centuries ago among the nations (2 Kings 17:1-23 - 1 Chronicles 5:10,18-26) but honesty and integrity is our motto, they will be found and gathered together in the promised land whose limits we know (Ezekiel 47:13-23).
+28 Some of God's people were scattered several centuries ago among the nations (2 Kings 17:1-23 - 1 Chronicles 5:10,18-26) but honesty and integrity is our motto, they will be found and gathered together in the promised land whose limits we know (Ezekiel 47:13-23).
   
 And we know all this because it is written in the Bible.
   
 29 And the scattered tribes did not return from exile at the same time as the tribe of Judah when the second temple was built after the destruction of that of Solomon, we are certain of it (2 Kings 25:1-22 - Jeremiah 3:1-16 - 30:1-24 - Ezekiel 20:27-44 - 34:11-24 - 37:21-28 - 3 Rommel 2:18).
   
-30 In the incomprehensible nature of their love for God or rather of the promises they hope to fulfill (Zechariah 14:16-21), it would not be surprising if they had a dubious interpretation of Davidâ€™s words (Psalms 139:21-24) and try to apply this biblical passage to those who suggest them not to seek to identify their brothers and sisters on the face of the earth (Exodus 22:31 - Deuteronomy 14:21 - 23:19-20 - Galatians 3:22 - John 9:39-41).
+30 In the incomprehensible nature of their love for God or rather of the promises they hope to fulfill (Zechariah 14:16-21), it would not be surprising if they had a dubious interpretation of David's words (Psalms 139:21-24) and try to apply this biblical passage to those who suggest them not to seek to identify their brothers and sisters on the face of the earth (Exodus 22:31 - Deuteronomy 14:21 - 23:19-20 - Galatians 3:22 - John 9:39-41).
   
 31 Because the final teaching is that we are all brothers and sisters, whether one is a master or a slave (Acts 10:24-43).
   
@@ -138,3 +138,6 @@ And we know all this because it is written in the Bible.
   
 ions 3:21-41 - Ecclesiastes 11:9-10 - 12:1-7 - 1 Peter 5:6-9).
   
+
+
+

@@ -90,7 +90,7 @@ Then you will replied: Your servant Uriah the Hittite is also dead.
   
 23 And the messenger said to David: The enemies came out and attacked us in the fields, but we pursued them to the entrance of the gate.
   
-24 And the archers shot at your servants from the top of the wall, and some of the kingâ€™s servants are dead, and your servant Uriah the Hittite is also dead.
+24 And the archers shot at your servants from the top of the wall, and some of the king's servants are dead, and your servant Uriah the Hittite is also dead.
   
 25 Then David said to the messenger, You will speak thus to Joab: Do not be grieved because of this thing, for the sword devours sometimes one and sometimes another.
   
@@ -108,3 +108,6 @@ But the thing that David had done displeased Yahweh.
   
 he thing that David had done displeased Yahweh.
   
+
+
+

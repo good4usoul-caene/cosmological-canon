@@ -118,3 +118,6 @@ This is why the name of this place has been called The valley of Achor, from tha
   
 ed The valley of Achor, from that event to this day.
   
+
+
+

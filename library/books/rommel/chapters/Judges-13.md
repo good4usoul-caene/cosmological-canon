@@ -100,3 +100,6 @@ And the child grew, and Yahweh blessed him.
   
 the land of Dan, between Zorah and Eshtaol.
   
+
+
+

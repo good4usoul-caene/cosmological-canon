@@ -76,3 +76,6 @@ You will thus also accept burnt offerings and whole burnt offerings [when the vi
   
 l offer bullocks on your altar.
   
+
+
+

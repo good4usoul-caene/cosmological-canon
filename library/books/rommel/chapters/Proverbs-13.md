@@ -66,3 +66,6 @@ And there is another who acts like a poor despite the fact that he has great pos
   
 ed multiplies his desires.
   
+
+
+

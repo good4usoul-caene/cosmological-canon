@@ -114,3 +114,6 @@ For none of his descendants will succeed in sitting on the throne of David to ru
   
 sitting on the throne of David to rule over Judah.
   
+
+
+

@@ -40,7 +40,7 @@ And Esther who was one of them was also brought into the king's house [the house
   
 9 And the girl pleased to Hegai, and she found favor in his sight.
   
-Therefore he caused the things for her purification to be given to her quickly, with her portions, and seven young girls of the kingâ€™s house who were worthy to be given to her as servants.
+Therefore he caused the things for her purification to be given to her quickly, with her portions, and seven young girls of the king's house who were worthy to be given to her as servants.
   
 And he placed her and her handmaids in the best part of the house of the women.
   
@@ -90,7 +90,7 @@ And he caused work to cease in the provinces of his kingdom for the period of th
   
 For Esther did according to the word of Mordecai, as when she was fed by him.
   
-21 And in those days when Mordecai was sitting at the king's gate, there were two of the kingâ€™s eunuchs who were angry and were plotting to lay their hands on the king Ahasuerus.
+21 And in those days when Mordecai was sitting at the king's gate, there were two of the king's eunuchs who were angry and were plotting to lay their hands on the king Ahasuerus.
   
 Their names were Bigthan and Teresh, and they were of those who kept the threshold.
   
@@ -102,3 +102,6 @@ And she told it to the king and specified that this information came from Mordec
   
 the book of the Chronicles before the king.
   
+
+
+

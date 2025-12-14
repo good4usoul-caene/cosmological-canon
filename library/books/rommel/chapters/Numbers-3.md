@@ -150,3 +150,6 @@ One shekel is equal to twenty gerahs.
   
 his sons according to the word of Yahweh, as Yahweh commanded Moses.
   
+
+
+

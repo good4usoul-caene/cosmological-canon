@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -54,7 +54,7 @@ But I have chosen David to reign [with a perpetual legacy] over my people Israel
   
 18 But Yahweh said to David my father: Since it is in your heart to build a house for my name, you have done well to have this intention.
   
-19 Nevertheless you will not build the house, but it is your son who will come out of your loins who will build the house for my name.
+19 Nevertheless You will not build the house, but it is your son who will come out of your loins who will build the house for my name.
   
 20 And now Yahweh has fulfilled his word that he had spoken.
   
@@ -198,3 +198,8 @@ And they blessed the king and went to their tents joyfully and with happy hearts
   
 se of all the goodness that Yahweh had done for David his servant and for Israel his people.
   
+
+
+
+
+

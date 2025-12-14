@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 A psalm of David.
+ï»¿1 A psalm of David.
   
 My God, my God, why have you forsaken me.
   
@@ -18,7 +18,7 @@ Why are you far from helping me, and not listening to the words of my groaning.
   
 2 O my God, I cry in the daytime and I am not silent in the night, but you do not answer.
   
-3 Nevertheless you are the holy one, and you inhabit the praises of Israel.
+3 Nevertheless You are the holy one, and you inhabit the praises of Israel.
   
 4 Our fathers trusted in you.
   
@@ -36,7 +36,7 @@ People make fun of me and despise me.
   
 They open their mouths and shake their heads.
   
-8 â€‹â€‹And they say: Call on Yahweh, and he will save you.
+8 Ã¢â‚¬â€¹Ã¢â‚¬â€¹And they say: Call on Yahweh, and he will save you.
   
 He will rescue you because he loves you.
   
@@ -118,3 +118,8 @@ All those who go down to the dust will bow before him, each of those who cannot 
   
 born, they will proclaim the work that he has done.
   
+
+
+
+
+

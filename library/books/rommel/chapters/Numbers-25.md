@@ -56,3 +56,6 @@ He was a prince of the family of the Simeonites.
   
 f the matter of Peor.
   
+
+
+

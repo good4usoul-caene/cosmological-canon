@@ -186,3 +186,6 @@ And Ahab rode in his chariot and went back to Jezreel.
   
 on Elijah, and he girded up his waist and ran ahead of Ahab until he came to Jezreel.
   
+
+
+

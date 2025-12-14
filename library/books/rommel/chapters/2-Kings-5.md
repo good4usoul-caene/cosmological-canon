@@ -118,3 +118,6 @@ And then Gehazi went out from the presence of Elisha with a leprosy as white as 
   
 presence of Elisha with a leprosy as white as snow.
   
+
+
+

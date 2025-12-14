@@ -74,7 +74,7 @@ May Yahweh be with you as he has been with my father previously.
   
 15 But I ask you to never withdraw your kindness towards my house, even when Yahweh will have destroyed all the enemies of David from the earth.
   
-16 So Jonathan made a covenant with the house of David by saying, May Yahweh demand it from the hands of David’s enemies.
+16 So Jonathan made a covenant with the house of David by saying, May Yahweh demand it from the hands of David's enemies.
   
 17 And Jonathan swore to David once more, because he loved him.
   
@@ -174,3 +174,6 @@ And David get up and departed, and Jonathan returned into the city.
   
 ed, forever. And David get up and departed, and Jonathan returned into the city.
   
+
+
+

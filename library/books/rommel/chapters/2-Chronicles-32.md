@@ -122,3 +122,6 @@ And Manasseh his son reigned in his stead.
   
 his death. And Manasseh his son reigned in his stead.
   
+
+
+

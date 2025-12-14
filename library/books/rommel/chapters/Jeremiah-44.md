@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 The following word came to Jeremiah concerning all the Jews who dwelt in the land of Egypt, those who dwelt at Migdol, and at Tahpanhes, and at Noph, and in the land of Pathros.
+ï»¿1 The following word came to Jeremiah concerning all the Jews who dwelt in the land of Egypt, those who dwelt at Migdol, and at Tahpanhes, and at Noph, and in the land of Pathros.
   
 2 Thus says Yahweh the God of armies, the God of Israel: You have seen all the evil that I have brought on Jerusalem and on all the cities of Judah.
   
@@ -116,3 +116,8 @@ And you will know that my words will surely stand against you to harm you.
   
 zzar king of Babylon his enemy who sought his life.
   
+
+
+
+
+

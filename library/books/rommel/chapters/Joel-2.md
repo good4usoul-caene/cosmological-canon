@@ -138,3 +138,6 @@ Salvation will originate on mount Zion and in Jerusalem, as Yahweh has said, amo
   
 , as Yahweh has said, among the remnant whom Yahweh will call.
   
+
+
+

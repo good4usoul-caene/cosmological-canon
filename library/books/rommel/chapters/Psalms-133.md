@@ -22,3 +22,6 @@ For Yahweh has sent the blessing there, in order to give the life that endures f
   
 ver.
   
+
+
+

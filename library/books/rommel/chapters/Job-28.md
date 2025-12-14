@@ -76,3 +76,6 @@ He prepared it and considered it also.
   
 way from evil is understanding.
   
+
+
+

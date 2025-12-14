@@ -86,3 +86,6 @@ And he says: You have devoured the vineyard, and the spoil that you have taken f
   
 desolate and will sit on the ground.
   
+
+
+

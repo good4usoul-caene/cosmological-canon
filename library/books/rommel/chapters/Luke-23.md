@@ -160,3 +160,6 @@ And they rested on the sabbath day, according to the commandment of the law [giv
   
 ding to the commandment of the law [given by Moses who was a man of God].
   
+
+
+

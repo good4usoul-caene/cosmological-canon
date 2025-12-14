@@ -118,3 +118,6 @@ This is why he took them away to kill them in the wilderness.
   
 pt by your great power and by your outstretched arm.
   
+
+
+

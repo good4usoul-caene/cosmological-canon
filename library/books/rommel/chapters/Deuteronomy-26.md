@@ -66,3 +66,6 @@ And so that you should be a people holy to Yahweh your God, as he has said.
   
 your God, as he has said.
   
+
+
+

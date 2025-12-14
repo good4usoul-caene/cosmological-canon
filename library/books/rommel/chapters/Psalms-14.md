@@ -40,3 +40,6 @@ When Yahweh turns the captivity of his people, then Jacob will rejoice and Israe
   
 will be glad.
   
+
+
+

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 Nevertheless you are inexcusable, O man, whoever you are who judge those persons.
+ï»¿1 Nevertheless You are inexcusable, O man, whoever you are who judge those persons.
   
 For in judging others you condemn yourself, because you who judge do the same things.
   
@@ -114,3 +114,8 @@ The praise of such a person does not come from men, but from God.
   
 uch a person does not come from men, but from God.
   
+
+
+
+
+

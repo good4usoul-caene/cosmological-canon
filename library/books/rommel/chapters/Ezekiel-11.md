@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 Then the spirit lifted me up and brought me to the east gate of the temple of Yahweh, the gate that faces the east.
+ï»¿1 Then the spirit lifted me up and brought me to the east gate of the temple of Yahweh, the gate that faces the east.
   
 And behold, there were twenty five men at the entrance of the gate.
   
@@ -26,7 +26,7 @@ The city is the cauldron, and we are the meat.
   
 The destruction announced by Jeremiah the prophet of Yahweh will not take place.
   
-And this city prepares us for the wonderful life we â€‹â€‹will have after the death of our physical bodies.]
+And this city prepares us for the wonderful life we Ã¢â‚¬â€¹Ã¢â‚¬â€¹will have after the death of our physical bodies.]
   
 4 Therefore prophesy against them.
   
@@ -66,7 +66,7 @@ Then I fell on my face and cried with a loud voice by saying: Ah Lord Yahweh, wi
   
 [That is to say, some of the inhabitants of Jerusalem have incited the others not to worry about the announcement of the destruction of the city that has been proclaimed by Jeremiah the prophet of Yahweh.]
   
-16 Therefore say the following thing, Thus says the Lord Yahweh: Although I have thrown them far off among the nations, and scattered them among the countries, nevertheless I will be like a little sanctuary for them in the countries they will be.
+16 Therefore say the following thing, Thus says the Lord Yahweh: Although I have thrown them far off among the nations, and scattered them among the countries, Nevertheless I will be like a little sanctuary for them in the countries they will be.
   
 17 Therefore say the following thing, Thus says the Lord Yahweh: I will gather you from the peoples, and assemble you from the countries where you have been scattered, and I will give you the land of Israel.
   
@@ -94,3 +94,8 @@ And the vision that I had seen vanished from me.
   
 e things that Yahweh had revealed to me.
   
+
+
+
+
+

@@ -92,3 +92,6 @@ And Yahweh was with him, and let none of his words fall to the ground.
   
 Samuel in Shiloh by the word of Yahweh.
   
+
+
+

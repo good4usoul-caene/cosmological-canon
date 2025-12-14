@@ -122,3 +122,6 @@ And the servant went, and Samuel said again: Listen now, and I will give you the
   
 gain: Listen now, and I will give you the word of God.
   
+
+
+

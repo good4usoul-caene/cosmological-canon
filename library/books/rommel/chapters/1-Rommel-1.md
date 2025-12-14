@@ -238,3 +238,6 @@ And the understanding of how to behave in order to practice the holy commandment
   
 blical accounts (Ephesians 2:20-22 - 4 Rommel 4:8).] 39 All this justifies the need for a revision of the Bible.
   
+
+
+

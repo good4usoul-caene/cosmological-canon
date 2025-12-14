@@ -84,3 +84,6 @@ Four hundred shekels of silver, money among the merchant.
   
 acquired from the children of Heth.
   
+
+
+

@@ -104,3 +104,6 @@ And there were thick planks on the forefront of the porch outside.
   
 the rooms around the house, and thick planks.
   
+
+
+

@@ -70,3 +70,6 @@ Exact from him a pledge, because of the stranger.
   
 im. 23 . 24 . 25 . 26 . 27 .
   
+
+
+

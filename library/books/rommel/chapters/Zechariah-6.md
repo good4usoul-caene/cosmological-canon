@@ -52,3 +52,6 @@ This will happen if you obey the voice of Yahweh your God.
   
 of Yahweh your God.
   
+
+
+

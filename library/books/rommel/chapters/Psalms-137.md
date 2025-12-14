@@ -26,7 +26,7 @@ Our enemies asked us to entertain them by saying: Sing us some of the songs of Z
   
 7 Remember the children of Edom, O Yahweh.
   
-For in the day of Jerusalemâ€™s misfortune, they were saying: Raze it, raze it to its foundations.
+For in the day of Jerusalem's misfortune, they were saying: Raze it, raze it to its foundations.
   
 8 O Daughter of Babylon who deserves to be destroyed, we bless the one who will repay you for the evil that you have done to us.
   
@@ -34,3 +34,6 @@ For in the day of Jerusalemâ€™s misfortune, they were saying: Raze it, raze
   
 he stones.
   
+
+
+

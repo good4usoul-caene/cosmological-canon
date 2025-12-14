@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 And the word of Yahweh came to me in the following words.
+ï»¿1 And the word of Yahweh came to me in the following words.
   
 2 Son of man, cause Jerusalem to know her abominations.
   
@@ -86,7 +86,7 @@ This is what has happened, says the Lord Yahweh.
   
 21 Was your whoredom a small matter.
   
-And nevertheless you have slaughtered my children and cause them to pass through the fire in order to honor your lovers.
+And Nevertheless You have slaughtered my children and cause them to pass through the fire in order to honor your lovers.
   
 22 And in all your abominations and your whoredoms you have not remembered the days of your youth, when you were naked, entirely naked, and were wallowing in your blood.
   
@@ -226,3 +226,8 @@ And you will never open your mouth again because of your shame, when I will have
   
 of your shame, when I will have forgiven you for all the things that you have done, says the Lord Yahweh.
   
+
+
+
+
+

@@ -40,7 +40,7 @@ It is for this hope that I am accused by the Jews, O king.
   
 Paul knows that there exists a unique eternal life where there is no distinction between Jews and non-Jews, and where Jesus is currently located.
   
-No one in those days knows the exact definition of this eternal life which some disciples of Jesus imagined to be a place where Jews are separated from non-Jews, but they know that the only way to access it is to love oneâ€™s neighbor as oneself.
+No one in those days knows the exact definition of this eternal life which some disciples of Jesus imagined to be a place where Jews are separated from non-Jews, but they know that the only way to access it is to love one's neighbor as oneself.
   
 One must want the good of others in all the things that are done, and nothing should be done in a publicly unjustifiable way.
   
@@ -122,3 +122,6 @@ I know that you believe.
   
 have been released, if he had not appealed to Caesar.
   
+
+
+

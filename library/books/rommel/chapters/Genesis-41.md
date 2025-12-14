@@ -196,3 +196,6 @@ For the famine was increasing in the land of Egypt.
   
 they came to Egypt to buy grain from Joseph, because the famine was great in all countries.
   
+
+
+

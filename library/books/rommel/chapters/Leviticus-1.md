@@ -64,3 +64,6 @@ For it is a burnt offering, an offering made by fire for a pleasant smell to Yah
   
 pleasant smell to Yahweh.
   
+
+
+

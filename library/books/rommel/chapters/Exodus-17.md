@@ -70,3 +70,6 @@ And declare to Joshua that I will blot out the memory of Amalek from under heave
   
 om generation to generation.
   
+
+
+

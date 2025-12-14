@@ -16,7 +16,7 @@
   
 She will be unclean as at the time of her menstrual indisposition.
   
-3 And on the eighth day the childâ€™s foreskin will be circumcised.
+3 And on the eighth day the child's foreskin will be circumcised.
   
 4 And she will stay another thirty three days to purify herself of her blood.
   
@@ -44,3 +44,6 @@ And the priest will make an atonement for her, and she will be clean.
   
 will be clean.
   
+
+
+

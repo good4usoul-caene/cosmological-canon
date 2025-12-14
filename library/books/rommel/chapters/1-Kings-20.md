@@ -178,3 +178,6 @@ And the king of Israel said to the prophet: Thus will be your judgment, for you 
   
 f Israel went to his house while being sad and worried, and he arrived in Samaria.
   
+
+
+

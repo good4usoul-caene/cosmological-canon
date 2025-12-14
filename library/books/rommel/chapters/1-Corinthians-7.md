@@ -50,7 +50,7 @@ And let not the husband divorce his wife.
   
 [Now Paul says this thing because of how he defines a person who is a believer.
   
-To be a believer according to the definition of Paul, one must believe that Jesus died for the sins of mankind and was raised from the dead so that we know that we will be justified by imitating his behavior, and that one must seek to obey the vague holy commandment which simply says to love one’s neighbor as oneself, in order to access an eternal life of which even Paul is unaware of the exact definition even if he has a good spiritual understanding of it and knows that Jesus is currently there at the right hand of the Father, and that there is no other God in the world except the God of Jesus.
+To be a believer according to the definition of Paul, one must believe that Jesus died for the sins of mankind and was raised from the dead so that we know that we will be justified by imitating his behavior, and that one must seek to obey the vague holy commandment which simply says to love one's neighbor as oneself, in order to access an eternal life of which even Paul is unaware of the exact definition even if he has a good spiritual understanding of it and knows that Jesus is currently there at the right hand of the Father, and that there is no other God in the world except the God of Jesus.
   
 The disbelievers of whom Paul speaks here are those who may not accept the accuracy of all aspects of this definition of faith given by Paul, but who are not driven by a desire to harm others without possessing certain justifications in their hearts.]
   
@@ -170,3 +170,6 @@ And whatever she does, she must do it with the intention of pleasing the Lord.
   
 pier if she remains as she is, and I think that I also have the Spirit of God.
   
+
+
+

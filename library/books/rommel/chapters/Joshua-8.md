@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 And Yahweh said to Joshua: Do not be afraid and do not be discouraged.
+ï»¿1 And Yahweh said to Joshua: Do not be afraid and do not be discouraged.
   
 Take with you all the men of war and arise, and go up to Ai.
   
@@ -18,7 +18,7 @@ Behold I have given into your hand the king of Ai, and his people, and his city,
   
 2 You will do to Ai and its king as you did to Jericho and its king.
   
-Nevertheless you will take the spoils and the cattle for yourselves.
+Nevertheless You will take the spoils and the cattle for yourselves.
   
 You will set up ambushes against the city, behind it.
   
@@ -144,3 +144,8 @@ Both before the women and children, and before the foreigners who lived among th
   
 men and children, and before the foreigners who lived among them.
   
+
+
+
+
+

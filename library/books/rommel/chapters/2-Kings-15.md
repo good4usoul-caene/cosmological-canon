@@ -22,7 +22,7 @@ His mother's name was Jecoliah and she was from Jerusalem.
   
 5 And Yahweh smote the king [during his reign] and he became a leper, and he was a leper until the day of his death, and he dwelt in a separate house for this reason.
   
-Therefore Jotham the son of the king was over the kingâ€™s house at that time, and was judging the people of the land.
+Therefore Jotham the son of the king was over the king's house at that time, and was judging the people of the land.
   
 6 Concerning the remaining of the acts of Azariah, and all that he did, are they not written in the book of the chronicles of the kings of Judah.
   
@@ -124,3 +124,6 @@ And Ahaz his son reigned in his stead.
   
 avid his father. And Ahaz his son reigned in his stead.
   
+
+
+

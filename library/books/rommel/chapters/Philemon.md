@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 Paul a prisoner of Jesus Christ, and Timothy our brother, to Philemon our dear friend and fellow worker.
+ï»¿1 Paul a prisoner of Jesus Christ, and Timothy our brother, to Philemon our dear friend and fellow worker.
   
 2 To our dear sister Apphia, and to Archippus our fellow soldier, and to the church that is in your house.
   
@@ -72,3 +72,8 @@ Amen.
   
 st be with your spirit. Amen.
   
+
+
+
+
+

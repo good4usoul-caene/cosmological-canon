@@ -68,3 +68,6 @@ For it is an offering to Yahweh made by fire.
   
 ing to Yahweh made by fire.
   
+
+
+

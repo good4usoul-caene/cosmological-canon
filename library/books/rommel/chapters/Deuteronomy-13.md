@@ -70,3 +70,6 @@ You will keep all his commandments that I command you today, in order to do what
   
 the eyes of Yahweh your God.
   
+
+
+

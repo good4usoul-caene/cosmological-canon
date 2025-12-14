@@ -72,7 +72,7 @@ We will not go through the fields nor the vineyards.
   
 Neither will we drink the water of the wells.
   
-But we will follow the kingâ€™s highway without turning right or left, until we have passed your land.
+But we will follow the king's highway without turning right or left, until we have passed your land.
   
 18 And Edom answered him: You will not pass by me, otherwise I will come out to meet you with the sword.
   
@@ -118,3 +118,6 @@ And Moses and Eleazar came down from the mountain.
   
 l the house of Israel mourned for Aaron thirty days.
   
+
+
+

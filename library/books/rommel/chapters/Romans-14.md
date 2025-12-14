@@ -100,3 +100,6 @@ Whatever is not done with faith is sin.
   
 r, then such a person is committing a sin.]
   
+
+
+

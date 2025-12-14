@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 And afterward Moses and Aaron came to Pharaoh and said, Thus says Yahweh the God of Israel: Let my people go, so that they may celebrate a festival in my honor in the wilderness.
+ï»¿1 And afterward Moses and Aaron came to Pharaoh and said, Thus says Yahweh the God of Israel: Let my people go, so that they may celebrate a festival in my honor in the wilderness.
   
 2 And Pharaoh answered, Who is Yahweh that I should obey his voice in letting Israel go.
   
@@ -32,7 +32,7 @@ Go to your burdens.
   
 Let them go and collect some straw themselves.
   
-8 You will nevertheless impose on them the same number of bricks that they made before.
+8 You will Nevertheless Impose on them the same number of bricks that they made before.
   
 You will not take anything away from it.
   
@@ -78,3 +78,8 @@ For you have made us odious to Pharaoh and his servants, and you have put a swor
   
 have not delivered your people.
   
+
+
+
+
+

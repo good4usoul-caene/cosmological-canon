@@ -124,3 +124,6 @@ For it was a pedagogy in which everyone simply had to do his best (Leviticus 4:2
   
 to serve you (1 Corinthians 3:21-23 - Colossians 3:17).
   
+
+
+

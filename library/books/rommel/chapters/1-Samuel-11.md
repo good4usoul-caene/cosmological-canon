@@ -66,3 +66,6 @@ And there they offered sacrifices of peace offerings before Yahweh, and there Sa
   
 f Israel rejoiced greatly.
   
+
+
+

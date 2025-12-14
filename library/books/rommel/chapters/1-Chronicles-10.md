@@ -10,7 +10,7 @@
   
 
 
-1 Now [at the time of Saul’s death] the Philistines fought against Israel, and the men of Israel fled before the Philistines and fell dead on the mount Gilboa.
+1 Now [at the time of Saul's death] the Philistines fought against Israel, and the men of Israel fled before the Philistines and fell dead on the mount Gilboa.
   
 2 And the Philistines pursued Saul and his sons, and the Philistines killed Jonathan, and Abinadab, and Malchishua, the son of Saul.
   
@@ -52,3 +52,6 @@ And they brought them to Jabesh, and buried their bones under an oak in Jabesh, 
   
 d the son of Jesse.
   
+
+
+

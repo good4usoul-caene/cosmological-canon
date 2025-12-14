@@ -54,7 +54,10 @@ For Elijah had not lived without sin like any other ordinary man, and Elijah had
   
 And John the Baptist seems not to know it himself since he recognizes himself only as the messenger who was announced by the prophet Isaiah (John 1:19-36 - Isaiah 40:1-5).]
   
-13 And the question of the existence of a goal in life seems to be reduced to that to know if the one who has not simply wandered off at a certain stage of oneâ€™s life like king Solomon and who never cares about the interest of the rest of humanity as a whole can also transmit to future generations a heritage continuously used with admiration.
+13 And the question of the existence of a goal in life seems to be reduced to that to know if the one who has not simply wandered off at a certain stage of one's life like king Solomon and who never cares about the interest of the rest of humanity as a whole can also transmit to future generations a heritage continuously used with admiration.
   
 used with admiration.
   
+
+
+

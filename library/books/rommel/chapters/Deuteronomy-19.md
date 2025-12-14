@@ -72,3 +72,6 @@ Thus you will eliminate evil from among you.
   
 hand, and a foot for a foot.
   
+
+
+

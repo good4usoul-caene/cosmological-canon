@@ -142,3 +142,6 @@ And the crowd of people sought him, and came to him, and wanted to detain him in
   
 e been sent. 44 And Jesus preached in the synagogues of Galilee.
   
+
+
+

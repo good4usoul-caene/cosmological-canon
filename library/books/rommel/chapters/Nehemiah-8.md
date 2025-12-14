@@ -80,3 +80,6 @@ And there was a solemn assembly on the eighth day, according to the manner [the 
   
 anner [the ordinance of the law].
   
+
+
+

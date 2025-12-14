@@ -78,3 +78,6 @@ And at the word of Eleazar they will go out, and at the word of Eleazar they wil
   
 s Yahweh had commanded by Moses.
   
+
+
+

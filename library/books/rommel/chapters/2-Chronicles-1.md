@@ -66,3 +66,6 @@ And these prices were the same for all buyers, among whom were the servants of t
   
 and of the kings of Syria.
   
+
+
+

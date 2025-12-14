@@ -56,3 +56,6 @@ And we have the mind of Christ.
   
 e the mind of Christ.
   
+
+
+

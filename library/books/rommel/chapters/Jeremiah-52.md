@@ -82,7 +82,7 @@ And it was the same for the second pillar, with the pomegranates.
   
 24 And the chief of the guard took Seraiah the high priest, and Zephaniah the second priest, and the three keepers of the door of the temple.
   
-25 And in the city he took an eunuch who had the supervision of the men of war, and five men of the kingâ€™s advisors who were found in the city, and the secretary of the captain of the army who mustered the people of the land, and sixty men of the people of the land who were found in the city.
+25 And in the city he took an eunuch who had the supervision of the men of war, and five men of the king's advisors who were found in the city, and the secretary of the captain of the army who mustered the people of the land, and sixty men of the people of the land who were found in the city.
   
 26 And Nebuzaradan the captain of the guard took them and brought them to the king of Babylon at Riblah.
   
@@ -112,3 +112,6 @@ And on that day Evil-merodach lifted up the head of Jehoiachin king of Judah by 
   
 the days of his life until the day of his death.
   
+
+
+

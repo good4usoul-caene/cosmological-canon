@@ -152,7 +152,7 @@ And David sent to Abigail to ask her to become his wife.
   
 42 Abigail rose in haste.
   
-And she went up on a donkey, and her five maidservant followed her, and she followed David’s messengers, and she became David’s wife.
+And she went up on a donkey, and her five maidservant followed her, and she followed David's messengers, and she became David's wife.
   
 43 David had also taken Ahinoam of Jezreel, and so both of them were his wives.
   
@@ -160,3 +160,6 @@ And she went up on a donkey, and her five maidservant followed her, and she foll
   
 d given her to Palti the son of Laish who was from the town named Gallim.
   
+
+
+

@@ -148,3 +148,6 @@ He had judged Israel for twenty years.
   
 e tomb of Manoah his father. He had judged Israel for twenty years.
   
+
+
+

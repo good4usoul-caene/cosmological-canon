@@ -68,7 +68,7 @@ She is your son's wife therefore you will not uncover her nudity.
   
 For they are your close relatives, and it is wickedness.
   
-18 You will not take your wifeâ€™s sister, and create a rivalry by uncovering her nudity next to your wife who is still alive.
+18 You will not take your wife's sister, and create a rivalry by uncovering her nudity next to your wife who is still alive.
   
 19 You will not approach a woman during her menstrual impurity, to uncover her nudity.
   
@@ -112,3 +112,6 @@ I am Yahweh your God.
   
 ourself by these practices. I am Yahweh your God.
   
+
+
+

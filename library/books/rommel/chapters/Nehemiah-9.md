@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 On the twenty fourth day of that same month, the children of Israel assembled to make a fasting, wearing sackcloth and dust on their bodies.
+ï»¿1 On the twenty fourth day of that same month, the children of Israel assembled to make a fasting, wearing sackcloth and dust on their bodies.
   
 2 Those who were of the seed of Israel had separated themselves from all the foreigners, and they stood and confessed their sins and the iniquities of their fathers.
   
@@ -116,7 +116,7 @@ They sinned against your ordinances, these things that a man should do in order 
   
 They had a rebellious shoulder, and stiffened their neck, and did not obey.
   
-30 Nevertheless you endured them for many years.
+30 Nevertheless You endured them for many years.
   
 And you warned them by your spirit, by the hand of your prophets, but they would not listen.
   
@@ -158,3 +158,8 @@ And it has been sealed by our princes [leaders], and our Levites, and our priest
   
 been sealed by our princes [leaders], and our Levites, and our priests.
   
+
+
+
+
+

@@ -234,3 +234,6 @@ This is how Isaac was consoled after losing his mother.
   
 ok Rebekah, and she became his wife, and he loved her. This is how Isaac was consoled after losing his mother.
   
+
+
+

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 And Yahweh spoke to Moses in the following words.
+ï»¿1 And Yahweh spoke to Moses in the following words.
   
 2 Avenge the children of Israel on the Midianites, and you will then be gathered to your people.
   
@@ -66,7 +66,7 @@ And you will purify yourselves and your captives on the third and on the seventh
   
 23 And whatever can withstand the fire, you will make it go through the fire and it will be clean.
   
-Nevertheless it will be purified with the water of purification.
+Nevertheless It will be purified with the water of purification.
   
 And whatever cannot endure fire, you will pass it through water.
   
@@ -148,3 +148,8 @@ It was offered by the commanders of thousands and the commanders of hundreds of 
   
 of meeting for a memorial of the children of Israel before Yahweh.
   
+
+
+
+
+

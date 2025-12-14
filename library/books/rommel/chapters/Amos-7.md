@@ -14,7 +14,7 @@
   
 And behold, he was forming a swarm of locusts as the late crop was starting to come up.
   
-And lo, it was the late crop after the hay had been cut to pay the kingâ€™s tribute.
+And lo, it was the late crop after the hay had been cut to pay the king's tribute.
   
 2 And when they had completely devoured the grass of the land, then I said: O Lord Yahweh, I beseech you to forgive.
   
@@ -84,3 +84,6 @@ And you will die in a foreign land, and Israel will surely be carried captive ou
   
 be carried captive out of his land.
   
+
+
+

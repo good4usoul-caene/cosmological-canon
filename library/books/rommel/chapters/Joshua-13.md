@@ -98,3 +98,6 @@ And it belonged to the half-tribe from the children of Manasseh according to the
   
 l is their inheritance as he said to them.
   
+
+
+

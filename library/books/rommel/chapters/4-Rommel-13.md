@@ -10,7 +10,7 @@
   
 
 
-﻿1 Moses (Numbers 28â€“29) vs Ezekiel (Ezekiel 45â€“46) concerning the obligatory part of burnt offerings, and burnt offerings are not eaten (4 Rommel 7:13).
+﻿1 Moses (Numbers 28â€"29) vs Ezekiel (Ezekiel 45â€"46) concerning the obligatory part of burnt offerings, and burnt offerings are not eaten (4 Rommel 7:13).
   
 And these are the only offerings for which there are fixed dates in advance.
   
@@ -52,3 +52,6 @@ We notice that Yahweh loves very much the deeds that are done voluntarily by the
   
 el 43:18-21,22-27).
   
+
+
+

@@ -250,3 +250,6 @@ Thus the trick of the Devil consists in promoting behaviors that are either usel
   
 t (Zechariah 4:6). Thus the trick of the Devil consists in promoting behaviors that are either useless or destructive.
   
+
+
+

@@ -152,3 +152,6 @@ This is Esau, the father of the Edomites.
   
 land which they possessed. This is Esau, the father of the Edomites.
   
+
+
+

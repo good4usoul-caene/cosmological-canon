@@ -118,3 +118,6 @@ For they devour Jacob, they devour him and consume him, and they ravaged his dwe
   
 him and consume him, and they ravaged his dwelling.
   
+
+
+

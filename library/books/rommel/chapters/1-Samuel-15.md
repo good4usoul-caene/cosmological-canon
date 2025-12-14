@@ -134,3 +134,6 @@ But Samuel wept for Saul, because Yahweh had repented of having made Saul king o
   
 ause Yahweh had repented of having made Saul king of Israel.
   
+
+
+

@@ -144,3 +144,6 @@ And Jehoahaz his son reigned in his stead.
   
 d. 36 And Jehu reigned over Israel in Samaria twenty eight years.
   
+
+
+

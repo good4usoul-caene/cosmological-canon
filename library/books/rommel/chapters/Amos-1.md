@@ -62,3 +62,6 @@ For they have ripped open the bellies of the pregnant women of Gilead, in order 
   
 s with him, says Yahweh.
   
+
+
+

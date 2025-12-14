@@ -130,3 +130,6 @@ You will consider it holy and reserved for Yahweh.
   
 r composition to smell it will be cut off from his people.
   
+
+
+

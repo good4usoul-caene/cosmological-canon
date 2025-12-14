@@ -172,3 +172,6 @@ So not one of them remained alive, except Caleb the son of Jephunneh and Joshua 
   
 em remained alive, except Caleb the son of Jephunneh and Joshua the son of Nun.
   
+
+
+

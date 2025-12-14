@@ -18,7 +18,7 @@ And a man from Bethlehem of Judah departed to sojourn in the land of Moab, he, h
   
 They were Ephrathites from Bethlehem of Judah, and they came into the land of Moab and made their home there.
   
-3 Then Naomiâ€™s husband, Elimelech, died.
+3 Then Naomi's husband, Elimelech, died.
   
 And she stayed with her two sons.
   
@@ -40,7 +40,7 @@ For she had heard in the land of Moab that Yahweh had visited his people and had
   
 May Yahweh show kindness to you, as you did to those who died [my sons] and to me.
   
-9 May Yahweh make each of you find rest in a husbandâ€™s house.
+9 May Yahweh make each of you find rest in a husband's house.
   
 And when she kissed them, then they raised their voices and wept.
   
@@ -106,3 +106,6 @@ And they arrived in Bethlehem at the beginning of the barley harvest.
   
 hlehem at the beginning of the barley harvest.
   
+
+
+

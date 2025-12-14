@@ -128,3 +128,6 @@ You will not defile the holy offerings of the children of Israel, lest you die.
   
 e holy offerings of the children of Israel, lest you die.
   
+
+
+

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -114,3 +114,11 @@ And he reigned for twenty four years.
   
 he sin by which Jeroboam had caused Israel to sin.
   
+
+
+
+
+
+
+
+

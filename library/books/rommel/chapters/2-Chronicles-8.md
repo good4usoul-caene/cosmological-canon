@@ -64,3 +64,6 @@ And they went with the servants of Solomon to Ophir, and they took from there fo
   
 t of] it to king Solomon.
   
+
+
+

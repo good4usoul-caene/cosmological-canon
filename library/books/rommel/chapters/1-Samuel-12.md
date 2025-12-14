@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -66,7 +66,7 @@ Now therefore.
   
 behold the king whom you have chosen and whom you have asked for.
   
-14 Nevertheless if you fear Yahweh and serve him, and obey his voice, and not rebel against the word of Yahweh, both you and the king who reigns over you, then you will please Yahweh your God.
+14 Nevertheless If you fear Yahweh and serve him, and obey his voice, and not rebel against the word of Yahweh, both you and the king who reigns over you, then you will please Yahweh your God.
   
 15 But if you do not obey the voice of Yahweh and rebel against the word of Yahweh, then the hand of Yahweh will be against you as it was against your fathers.
   
@@ -112,3 +112,8 @@ For Moses was also available to give his opinion on the situations that were fou
   
 vil then you will perish, both you and your king.
   
+
+
+
+
+

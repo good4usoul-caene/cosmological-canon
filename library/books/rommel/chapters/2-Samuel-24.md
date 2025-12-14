@@ -100,3 +100,6 @@ For I will not offer burnt offerings to Yahweh my God with things that have nece
   
 he land, and the plague ceased from Israel.
   
+
+
+

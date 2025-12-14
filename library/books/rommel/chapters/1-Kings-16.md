@@ -110,3 +110,6 @@ He made the foundations at the cost of the life of Abiram his firstborn, and he 
   
 hweh which he had said by Joshua the son of Nun.
   
+
+
+

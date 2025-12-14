@@ -14,7 +14,7 @@
   
 And take heed to yourself while doing such a thing, lest you also be tempted to act unwisely.
   
-2 Bear one anotherâ€™s burdens, and thus you will fulfill the law of Christ.
+2 Bear one another's burdens, and thus you will fulfill the law of Christ.
   
 3 For if anyone thinks that he is something, then he deceives himself.
   
@@ -68,3 +68,6 @@ Amen.
   
 be with your spirits. Amen.
   
+
+
+

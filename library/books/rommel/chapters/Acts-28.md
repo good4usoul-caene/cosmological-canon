@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 And when we had escaped, then we knew that the island was called Melita.
+ï»¿1 And when we had escaped, then we knew that the island was called Melita.
   
 2 The barbarians showed us a great kindness.
   
@@ -58,7 +58,7 @@ And when Paul saw them, he gave thanks to God and took courage.
   
 17 And after three days, Paul called together those who were the chief of the Jews.
   
-And when they had come together, he said to them: Brothers, although I had done nothing against the people, or the customs of our fathers, nevertheless I have been delivered prisoner from Jerusalem into the hands of the Romans.
+And when they had come together, he said to them: Brothers, although I had done nothing against the people, or the customs of our fathers, Nevertheless I have been delivered prisoner from Jerusalem into the hands of the Romans.
   
 18 And when they had examined me, they wanted to release me because there was nothing in me that deserved the death penalty.
   
@@ -106,3 +106,8 @@ Lest they understand with their hearts, and convert, and I should heal them.
   
 t with complete freedom and without hindrance.
   
+
+
+
+
+

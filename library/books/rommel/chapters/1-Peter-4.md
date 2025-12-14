@@ -36,7 +36,7 @@ For the gospel of Jesus Christ has revealed that the part of the law of Moses wh
   
 Therefore be sober-minded, and give great importance to prayer.
   
-[Nowadays, when the temple of the Jews is already destroyed, it is no longer a question of praying publicly to bring the twelve tribes of Jacob to the knowledge of the faith explained to non-Jews, but it is only a matter of praying frequently in one’s heart to have the strength not to turn away from the holy commandment.]
+[Nowadays, when the temple of the Jews is already destroyed, it is no longer a question of praying publicly to bring the twelve tribes of Jacob to the knowledge of the faith explained to non-Jews, but it is only a matter of praying frequently in one's heart to have the strength not to turn away from the holy commandment.]
   
 8 But above all, love one another fervently.
   
@@ -84,3 +84,6 @@ And if it begins with us [who had been the chosen people of God], then what will
   
 ful creator, by doing what is good.
   
+
+
+

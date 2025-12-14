@@ -64,3 +64,6 @@ And Adoniram was over these companies.
   
 ld the house [of Yahweh].
   
+
+
+

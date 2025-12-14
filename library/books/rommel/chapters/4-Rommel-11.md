@@ -156,3 +156,6 @@ For the fervent prayer of a righteous man is very useful (James 5:14-16).
   
 king David as well, have offended God (Numbers 20:9-12 - 1 Kings 15:5).
   
+
+
+

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -18,7 +18,7 @@ Have I not seen Jesus Christ our Lord.
   
 Are you not my work in the Lord.
   
-2 If I am not an apostle in the eyes of others, nevertheless I am an apostle in your eyes.
+2 If I am not an apostle in the eyes of others, Nevertheless I am an apostle in your eyes.
   
 For you are the seal of my apostleship in the Lord.
   
@@ -110,3 +110,8 @@ I do not fight like a boxer beating the air to train himself, but like a boxer w
   
 give little importance to his works of justice.]
   
+
+
+
+
+

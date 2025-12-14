@@ -84,3 +84,6 @@ For I have spoken to them but they have not wanted to listen, I have called them
   
 keep the commandments of Jonadab.]
   
+
+
+

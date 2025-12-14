@@ -32,7 +32,7 @@ Then the people will go up, each one straight before him.
   
 7 But he said to the people, Go and walk around the city, and let the armed men pass before the ark of Yahweh.
   
-8 And when Joshua had spoken to the people, then seven priests carried the seven trumpets of ramâ€™s horns.
+8 And when Joshua had spoken to the people, then seven priests carried the seven trumpets of ram's horns.
   
 And they went before the ark of Yahweh, and sounded the trumpets.
   
@@ -108,3 +108,6 @@ He will lay its foundation at the cost of the life of his eldest son, and he wil
   
 hua, whose fame spread throughout all the land.
   
+
+
+

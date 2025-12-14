@@ -138,3 +138,6 @@ And as for the Gentiles, some may have had the desire to do what is right but co
   
 en the law of the Lord Jesus had not yet been taught to them.]
   
+
+
+

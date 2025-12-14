@@ -68,3 +68,6 @@ And I will dedicate their riches to Yahweh, and their wealth to the Lord of the 
   
 he Lord of the whole earth.
   
+
+
+

@@ -78,3 +78,6 @@ Keep your lips from speaking cunningly without having publicly acceptable justif
   
 take refuge in him will perish.
   
+
+
+

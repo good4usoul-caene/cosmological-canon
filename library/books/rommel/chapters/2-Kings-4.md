@@ -200,3 +200,6 @@ For thus speaks Yahweh, They will eat, and there will be a remaining.
   
 set it before them and they ate, and there was a remaining, according to the word of Yahweh.
   
+
+
+

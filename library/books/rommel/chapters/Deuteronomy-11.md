@@ -96,3 +96,6 @@ You will possess it, and you will dwell there.
   
 and the laws that I set before you today.
   
+
+
+

@@ -104,3 +104,6 @@ And Solomon his son reigned in his stead.
   
 kingdoms of other countries during his reign.
   
+
+
+

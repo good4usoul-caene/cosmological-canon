@@ -30,9 +30,9 @@ But her brother in law will go to her and take her as his wife, and perform the 
   
 And if he persists and says, I do not want to take her.
   
-9 Then his brotherâ€™s wife will approach him in the presence of the elders, take his shoe from the foot and spit in his face.
+9 Then his brother's wife will approach him in the presence of the elders, take his shoe from the foot and spit in his face.
   
-And she will answer and say, Thus will it be done to the man who does not build his brotherâ€™s house.
+And she will answer and say, Thus will it be done to the man who does not build his brother's house.
   
 10 And his house will be called in Israel the house of the shoeless.
   
@@ -62,3 +62,6 @@ Do not forget it.
   
 eaven. Do not forget it.
   
+
+
+

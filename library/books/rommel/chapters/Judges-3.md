@@ -116,3 +116,6 @@ So they descended after him, and took the passages of the Jordan which allowed t
   
 tines with an ox goad and he also delivered Israel.
   
+
+
+

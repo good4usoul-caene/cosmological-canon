@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 King Belshazzar made a great feast for a thousand of his nobles, and drank wine in the presence of the thousand.
+ï»¿1 King Belshazzar made a great feast for a thousand of his nobles, and drank wine in the presence of the thousand.
   
 2 And when Belshazzar had tasted the wine, he commanded to bring the vessels of gold and of silver that his father Nebuchadnezzar had taken out of the temple which was in Jerusalem, so that the king, and his nobles, and his wives, and his concubines, could drink from them.
   
@@ -98,3 +98,8 @@ You were praising those gods who neither see, nor hear, nor understand, and you 
   
 lshazzar king of the Chaldeans was killed.
   
+
+
+
+
+

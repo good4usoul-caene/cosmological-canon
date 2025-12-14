@@ -94,3 +94,6 @@ Only, he will compensate the victim for the interruption of work and pay for the
   
 x and will have the dead ox for himself.
   
+
+
+

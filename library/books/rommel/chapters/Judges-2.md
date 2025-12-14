@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 And an angel of Yahweh went up from Gilgal to Bochim, and said the following thing.
+ï»¿1 And an angel of Yahweh went up from Gilgal to Bochim, and said the following thing.
   
 2 I have brought you out of Egypt, and have brought you into the land which I had sworn to your fathers.
   
@@ -18,7 +18,7 @@ And I said, 'I will never break my covenant with you.
   
 And you also will not make a covenant with the inhabitants of land, but you will destroy their altars'.
   
-Nevertheless you have not obeyed my voice.
+Nevertheless You have not obeyed my voice.
   
 Why have you done this.
   
@@ -84,3 +84,11 @@ They did not cease to be inventive and rebellious.
   
 e did not hasten to drive them out.
   
+
+
+
+
+
+
+
+

@@ -80,3 +80,6 @@ Yahweh who is the holy spirit of Elohim said that he himself is the only Elohim,
   
 possession of the promised land.]
   
+
+
+

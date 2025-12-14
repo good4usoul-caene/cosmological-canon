@@ -138,3 +138,6 @@ They ate the manna until they came to the borders of the land of Canaan.
   
 the land of Canaan. 36 The omer is the tenth part of an ephah.
   
+
+
+

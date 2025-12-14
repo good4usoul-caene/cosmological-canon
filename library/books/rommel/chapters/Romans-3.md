@@ -148,3 +148,6 @@ And the law of Moses was given only to certain people who were carrying the pers
   
 known to all the world what one must do to be a righteous person.]
   
+
+
+

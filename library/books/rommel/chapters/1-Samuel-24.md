@@ -88,3 +88,6 @@ Then Saul went to his house, but David and his men went up to the stronghold.
   
 nd his men went up to the stronghold.
   
+
+
+

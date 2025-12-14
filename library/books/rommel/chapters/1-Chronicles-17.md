@@ -46,7 +46,7 @@ I will not take away my grace from him, as I withdrew it from the one who preced
   
 15 And Nathan told David all these words and all this vision.
   
-16 Then king David went in [the tent that he had set up for the ark God], and did sit before Yahweh and said: Who am I, O God Yahweh, and what is the importance of my father’s house, so that you have brought me where I am.
+16 Then king David went in [the tent that he had set up for the ark God], and did sit before Yahweh and said: Who am I, O God Yahweh, and what is the importance of my father's house, so that you have brought me where I am.
   
 17 And nevertheless all this kindness toward me is a small thing in your eyes, O God.
   
@@ -90,3 +90,6 @@ For you, O Yahweh, have blessed it, and it is blessed forever.
   
 blessed it, and it is blessed forever.
   
+
+
+

@@ -102,3 +102,6 @@ It is because of this particular context that the apostle Paul creates assemblie
   
 hey remained a long time with the disciples.
   
+
+
+

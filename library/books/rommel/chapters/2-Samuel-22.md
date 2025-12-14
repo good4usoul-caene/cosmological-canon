@@ -140,3 +140,6 @@ You help me to defeat those who rise against me, you save me from the violent ma
   
 shows mercy to his anointed, to David and to his seed forever.
   
+
+
+

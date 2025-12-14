@@ -80,3 +80,6 @@ But the righteous is an everlasting foundation.
   
 of the wicked speaks pervertedly.
   
+
+
+

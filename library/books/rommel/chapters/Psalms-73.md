@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 A psalm of Asaph.
+ï»¿1 A psalm of Asaph.
   
 Surely God is good to Israel, to those who are pure in heart.
   
@@ -90,3 +90,8 @@ I have put my trust in the Lord Yahweh, so that I may declare all your works.
   
 so that I may declare all your works.
   
+
+
+
+
+

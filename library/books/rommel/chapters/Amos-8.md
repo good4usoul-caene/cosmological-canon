@@ -68,3 +68,6 @@ But they will fall, and will never rise up again [namely those false gods].
   
 [namely those false gods].
   
+
+
+

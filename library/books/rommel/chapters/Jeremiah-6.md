@@ -146,3 +146,6 @@ It is in vain that one refines, the dross are not taken away.
   
 will be called contemptible silver, for Yahweh has rejected them.
   
+
+
+

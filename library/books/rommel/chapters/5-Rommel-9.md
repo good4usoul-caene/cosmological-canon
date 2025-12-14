@@ -222,3 +222,6 @@ I am the alpha and the omega, the first and the last, the beginning and the end 
   
 about the only begotten Son of God (Isaiah 28:16) and about God the Father (Isaiah 41:4 - 44:6 - 48:12).
   
+
+
+

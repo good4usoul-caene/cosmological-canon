@@ -118,3 +118,6 @@ Praise Yahweh.
   
 is statutes, and to observe his laws. Praise Yahweh.
   
+
+
+

@@ -92,3 +92,6 @@ Have not joy and gladness been cut off from the house of our God.
   
 aw given by Moses.] 17 . 18 . 19 . 20 .
   
+
+
+

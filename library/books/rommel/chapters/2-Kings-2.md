@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 And the time came when Yahweh wanted to take up Elijah into the heaven by a whirlwind.
+ï»¿1 And the time came when Yahweh wanted to take up Elijah into the heaven by a whirlwind.
   
 And Elijah went with Elisha from Gilgal.
   
@@ -52,7 +52,7 @@ And Elisha replied: I pray you, let the double of your spirit be on me.
   
 10 And Elijah said: You have asked for a difficult thing.
   
-Nevertheless if you see me while I am taken from you then you will receive what you have asked for.
+Nevertheless If you see me while I am taken from you then you will receive what you have asked for.
   
 Otherwise it will not happen.
   
@@ -116,3 +116,8 @@ Then two bears came out of the forest and tore to pieces forty two of these chil
   
 ount Carmel, and from there he returned to Samaria.
   
+
+
+
+
+

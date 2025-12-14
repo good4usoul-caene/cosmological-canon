@@ -126,3 +126,6 @@ It is not abnormal to behave strangely when you are ignorant.
   
 not abnormal to behave strangely when you are ignorant.
   
+
+
+

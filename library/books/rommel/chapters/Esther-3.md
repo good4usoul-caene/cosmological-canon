@@ -64,7 +64,7 @@ And according to all that Haman commanded them, they wrote letters to the king's
   
 They wrote to every province according to its writings, and to each of the peoples according to their language.
   
-The letters were written in the name of king Ahasuerus and sealed with the kingâ€™s ring.
+The letters were written in the name of king Ahasuerus and sealed with the king's ring.
   
 13 And the letters were carried by messengers into all the king's provinces, and contained the order to uproot, to kill and to destroy all the Jews, both young and old, children and women, in one day on the thirteenth day of the twelfth month which is the month of Adar, and to gave their property to be plundered.
   
@@ -76,3 +76,6 @@ And the king and Haman sat down to drink, while the inhabitants of the city of S
   
 city of Shushan were perplexed.
   
+
+
+

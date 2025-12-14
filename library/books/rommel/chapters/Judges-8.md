@@ -140,3 +140,6 @@ And he was buried in the sepulcher of Joash his father, in Ophrah of the father 
   
 l who is Gideon, after all the good that he had done to Israel.
   
+
+
+

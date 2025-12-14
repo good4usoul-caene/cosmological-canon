@@ -110,3 +110,6 @@ It will be a perpetual law among their descendants.
   
 offerings to Yahweh in the wilderness of Sinai.
   
+
+
+

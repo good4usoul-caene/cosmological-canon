@@ -90,3 +90,6 @@ But when Uriah heard it, he fled and went into Egypt because he was afraid.
   
 of the people who wanted to kill him.
   
+
+
+

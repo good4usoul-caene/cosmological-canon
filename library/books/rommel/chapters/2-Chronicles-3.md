@@ -62,3 +62,6 @@ And he called the name of the one which was on the right hand Jachin, and the na
   
 he one on the left Boaz.
   
+
+
+

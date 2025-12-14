@@ -20,7 +20,7 @@ I am Yahweh.
   
 I am Yahweh.
   
-4 If one of Aaronâ€™s descendants is a leper or has a common issue, he will not eat of the holy things until he becomes clean.
+4 If one of Aaron's descendants is a leper or has a common issue, he will not eat of the holy things until he becomes clean.
   
 It will be the same for anyone who touches a person soiled by a corpse, and for anyone whose seed of copulation comes out of him.
   
@@ -116,3 +116,6 @@ I am Yahweh.
   
 t of the land of Egypt to be your God. I am Yahweh.
   
+
+
+

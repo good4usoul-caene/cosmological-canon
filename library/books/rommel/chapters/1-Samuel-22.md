@@ -82,7 +82,7 @@ You and the whole house of your father.
   
 For they knew when he fled and they did not inform me.
   
-But the king’s servants did not want to move their hands to kill the priests of Yahweh.
+But the king's servants did not want to move their hands to kill the priests of Yahweh.
   
 18 Then the king said to Doeg: Turn yourself and kill the priests.
   
@@ -108,3 +108,6 @@ You will be safe with me.
   
 s also seeking yours. You will be safe with me.
   
+
+
+

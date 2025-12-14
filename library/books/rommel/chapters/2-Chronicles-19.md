@@ -58,3 +58,6 @@ Be brave and do your duty, and Yahweh will be with those among you who will act 
   
 who will act honestly.
   
+
+
+

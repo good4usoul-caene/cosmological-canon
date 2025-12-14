@@ -116,3 +116,6 @@ Therefore, your enemies will fail before you, and you will tread their high plac
   
 l before you, and you will tread their high places.
   
+
+
+

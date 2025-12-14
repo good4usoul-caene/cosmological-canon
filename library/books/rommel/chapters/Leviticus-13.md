@@ -202,3 +202,6 @@ It is according to this that they will be declared clean or unclean.
   
 or in any object of skin. It is according to this that they will be declared clean or unclean.
   
+
+
+

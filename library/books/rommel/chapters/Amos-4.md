@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 Hear this word, you heifers of Bashan who are on the hill country of Samaria, who oppress the poor and crush the needy, and who say to your husbands: Bring, and let us drink.
+ï»¿1 Hear this word, you heifers of Bashan who are on the hill country of Samaria, who oppress the poor and crush the needy, and who say to your husbands: Bring, and let us drink.
   
 2 The Lord Yahweh has sworn by his holiness: Behold the days are coming on you when you will be taken away with hooks, and your offspring with fishhooks.
   
@@ -38,7 +38,7 @@ You act thus because what is important for you is the way others look at you, O 
   
 6 Therefore I have given you cleanliness of teeth [that is say, very little food] into all your cities, and want of bread into all your dwellings.
   
-And nevertheless you have not returned to me, says Yahweh.
+And Nevertheless You have not returned to me, says Yahweh.
   
 7 And I have also withheld the rain from you, when there were yet three months to the harvest.
   
@@ -48,13 +48,13 @@ One piece of field received rain, and another piece of field withered away becau
   
 8 Therefore two or three cities went to another city in order to drink water, but they were not satisfied.
   
-And nevertheless you have not returned to me, says Yahweh.
+And Nevertheless You have not returned to me, says Yahweh.
   
 9 And I have smitten you with mildew and blight.
   
 Your many gardens, and your vineyards, and your fig trees, and your olive trees, have been devoured by locusts.
   
-And nevertheless you have not returned to me, says Yahweh.
+And Nevertheless You have not returned to me, says Yahweh.
   
 10 And I have sent the pestilence among you, as I had done in Egypt [to those who were oppressing your fathers].
   
@@ -62,13 +62,13 @@ I have killed your young men with the sword, and have taken away your horses.
   
 I have made the stench of your camp to rise up even into your nostrils.
   
-And nevertheless you have not returned to me, says Yahweh.
+And Nevertheless You have not returned to me, says Yahweh.
   
 11 And I have overthrown some of you, like Sodom and Gomorrah which God destroyed.
   
 And you have become like a burning stick plucked from the fire.
   
-And nevertheless you have not returned to me, says Yahweh.
+And Nevertheless You have not returned to me, says Yahweh.
   
 12 Therefore I will do something more extreme against you, O Israel.
   
@@ -80,3 +80,8 @@ His name is Yahweh the God of armies.
   
 name is Yahweh the God of armies.
   
+
+
+
+
+

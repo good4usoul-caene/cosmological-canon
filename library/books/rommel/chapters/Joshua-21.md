@@ -148,3 +148,6 @@ And there stood not a man of all their enemies before them, for Yahweh delivered
   
 of Israel, none remained without effect but all were accomplished.
   
+
+
+

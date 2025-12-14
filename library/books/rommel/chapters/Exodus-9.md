@@ -28,7 +28,7 @@ All the livestock of the Egyptians perished, and not one beast perished of the f
   
 7 And Pharaoh inquired what had happened and behold, not a beast of the flocks of Israel had perished.
   
-But Pharaohâ€™s heart was hardened and he did not let the people go.
+But Pharaoh's heart was hardened and he did not let the people go.
   
 8 And Yahweh said to Moses and Aaron, Fill your hands with ashes of the furnace, and let Moses sprinkle it toward heaven in the sight of Pharaoh.
   
@@ -122,3 +122,6 @@ And he did not let the children of Israel go, as Yahweh had spoken through Moses
   
 dren of Israel go, as Yahweh had spoken through Moses.
   
+
+
+

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 After Abimelech, a man of Issachar arose to save Israel.
+ï»¿1 After Abimelech, a man of Issachar arose to save Israel.
   
 It was Tola the son of Puah the son of Dodo, and he dwelt in Shamir in mount Ephraim.
   
@@ -48,7 +48,7 @@ For we have forsaken our God, and we have served the Baals.
   
 And then you cried to me, and I saved you out of their hands.
   
-13 Nevertheless you have forsaken me, and you have served other gods.
+13 Nevertheless You have forsaken me, and you have served other gods.
   
 Therefore I will no longer save you.
   
@@ -76,3 +76,8 @@ For the same will be the chief of all the inhabitants of Gilead.
   
 all the inhabitants of Gilead.
   
+
+
+
+
+

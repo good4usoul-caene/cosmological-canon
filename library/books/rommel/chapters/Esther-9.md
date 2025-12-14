@@ -134,3 +134,6 @@ They might not have felt the need to return to the promised land because they ha
   
 firmed the ordinance of Purim, and it was written in a book. [Queen Esther did not have a religious authority over those of the children of Israel who were in the kingdom of king Ahasuerus, but an administrative authority like queen Athaliah in the time of the kings and queens of Israel or Deborah in the time of the judges]
   
+
+
+

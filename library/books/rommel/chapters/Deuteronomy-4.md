@@ -156,3 +156,6 @@ These two kings of the Amorites were on this side of the Jordan toward the sunri
   
 the east, to the sea of the plain at the foot of the springs of Pisgah.
   
+
+
+

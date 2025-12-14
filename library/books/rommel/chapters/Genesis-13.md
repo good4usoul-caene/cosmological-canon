@@ -70,3 +70,6 @@ And he built there an altar to Yahweh.
   
 lt there an altar to Yahweh.
   
+
+
+

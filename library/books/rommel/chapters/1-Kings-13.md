@@ -72,7 +72,7 @@ And I will neither eat bread nor drink water with you in this place.
   
 Now the old prophet was lying to the man of God.
   
-19 Then the man of God went back with him, and ate bread in the old prophet’s house and drank water.
+19 Then the man of God went back with him, and ate bread in the old prophet's house and drank water.
   
 20 And while they were still sitting at the table, the word of Yahweh came to the old prophet who had brought back the man of God.
   
@@ -122,3 +122,6 @@ He consecrated whoever had the desire to be priest of the high places.
   
 een uprooted and destroyed from the face of the earth.
   
+
+
+

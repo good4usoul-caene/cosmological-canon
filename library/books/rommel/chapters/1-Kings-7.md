@@ -184,3 +184,6 @@ And Solomon brought in the things which David his father had dedicated, the silv
   
 nd the gold and the vessels, and he put them in the treasures of the house of Yahweh.
   
+
+
+

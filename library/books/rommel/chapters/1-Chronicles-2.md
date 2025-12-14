@@ -154,3 +154,6 @@ These are the Kenites who came from Hammath the father of the house of Rechab.
   
 e the Kenites who came from Hammath the father of the house of Rechab.
   
+
+
+

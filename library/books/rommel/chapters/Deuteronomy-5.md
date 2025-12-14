@@ -114,3 +114,6 @@ You will not turn aside to the right or to the left.
   
 olong your days in the land that you will possess.
   
+
+
+

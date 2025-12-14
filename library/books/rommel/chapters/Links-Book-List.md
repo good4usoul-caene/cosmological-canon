@@ -1,4 +1,4 @@
-﻿---
+---
 Repository-Target: Links-Book-List.md
 Agent-Writable:  SAIBR
 Intent: 
@@ -79,4 +79,7 @@ Revelation
 [3 Rommel](Links-3-Rommel.md)
 [4 Rommel](Links-4-Rommel.md)
 [5 Rommel](Links-5-Rommel.md)
+
+
+
 

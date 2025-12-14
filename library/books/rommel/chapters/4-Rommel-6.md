@@ -110,13 +110,13 @@ Consequently, their healings were effected by the image of what God the Father u
   
 27 For the pedagogy given to Moses simply recommends avoiding being drawn into idolatry (Exodus 34:11-16 - Deuteronomy 7:1-9) and the holy race is not defined by genealogical ties (Deuteronomy 21:10-17 - Ruth 1:4,16 - 4:13-17 - Judges 21:5-15,16-22 - Joshua 8:30-35 - 13:7-13 - 15:63 - 16:10 - 17:12-13 - 3 Rommel 2:29).
   
-28 Thus, Godâ€™s Israel does not triumph because of its righteousness but because of the ignorance of the adversary (Deuteronomy 9:1-14) that is why they must attack only their enemies (Esther 9:1-2,16 - Deuteronomy 20:1,10-12) after having offered them peace (Deuteronomy 2:24-33 - Joshua 11:19-20).
+28 Thus, God's Israel does not triumph because of its righteousness but because of the ignorance of the adversary (Deuteronomy 9:1-14) that is why they must attack only their enemies (Esther 9:1-2,16 - Deuteronomy 20:1,10-12) after having offered them peace (Deuteronomy 2:24-33 - Joshua 11:19-20).
   
 In the same way that the children of Jacob were attached to God only during certain periods (Judges 2), one can think that some of the nations who lived in their midst had a similar behavior in their relations with the holy spirit (Joshua 21:43-45 - 23:1-16).
   
 29 For one who is not guilty of wrongdoing is not attacked with impunity (Exodus 17:8-16 - Deuteronomy 25:17-19).
   
-30 There has always existed a part of Godâ€™s Israel which was not geographically identifiable and which was never under the pedagogical law chosen to welcome the incarnate Christ, that is why this law authorized conversions (Numbers 15:13-16,29-31 - Exodus 12:48-49 - Leviticus 24:17-22) and indicated that it is a sin to count the people with the sole criterion of belonging to the Israel of God (Exodus 30:11-15 - 2 Samuel 24:1-10 - 1 Chronicles 21:1-8 - 27:23-24 - Romans 10:6-7).
+30 There has always existed a part of God's Israel which was not geographically identifiable and which was never under the pedagogical law chosen to welcome the incarnate Christ, that is why this law authorized conversions (Numbers 15:13-16,29-31 - Exodus 12:48-49 - Leviticus 24:17-22) and indicated that it is a sin to count the people with the sole criterion of belonging to the Israel of God (Exodus 30:11-15 - 2 Samuel 24:1-10 - 1 Chronicles 21:1-8 - 27:23-24 - Romans 10:6-7).
   
 [And one can note that the people who received the covenant of the ten commandments three months after their departure from the land of Egypt were not only descendants of Jacob according to the flesh.
   
@@ -132,15 +132,15 @@ And David changed the age of service of the Levites because they would no longer
   
 33 The only thing that must attract the eye when one observes a child of Israel is the holy spirit and no other fantasy (Jeremiah 9:23-26 - Leviticus 19:26-28 - Deuteronomy 14:1 - 22:11-12 - Luke 8:43-44).
   
-34 Consequently, Paulâ€™s recommendations on dress in assemblies serve only to prevent extravagance (1 Corinthians 11:1-16) as lust of the eyes can lead to undesirable effects (1 Corinthians 11:17).
+34 Consequently, Paul's recommendations on dress in assemblies serve only to prevent extravagance (1 Corinthians 11:1-16) as lust of the eyes can lead to undesirable effects (1 Corinthians 11:17).
   
 35 The apostle Paul is simply trying to create a form of school of faith (Romans 10:9 - Galatians 4:19 - 1 Corinthians 12:1-3 - Philippians 1:15-18 - Luke 5:36-39) for people who have not yet reached spiritual maturity (Luke 6:39 - Ephesians 4:7-16) since there is only one message to teach (Romans 13:8-10 - Galatians 5:13-15 - 1 Corinthians 11:34).
   
 And it provides for a form of remuneration for those who are devoted to this exercise where the need arises from lack of knowledge (Galatians 6:6 - Jeremiah 31:33-34), and the need to create such assemblies is also imposed by the beliefs of the peoples at the time of the birth and propagation of the Christian faith (John 16:1-3 - 1 Thessalonians 2:13-16 - Acts 14:21-23,24-28 - 19:23-36).
   
-36 Prayer only serves to strengthen the believer in oneâ€™s attachment to the holy commandment (Genesis 32:3-6,7-12,13-23 - 2 Kings 18:33-37 - 19:1-5 - 2 Chronicles 32:1-8 - Nehemiah 1:1-11 - 2:1-20 - 4:6-21 - Daniel 9:1-2,3-19 - 2 Samuel 7:18-27,28-29).
+36 Prayer only serves to strengthen the believer in one's attachment to the holy commandment (Genesis 32:3-6,7-12,13-23 - 2 Kings 18:33-37 - 19:1-5 - 2 Chronicles 32:1-8 - Nehemiah 1:1-11 - 2:1-20 - 4:6-21 - Daniel 9:1-2,3-19 - 2 Samuel 7:18-27,28-29).
   
-This is why we must think that Jesusâ€™ prayer for the fulfilment of the mission of Simon Peter (Luke 22:31-32) could have occurred when designing this mission (Jeremiah 1:4-5 - John 1:1-3 - 8:56-59).
+This is why we must think that Jesus' prayer for the fulfilment of the mission of Simon Peter (Luke 22:31-32) could have occurred when designing this mission (Jeremiah 1:4-5 - John 1:1-3 - 8:56-59).
   
 And in John 17 Jesus prays a prayer whose sole purpose is to strengthen the disciples who hear it and to make them understand the purpose of a prayer, since all the things he says and asks for in this prayer are things that he has already explained beforehand that they will happen.
   
@@ -182,7 +182,7 @@ This is because a person can receive a water baptism of John or another improved
   
 44 The ancient Jews were saved by Jesus of Nazareth because it was explained in the Greek New Testament (Luke, John, Paul, Peter) that one is freed among other things from genealogical specificities (Numbers 18 - Deuteronomy 10:5-9 - 18:1-8 - Acts 4:32-37 - 6:1-7).
   
-An explanation similar to the one that created oneâ€™s faith (Exodus 4:28-31 - Luke 24:45-47 - John 20:30-31 - Acts 3:1-26 - 5:12-20).
+An explanation similar to the one that created one's faith (Exodus 4:28-31 - Luke 24:45-47 - John 20:30-31 - Acts 3:1-26 - 5:12-20).
   
 45 The Gentile was saved by Jesus of Nazareth because the faith was created or solidified by the Hebrew Bible and the Greek scriptures (Romans 15:8-12 - Colossians 1:26-27).
   
@@ -210,3 +210,6 @@ And the promised land will therefore be shared equally among the members of the 
   
 f the celebration having no significance and being akin to numerology which is a form of idolatry.
   
+
+
+

@@ -40,7 +40,7 @@ Each person was served according to his own pleasure.
   
 For she was beautiful to look at.
   
-12 But queen Vashti refused to come when she received the kingâ€™s command by the hand of the eunuchs.
+12 But queen Vashti refused to come when she received the king's command by the hand of the eunuchs.
   
 Therefore the king was very angry, and his anger burned in him.
   
@@ -78,3 +78,6 @@ And each letter declared in the language of the people who received it that each
   
 be the chief of his own family.
   
+
+
+

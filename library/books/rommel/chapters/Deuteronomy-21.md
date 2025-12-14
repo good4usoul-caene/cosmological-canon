@@ -54,7 +54,7 @@ And if his first son is from the woman whom he does not love.
   
 For this son is the first of his strength, and to him belongs the right of the firstborn.
   
-18 If a man has a stubborn and rebellious son who does not listen to his fatherâ€™s voice or his motherâ€™s voice, and although they have disciplined him he continues not to obey them.
+18 If a man has a stubborn and rebellious son who does not listen to his father's voice or his mother's voice, and although they have disciplined him he continues not to obey them.
   
 19 Then his father and mother will take him and bring him to the elders of his town, and to the gates of the place where he lives.
   
@@ -76,3 +76,6 @@ Therefore you will not defile the land that Yahweh your God gives you for an inh
   
 d gives you for an inheritance.
   
+
+
+

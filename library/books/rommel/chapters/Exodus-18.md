@@ -100,3 +100,6 @@ And they brought difficult causes before Moses, and they themselves decided on a
   
 law depart, and Jethro went to his country.
   
+
+
+

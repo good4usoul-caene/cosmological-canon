@@ -110,7 +110,7 @@ For from among them we will choose to serve Yahweh our God.
   
 And until we arrive, we do not know what we will choose to offer to Yahweh.
   
-27 But Yahweh hardened Pharaohâ€™s heart, and Pharaoh did not let them go.
+27 But Yahweh hardened Pharaoh's heart, and Pharaoh did not let them go.
   
 28 And Pharaoh said to Moses, Get out of my house.
   
@@ -120,3 +120,6 @@ And be careful not to appear in my presence again, for on the day you appear bef
   
 ou said it, I will no longer appear in your presence.
   
+
+
+

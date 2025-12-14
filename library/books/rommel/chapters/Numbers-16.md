@@ -176,3 +176,6 @@ And the plague was stopped.
   
 rned to Moses at the entrance to the tent of meeting. And the plague was stopped.
   
+
+
+

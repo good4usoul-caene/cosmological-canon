@@ -38,9 +38,13 @@ URL:  https://github.com/good4usoul-caene/cosmological-canon/tree/main/library/b
 Original Source:
 URL:  https://www.researchgate.net/publication/394016170_The_Most_Holy_Bible 
 
+
+
 # README: Book of Rommel (ResearchGate Download)
 
 This file documents the provenance and workflow for obtaining a Copilot-readable version of Mr. Rommel's book, downloaded from ResearchGate in accordance with his open source policies.
+
+[Chapter List:](./chapters/00-README.md)
 
 **Intent:**
 - To obtain a version of the book that Copilot agents can read and analyze.

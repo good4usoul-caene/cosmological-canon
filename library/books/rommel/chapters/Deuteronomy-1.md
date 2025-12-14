@@ -146,3 +146,6 @@ But Yahweh did not listen to your voice or give ear to you.
   
 ng time, compared to the time that you previously spent in a camp.
   
+
+
+

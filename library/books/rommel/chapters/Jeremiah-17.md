@@ -106,3 +106,6 @@ Bring the day of evil on them, and destroy them with a double destruction.
   
 . 19 . 20 . 21 . 22 . 23 . 24 . 25 . 26 . 27 .
   
+
+
+

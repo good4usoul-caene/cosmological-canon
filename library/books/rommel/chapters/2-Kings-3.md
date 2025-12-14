@@ -112,3 +112,6 @@ And then a strong feeling of disgust seized the men of Israel [because of what t
   
 the king of Moab and returned to their own land.
   
+
+
+

@@ -90,3 +90,6 @@ Surely you have disguised your thoughts when you sent me to Yahweh your God by s
   
 ere you desire to go to sojourn there.
   
+
+
+

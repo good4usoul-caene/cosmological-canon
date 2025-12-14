@@ -102,3 +102,6 @@ It will be an ephah for each bullock and an ephah for each ram, with a hin of oi
   
 d the same meal offerings, and the same oil.
   
+
+
+

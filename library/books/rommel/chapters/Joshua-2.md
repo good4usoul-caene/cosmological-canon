@@ -68,7 +68,7 @@ And then you can go your way.
   
 17 These men said to her: This is how we will fulfill the oath which you have made us swear.
   
-18 Behold when we come into the land, then you will bind this cord of red thread in the window through which you let us go down, and you will gather in your house your father, and your mother, and your brothers, and all your fatherâ€™s household.
+18 Behold when we come into the land, then you will bind this cord of red thread in the window through which you let us go down, and you will gather in your house your father, and your mother, and your brothers, and all your father's household.
   
 19 If one of them leaves the door of your house to go outside, then his blood will be on his head and we will be innocent.
   
@@ -94,3 +94,6 @@ For all the inhabitants of the land are dismayed because of us.
   
 of the land are dismayed because of us.
   
+
+
+

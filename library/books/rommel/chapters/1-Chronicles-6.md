@@ -190,3 +190,6 @@ And they also gave them Gezer with its suburbs.
   
 Mahanaim with its suburbs. 81 And Heshbon with its suburbs, and Jazer with its suburbs.
   
+
+
+

@@ -136,3 +136,6 @@ Their chiefs were Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of I
   
 of Amalek who had escaped, and they dwelt there to this day.
   
+
+
+

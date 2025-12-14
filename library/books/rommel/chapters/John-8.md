@@ -242,3 +242,6 @@ I told you previously that I will go to a place where the majority of you cannot
   
 ept of righteousness.] 59 Then they took stones to throw at him, but Jesus hid himself and went out of the temple.
   
+
+
+

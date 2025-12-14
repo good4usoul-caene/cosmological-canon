@@ -82,3 +82,6 @@ And the children of Israel did as Yahweh commanded Moses.
   
 ael did as Yahweh commanded Moses.
   
+
+
+

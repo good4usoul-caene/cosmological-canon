@@ -40,3 +40,6 @@ When God turns the captivity of his people, then Jacob will rejoice and Israel w
   
 will be glad.
   
+
+
+

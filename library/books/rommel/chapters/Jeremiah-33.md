@@ -58,3 +58,6 @@ For I will bring back the captives of the land as at the beginning, says Yahweh.
   
 nts them, says Yahweh.
   
+
+
+

@@ -178,3 +178,6 @@ They did so.
   
 brought the children of Israel out of the land of Egypt according to their armies.
   
+
+
+

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 Now Jesus was near the lake of Gennesaret, and the people crowded around him to hear the word of God.
+ï»¿1 Now Jesus was near the lake of Gennesaret, and the people crowded around him to hear the word of God.
   
 2 And Jesus saw two boats on the shore.
   
@@ -128,3 +128,8 @@ For he says: The old is better.
   
 ll not desire a new wine. For he says: The old is better.
   
+
+
+
+
+

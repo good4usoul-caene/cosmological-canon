@@ -20,7 +20,7 @@
   
 For Solomon is the third king of Israel and the last to reign over the twelve tribes united, before the separation of the people into two kingdoms.
   
-5 And with her husbandâ€™s permission, Jezebel decides to take justice by dark ways by inciting others to offend the holy spirit (1 Kings 21:4-23).
+5 And with her husband's permission, Jezebel decides to take justice by dark ways by inciting others to offend the holy spirit (1 Kings 21:4-23).
   
 6 Simeon and Levi acted with anger (Genesis 34:13-31) and did not forgive those who wished to repent (Genesis 34:1-12).
   
@@ -54,3 +54,6 @@ He could have caused to build an equivalent of the tabernacle of Moses and used 
   
 h (2 Chronicles 36).
   
+
+
+

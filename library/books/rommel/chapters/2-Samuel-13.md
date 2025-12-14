@@ -168,3 +168,6 @@ And David mourned for Amnon his son every day.
   
 bsalom and wanted to see him, because he was comforted of the death of Amnon.
   
+
+
+
