@@ -1,10 +1,6 @@
----
-description: Consolidated instructions for GitHub Copilot agents working within the Temple framework - guiding artificial scribes in proper Temple protocols, directory usage, and promotion workflows
-applyTo: "*"
----
 
 ---
-Filename: /.github/copilot-instructions.md
+Repository-Target: /.github/copilot-instructions.md
 Ultimate-Target-Directory: /.github/
 Version: v0.2.0
 Prev-Version: tent-copy-v0.0.13
