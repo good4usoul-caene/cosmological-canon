@@ -60,3 +60,6 @@ The one who brought forth water for you out of the rock of flint.
   
 ice of Yahweh your God.
   
+
+
+

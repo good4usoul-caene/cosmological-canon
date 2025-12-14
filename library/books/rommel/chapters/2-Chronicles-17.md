@@ -66,3 +66,6 @@ Of Judah, the captains of thousands: Adnah the captain, and three hundred thousa
   
 fortified cities of Judah.
   
+
+
+

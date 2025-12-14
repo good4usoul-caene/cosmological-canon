@@ -144,3 +144,6 @@ May Yahweh repay him who does evil according to his wickedness.
   
 . May Yahweh repay him who does evil according to his wickedness.
   
+
+
+

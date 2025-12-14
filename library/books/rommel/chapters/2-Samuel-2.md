@@ -84,7 +84,7 @@ Why should I smite you to the ground, and how then will I lift up my face before
   
 23 But Asahel refused to turn aside.
   
-Therefore Abner smote him in the stomach with the back end of his spear, and the spear entered Asahelâ€™s body and went out behind, and Asahel fell there and died in the same place.
+Therefore Abner smote him in the stomach with the back end of his spear, and the spear entered Asahel's body and went out behind, and Asahel fell there and died in the same place.
   
 And all those who came to the place where Asahel had fallen dead stopped there.
   
@@ -116,3 +116,6 @@ And Joab and his men went all that night, and they arrived at Hebron at the sunr
   
 t night, and they arrived at Hebron at the sunrise.
   
+
+
+

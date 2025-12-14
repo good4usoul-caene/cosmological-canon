@@ -50,3 +50,6 @@ And the children of Israel obeyed him and did as Yahweh commanded Moses.
   
 ght of all Israel.
   
+
+
+

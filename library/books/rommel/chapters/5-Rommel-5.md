@@ -144,3 +144,6 @@ But the stumbling block and the rock of scandal on which many stumble and break,
   
 edagogical law of Moses (Acts 7:51 - John 1:17 - Isaiah 28:8-16).
   
+
+
+

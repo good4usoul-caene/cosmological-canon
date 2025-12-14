@@ -80,7 +80,7 @@ And I am the only one who escaped to tell you the news.
   
 And he fell to the ground and worshiped.
   
-21 And Job said: I came out naked from my motherâ€™s womb, and I will return naked into the heart of the earth.
+21 And Job said: I came out naked from my mother's womb, and I will return naked into the heart of the earth.
   
 Yahweh has given, and Yahweh has taken.
   
@@ -90,3 +90,6 @@ Blessed be the name of Yahweh.
   
 not attribute anything unjust to God.
   
+
+
+

@@ -76,3 +76,6 @@ For Yahweh your God is a jealous God among you.
   
 ndments as he has commanded us.
   
+
+
+

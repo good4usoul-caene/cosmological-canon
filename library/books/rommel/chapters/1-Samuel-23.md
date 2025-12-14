@@ -68,7 +68,7 @@ And Saul was still looking for David, but God did not deliver David into the han
   
 16 And Jonathan the son of Saul arose and went to David in the forest, and comforted him in God.
   
-17 And Jonathan said to David: Fear not, for my father’s hand will not touch you.
+17 And Jonathan said to David: Fear not, for my father's hand will not touch you.
   
 For you will be king of Israel, and I will be at your side.
   
@@ -120,3 +120,6 @@ Therefore they called that place Sela-hammahlekoth.
   
 from there, and dwelt in the strongholds of En-gedi.
   
+
+
+

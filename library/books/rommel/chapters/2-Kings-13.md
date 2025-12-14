@@ -106,3 +106,6 @@ For [the army of] Joash smote [the army of] Ben-hadad three times, and restored 
   
 hree times, and restored the cities to Israel.
   
+
+
+

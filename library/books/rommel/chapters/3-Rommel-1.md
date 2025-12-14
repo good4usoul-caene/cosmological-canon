@@ -138,7 +138,7 @@ Each one must constantly consider that everything around oneself is a distractio
   
 25 It is not what we do that interests God, since we have the right to do whatever we want (1 Corinthians 3:21-23 - Job 35:1-8 - 1 John 2:24-26,27-29 - Luke 11:52), but only the reasons why we do it (4 Rommel 1:8-9 - 8:13-15 - 4 Rommel 2:60 - Genesis 12:9-20 - 20:1-13 - 26:1-11 - 37:1-36 - 42:1-26 - 43:1-15 - 44:1-13 - Job 32:1-3 - Joshua 22:22-29 - 1 Samuel 18:25 - 21:10-15 - 1 Kings 3:16-25 - 2 Kings 2:15-18 - 3:26-27 - 4:13-23,24-26,27-28 - 5:15-19 - 20:1-11 - 2 Samuel 14:1-4,18-21 - 15:30-37 - 16:15-19 - 1 Chronicles 12:16-17 - Luke 11:37-41 - 2 Samuel 22:27-28 - Ezra 7:8-10 - 8:21-23,24-34 - Nehemiah 4 - Jeremiah 38:14-16,24-28 - 4 Rommel 2:27-28 - 12:50-52 - 1 Corinthians 9:19-27 - 5 Rommel 5:48-50).
   
-God only wants to know whether a personâ€™s motivation is PUBLICLY justifiable in the mind of that person, or whether that person is aware of being unable to justify himself in a situation that would require it and in the presence of a being who knows everything (Luke 4:40-41 - 9:20-22 - 22:54-62 - John 17:11-12).
+God only wants to know whether a person's motivation is PUBLICLY justifiable in the mind of that person, or whether that person is aware of being unable to justify himself in a situation that would require it and in the presence of a being who knows everything (Luke 4:40-41 - 9:20-22 - 22:54-62 - John 17:11-12).
   
 Moses wonders how God will accomplish what he has declared (Numbers 11:21-23) while the officer of Jehoram king of Israel affirms that God will not be able to accomplish the word that he has spoken by the prophet Elisha (2 Kings 7:17-20).
   
@@ -170,7 +170,7 @@ This is the tabernacle [the dwelling] which contained the ark of the covenant in
   
 And the tabernacle was created only to be an answer to the transgression of the people who have made a god that they could see with their eyes while Moses had gone to the mountain (1 Rommel 3:16).
   
-32 And by disobeying Moses' command not to add or subtract anything from the laws (Deuteronomy 4:1-2), David replaced the tabernacle with a fixed house which was to be different at least in the structure of the openings (Exodus 26:1-6,7-15 - 1 Kings 6 - 2 Chronicles 3â€“4).
+32 And by disobeying Moses' command not to add or subtract anything from the laws (Deuteronomy 4:1-2), David replaced the tabernacle with a fixed house which was to be different at least in the structure of the openings (Exodus 26:1-6,7-15 - 1 Kings 6 - 2 Chronicles 3â€"4).
   
 And we see that Solomon who actually built this temple has celebrated the creation of God in the courtyard according the plans given to him by his father David who is the first to have wanted to make the ark of God dwell in a more comfortable structure (2 Samuel 7:1-3 - 1 Kings 8:17-20 - 1 Chronicles 28:9-21).
   
@@ -200,7 +200,7 @@ Indeed, if one wishes to obtain a place of any nature in eternity, possibly afte
   
 [Now it is only the obligatory part of burnt offerings, and burnt offerings are not eaten (4 Rommel 13).
   
-For there is no fixed date in advance for the sacrifices that are eaten, and they are not affected by Ezekielâ€™s changes (4 Rommel 7:13-20,21-24)].
+For there is no fixed date in advance for the sacrifices that are eaten, and they are not affected by Ezekiel's changes (4 Rommel 7:13-20,21-24)].
   
 35 And according to Ezekiel we will no longer observe a grouping of the territories attributed to the tribes of Reuben and Gad and to a part of the tribe of Manasseh (Numbers 32:28-33 - 34:1-12,13-15 - Joshua 1:12-15 - 14:1-5 - 17:1-6 - 18:5-7 - Ezekiel 47:21-23 - 48:1-8,22-29).
   
@@ -220,7 +220,7 @@ And the Mishnah is established after Jesus Christ and is presumed to be an oral 
   
 This quote says: David and Job and Ezekiel have described the length of the Torah without putting a number to it.
   
-37 And Ezekiel is the only and unique prophet after Moses (Genesis - Exodus - Leviticus - Numbers - Deuteronomy) who enunciated new laws for the family of Jacob named Israel (Ezekiel 40 â€“ 48), since all the other prophets simply made known the promises of God which concerned certain intervals of time of the future in relation to the time of their proclamation.
+37 And Ezekiel is the only and unique prophet after Moses (Genesis - Exodus - Leviticus - Numbers - Deuteronomy) who enunciated new laws for the family of Jacob named Israel (Ezekiel 40 â€" 48), since all the other prophets simply made known the promises of God which concerned certain intervals of time of the future in relation to the time of their proclamation.
   
 However, in order to bear witness to significant events that can be useful in instructing others about what behaviors they should or should not have in their relationship with God, certain commemorations were instituted (Judges 11:30-40 - 2 Kings 25:8-10 - Zechariah 7:1-5 - Esther 9:20-32 - John 10:22-24) for the people who were united by the desire for a rigorous practice of the law of Moses.
   
@@ -566,3 +566,6 @@ And hence there seem to be seeds of truth among all men, but they are charged wi
   
 , they have received such suggestions from the prophets as have enabled them to understand and interpret these things. And hence there seem to be seeds of truth among all men, but they are charged with not accurately understanding [the truth] when they assert contradictories. (The First Apology, Chapter 44)
   
+
+
+

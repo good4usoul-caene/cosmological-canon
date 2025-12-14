@@ -90,3 +90,6 @@ How much more when they bring it with wicked thoughts.
   
 battle, but victory belongs to Yahweh.
   
+
+
+

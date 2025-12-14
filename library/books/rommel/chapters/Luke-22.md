@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 Now the feast of unleavened bread which is called the Passover was approaching.
+ï»¿1 Now the feast of unleavened bread which is called the Passover was approaching.
   
 2 And the chief priests and the scribes were looking for a legally acceptable way to kill Jesus.
   
@@ -86,7 +86,7 @@ For the one who leads among you should be like one who serves.
   
 Is it not the one who sits at the table.
   
-And nevertheless I am among you as the one who serves.
+And Nevertheless I am among you as the one who serves.
   
 28 You are the ones who have persevered with me in my trials.
   
@@ -128,7 +128,7 @@ And his disciples also followed him.
   
 40 And when he arrived at the place, he said to them: Pray, so as not to succumb to temptation.
   
-41 And Jesus withdrew from them, and he went to a distance that was about a stoneâ€™s throw, and he knelt down and prayed.
+41 And Jesus withdrew from them, and he went to a distance that was about a stoneÃ¢â‚¬â„¢s throw, and he knelt down and prayed.
   
 42 And he said: Father, if you are willing, remove this cup from me.
   
@@ -218,3 +218,8 @@ We ourselves have heard it from his own mouth.
   
 e'. 71 Then they said: What other testimony do we need. We ourselves have heard it from his own mouth.
   
+
+
+
+
+

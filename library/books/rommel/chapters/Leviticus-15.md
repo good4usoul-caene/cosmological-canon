@@ -88,3 +88,6 @@ And the priest will make an atonement for her before Yahweh, for the issue of he
   
 e man who lies with an unclean woman.
   
+
+
+

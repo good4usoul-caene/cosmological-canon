@@ -74,7 +74,7 @@ Amen.
   
 The brothers who are with me send you greetings.
   
-22 All the saints send you greetings, especially those who belong to Caesarâ€™s household.
+22 All the saints send you greetings, especially those who belong to Caesar's household.
   
 23 The grace of the Lord Jesus Christ be with you all.
   
@@ -82,3 +82,6 @@ Amen.
   
 esus Christ be with you all. Amen.
   
+
+
+

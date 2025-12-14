@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 Behold I will send my messenger, and he will prepare the way before me.
+ï»¿1 Behold I will send my messenger, and he will prepare the way before me.
   
 And the Lord whom you seek will suddenly come to his temple, the messenger of the covenant that you desire.
   
@@ -42,7 +42,7 @@ But you say, 'In what way have we distanced ourselves from you'.
   
 8 Should a man rob God.
   
-And nevertheless you have robbed me.
+And Nevertheless You have robbed me.
   
 But you say, 'In what way have we robbed you'.
   
@@ -86,3 +86,8 @@ And I will spare them, as a man spares his son who serves him.
   
 God and those who do not serve him.
   
+
+
+
+
+

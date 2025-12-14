@@ -198,7 +198,7 @@ And they shut themselves inside and went up to the top of the tower.
   
 And he went to the door of the tower to set it on fire.
   
-53 But a certain woman threw a piece of a millstone on Abimelechâ€™s head, and broke his skull.
+53 But a certain woman threw a piece of a millstone on Abimelech's head, and broke his skull.
   
 54 Then he hastily called to the young man who carried his weapons and said to him, Draw your sword and kill me, lest anyone say of me: It was a woman who killed him.
   
@@ -214,3 +214,6 @@ And on them came the curse of Jotham the son of Jerubbaal.
   
 ess of the men of Shechem on their heads. And on them came the curse of Jotham the son of Jerubbaal.
   
+
+
+

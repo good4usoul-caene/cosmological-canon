@@ -54,3 +54,6 @@ And thus the children of Israel will each enjoy the inheritance of his tribe.
   
 an opposite Jericho.
   
+
+
+

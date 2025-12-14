@@ -222,3 +222,6 @@ And whenever Saul saw a strong and valiant man of Israel, he took him into his s
   
 out Saul's life. And whenever Saul saw a strong and valiant man of Israel, he took him into his service.
   
+
+
+

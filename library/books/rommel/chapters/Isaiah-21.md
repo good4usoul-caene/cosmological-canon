@@ -84,3 +84,6 @@ For Yahweh the God of Israel has spoken it.
   
 eh the God of Israel has spoken it.
   
+
+
+

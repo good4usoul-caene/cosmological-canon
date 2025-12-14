@@ -122,3 +122,6 @@ And Terah died in Haran.
   
 e two hundred and five years. And Terah died in Haran.
   
+
+
+

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 Blessed is the one whose heart is honest and who walk in the law of Yahweh.
+ï»¿1 Blessed is the one whose heart is honest and who walk in the law of Yahweh.
   
 2 Blessed is the one who keep the testimonies of Yahweh, and who seek Yahweh with his whole heart.
   
@@ -514,3 +514,8 @@ Seek your servant, for I have not forgotten your commandments.
   
 precepts. 174 I long for your salvation, O Yahweh. Your law is my delight. 175 Let my soul live in order to praise you. Let your law sustain me. 176 I have gone astray like a lost sheep. Seek your servant, for I have not forgotten your commandments.
   
+
+
+
+
+

@@ -78,3 +78,6 @@ Yes, Yahweh our God will destroy them.
   
 ahweh our God will destroy them.
   
+
+
+

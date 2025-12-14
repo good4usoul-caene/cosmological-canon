@@ -110,3 +110,6 @@ And called there on the name of Yahweh, the everlasting God.
   
 rned a long time in the land of the Philistines.
   
+
+
+

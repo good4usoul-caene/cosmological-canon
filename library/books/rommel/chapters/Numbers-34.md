@@ -86,3 +86,6 @@ Of the tribe of Judah, Caleb son of Jephunneh.
   
 en of Israel, in the land of Canaan.
   
+
+
+

@@ -196,3 +196,6 @@ Six cities with their villages.
   
 dren of Judah, but the Jebusites dwell with the children of Judah at Jerusalem to this day.
   
+
+
+

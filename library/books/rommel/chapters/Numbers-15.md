@@ -130,3 +130,6 @@ I am Yahweh your God.
   
 of the land of Egypt to be your God. I am Yahweh your God.
   
+
+
+

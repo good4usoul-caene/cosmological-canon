@@ -68,3 +68,6 @@ Therefore the [innocent] blood that he has poured will be brought on him, his Lo
   
 ll make him bear his shame.
   
+
+
+

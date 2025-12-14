@@ -60,3 +60,6 @@ Ephraim was no longer jealous of Judah, and Judah was no longer vexed by Ephraim
   
 Ephraim. 14 . 15 . 16 .
   
+
+
+

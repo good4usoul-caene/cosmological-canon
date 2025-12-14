@@ -108,3 +108,6 @@ So he worshiped Yahweh there.
   
 given to Yahweh. So he worshiped Yahweh there.
   
+
+
+

@@ -28,7 +28,7 @@
   
 9 And we can also remember that Moses himself asked to kill (Exodus 21:12-14 - Deuteronomy 19:1-6,11-13 - Numbers 35:30-31 - Deuteronomy 19:15).
   
-10 The Apostle Paul confirms Jesusâ€™ sense of humor by stating that the ten commandments, which the man Jesus did not respect, are fulfilled by the one commandment given by the man Jesus (Romans 13:9-10).
+10 The Apostle Paul confirms Jesus' sense of humor by stating that the ten commandments, which the man Jesus did not respect, are fulfilled by the one commandment given by the man Jesus (Romans 13:9-10).
   
 11 This complicity between Christ and his apostle also appears when the man Jesus speaks (Luke 16:14-18).
   
@@ -82,3 +82,6 @@ In fact, he first remarks that he came to sacrifice himself (John 4:31-34).
   
 esus (John 16:7-11 - Malachi 3:6).
   
+
+
+

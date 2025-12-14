@@ -68,3 +68,6 @@ But if we consider people individually, then the holy spirit of God manifested i
   
 God by through your spirit.
   
+
+
+

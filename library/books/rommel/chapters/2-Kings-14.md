@@ -96,3 +96,6 @@ Therefore he saved them by the hand of Jeroboam the son of Joash.
   
 d Zechariah his son reigned in his stead.
   
+
+
+

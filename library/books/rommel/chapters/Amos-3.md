@@ -56,3 +56,6 @@ And the ivory palaces will perish, and the great houses will be destroyed, says 
   
 stroyed, says Yahweh.
   
+
+
+

@@ -62,3 +62,6 @@ But in sincerity, as from [the spirit] God, we speak in Christ in the sight of G
   
 ht of God [the creator].
   
+
+
+

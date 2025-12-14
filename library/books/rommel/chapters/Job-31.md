@@ -106,7 +106,10 @@ Who will give me the complaint written by my opponent.
   
 40 Then let the thorns grow instead of wheat, and the tares grow instead of barley.
   
-End of Jobâ€™s words.
+End of Job's words.
   
-es grow instead of barley. End of Jobâ€™s words.
+es grow instead of barley. End of Job's words.
   
+
+
+

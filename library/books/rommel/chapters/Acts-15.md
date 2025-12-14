@@ -142,3 +142,6 @@ And Barnabas took Mark with him, and sailed to the island of Cyprus.
   
 d he went through Syria and Cilicia, strengthening the churches.
   
+
+
+

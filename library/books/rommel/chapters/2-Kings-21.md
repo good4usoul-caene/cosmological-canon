@@ -78,3 +78,6 @@ He served the idols that his father had served, and he bowed down to them.
   
 ah his son reigned in his stead.
   
+
+
+

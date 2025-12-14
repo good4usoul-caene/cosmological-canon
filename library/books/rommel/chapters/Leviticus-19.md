@@ -146,3 +146,6 @@ I am Yahweh.
   
 all my ordinances and all my judgments, and do them. I am Yahweh.
   
+
+
+

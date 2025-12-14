@@ -72,3 +72,6 @@ Why should all the people of Judah who have gathered around you be scattered, an
   
 ceived by some other people.]
   
+
+
+

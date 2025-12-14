@@ -38,7 +38,7 @@
   
 14 Jonathan showed kindness to David (1 Samuel 20) and he remembers it (2 Samuel 9).
   
-15 However, like Isaac and Esau (Malachi 1:2-3) or Amon and Josiah (2 Chronicles 33:21-25 - 34:1-2), the son according to Jonathanâ€™s flesh is not also his spiritual son since he does not imitate the behavior of Jonathan (2 Samuel 16:1-4).
+15 However, like Isaac and Esau (Malachi 1:2-3) or Amon and Josiah (2 Chronicles 33:21-25 - 34:1-2), the son according to Jonathan's flesh is not also his spiritual son since he does not imitate the behavior of Jonathan (2 Samuel 16:1-4).
   
 16 And faced with new information whose relevance he cannot determine, David acts in real time with fairness (2 Samuel 19:24-30 - 1 Samuel 8).
   
@@ -62,7 +62,10 @@ And it is not a contradiction if David wants to entrust new responsibilities to 
   
 25 David himself was not an incarnation of Christ (1 Kings 15:5) but merely his spiritual father (Luke 20:41-44).
   
-26 And Davidâ€™s work continuously shines before God because it is designed to be the basis of the teachings of Godâ€™s only begotten son, the light of the world.
+26 And David's work continuously shines before God because it is designed to be the basis of the teachings of God's only begotten son, the light of the world.
   
 n, the light of the world.
   
+
+
+

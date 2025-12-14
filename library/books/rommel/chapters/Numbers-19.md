@@ -82,3 +82,6 @@ And he who sprinkles the water of purification will wash his clothes, and whoeve
   
 will be unclean until the evening.
   
+
+
+

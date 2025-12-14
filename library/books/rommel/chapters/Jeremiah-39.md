@@ -68,3 +68,6 @@ Your life will be your loot, because you have put your trust in me, says Yahweh.
   
 r trust in me, says Yahweh.
   
+
+
+

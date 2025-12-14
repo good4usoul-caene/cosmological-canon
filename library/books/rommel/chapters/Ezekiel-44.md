@@ -116,3 +116,6 @@ And you will give the firstfruits of your dough to the priests, so that a blessi
   
 or that has been torn, whether it be bird or beast.
   
+
+
+

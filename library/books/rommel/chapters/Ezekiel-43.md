@@ -106,3 +106,6 @@ And I will be favorable to you, says the Lord Yahweh.
   
 ill be favorable to you, says the Lord Yahweh.
   
+
+
+

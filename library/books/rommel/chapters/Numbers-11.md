@@ -110,7 +110,7 @@ If it pleases God, then let all the people of Yahweh be prophets, let Yahweh put
   
 30 And Moses returned to the camp, he and the elders of Israel.
   
-31 Then Yahweh blew a wind from the sea, which brought quails and spread them near the camp, a dayâ€™s journey on one side, and a dayâ€™s journey on the other, all around the camp.
+31 Then Yahweh blew a wind from the sea, which brought quails and spread them near the camp, a day's journey on one side, and a day's journey on the other, all around the camp.
   
 There were nearly two cubits above the ground.
   
@@ -130,3 +130,6 @@ And Yahweh smote the people with a very great plague.
   
 eople journeyed to Hazeroth, and they stopped at Hazeroth.
   
+
+
+

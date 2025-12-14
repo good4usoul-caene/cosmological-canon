@@ -84,3 +84,6 @@ So I was strengthened by the hand of Yahweh my God which was on me, and I gather
   
 chiefs of Israel to go up with me.
   
+
+
+

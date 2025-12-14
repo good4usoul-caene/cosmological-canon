@@ -78,3 +78,6 @@ For that which is lacking from the sufferings of Christ, I complete it in my fle
   
 gth which acts powerfully in me.
   
+
+
+

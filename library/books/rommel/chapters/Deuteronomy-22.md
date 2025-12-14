@@ -26,7 +26,7 @@ If you have found them then you will not turn away from them.
   
 For whoever does this thing is an abomination to Yahweh your God.
   
-6 If you encounter a birdâ€™s nest in your way, in a tree or on the ground, with young or eggs, and the mother lying on the young or on the eggs, then you will not take the mother and the young.
+6 If you encounter a bird's nest in your way, in a tree or on the ground, with young or eggs, and the mother lying on the young or on the eggs, then you will not take the mother and the young.
   
 7 But you will let the mother go and you will take only the young, so that you may be happy and prolong your days.
   
@@ -100,3 +100,6 @@ For he has humiliated her therefore he cannot send her away as long as he lives.
   
 ther's wife nor uncover his father's skirt.
   
+
+
+

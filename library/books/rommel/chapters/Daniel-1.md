@@ -76,3 +76,6 @@ Therefore they stood before the king [that is to say, he chose them to be at his
   
 to say, he excelled in wisdom].
   
+
+
+

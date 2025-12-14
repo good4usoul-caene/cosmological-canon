@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 In the seventh year [of the captivity of Jehoiachin king of Judah], on the tenth day of the fifth month, some of the elders of Israel came to inquire of Yahweh, and they sat before me.
+ï»¿1 In the seventh year [of the captivity of Jehoiachin king of Judah], on the tenth day of the fifth month, some of the elders of Israel came to inquire of Yahweh, and they sat before me.
   
 2 And the word of Yahweh came to me in the following words.
   
@@ -176,3 +176,8 @@ The flame that will burn will not be quenched, and every face will be burned thr
   
 ord Yahweh, the people who are here say of me, 'Is this not a maker of parables'.
   
+
+
+
+
+

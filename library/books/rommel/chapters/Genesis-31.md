@@ -194,3 +194,6 @@ And Laban left to return to his home.
   
 kissed his sons and his daughters, and blessed them. And Laban left to return to his home.
   
+
+
+

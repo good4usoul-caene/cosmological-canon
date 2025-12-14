@@ -174,3 +174,6 @@ And the kingdom was strengthened in the hands of Solomon.
   
 imei, and Shimei died. And the kingdom was strengthened in the hands of Solomon.
   
+
+
+

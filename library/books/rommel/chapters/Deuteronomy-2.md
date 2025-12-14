@@ -132,3 +132,6 @@ For Yahweh our God delivered everything to us.
   
 s, and all the places that Yahweh our God had forbidden us.
   
+
+
+

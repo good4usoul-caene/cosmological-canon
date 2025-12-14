@@ -106,3 +106,6 @@ For I will deliver my people from your hand, and you will know that I am Yahweh.
   
 your hand, and you will know that I am Yahweh.
   
+
+
+

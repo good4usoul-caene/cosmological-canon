@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 I have told you these things so that you may keep faith in the times of troubles.
+ï»¿1 I have told you these things so that you may keep faith in the times of troubles.
   
 2 They will put you out of the synagogues.
   
@@ -130,3 +130,8 @@ I have overcome the world.
   
 in the world, but have courage. I have overcome the world.
   
+
+
+
+
+

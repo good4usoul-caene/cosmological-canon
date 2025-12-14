@@ -206,3 +206,6 @@ But allow me first to go and say goodbye to those who are at my house.
   
 said to him: No one who puts his hand to the plow and looks back is fit for the kingdom of God.
   
+
+
+

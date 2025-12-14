@@ -102,3 +102,6 @@ And these prices were the same for all buyers, among whom were the servants of t
   
 s of the Hittites and of the kings of Syria.
   
+
+
+

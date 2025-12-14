@@ -56,3 +56,6 @@ Then Zeresh his wife and his wise men said to him: If Mordecai before whom you h
   
 Esther had prepared.
   
+
+
+

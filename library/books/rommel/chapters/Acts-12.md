@@ -78,7 +78,7 @@ Then he went down from Judea to Caesarea and stayed there.
   
 But these cities needed food from his country, so a group of them came to ask him for peace.
   
-They were able to get Blastus, the kingâ€™s personal servant, on their side.
+They were able to get Blastus, the king's personal servant, on their side.
   
 21 And Herod decided on a day to meet with them.
   
@@ -98,3 +98,6 @@ And he was eaten by worms inside his body, and he died.
   
 m John who was surnamed Mark and returned.
   
+
+
+

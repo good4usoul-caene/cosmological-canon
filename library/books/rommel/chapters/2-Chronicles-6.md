@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 Then Solomon said: Yahweh wants to dwell in the darkness caused by the cloud.
+ï»¿1 Then Solomon said: Yahweh wants to dwell in the darkness caused by the cloud.
   
 2 I have built a house in which you will dwell, a place where you will live forever.
   
@@ -26,7 +26,7 @@
   
 8 But Yahweh said to David my father: Since it is in your heart to build a house for my name, you have done well to have this intention.
   
-9 Nevertheless you will not build the house, but it is your son who will come out of your loins who will build the house for my name.
+9 Nevertheless You will not build the house, but it is your son who will come out of your loins who will build the house for my name.
   
 10 And now Yahweh has fulfilled his word that he had spoken.
   
@@ -136,3 +136,8 @@ Remember the mercies that you promised to David your servant.
   
 Remember the mercies that you promised to David your servant.
   
+
+
+
+
+

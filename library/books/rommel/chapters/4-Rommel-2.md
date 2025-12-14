@@ -296,19 +296,19 @@ It was going to be a difficult fight to invade Sparta, especially if the other G
   
 As it happened, the other Greek tribes did not join due to Persian political meddling.
   
-44 So Xerxes wrote one last letter to Leonidas, saying, â€œIf we conquer your land by force, we will kill your sons, rape your women, main your soldiers, slaughter your cattle, burn your fields and sow them with salt.
+44 So Xerxes wrote one last letter to Leonidas, saying, "If we conquer your land by force, we will kill your sons, rape your women, main your soldiers, slaughter your cattle, burn your fields and sow them with salt.
   
-Give up your arms, and you will be spared this fate!â€ Leonidas replied, â€œIfâ€.
+Give up your arms, and you will be spared this fate!" Leonidas replied, "If".
   
 (This is how it is often remembered.
   
 In reality, Leonidas was even cooler than that.
   
-When Xerxes told him to give up his arms, Leonidas wrote back, â€œCome and take themâ€.).
+When Xerxes told him to give up his arms, Leonidas wrote back, "Come and take them".).
   
 45 I say the same to you.
   
-â€œIfâ€.
+"If".
   
 If the temple of god is the body of Jesus, etc.
   
@@ -326,7 +326,7 @@ What convinced you in the first place?
   
 How much do you know of the history of the Bible?
   
-I do not mean â€œBiblical historyâ€, but the history of the actual book!
+I do not mean "Biblical history", but the history of the actual book!
   
 Because, if you wish to claim that Mark and Matthew are fake, while Luke and John are better sources for the life of a historical Jesus, you are in disagreement with the vast majority of scholars whose job it is to know these things.
   
@@ -338,9 +338,9 @@ It is also probably the oldest document about Jesus, with the possible exception
   
 I am glad that you agree there are clear moral absurdities in the Bible.
   
-However, I still donâ€™t understand how they can be isolated to Judaism, Catholicism and/or Islam?
+However, I still don't understand how they can be isolated to Judaism, Catholicism and/or Islam?
   
-Arenâ€™t you just attacking your ideological / denominational opposition, while ignoring the contradictions in your own denomination?
+Aren't you just attacking your ideological / denominational opposition, while ignoring the contradictions in your own denomination?
   
 49 Besides, it is useless to try and convince me that Catholicism, Judaism and Islam are senseless.
   
@@ -416,25 +416,22 @@ We survive by the impact we have had in the lives of others, as the abstract con
   
 68 And on the other hand in the consideration of the fact that, since the notion of sin is individual, our sins can influence the quality of the persecutions that will be imposed on them (Exodus 34:5-7 - Numbers 14:26-32,33-35), but the works of our offspring, whose existence involves not one person but at least a couple, are not directly attributed to us (1 Corinthians 3:15 - 7:7-9 - 1 Rommel 3:14-16,30-32).
   
-69 Jonathan David Doolin: Another question for you is how do you see the "Advocate" role in John 16?
+69 **Jonathan David Doolin**: 
+> Another question for you is how do you see the "Advocate" role in John 16?  
+> Are all ambiguities in the Bible fully wrapped up by you, or might the "Spirit of Truth" still have more to say?
+> If the latter, we might have a rich discussion ahead of us.
+> If the former, I will still do my best to give the Book of Rommel a once-over, and provide some rubrics for how I agree or disagree with your claims.
   
-Are all ambiguities in the Bible fully wrapped up by you, or might the "Spirit of Truth" still have more to say?
+  70 **Answer:** My initial work consisted of finding a mathematical formalism that would 
+ - give meaning to the notion of relative immobility in a universal way, and 
+ - to the coherence that the theory of special relativity established between electrostatics and the other universal experimental laws of electromagnetism 
+   - (Biot and Savart, Lorentz force, Faraday's law of induction).
+ - It was therefore a matter of describing a certain form of the principle of Mach, by highlighting properties that can theoretically be attributed to electric charges when their motions are arbitrary in relation to an arbitrary observer.
+ - I knew that I was looking for something that is different from general relativity where we use a notion of tangent space that is mathematically different from real space when we want to describe observations in the vicinity of any experimenter, and that I was looking for something deeper than quantum mechanics in which notions of probabilities of presence and experiments such as Young's interference experiment cannot question the fact that each experimenter must possess a three-dimensional space (which is a real portion of the physical universe in the immediate vicinity of the experimenter) and a temporal variable.
+> In a way, my thought was vaguely expressed by this quote from the physicist John Stewart Bell: The concept of 'measurement' becomes so fuzzy on reflection that it is quite surprising to have it appearing in physical theory at the most fundamental level...
   
-If the latter, we might have a rich discussion ahead of us.
-  
-If the former, I will still do my best to give the Book of Rommel a once-over, and provide some rubrics for how I agree or disagree with your claims.
-  
-70 Answer: My initial work consisted of finding a mathematical formalism that would give meaning to the notion of relative immobility in a universal way, and to the coherence that the theory of special relativity established between electrostatics and the other universal experimental laws of electromagnetism (Biot and Savart, Lorentz force, Faraday's law of induction).
-  
-It was therefore a matter of describing a certain form of the principle of Mach, by highlighting properties that can theoretically be attributed to electric charges when their motions are arbitrary in relation to an arbitrary observer.
-  
-I knew that I was looking for something that is different from general relativity where we use a notion of tangent space that is mathematically different from real space when we want to describe observations in the vicinity of any experimenter, and that I was looking for something deeper than quantum mechanics in which notions of probabilities of presence and experiments such as Young's interference experiment cannot question the fact that each experimenter must possess a three-dimensional space (which is a real portion of the physical universe in the immediate vicinity of the experimenter) and a temporal variable.
-  
-In a way, my thought was vaguely expressed by this quote from the physicist John Stewart Bell: The concept of 'measurement' becomes so fuzzy on reflection that it is quite surprising to have it appearing in physical theory at the most fundamental level...
-  
-does not any analysis of measurement require concepts more fundamental than measurement?
-  
-And should not the fundamental theory be about these more fundamental concepts?
+ - does not any analysis of measurement require concepts more fundamental than measurement?
+ - And should not the fundamental theory be about these more fundamental concepts?
   
 71 So I began to take a serious interest in religion because of my desire to describe a certain form of the principle of Mach, which must take into account everything that exists.
   
@@ -452,7 +449,7 @@ Therefore, Jesus and the comforter are alive within believers (John 14:22-24), a
   
 74 Now I remember that I met Jonathan Doolin in July or early August 2020, when I designed most of the content of 4 Rommel 5 in order to respond to a special document that he had sent to me.
   
-And I want to specify that I remember that I had completely finished designing the content of 4 Rommel 2:59-61 two or three days before giving it as a response on the first of April 2019 to Larry Carlson who had been kind enough to interact with me.
+And I want to specify that I remember that I had completely finished designing the content of [4 Rommel 2](4-Rommel-2.md):59-61 two or three days before giving it as a response on the first of April 2019 to Larry Carlson who had been kind enough to interact with me.
   
 Thank you Larry the Aesthetics.
   

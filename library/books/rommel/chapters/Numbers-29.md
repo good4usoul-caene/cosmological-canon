@@ -108,3 +108,6 @@ And their drink offerings.
   
 according to all that Yahweh had commanded him.
   
+
+
+

@@ -106,3 +106,6 @@ Maybe it will please God if you curse these people from there.
   
 he offered a bullock and a ram on each altar.
   
+
+
+

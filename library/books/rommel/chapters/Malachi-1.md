@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,15 +10,15 @@
   
 
 
-﻿1 The burden of the word of Yahweh to Israel by Malachi.
+ï»¿1 The burden of the word of Yahweh to Israel by Malachi.
   
 2 I have loved you, says Yahweh.
   
-And nevertheless you say: How do you show us your love.
+And Nevertheless You say: How do you show us your love.
   
 3 Is not Esau the brother of Jacob, says Yahweh.
   
-And nevertheless I have loved Jacob, and I have hated Esau.
+And Nevertheless I have loved Jacob, and I have hated Esau.
   
 I made his mountains desolate, and gave his heritage to the jackals of the wilderness.
   
@@ -86,3 +86,8 @@ For I am a great king, says Yahweh the God of armies, and my name is awesome amo
   
 y name is awesome among the nations.
   
+
+
+
+
+

@@ -44,7 +44,7 @@ And it is at this event that I will tell the king the thing that I desire.
   
 9 And Haman was glad and excited on that day, when he went out of the first banquet.
   
-But when he saw Mordecai at the kingâ€™s gate, and saw that Mordecai neither stood up nor moved for him, then he was filled with indignation against Mordecai.
+But when he saw Mordecai at the king's gate, and saw that Mordecai neither stood up nor moved for him, then he was filled with indignation against Mordecai.
   
 10 Nevertheless Haman refrained from doing anything.
   
@@ -66,3 +66,6 @@ And the thing pleased Haman, and he caused the gibbet to be made.
   
 sed the gibbet to be made.
   
+
+
+

@@ -148,3 +148,6 @@ And the ships were broken, so that Jehoshaphat and Ahaziah were not able to send
   
 hat Jehoshaphat and Ahaziah were not able to send them to Tarshish.
   
+
+
+

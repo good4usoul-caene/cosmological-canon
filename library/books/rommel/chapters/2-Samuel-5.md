@@ -88,3 +88,6 @@ But turn around them from behind, and come on them opposite the mulberry trees.
   
 d the Philistines from Geba to Gezer.
   
+
+
+

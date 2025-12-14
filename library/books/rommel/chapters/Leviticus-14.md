@@ -172,3 +172,6 @@ He will thus make atonement for the house and it will be clean.
   
 is is the law of leprosy to teach when a thing is unclean and when it is clean.
   
+
+
+

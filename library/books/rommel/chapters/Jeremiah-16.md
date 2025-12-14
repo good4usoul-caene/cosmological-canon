@@ -94,3 +94,6 @@ I will cause them to know my hand and my power, and they will know that my name 
   
 d they will know that my name is Yahweh.
   
+
+
+

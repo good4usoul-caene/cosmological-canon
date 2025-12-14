@@ -154,3 +154,6 @@ These were the chiefs of Edom.
   
 f Mibzar. 54 Chief Magdiel, chief Iram. These were the chiefs of Edom.
   
+
+
+

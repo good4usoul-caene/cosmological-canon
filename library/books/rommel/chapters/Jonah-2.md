@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 And Jonah prayed to Yahweh his God with the following words while he was in the belly of the fish.
+ï»¿1 And Jonah prayed to Yahweh his God with the following words while he was in the belly of the fish.
   
 [Jonah said these words when he realized that he was still alive.]
   
@@ -46,3 +46,8 @@ Salvation comes from Yahweh.
   
 on the dry land.
   
+
+
+
+
+

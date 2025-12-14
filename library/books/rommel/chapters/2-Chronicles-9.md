@@ -106,3 +106,6 @@ And Rehoboam his son reigned in his stead.
   
 er. And Rehoboam his son reigned in his stead.
   
+
+
+

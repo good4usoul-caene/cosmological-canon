@@ -72,3 +72,6 @@ And Asa destroyed her idol, and crushed it into powder, and burned it in the val
   
 fth year of the reign of Asa.
   
+
+
+

@@ -184,3 +184,6 @@ So be it, so be it.
   
 footsteps of [David] your anointed. 52 Blessed be Yahweh forever. So be it, so be it.
   
+
+
+

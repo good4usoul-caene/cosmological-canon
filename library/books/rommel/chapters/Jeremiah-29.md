@@ -132,3 +132,6 @@ And king Solomon who built the new house for the name of Yahweh had explicitly s
   
 nced to him while he was building the new house of Yahweh.]
   
+
+
+

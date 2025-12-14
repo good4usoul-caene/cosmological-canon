@@ -98,3 +98,6 @@ It was because of the taking of the ark of God by their enemy, and because of he
   
 from Israel, for the ark of God is taken.
   
+
+
+

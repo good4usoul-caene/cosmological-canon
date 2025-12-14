@@ -138,3 +138,6 @@ The great will be cut down, and the arrogant humbled.
   
 e Assyrian who will be like Lebanon will fall by a mighty hit.
   
+
+
+

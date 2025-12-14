@@ -52,7 +52,7 @@ We receive good from the hand of God, and why should we not also receive evil.
   
 In all this, Job did not sin with his lips.
   
-11 Now three of Jobâ€™s friends have heard of all this misfortune that had befallen him, and they came every one from his own place.
+11 Now three of Job's friends have heard of all this misfortune that had befallen him, and they came every one from his own place.
   
 For they agreed together to come and lament with him, and to comfort him.
   
@@ -70,3 +70,6 @@ For they saw that his sorrow was very great.
   
 t his sorrow was very great.
   
+
+
+

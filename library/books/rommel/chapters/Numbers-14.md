@@ -152,3 +152,6 @@ But the ark of the covenant of Yahweh and Moses did not leave the camp.
   
 ountain came down and smote them, and consumed them as far as Hormah.
   
+
+
+

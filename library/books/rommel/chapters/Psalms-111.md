@@ -42,3 +42,6 @@ Everyone who learns from his commandments has a good understanding, for the glor
   
 dures forever.
   
+
+
+

@@ -124,3 +124,6 @@ This will be seen when Cornelius who is a Gentile will call Peter into his house
   
 d added to the church daily those who were being saved.
   
+
+
+

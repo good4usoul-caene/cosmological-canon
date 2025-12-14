@@ -50,7 +50,7 @@ If he does evil, then I will punish him with the rod of men and with the plagues
   
 17 And Nathan told David all these words and all this vision.
   
-18 Then king David went in [the tent that he had set up for the ark God], and did sit before Yahweh and said: Who am I, O Lord Yahweh, and what is the importance of my fatherâ€™s house, so that you have brought me where I am.
+18 Then king David went in [the tent that he had set up for the ark God], and did sit before Yahweh and said: Who am I, O Lord Yahweh, and what is the importance of my father's house, so that you have brought me where I am.
   
 19 And nevertheless all this kindness toward me is a small thing in your eyes, O Lord Yahweh.
   
@@ -98,3 +98,6 @@ And by your blessing the house of your servant is blessed forever.
   
 house of your servant is blessed forever.
   
+
+
+

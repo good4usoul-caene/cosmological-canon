@@ -128,3 +128,6 @@ And the children of Israel blessed God, and no longer talked about going to war 
   
 they said: It is a witness between us that Yahweh is God.
   
+
+
+

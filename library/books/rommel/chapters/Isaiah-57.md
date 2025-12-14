@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 The righteous perish, and no man considers it in his heart.
+ï»¿1 The righteous perish, and no man considers it in his heart.
   
 The good men are taken away, and no one understands that the righteous is taken away from the evil that dominates the world.
   
@@ -52,7 +52,7 @@ You have loved their bed where you have seen it.
   
 You send your messengers far and wide, you lower yourself to hell.
   
-10 You become weary because of your journey, and nevertheless you do not say, 'I will give up'.
+10 You become weary because of your journey, and Nevertheless You do not say, 'I will give up'.
   
 You seek all the remaining strength of your hand, therefore you are not discouraged.
   
@@ -98,3 +98,8 @@ I will heal them.
   
 e is no peace for the wicked, says my God.
   
+
+
+
+
+

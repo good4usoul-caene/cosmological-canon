@@ -98,3 +98,6 @@ This is how they camped according to their banners, and this is how they set out
   
 according to the houses of their fathers.
   
+
+
+

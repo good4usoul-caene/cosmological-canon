@@ -116,3 +116,6 @@ For they will be considered as natives among the children of Israel, and they wi
   
 the tribe where he sojourns, says the Lord Yahweh.
   
+
+
+

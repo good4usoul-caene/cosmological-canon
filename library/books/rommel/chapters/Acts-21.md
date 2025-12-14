@@ -162,3 +162,6 @@ And the people became quiet, and Paul said the following thing to them in the He
   
 e quiet, and Paul said the following thing to them in the Hebrew language.
   
+
+
+

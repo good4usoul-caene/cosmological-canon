@@ -70,3 +70,6 @@ And he built there an altar to Yahweh [to physically bear witness to an event th
   
 event that occurred there].
   
+
+
+

@@ -1,0 +1,10 @@
+
+Get-ChildItem -Path "C:\Users\good4\Temple\library\books\rommel\chapters" -Filter *.md | 
+  Select-String "â€™|â€œ|â€�" | 
+  Select-Object Path, LineNumber, Line
+
+
+
+Get-ChildItem -Path "C:\Users\good4\Temple\library\books\rommel\chapters" -Filter *.md | 
+  Select-String "nevertheless" | 
+  Select-Object Path, LineNumber, Line

@@ -78,3 +78,6 @@ And he was buried in Pirathon in the land of Ephraim, in the mount of the Amalek
   
 in the mount of the Amalekites.
   
+
+
+

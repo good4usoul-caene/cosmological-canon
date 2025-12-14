@@ -72,3 +72,6 @@ Praise Yahweh.
   
 his judgments. Praise Yahweh.
   
+
+
+

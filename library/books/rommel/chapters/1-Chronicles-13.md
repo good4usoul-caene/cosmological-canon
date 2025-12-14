@@ -48,3 +48,6 @@ It stayed in his house three months, and Yahweh blessed the house of Obed-edom a
   
 all that he had.
   
+
+
+

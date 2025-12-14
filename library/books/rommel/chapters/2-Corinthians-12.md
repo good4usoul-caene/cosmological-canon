@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 It is not good for me to boast.
+ï»¿1 It is not good for me to boast.
   
 Nevertheless I will come to visions and revelations of the Lord.
   
@@ -82,3 +82,8 @@ For I fear finding quarrels, jealousy, animosities, intrigues, backbiting, whisp
   
 eness in which they have indulged.
   
+
+
+
+
+

@@ -72,3 +72,6 @@ For I am with you to protect you, says Yahweh.
   
 to protect you, says Yahweh.
   
+
+
+

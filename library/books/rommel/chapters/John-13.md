@@ -48,7 +48,7 @@ Then he said to them: Do you understand what I have done to you.
   
 And you say well, because that is what I am.
   
-14 Therefore if I have washed your feet, I your Lord and Master, then you also ought to wash each otherâ€™s feet.
+14 Therefore if I have washed your feet, I your Lord and Master, then you also ought to wash each other's feet.
   
 15 For I have given you an example, so that you may do as I have done to you.
   
@@ -128,3 +128,6 @@ Truly, truly, I say to you, the rooster will not crow this day until you have de
   
 s day until you have denied three times that you know me.
   
+
+
+

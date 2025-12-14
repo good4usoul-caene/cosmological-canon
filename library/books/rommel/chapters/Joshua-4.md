@@ -78,3 +78,6 @@ And they feared him all the days of his life as they feared Moses.
   
 may fear Yahweh your God always.
   
+
+
+

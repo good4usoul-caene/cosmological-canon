@@ -114,3 +114,6 @@ And Joab returned to Jerusalem to the king.
   
 d Ira the Jairite was the chief minister of David.
   
+
+
+

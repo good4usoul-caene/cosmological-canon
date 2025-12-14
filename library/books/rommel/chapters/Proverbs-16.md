@@ -52,7 +52,7 @@ For each king wants each of his servant to speak without seeking to deceive the 
   
 14 The wrath of a king is like the messengers of death, and a wise servant will seek to pacify it.
   
-15 All the servants of the kingdom are invigorated when the kingâ€™s countenance reveals that he is happy.
+15 All the servants of the kingdom are invigorated when the king's countenance reveals that he is happy.
   
 And a favor of a king towards his people is like a cloud of the latter rain.
   
@@ -108,3 +108,6 @@ He who rules his own spirit in order to not let oneself be under the control of 
   
 er obtained in this way comes also from Yahweh.
   
+
+
+

@@ -108,3 +108,6 @@ For Yahweh preserves the faithful, but he punishes the proud severely.
   
 ts be strengthened, you all who hope in Yahweh.
   
+
+
+

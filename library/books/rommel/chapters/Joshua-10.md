@@ -178,3 +178,6 @@ He left no remaining, but he utterly destroyed every soul as Yahweh the God of I
   
 for Israel. 43 Then Joshua and all Israel with him returned to the camp at Gilgal.
   
+
+
+

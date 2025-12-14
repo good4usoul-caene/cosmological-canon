@@ -170,3 +170,6 @@ And he reigned two years over Israel.
   
 e provoked Yahweh the God of Israel according to all that his father had done.
   
+
+
+

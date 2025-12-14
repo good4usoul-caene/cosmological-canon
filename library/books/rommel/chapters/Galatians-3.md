@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 O foolish Galatians.
+ï»¿1 O foolish Galatians.
   
 Who has bewitched you to turn you away from understanding the faith.
   
@@ -62,7 +62,7 @@ And the birth of Isaac, the son of the covenant, occurred more than a year later
   
 And the sons of Isaac were twin brothers, Esau and Jacob, but one Jacob is the only one to have received the promises made to Abraham and to Isaac in accordance with the following word that was spoken by the prophet Malachi: Is not Esau the brother of Jacob, says the Lord.
   
-And nevertheless I have loved Jacob, and I have hated Esau.
+And Nevertheless I have loved Jacob, and I have hated Esau.
   
 I made his mountains desolate, and gave his heritage to the jackals of the wilderness.]
   
@@ -184,3 +184,8 @@ For you are all one in Christ Jesus.
   
 u belong to Christ, then you are the seed of Abraham, heirs according to the promise.
   
+
+
+
+
+

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 And it was told Joab: Behold the king weeps and laments because of Absalom.
+ï»¿1 And it was told Joab: Behold the king weeps and laments because of Absalom.
   
 2 Therefore the victory of that day was turned into mourning for all the people.
   
@@ -68,7 +68,7 @@ And the men of Judah went to Gilgal to meet the king and to bring the king acros
   
 And they went over the Jordan to meet the king.
   
-18 And a boat went over to bring the kingâ€™s household and do what he thought good.
+18 And a boat went over to bring the kingÃ¢â‚¬â„¢s household and do what he thought good.
   
 And when Shimei the son of Gera had come over the Jordan, then he bowed down before the king.
   
@@ -110,7 +110,7 @@ But my lord the king is like an angel of God.
   
 Now therefore do what seems good to you.
   
-28 For all those of my father's house have been worthy of death before my lord the king, and nevertheless you have placed your servant among those who eat at your table.
+28 For all those of my father's house have been worthy of death before my lord the king, and Nevertheless You have placed your servant among those who eat at your table.
   
 Now therefore what right do I still have, so that I may cry to the king.
   
@@ -164,7 +164,7 @@ For they were the most represented tribe among all those who accompanied the kin
   
 Why now are you angry about this thing.
   
-Have we eaten of what comes from the kingâ€™s resources [which are to be provided by all the tribes].
+Have we eaten of what comes from the kingÃ¢â‚¬â„¢s resources [which are to be provided by all the tribes].
   
 Has the king given us any gift.
   
@@ -178,3 +178,8 @@ And the words of the men of Judah were fiercer than the words of the men of Isra
   
 nd the words of the men of Judah were fiercer than the words of the men of Israel.
   
+
+
+
+
+

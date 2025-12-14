@@ -132,3 +132,6 @@ And then David and all the army went back to Jerusalem.
   
 on. And then David and all the army went back to Jerusalem.
   
+
+
+

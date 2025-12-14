@@ -30,7 +30,7 @@ The letters that he wrote to destroy the Jews who are in all the king's province
   
 7 Then the king Ahasuerus said to Esther the queen and to Mordecai the Jew: Behold I have given the house of Haman to Esther, and he has been hanged on the gibbet because he has stretched out his hand against the Jews.
   
-8 And now I give you the permission to write in the name of the king whatever you want for the Jews, and seal it with the kingâ€™s ring.
+8 And now I give you the permission to write in the name of the king whatever you want for the Jews, and seal it with the king's ring.
   
 But know that none of the decrees that are written in the name of the king and sealed with the king's ring can be revoked.
   
@@ -68,3 +68,6 @@ And many persons from among the peoples of the kingdom became Jews [that is to s
   
 e hidden power of the Jews.
   
+
+
+

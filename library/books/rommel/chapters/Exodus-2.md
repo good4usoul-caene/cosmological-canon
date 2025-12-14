@@ -96,3 +96,6 @@ And these cries which were caused by bondage went up to God.
   
 f Israel, and God had compassion on them.
   
+
+
+

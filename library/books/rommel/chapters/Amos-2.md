@@ -62,3 +62,6 @@ It is Yahweh your God who is asking you this question.
   
 n that day, says Yahweh.
   
+
+
+

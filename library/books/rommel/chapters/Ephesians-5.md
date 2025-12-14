@@ -110,3 +110,6 @@ I say this in relation to Christ and the church.
   
 himself, and the wife must respect her husband.
   
+
+
+

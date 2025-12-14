@@ -12,7 +12,7 @@
 
 ﻿1 How to offend or please the holy spirit (John 5:39-40 - Jeremiah 9:23-24), first part.
   
-2 Godâ€™s love means that he will give a place, possibly anonymously (Galatians 6:7-8 - Ecclesiastes 9:13-15), to our heavenly body (Genesis 6:5-8 - 8:18-22).
+2 God's love means that he will give a place, possibly anonymously (Galatians 6:7-8 - Ecclesiastes 9:13-15), to our heavenly body (Genesis 6:5-8 - 8:18-22).
   
 3 And this does not always translate into a long life (Luke 9:7-9 - 2 Chronicles 34:1-2 - 2 Samuel 5:4-5) but it is often the case (2 Peter 3:9,15).
   
@@ -76,3 +76,6 @@ God the Father and God the Son and God the holy spirit.
   
 he Son and God the holy spirit.
   
+
+
+

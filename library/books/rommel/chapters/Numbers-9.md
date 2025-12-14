@@ -92,3 +92,6 @@ And they obeyed to Yahweh according to the commandment of Yahweh by the hand of 
   
 andment of Yahweh by the hand of Moses.
   
+
+
+

@@ -74,3 +74,6 @@ For Yahweh your God will certainly demand it from you, and you will bear a sin.
   
 ckle on your neighbor's grain.
   
+
+
+

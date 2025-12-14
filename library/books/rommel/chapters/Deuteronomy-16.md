@@ -80,3 +80,6 @@ For gifts blind the eyes of the wise and pervert the words of the righteous.
   
 Yahweh your God hates this thing.
   
+
+
+

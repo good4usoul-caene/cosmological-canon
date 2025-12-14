@@ -172,3 +172,6 @@ Examine, and you will see that no prophet arises from Galilee.
   
 om Galilee. Examine, and you will see that no prophet arises from Galilee. 53 .
   
+
+
+

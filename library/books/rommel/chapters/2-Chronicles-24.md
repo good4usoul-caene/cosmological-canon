@@ -104,3 +104,6 @@ And Amaziah his son reigned in his stead.
   
 gs. And Amaziah his son reigned in his stead.
   
+
+
+

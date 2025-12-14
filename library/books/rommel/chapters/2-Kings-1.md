@@ -76,3 +76,6 @@ And Jehoram [the brother of Ahaziah] began to reign in his stead in the second y
   
 onicles of the kings of Israel.
   
+
+
+

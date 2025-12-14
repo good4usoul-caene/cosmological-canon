@@ -118,3 +118,6 @@ We must not seek to understand the exact intentions of God in any situation but 
   
 y situation but only obey him with a devoted heart.]
   
+
+
+

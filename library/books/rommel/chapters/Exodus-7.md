@@ -88,3 +88,6 @@ And he did not listen to Moses and Aaron, as Yahweh had said.
   
 d after Yahweh had smitten the river.
   
+
+
+

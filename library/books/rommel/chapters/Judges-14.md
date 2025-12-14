@@ -32,7 +32,7 @@ And behold, a young lion roared against him.
   
 And without having anything in hand, Samson tore the lion as one would tear a kid from the flock with a tool.
   
-7 And he went down and talked with the woman who was beautiful in Samsonâ€™s eyes.
+7 And he went down and talked with the woman who was beautiful in Samson's eyes.
   
 8 And few days later when he returned in Timnah to take her, then he turned away to see the carcass of the lion.
   
@@ -92,7 +92,10 @@ And he gave the spare clothes to those who had explained the riddle.
   
 And his anger was kindled, and he went up to his father's house.
   
-20 Then Samsonâ€™s wife was given to his companion, whom he had used as his friend.
+20 Then Samson's wife was given to his companion, whom he had used as his friend.
   
 ompanion, whom he had used as his friend.
   
+
+
+

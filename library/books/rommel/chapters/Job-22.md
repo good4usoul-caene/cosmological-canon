@@ -22,7 +22,7 @@ Or is it profitable for him when you are upright.
   
 5 Is not your wickedness large, and are not your iniquities innumerable.
   
-6 For you have considered your brotherâ€™s oath as nothing, and have stripped the naked of his clothes.
+6 For you have considered your brother's oath as nothing, and have stripped the naked of his clothes.
   
 7 You did not give water to those who were thirsty, and you withheld the bread of the hungry.
   
@@ -88,3 +88,6 @@ For God will save the humble person.
   
 reserved by the purity of your hands.
   
+
+
+

@@ -122,3 +122,6 @@ In this way you will dwell in the land of Goshen, for all shepherds are an abomi
   
 for all shepherds are an abomination to the Egyptians.
   
+
+
+

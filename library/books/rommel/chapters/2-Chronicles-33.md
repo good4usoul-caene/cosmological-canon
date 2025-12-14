@@ -74,3 +74,6 @@ And Amon sacrificed to all the remaining images that Manasseh his father had mad
   
 iah his son king in his stead.
   
+
+
+

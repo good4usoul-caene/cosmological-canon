@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 After these things were done, the princes [leaders] came to me and said: The people of Israel, and the priests, and the Levites, have not separated themselves from the peoples of the lands and are doing according to their abominations.
+ï»¿1 After these things were done, the princes [leaders] came to me and said: The people of Israel, and the priests, and the Levites, have not separated themselves from the peoples of the lands and are doing according to their abominations.
   
 The abominations of the Canaanites, and of the Hittites, and of the Perizzites, and of the Jebusites, and of the Ammonites, and of the Moabites, and of the Egyptians, and of the Amorites.
   
@@ -54,7 +54,7 @@ And thus you will be strong [if you do not participate in their evil behavior], 
   
 13 So our evil deeds and our great transgression have caused all that have happened to us.
   
-And nevertheless you have not punished us according to our iniquities, for you have given us these survivors.
+And Nevertheless You have not punished us according to our iniquities, for you have given us these survivors.
   
 14 If we continue to transgress your commandments by uniting with these abominable peoples [namely by imitating their practices], will not your anger come back against us until you destroy us without leaving a single survivor.
   
@@ -66,3 +66,8 @@ Behold we stand before you in our new transgression, and we cannot lift up our f
   
 efore you because of this.
   
+
+
+
+
+

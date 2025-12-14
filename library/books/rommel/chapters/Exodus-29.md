@@ -156,3 +156,6 @@ I am Yahweh their God.
   
 em out of the land of Egypt to dwell among them. I am Yahweh their God.
   
+
+
+

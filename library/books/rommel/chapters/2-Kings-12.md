@@ -74,3 +74,6 @@ And the people buried him with his fathers in the city of David, and Amaziah his
   
 his son reigned in his stead.
   
+
+
+

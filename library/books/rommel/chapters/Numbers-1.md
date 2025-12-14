@@ -20,7 +20,7 @@ He spoke in the following words.
   
 You and Aaron will number them according to their divisions.
   
-4 And there will be with you a man of each tribe, who is the chief of his fatherâ€™s house.
+4 And there will be with you a man of each tribe, who is the chief of his father's house.
   
 5 And these are the names of the men who will stand with you.
   
@@ -140,3 +140,6 @@ They did so.
   
 did according to all that Yahweh commanded Moses. They did so.
   
+
+
+

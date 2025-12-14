@@ -14,13 +14,13 @@
   
 Then he put on sackcloth, and also ashes on his body, and he went out into the midst of the city while crying with a loud voice and a bitter lamentation.
   
-2 And came as far as to the king's gate, but he did not go further because no one could enter the kingâ€™s gate while being dressed in sackcloth.
+2 And came as far as to the king's gate, but he did not go further because no one could enter the king's gate while being dressed in sackcloth.
   
-3 And in every province, wherever the kingâ€™s commandment and his decree came, there was great mourning among the Jews.
+3 And in every province, wherever the king's commandment and his decree came, there was great mourning among the Jews.
   
 And they fasted, and wept and moaned, and many lay down on the sack and ashes.
   
-4 And the handmaids of Esther and her eunuchs came and told her that Mordecai had appeared before the kingâ€™s gate in sackcloth, and the queen was very frightened.
+4 And the handmaids of Esther and her eunuchs came and told her that Mordecai had appeared before the king's gate in sackcloth, and the queen was very frightened.
   
 Then she sent messengers with a garment to clothe Mordecai and to take his sackcloth off his body, but he refused to do so.
   
@@ -46,7 +46,7 @@ But I have not been summoned to the king for thirty days.
   
 12 And they said to Mordecai the words of Esther.
   
-13 And Mordecai told them to give the following answer to Esther: Do not think that being in the kingâ€™s house will allow you to be the only one of all the Jews to escape this massacre.
+13 And Mordecai told them to give the following answer to Esther: Do not think that being in the king's house will allow you to be the only one of all the Jews to escape this massacre.
   
 14 For if you hold your peace at this time, then deliverance and comfort will arise for to the Jews from another place, but you and your father's house [of which you are the only living representative] will perish.
   
@@ -66,3 +66,6 @@ And if I must perish, then I will perish.
   
 Esther had commanded him.
   
+
+
+

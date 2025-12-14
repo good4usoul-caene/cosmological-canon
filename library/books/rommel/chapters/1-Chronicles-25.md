@@ -30,7 +30,7 @@ God had given Heman fourteen sons and three daughters.
   
 And they had cymbals, and violas, and harps, in order to serve at the house of God.
   
-Asaph and Jeduthun and Heman were subject to the king’s orders.
+Asaph and Jeduthun and Heman were subject to the king's orders.
   
 7 With their brothers [of the Levites] they were two hundred and eighty eight men who were appointed to sing praises to Yahweh, all those who were skillful.
   
@@ -86,3 +86,6 @@ The second was for Gedaliah, he and his sons and his brothers, twelve.
   
 d his sons and his brothers, twelve.
   
+
+
+

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 And Jesus spoke the following parable to them, in order to show that it is good to pray continuously and never stop.
+ï»¿1 And Jesus spoke the following parable to them, in order to show that it is good to pray continuously and never stop.
   
 [That is to say, we must never succumb to the temptation to act in a publicly unjustifiable manner, but rather we must pray continuously for the restoration of the rights of all those who are unjustly oppressed.
   
@@ -22,7 +22,7 @@ For the fact of praying allows us to remember the existence of the living God wh
   
 4 For a long time he refused.
   
-But afterward he said within himself: Despite the fact that I do not fear God and that I have no regard for anyone, nevertheless I will give justice to this woman.
+But afterward he said within himself: Despite the fact that I do not fear God and that I have no regard for anyone, Nevertheless I will give justice to this woman.
   
 5 For after that she will no longer come to disturb my peace.
   
@@ -146,3 +146,8 @@ And when all the people saw this thing, they praised God.
   
 ing God. And when all the people saw this thing, they praised God.
   
+
+
+
+
+

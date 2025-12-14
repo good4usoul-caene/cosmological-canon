@@ -108,3 +108,6 @@ And Moses did as Yahweh had commanded.
   
 ir sins. And Moses did as Yahweh had commanded.
   
+
+
+

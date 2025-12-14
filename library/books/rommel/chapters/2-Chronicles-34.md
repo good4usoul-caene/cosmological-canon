@@ -114,3 +114,6 @@ And they did not turn away from following Yahweh the God of their fathers during
   
 od of their fathers during all the days of Josiah.
   
+
+
+

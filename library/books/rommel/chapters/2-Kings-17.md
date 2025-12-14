@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to reign over Israel in Samaria.
+ï»¿1 In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to reign over Israel in Samaria.
   
 And Hoshea reigned nine years.
   
@@ -44,7 +44,7 @@ And they had done wicked things there, by which they had provoked the anger of Y
   
 12 They served idols [false gods] about which Yahweh had said to them: You will not do such a thing.
   
-13 And nevertheless Yahweh had warned Israel and Judah through all the prophets and through all the seers by saying: Return from your evil ways, and keep my commandments and my statutes according to all the law that I commanded your fathers and that I sent to you [and to them] by my servants the prophets.
+13 And Nevertheless Yahweh had warned Israel and Judah through all the prophets and through all the seers by saying: Return from your evil ways, and keep my commandments and my statutes according to all the law that I commanded your fathers and that I sent to you [and to them] by my servants the prophets.
   
 14 But they did not want to obey, and they hardened their necks like their fathers who had not believed in Yahweh their God.
   
@@ -140,3 +140,11 @@ As their fathers did, they have done thus to this day.
   
 ikewise. As their fathers did, they have done thus to this day.
   
+
+
+
+
+
+
+
+

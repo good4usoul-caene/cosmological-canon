@@ -124,3 +124,6 @@ And then evil will surely come on you because of your wickedness in the sight of
   
 g song in the presence of the whole assembly of Israel.
   
+
+
+

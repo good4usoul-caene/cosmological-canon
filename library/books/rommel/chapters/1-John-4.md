@@ -108,7 +108,7 @@ For fear arises because of the expectation of an unknown punishment, and therefo
   
 [Now as the notion of love is somewhat complicated, so too is the notion of fear.
   
-It is not about taking the initiative to enter a dangerous situation without being forced to do so in one way or another, but rather about not having one’s mind agitated in the absence of apparent dangers.]
+It is not about taking the initiative to enter a dangerous situation without being forced to do so in one way or another, but rather about not having one's mind agitated in the absence of apparent dangers.]
   
 19 As for us, we love him because he has loved us first.
   
@@ -124,3 +124,6 @@ And each person must give an answer to each offense that is made against him, an
   
 simply consist of distancing oneself in a certain way.]
   
+
+
+

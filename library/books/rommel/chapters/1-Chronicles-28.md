@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -82,3 +82,11 @@ And the princes [of the tribes] and all the people will be wholly under your com
   
 ill be wholly under your commands.
   
+
+
+
+
+
+
+
+

@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 In those days, some people who were there told Jesus about the Galileans whose blood had been mingled with their sacrifices by Pilate.
+ï»¿1 In those days, some people who were there told Jesus about the Galileans whose blood had been mingled with their sacrifices by Pilate.
   
 [It was while they were offering sacrifices that the men of Pilate came and killed them.]
   
@@ -130,3 +130,8 @@ And truly I say to you, you will not see me until the time comes when you say: B
   
 say: Blessed is the one who comes in the name of the Lord.
   
+
+
+
+
+

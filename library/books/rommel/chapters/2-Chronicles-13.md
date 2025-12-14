@@ -100,3 +100,6 @@ And there were Sodomites in the territory of the kingdom of Judah.]
   
 tten in the commentary of the prophet Iddo.
   
+
+
+

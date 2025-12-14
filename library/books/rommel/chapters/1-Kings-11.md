@@ -132,3 +132,6 @@ And Rehoboam his son reigned in his stead.
   
 avid his father. And Rehoboam his son reigned in his stead.
   
+
+
+

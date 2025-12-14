@@ -78,3 +78,6 @@ For they have gone to other gods to worship them and serve them, this is why he 
   
 brought all these evil on them.
   
+
+
+

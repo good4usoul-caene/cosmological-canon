@@ -108,3 +108,6 @@ I Yahweh have spoken it, and I will do it.
   
 ish. I Yahweh have spoken it, and I will do it.
   
+
+
+

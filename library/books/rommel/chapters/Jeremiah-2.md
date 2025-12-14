@@ -170,3 +170,6 @@ For Yahweh has rejected those in whom you trust, and you will not prosper with t
   
 hweh has rejected those in whom you trust, and you will not prosper with them.
   
+
+
+

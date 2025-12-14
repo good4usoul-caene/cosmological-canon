@@ -12,7 +12,7 @@
 
 ﻿1 When a man marries a woman and she does not find favor in his eyes because he has discovered something shameful in her, then he will write her a letter of divorce, and give it to her and send her out from his house.
   
-2 And she will leave his house and go her way, and can become another manâ€™s wife.
+2 And she will leave his house and go her way, and can become another man's wife.
   
 3 And if the latter husband hates her and writes her a divorce letter, and puts it in her hand and sends her out from his house.
   
@@ -86,3 +86,6 @@ Therefore I command you to do this thing.
   
 fore I command you to do this thing.
   
+
+
+

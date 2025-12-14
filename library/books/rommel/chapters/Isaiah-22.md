@@ -96,3 +96,6 @@ For Yahweh has spoken it.
   
 l be destroyed. For Yahweh has spoken it.
   
+
+
+

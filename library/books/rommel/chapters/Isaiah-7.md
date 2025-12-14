@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 And in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, it happens that Rezin the king of Syria and Pekah king of Israel the son of Remaliah came up against Jerusalem to war against it, but he could not overcome it.
+ï»¿1 And in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, it happens that Rezin the king of Syria and Pekah king of Israel the son of Remaliah came up against Jerusalem to war against it, but he could not overcome it.
   
 2 And it was told the house of David by saying: The Syrians have joined themselves with Ephraim [to fight against us].
   
@@ -86,3 +86,11 @@ The oxen will be sent there to graze, and the sheep will wander there.
   
 ze, and the sheep will wander there.
   
+
+
+
+
+
+
+
+

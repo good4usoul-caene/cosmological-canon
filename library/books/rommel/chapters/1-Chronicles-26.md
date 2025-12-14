@@ -96,3 +96,6 @@ And king David made them rulers over the Reubenites, and over the Gadites, and o
   
 g all the matters of God and of the king.
   
+
+
+

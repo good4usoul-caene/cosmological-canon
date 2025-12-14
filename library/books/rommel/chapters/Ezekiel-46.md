@@ -1,4 +1,4 @@
-<!-- navigation start -->
+﻿<!-- navigation start -->
   
 [Links-Book-List](./Links-Book-List.md)
   
@@ -10,7 +10,7 @@
   
 
 
-﻿1 Thus says the Lord Yahweh: The gate of the inner courtyard that faces the east will be shut on the six working days, but it will be opened on the sabbath, and it will be opened on the day of the new moon.
+ï»¿1 Thus says the Lord Yahweh: The gate of the inner courtyard that faces the east will be shut on the six working days, but it will be opened on the sabbath, and it will be opened on the day of the new moon.
   
 [Now this gate of the inner courtyard is different from the outer gate of the wall that surrounds all the buildings of the sanctuary, and it is not the only gate of the inner courtyard.]
   
@@ -52,7 +52,7 @@ After that he will go out, and one will shut the gate when he has gone out.
   
 [Now this commandment concern the outer gate through which the glory of Yahweh had entered, and the precision has not been made so as not to clearly reveal that the prince will have this privilege which is reserved for the glory of Yahweh.
   
-Nevertheless it is possible to think that it does not concern that particular gate, but rather the gate of the inner courtyard that remains open until evening during each sabbath.
+Nevertheless It is possible to think that it does not concern that particular gate, but rather the gate of the inner courtyard that remains open until evening during each sabbath.
   
 And even in this situation one can cogitate about the behavior that the prince must have, since he is the only person of the people who can access the inner courtyard apart from the priests, and on the day when this gate is open until evening he must instead go through the porch of this gate, and it is not the only gate of the inner courtyard.
   
@@ -110,3 +110,8 @@ All these four places were of the same measurement, at the corners.
   
 offerings that are eaten by the common people.]
   
+
+
+
+
+

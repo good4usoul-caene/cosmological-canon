@@ -104,3 +104,6 @@ For he will go before this people and he will divide the inheritance to them, th
   
 we remained in the valley opposite Beth-peor.
   
+
+
+

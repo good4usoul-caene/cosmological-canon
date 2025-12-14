@@ -70,3 +70,6 @@ He did what was good and right and true before Yahweh his God.
   
 his heart and he prospered.
   
+
+
+

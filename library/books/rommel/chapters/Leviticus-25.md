@@ -192,3 +192,6 @@ I am Yahweh your God.
   
 laves. They are my slaves, whom I brought out of the land of Egypt. I am Yahweh your God.
   
+
+
+

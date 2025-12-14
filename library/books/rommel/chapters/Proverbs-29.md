@@ -86,3 +86,6 @@ For he will not be willing to remove deceit from his lips when they have committ
   
 ays is an abomination to the wicked.
   
+
+
+

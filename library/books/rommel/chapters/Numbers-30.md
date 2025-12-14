@@ -48,7 +48,10 @@ He has confirmed them because he kept silent towards her on the same day that he
   
 15 But if he cancels them after the day in which he becomes aware of them, then he will bear her iniquity.
   
-16 These are the ordinances which Yahweh commanded Moses, between a man and his wife, and between the father and his daughter when she is in her youth and in her fatherâ€™s house.
+16 These are the ordinances which Yahweh commanded Moses, between a man and his wife, and between the father and his daughter when she is in her youth and in her father's house.
   
-r fatherâ€™s house.
+r father's house.
   
+
+
+

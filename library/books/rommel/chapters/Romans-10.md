@@ -78,3 +78,6 @@ Moses first said: I will provoke you to jealousy by those who are not a people, 
   
 llious and contradictory people.
   
+
+
+

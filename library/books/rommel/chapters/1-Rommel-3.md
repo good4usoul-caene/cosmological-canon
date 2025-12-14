@@ -70,7 +70,7 @@ It is remarkable that this event took place at Kadesh shortly before the death o
   
 9 Since his true guilt lies elsewhere (Numbers 20:10-12,22-29), we must think that Aaron acted under duress (Exodus 32:21-25,31-35) in the hope of a rapid return of Moses and in order to prevent the dispersion of the people.
   
-10 And this now is a main characteristic of God: he takes seriously the one who honors him even if he may at the same time distress the spirit of such a person because of his past or his genealogy, and the same God forgives the one who does not glorify him completely [for Aaron has already listened to the angel’s instructions with all the people (Exodus 20)] but also mocks such a person in a way that sometimes requires a long time to be clarify (Exodus 28:9-21,29-38 - 29:29-30 - Galatians 6:7).
+10 And this now is a main characteristic of God: he takes seriously the one who honors him even if he may at the same time distress the spirit of such a person because of his past or his genealogy, and the same God forgives the one who does not glorify him completely [for Aaron has already listened to the angel's instructions with all the people (Exodus 20)] but also mocks such a person in a way that sometimes requires a long time to be clarify (Exodus 28:9-21,29-38 - 29:29-30 - Galatians 6:7).
   
 [The angels of Yahweh never speak to make anyone laugh.
   
@@ -96,7 +96,7 @@ For it was Eli and his sons who were priests in the house of Yahweh (1 Samuel 1:
   
 And these recognized prophets sometimes speak more directly with the angels of Yahweh (2 Chronicles 29:25 - 1 Samuel 9:9 - 2 Samuel 24:11-12,17-19 - 1 Chronicles 21:9-10,16-19).
   
-[In these latter references, David’s responsibility is partly transferred to the people who previously asked God to establish a king over them but this is not the only reason (4 Rommel 6:30-32)] 14 But the legacy that each person gives to the world depends solely on his personal relationship with God and do not depend on his genealogy (Exodus 32:33 - Leviticus 10:1-7 - 1 Chronicles 24:1-2 - Numbers 14:26-35 - Deuteronomy 1:34-40 - 24:16 - Ecclesiastes 6:1-6 - 1 Kings 14:10-13 - Ezekiel 14:12-23 - 18:1-20 - 4 Rommel 2:26).
+[In these latter references, David's responsibility is partly transferred to the people who previously asked God to establish a king over them but this is not the only reason (4 Rommel 6:30-32)] 14 But the legacy that each person gives to the world depends solely on his personal relationship with God and do not depend on his genealogy (Exodus 32:33 - Leviticus 10:1-7 - 1 Chronicles 24:1-2 - Numbers 14:26-35 - Deuteronomy 1:34-40 - 24:16 - Ecclesiastes 6:1-6 - 1 Kings 14:10-13 - Ezekiel 14:12-23 - 18:1-20 - 4 Rommel 2:26).
   
 Jonadab the son of Rechab created his own legacy (2 Kings 10:15-23,24-28), and his children created their own legacy (Jeremiah 35).
   
@@ -118,7 +118,7 @@ However our transgressions influence the nature of the tests undergone by our de
   
 16 In addition, Moses established a temporary house of Yahweh in order to replace the idol that had just been made by the people who needed to observe what they worshiped so as not to go astray (Exodus 33:7-11).
   
-And at that time which preceded the tent of meeting built according to the model shown by God (Exodus 34:1-4,28-31,32-35 - Number 7:89 - 1 Rommel 3:42), Moses who is from the tribe of Levi and his servant Joshua who is from the tribe of Ephraim (Numbers 13:8,16) did not need to decorate their garments with noisy bells and several copies of the names of Jacob’s twelve sons to prove their closeness to God.
+And at that time which preceded the tent of meeting built according to the model shown by God (Exodus 34:1-4,28-31,32-35 - Number 7:89 - 1 Rommel 3:42), Moses who is from the tribe of Levi and his servant Joshua who is from the tribe of Ephraim (Numbers 13:8,16) did not need to decorate their garments with noisy bells and several copies of the names of Jacob's twelve sons to prove their closeness to God.
   
 And God was accessible to all when Moses had not yet gone to the mountain for the first time (Exodus 4:27-29 - 19:1-6 - 20:18-23 - 24:1-11,12-14 - 3 Rommel 1:2-3,10-12).
   
@@ -194,7 +194,7 @@ But the apostle Peter did not sin when he denied three times that he knew Jesus 
   
 But since he submitted to their idolatrous solicitation, then Aaron will continually bear the names of the tribes of Israel in the dress that represents his dignity: these names will be on two stones placed on his two shoulders, and also on twelve stones placed on his heart (Exodus 28:9-21,29-38 - 29:29-30).
   
-22 But it seems that God the Father anticipated Aaron’s contribution to the sin of the people, since Moses had received the commandments concerning the building of the tabernacle and the ridiculous garments of Aaron before going down from the mountain to see the transgression of the people.
+22 But it seems that God the Father anticipated Aaron's contribution to the sin of the people, since Moses had received the commandments concerning the building of the tabernacle and the ridiculous garments of Aaron before going down from the mountain to see the transgression of the people.
   
 But we must think that the angel have adapted the words that he spoke to Moses according to the events that were taking place in the camp (Deuteronomy 9:7-13 - Psalms 40 - Jeremiah 7:21-24 - 18:1-10 - Ezekiel 20:1-26), since the Torah of Moses contains other commandments that were given to resolve in real time problems that arose circumstantially (Numbers 27:1-11 - 36:1-10).
   
@@ -548,3 +548,6 @@ More than two thousand years later, the holy spirit continues to descend on all 
   
 the Christian faith, marking the beginning of the Church against which even the evils of hell will not prevail. More than two thousand years later, the holy spirit continues to descend on all those who proclaim the name of Christ, enabling them to spread the Gospel.
   
+
+
+

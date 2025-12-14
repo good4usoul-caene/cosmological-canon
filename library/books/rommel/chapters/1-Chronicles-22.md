@@ -78,3 +78,6 @@ Arise and build the sanctuary of Yahweh God, in order to bring the ark of the co
   
 ve built for the name of Yahweh.
   
+
+
+

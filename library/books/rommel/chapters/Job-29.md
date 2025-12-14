@@ -36,7 +36,7 @@ And when the eye saw me, then it testified to me.
   
 12 For I delivered the poor who cried, and the fatherless, and the one who had no one to help him.
   
-13 The blessing of the one who was ready to perish came on me, and I rejoiced the widowâ€™s heart.
+13 The blessing of the one who was ready to perish came on me, and I rejoiced the widow's heart.
   
 14 I put on righteousness and it covered me.
   
@@ -68,3 +68,6 @@ I was like a king in the midst of a troop, and like a comforter to the afflicted
   
 comforter to the afflicted.
   
+
+
+

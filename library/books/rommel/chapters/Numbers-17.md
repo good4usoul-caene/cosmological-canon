@@ -26,7 +26,7 @@ And you will write each man's name on his rod.
   
 6 Then Moses spoke to the children of Israel, and all their princes gave him a rod, each prince a rod, according to the houses of their fathers.
   
-There were twelve rods, and Aaronâ€™s rod was in their midst.
+There were twelve rods, and Aaron's rod was in their midst.
   
 7 And Moses laid the rods before Yahweh in the tent of meeting.
   
@@ -54,3 +54,6 @@ Must we all be consumed and die.
   
 be consumed and die.
   
+
+
+

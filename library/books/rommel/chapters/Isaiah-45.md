@@ -130,3 +130,6 @@ All those who have provoked his anger will come before him and will be ashamed.
   
 eed of Israel will be justified in Yahweh, and will glory.
   
+
+
+

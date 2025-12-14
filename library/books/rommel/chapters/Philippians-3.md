@@ -82,3 +82,6 @@ They only think about earthly things.
   
 to subject all things to himself.
   
+
+
+

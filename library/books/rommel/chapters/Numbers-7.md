@@ -258,3 +258,6 @@ And he spoke to him.
   
 speaking to him from between the two cherubim of the mercy seat that was on the ark of the testimony. And he spoke to him.
   
+
+
+

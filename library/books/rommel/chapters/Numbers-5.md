@@ -100,3 +100,6 @@ The priest will make her stand before Yahweh, and the priest will apply this law
   
 m sin, but his wife will bear her iniquity.
   
+
+
+

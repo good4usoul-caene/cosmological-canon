@@ -22,7 +22,7 @@
   
 6 The children of angels.
   
-7 How can a spirit procreate with a manâ€™s daughter (Genesis 6:1-4 - Luke 1:35).
+7 How can a spirit procreate with a man's daughter (Genesis 6:1-4 - Luke 1:35).
   
 8 The second coming.
   
@@ -34,3 +34,6 @@
   
 4:14-17).
   
+
+
+

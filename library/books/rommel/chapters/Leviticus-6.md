@@ -108,3 +108,6 @@ If it was cooked in a brazen vessel, then it will be cleaned and washed with wat
   
 he holy place, for it will be burned with fire.
   
+
+
+
