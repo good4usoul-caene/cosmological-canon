@@ -24,15 +24,14 @@ A mythic retelling of the life of Jesusa Bara Bas through the Major Arcana of th
 ## Prelude Materials
  - **[01-The-Birth-of-John.md](<01-The-Birth-of-John.md>)**  
  - **[02-The-Conception-of-Bara-Bas.md](<02-The-Conception-of-Bara-Bas.md>)**  
- - **[03-The-Birth-of-Jesus.md](<03-The-Birth-of-Jesus.md>]
+ - **[03-The-Birth-of-Jesus.md](<03-The-Birth-of-Jesus.md>)**
 
 These chapters establish the cosmological origins of John, Bara Bas, and Jesus of Nazareth.
 
 ---
 
 ## 0 — The Fool (John 1)
-- **[04-The-Fool.md](guide://action?prefill=Tell%20me%20more%20about%3A%2004-The-Fool.md)**  
- - [04-The-Fool.md]
+- **[04-The-Fool.md](04-The-Fool.md)**  
 Draupi entertains her “little Pandas” with riddles and wordplay.  
 Jesusa Bara Bas begins her mythic journey.  
 The Logos appears as play and invention.
@@ -40,16 +39,14 @@ The Logos appears as play and invention.
 ---
 
 ## I — The Magician (John 2)
-- **[05-The-Magician.md](guide://action?prefill=Tell%20me%20more%20about%3A%2005-The-Magician.md)**  
-- [05-The-Magician.md]
+- **[05-The-Magician.md](<05-The-Magician.md>)**  
 Draupi performs with the *Liknon* at Cana.  
 Transformation, ritual, and first agency.
 
 ---
 
 ## II — The High Priestess (John 3)
-- **[06-The-High-Priestess.md](guide://action?prefill=Tell%20me%20more%20about%3A%2006-The-High-Priestess.md)**  
-- [06-The-High-Priestess.md]
+- **[06-The-High-Priestess.md](<06-The-High-Priestess.md>)**  
 
 Nicodemus visits Jesusa Bara Bas at night while she is hungover from the Cana wedding. Their conversation becomes a comic‑serious tangle of homonyms and misinterpretations: Jesusa speaks of wind, spirit, and Aristotle’s four causes, while Nicodemus repeatedly misunderstands her words as a doctrine of being “born again.” Jesusa vomits into a bucket, chastising him for assent without understanding, and reframes the “Son of Man” using Daniel, Ezekiel, Ophiuchus, and Tiresias. She paraphrases a version of John 3:16 centered on invention and necessity rather than divine begetting.
 
@@ -60,8 +57,8 @@ The chapter ends with Bara Bas fleeing toward Egypt while John and Jesus begin t
 ---
 
 ## III — The Empress (Matt 2:13–23, Egypt)
-- **[07-The-Empress.md](guide://action?prefill=Tell%20me%20more%20about%3A%2007-The-Empress.md)**  
-- [07-The-Empress.md]
+- **[07-The-Empress.md](<07-The-Empress.md>)**  
+
 The Caravan flees to Egypt.  
 Encounters statues of Amun, Mut, Khonsu, Horus on the way.  
 Meeting of Didymus.  
@@ -72,8 +69,7 @@ The Empress is the Egyptian refuge and mythic womb.
 ---
 
 ## Notes on the Return from Egypt (Matt 2:13–23)
-- **[08-notes.md](guide://action?prefill=Tell%20me%20more%20about%3A%2008-notes.md)**  
-- [08-notes.md]
+- **[08-notes.md](<08-notes.md>)**  
 
 With Herod having completed Tiberias, Draupi wrote to Joseph, saying according to her dream, Joseph should return from Egypt to Israel, for Herod's impulses of the persecutors regarding Bara Bas's soul are dead. Joseph responded by taking Bara Bas and Mary, mother of Messiah, and came back into the land of Israel.
 
@@ -92,8 +88,7 @@ John, no longer “the Baptist,” begins following Jesus Barabbas.
 ---
 
 ## IV — The Emperor (John 4)
-- **[09-The-Emperor.md](guide://action?prefill=Tell%20me%20more%20about%3A%2009-The-Emperor.md)**  
-- [09-The-Emperor.md]
+- **[09-The-Emperor.md](<09-The-Emperor.md>)**
 Jesusa returns to Sychar as Jesus Barabbas.  
 Scrolls from Alexandria.  
 The Baby Riddle restated.  
