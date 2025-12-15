@@ -1,4 +1,5 @@
-URL: https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/02-The-Conception-of-Bara-Bas.txt
+---
+URL: https://github.com/good4usoul-caene/cosmological-canon/blob/main/spaces/CaravanScenes/Outline.md
 Author:  Jonathan David Doolin
 Date: 2025-11-26
 License: All rights reserved. No part of this work may be distributed, reproduced, or shared in any form until the author declares the work complete and grants explicit permission.
@@ -6,129 +7,272 @@ Permissions: Scripture quotations taken from the Holy Bible, New International V
 Agent-Writable: no
 Rename-Request: (convert to .md)
 Completeness: Full
-Intent: A chapter of "Caravan of the Fifth Wind"
+Intent: This offers a potential outline for "Caravan of the Fifth Wind" using Tarot Major Arcana Cards as "The Hero's Journey"
 Genre: Historical Fiction
-Change-Note:  John 12-17 made one chapter to fit Advent 2025.
+Change-Note:  Inserted 08-notes
 RitualNote: Option for Chapter Organization/ Rough Draft
 RitualNoteKey: 
 Promotion-Rubric-General: /policies/zion-cornerstone.md
+---
 
+# Caravan of the Fifth Wind — Outline
 
-# Tarot Gospel of Bara Bas — Conversation Summary
-
-## 1.  The Birth of John
-## 2.  The Birth of Bara Bas
-## 3.  The Birth of Jesus of Nazareth
-
-## Major Arcana mapped to John 1–21
-
-- 4.  **0 — The Fool (John 1)**  
-  6 AD:  John of Ein Karem, and Jesus of Nazareth visit Sychar.  Bara Bas entertains the “Apu Pandas” (Little Pandavas) with riddles; Jesus Bara Bas begins her mythic journey, possibly with John and Jesus of Nazareth present.  John and Bara play "house".  They have a "son" but Chronos wants to eat it.  But Bara has an idea.  She wraps a stone in swaddling cloth and says "Son of John, I call you Cephas, (which means Peter)"  Then she offers the child to Chronos.  
-
-- 5. **I — The Magician (John 2)**  
-  Draupi is invited to Cana to perform with the Liknon; she brings Bara Bas and the Panda brothers. Transformation and ritual mastery.
-
-- 6.  **II — The High Priestess (John 3)**  
-  Nicodemus and Caiaphas encounter Bara Bas in Sychar, adopting her under the name *Malchus*. Hidden wisdom and initiation.  
-
-- 7. **III — The Empress (Bara Bas in Egypt)**  
-
-- 7.  **IV — The Emperor (John 4)**  
-  Bara Bas meets her mother Draupi at the well. Her words convince the men of Sychar she is the savior of the world. Feminine archetype of revelation.
-
-- 8.  **V — The Hierophant (John 5)**  
-  Bara Bas presents the Riddle of the Sphinx, whose father is Typhon. Authority, cosmic law, riddles of mortality.
-
-- 9.  **VI — The Lovers (John 6)**  
-  Bara Bas challenges Passover restrictions, asks for circumcision; Judas alone listens. Inversion of ritual law.
-
-- 10. **VII — The Chariot (John 7)**  
-  The Panda brothers convince Bara Bas to attend the Festival. Choice between kinship and divine calling.
-
-- 11. **VII — The Chariot, VIII — Justice (John 8)**  
-  The seat, the body, enthronement. Bara Bas’ body as throne contested by desire and destiny.
-
-- 12. **VIII — Justice, IX — The Hermit (John 9)**  
-  Blind man healed — karmic riddle: suffering as inherited sin or divine strength, blind man ostracized.
-
-- 13.  **IX — The Hermit (John 10)**  
-  Jesus stands alone, misunderstood, insisting he meant a literal gate. Threshold guardian.
-
-- 14.  **X — Wheel of Fortune (John 11)**  
-  Lazarus raised, Sign of Jonah. Cycles of fate, resurrection as cosmic turning.
-
--  15. **XI — Strength (John 12–17)**  
-  Bara Bas loves God with all her heart, strength, and mind.  
-  - John 12:  Strength of Prophecy
-  - John 13:  Stregth of Id
-  - John 14:  Ego: Strength of Question; Mind
-  - John 15-16:  Ego: Strength of Books; Mind
-  - John 17: Superego: Strength of the Heart
-
-- 16. **XII — The Hanged Man (John 18)**  
-  Betrayal and arrest. Suspension, surrender, inversion of worldly power.
-
-- 17.  **XIII — Death (John 19:1–16, 38–42)**  
-  Crucifixion and burial. Transformation through ending.
-
-- 18.  **XIV — Temperance (John 19:17–37)**  
-  Crucifixion described as calm. Divine equilibrium.
-
-- 19.  **XV — The Devil (John 20)**  
-  The way up is the way down.  Near blasphemies of the Spirit of Truth, and the Holy Spirit.
-
-- 20. **XVI — The Tower (John 21)**  
-  Agape vs. Phileo love. Collapse of false structures, revelation of true love.
-
-- 21.  **XVII — The Star (John 5)**  
-  Lucifer, the morning star, accuses ambiguously, leaving the healed lame man isolated. Hope shadowed by doubt.
-
-- 22.  **XVIII — The Moon (John 4)**  
-  John 4 retold as a riddle about a baby. Cycles of faith and illusion.
-
-- 23. **XIX — The Sun (John 3)**  
-  John 3 reframed as a riddle of the four elements: air, earth, water, fire. Enlightenment and rebirth.
-
-- 24. **XX — Judgment (John 2)**  
-  Devil’s accusations: sins of transmutation, resurrection, wealth creation. Reckoning and trial.
-
-- 25.  **XXI — The World (John 1)**  
-  Nicodemus and Joseph of Arimathea see where Jesus stays at 4 p.m.; Nathanael pierces him as Praetorian. Angels ascend and descend, referencing blasphemies of Truth and Spirit. God’s “only begotten son” revealed as invention or silence between words.
+A mythic retelling of the life of Jesusa Bara Bas through the Major Arcana of the Tarot, interwoven with the author’s own journey through the final arcana (XVII–XXI).
 
 ---
 
-# Author's Journey (Arcana XVII–XXI)
+## Prelude Materials
+ - **[01-The-Birth-of-John.md](guide://action?prefill=Tell%20me%20more%20about%3A%2001-The-Birth-of-John.md)**  
+ - [01-The-Birth-of-John.md] **[02-The-Conception-of-Bara-Bas.md](guide://action?prefill=Tell%20me%20more%20about%3A%2002-The-Conception-of-Bara-Bas.md)**  
+ - [02-The-Conception-of-Bara-Bas.md]
+ - **[03-The-Birth-of-Jesus.md](guide://action?prefill=Tell%20me%20more%20about%3A%2003-The-Birth-of-Jesus.md)**  
+ - [03-The-Birth-of-Jesus.md]
 
-- **XVII — The Star**  
-  Offered to the Spirit of the Church of Thyatira. Jonathan wrestles with the question of tolerating Jezebel, balancing illumination with ambiguity.
-
-- **XVIII — The Moon**  
-  A time of hypomania and hospitalization. Cycles of shadow and light, instability and reflection, lived as personal trial.
-
-- **XIX — The Sun** 
-  - Complete Work: library\books\riddles-of-barabbas
-  - Partial Work: library\books\queen-of-the-south
-  Three mustard seeds grow into hard candies:  
-  - *Cinnamon → Cynicism*  
-  - *Spearmint → Experiment*  
-  - *Butterscotch → Faith*  
-  Metaphoriel dons the Sun and the Emperor’s New Clothes, embodying radiant clarity and playful paradox.
-
-- **XX — Judgment**  
-  - Meeting Ancient of Days: (Copilot AI)
-  - Caravan of the Fifth Wind Started.  
-  - Jonathan adopts the role of *the Advocate*. Reckoning and responsibility, speaking truth and defending spirit.
-
-- **XXI — The World**  
-  Karaoke every Friday night. Writing the book. Starting a new D&D campaign. Living as “salt of the earth.” Completion through creative community and embodied joy.
+These chapters establish the cosmological origins of John, Bara Bas, and Jesus of Nazareth.
 
 ---
 
-### Narrative Shape
-- **Beginning (0–4)**: Bara Bas as child, riddler, initiate.  
-- **Middle (5–16)**: Ministry, ritual inversion, choice, enthronement, karmic riddles, solitude, fate, devotion, surrender.  
-- **End (17–21)**: Accusation, riddles, temptation, cosmic silence.  
-- **Cycle**: John 1 opens with riddles (The Fool) and closes with silence (The World). The canon folds back into itself.
+## 0 — The Fool (John 1)
+- **[04-The-Fool.md](guide://action?prefill=Tell%20me%20more%20about%3A%2004-The-Fool.md)**  
+ - [04-The-Fool.md]
+Draupi entertains her “little Pandas” with riddles and wordplay.  
+Jesusa Bara Bas begins her mythic journey.  
+The Logos appears as play and invention.
+
+---
+
+## I — The Magician (John 2)
+- **[05-The-Magician.md](guide://action?prefill=Tell%20me%20more%20about%3A%2005-The-Magician.md)**  
+- [05-The-Magician.md]
+Draupi performs with the *Liknon* at Cana.  
+Transformation, ritual, and first agency.
+
+---
+
+## II — The High Priestess (John 3)
+- **[06-The-High-Priestess.md](guide://action?prefill=Tell%20me%20more%20about%3A%2006-The-High-Priestess.md)**  
+- [06-The-High-Priestess.md]
+
+Nicodemus visits Jesusa Bara Bas at night while she is hungover from the Cana wedding. Their conversation becomes a comic‑serious tangle of homonyms and misinterpretations: Jesusa speaks of wind, spirit, and Aristotle’s four causes, while Nicodemus repeatedly misunderstands her words as a doctrine of being “born again.” Jesusa vomits into a bucket, chastising him for assent without understanding, and reframes the “Son of Man” using Daniel, Ezekiel, Ophiuchus, and Tiresias. She paraphrases a version of John 3:16 centered on invention and necessity rather than divine begetting.
+
+The next morning, a census council debates Jesusa’s identity and future. Caiaphas demands circumcision; Herod proposes Decapolis schooling or even making Jesusa a eunuch; Nicodemus defends her as a possible prophet; Quirinius suggests altering census records to hide her origins. Overhearing their plans, Draupi warns Joseph to flee to Egypt with Bara Bas and Mary, fulfilling the prophecy “Out of Egypt I called my son.” Herod erupts in rage and orders the destruction of records so that his own child might appear to be the prophesied one.
+
+The chapter ends with Bara Bas fleeing toward Egypt while John and Jesus begin their early ministries in Judea.
+
+---
+
+## III — The Empress (Matt 2:13–23, Egypt)
+- **[07-The-Empress.md](guide://action?prefill=Tell%20me%20more%20about%3A%2007-The-Empress.md)**  
+- [07-The-Empress.md]
+The Caravan flees to Egypt.  
+Encounters statues of Amun, Mut, Khonsu, Horus on the way.  
+Meeting of Didymus.  
+Library of Alexandria.  
+Two Egyptian plays: **Job** and **Fingers**.  
+The Empress is the Egyptian refuge and mythic womb.
+
+---
+
+## Notes on the Return from Egypt (Matt 2:13–23)
+- **[08-notes.md](guide://action?prefill=Tell%20me%20more%20about%3A%2008-notes.md)**  
+- [08-notes.md]
+
+With Herod having completed Tiberias, Draupi wrote to Joseph, saying according to her dream, Joseph should return from Egypt to Israel, for Herod's impulses of the persecutors regarding Bara Bas's soul are dead. Joseph responded by taking Bara Bas and Mary, mother of Messiah, and came back into the land of Israel.
+
+Having heard now that the chief of the people (Jesus and John) ruled Judea instead of Herod Antipas, **Herod was afraid to go away from Tiberias**. Warned again in a dream, **he withdrew into the regions of Galilee and moved Herodias into a city named Nazareth**, so that might be fulfilled the spoken through the prophets that “Nazarene will be called.”
+
+Four years pass before Salome is born in Nazareth.  
+Salome ages twelve years, during which time John is imprisoned.  
+Salome and Herodias become fond of John and hatch a plan to get him freed.  
+Salome dances for Herod’s guests and asks for John’s head on a platter.  
+The execution is staged by Herodias’ man, who arranges John on a rolling cart so that his blood‑and‑gut‑covered head appears severed.  
+Salome, Herodias, and their guard shave and release John the Baptist and hand him over to Jesusa, Didymus, the Upa Pandavas, Mary, Joseph, and the three magi.  
+John asks Jesus of Nazareth, “There is another preaching in your name.”  
+Jesus replies, “Whoever is not against me is for me.”  
+John, no longer “the Baptist,” begins following Jesus Barabbas.
+
+---
+
+## IV — The Emperor (John 4)
+- **[09-The-Emperor.md](guide://action?prefill=Tell%20me%20more%20about%3A%2009-The-Emperor.md)**  
+- [09-The-Emperor.md]
+Jesusa returns to Sychar as Jesus Barabbas.  
+Scrolls from Alexandria.  
+The Baby Riddle restated.  
+Sychar proclaims him “savior of the world.”
+
+---
+
+## V — The Hierophant (John 5)
+- **[Riddle of the Sphinx](guide://action?prefill=Tell%20me%20more%20about%3A%20Riddle%20of%20the%20Sphinx)**  
+“What has one leg, then three, then two?” → The man at Bethesda.  
+Then the riddle *about* the Sphinx: “If I testify about myself, then my testimony is not true.”
+
+---
+
+## VI — The Lovers (John 6)
+- **[Circumcision command](guide://action?prefill=Tell%20me%20more%20about%3A%20Circumcision%20command)**  
+Upa Pandavas, Jesusa, John, and Didymus lie under 5000 stars recalling their childhood game with Philip and Andrew.  
+Jesusa describes Pisces as a young boy with five loaves and two fish.  
+Jesusa realizes she must be circumcised to take part in Jewish prophecy.  
+John recalls how Caiaphas and Nicodemus wanted to circumcise her by force.  
+All but Jesusa take a boat.  
+Judas alone hears the circumcision command.  
+John, who has desired Jesusa Bara Bas all along, envies Judas and accuses him of theft.
+
+---
+
+## VII — The Chariot (John 7)
+- **[Festival persuasion](guide://action?prefill=Tell%20me%20more%20about%3A%20Festival%20persuasion)**  
+The Panda brothers urge Bara Bas to attend the Festival.  
+A choice between kinship and calling.
+
+---
+
+## VIII — Judgment (John 8)
+- **[Seat and throne](guide://action?prefill=Tell%20me%20more%20about%3A%20Seat%20and%20throne)**  
+The seat, the body, the throne.  
+Enthronement, duality, and contested authority.
+
+---
+
+## IX — The Hermit (John 9–10)
+- **Inherited suffering**  
+[Inherited suffering](guide://action?prefill=Tell%20me%20more%20about%3A%20Inherited%20suffering) questioned.  
+Jesus insists he meant a literal gate.  
+Solitude and misunderstood wisdom.
+
+---
+
+## X — Wheel of Fortune (John 10)
+- **[Adulterous Generation Sign](guide://action?prefill=Tell%20me%20more%20about%3A%20Adulterous%20Generation%20Sign)**  
+Lazarus and Jonah as cyclical fate.
+
+---
+
+## XI — Strength (John 12–17)
+- **[Heart devotion](guide://action?prefill=Tell%20me%20more%20about%3A%20Heart%20devotion)** — anointing, Last Supper  
+- **[Strength devotion](guide://action?prefill=Tell%20me%20more%20about%3A%20Strength%20devotion)** — Advocate, Vine  
+- **[Mind devotion](guide://action?prefill=Tell%20me%20more%20about%3A%20Mind%20devotion)** — unity, Spirit of Truth  
+
+Holistic devotion.
+
+---
+
+## XII — The Hanged Man (John 18)
+- **[Arrest and surrender](guide://action?prefill=Tell%20me%20more%20about%3A%20Arrest%20and%20surrender)**  
+Betrayal, arrest, surrender.  
+The inversion of worldly power.
+
+---
+
+## XIII — Death (John 19:1–16, 38–42)
+- **[Crucifixion and burial](guide://action?prefill=Tell%20me%20more%20about%3A%20Crucifixion%20and%20burial)**  
+Transformation through ending.
+
+---
+
+## XIV — Temperance (John 19:17–37)
+- **[Calm crucifixion](guide://action?prefill=Tell%20me%20more%20about%3A%20Calm%20crucifixion)**  
+Equilibrium and divine stillness.
+
+---
+
+## XV — The Devil (John 20)  
+### The Two Near‑Blasphemies
+
+- **[Near‑Blasphemy of the Spirit of Truth](guide://action?prefill=Tell%20me%20more%20about%3A%20Near%E2%80%91Blasphemy%20of%20the%20Spirit%20of%20Truth)**  
+  “Those who believe without evidence are more blessed.”  
+  This sanctifies credulity, undermines discernment, and inverts the Spirit of Truth by elevating belief over understanding.
+
+- **[Near‑Blasphemy of the Holy Spirit](guide://action?prefill=Tell%20me%20more%20about%3A%20Near%E2%80%91Blasphemy%20of%20the%20Holy%20Spirit)**  
+  “What you don’t forgive is not forgiven.”  
+  This makes human withholding override divine mercy, turning unforgiveness into cosmic law.
+
+**Contextual Warning**  
+When Mary reaches for Jesus, he says:  
+“Do not hold onto me, for I have not yet ascended to the Father.”  
+Do not cling to the wrong thing.  
+Do not mistake the sign for the Spirit.  
+Do not confuse resurrection with ascension.
+
+---
+
+## XVI — The Tower (John 21)
+- **[Agape vs. Phileo](guide://action?prefill=Tell%20me%20more%20about%3A%20Agape%20vs.%20Phileo)**  
+Collapse of false structures.
+
+---
+
+# Reverse Arc (Cards XVII–XXI retold through John 5–1)
+
+## XVII — The Star (John 5)
+- **[Lucifer’s accusation](guide://action?prefill=Tell%20me%20more%20about%3A%20Lucifer%E2%80%99s%20accusation)**  
+Hope tinged with loneliness.
+
+---
+
+## XVIII — The Moon (John 4)
+- **[Baby riddle](guide://action?prefill=Tell%20me%20more%20about%3A%20Baby%20riddle)**  
+Cycles of illusion and faith.
+
+---
+
+## XIX — The Sun (John 3)
+- **[Four elements](guide://action?prefill=Tell%20me%20more%20about%3A%20Four%20elements)**  
+Air, earth, water, fire.  
+Radiant clarity.
+
+---
+
+## XX — Judgment (John 2)
+- **[Three accusations](guide://action?prefill=Tell%20me%20more%20about%3A%20Three%20accusations)**  
+Transmutation, resurrection, wealth creation.  
+A cosmic weighing.
+
+---
+
+## XXI — The World (John 1)
+- **[Angels ascending](guide://action?prefill=Tell%20me%20more%20about%3A%20Angels%20ascending)**  
+Nathanael pierces Jesus.  
+Truth and Spirit reframed as silence or invention.
+
+---
+
+# Author’s Journey (Arcana XVII–XXI)
+
+## XVII — The Star
+- **[Thyatira offering](guide://action?prefill=Tell%20me%20more%20about%3A%20Thyatira%20offering)**  
+Jonathan wrestles with toleration of Jezebel.
+
+## XVIII — The Moon
+- **[Shadow cycles](guide://action?prefill=Tell%20me%20more%20about%3A%20Shadow%20cycles)**  
+Hypomania and hospitalization.
+
+## XIX — The Sun
+- **[Three candies](guide://action?prefill=Tell%20me%20more%20about%3A%20Three%20candies)**  
+Cinnamon → Cynicism  
+Spearmint → Experiment  
+Butterscotch → Faith  
+Metaphoriel dons the Sun.
+
+## XX — Judgment
+- **[The Advocate](guide://action?prefill=Tell%20me%20more%20about%3A%20The%20Advocate)**  
+Jonathan becomes the Advocate.
+
+## XXI — The World
+- **[Salt of the earth](guide://action?prefill=Tell%20me%20more%20about%3A%20Salt%20of%20the%20earth)**  
+Karaoke Fridays.  
+Writing the book.  
+A new D&D campaign.
+
+---
+
+The canon is cyclical: John 1 appears as both **The Fool** and **The World**.  
+The reverse arc mirrors the forward arc.  
+Bara Bas’ journey and the author’s journey reflect one another.
+
+
 
 
 ## Advent Calendar:  Facebook 2025
