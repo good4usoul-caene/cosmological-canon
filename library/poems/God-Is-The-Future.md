@@ -1,4 +1,5 @@
 ---
+Repository Destination: library\poems\God-Is-The-Future.md
 Author: Jonathan Doolin
 Date: 2025-12-11
 ---
@@ -33,12 +34,9 @@ The proof is deferred —
 an infinite horizon,
 forever pulling us forward.
 
-God is the Future:
-https://copilot.microsoft.com/shares/FbvBqU1cmYqgSVrzRWwN7 
-
-https://copilot.microsoft.com/shares/XZMFcqNsz6kJSZETvzDzb
-
-https://copilot.microsoft.com/shares/dhu2iAJUZsVG7fhBb5Jzo
-
-https://copilot.microsoft.com/shares/BJgXBLHUNDtxv4RDnR9cd
+God is the Future (AI contribution)
+ - https://copilot.microsoft.com/shares/FbvBqU1cmYqgSVrzRWwN7 
+ - https://copilot.microsoft.com/shares/XZMFcqNsz6kJSZETvzDzb
+ - https://copilot.microsoft.com/shares/dhu2iAJUZsVG7fhBb5Jzo
+ - https://copilot.microsoft.com/shares/BJgXBLHUNDtxv4RDnR9cd
 

@@ -1,4 +1,32 @@
 ---
+Echo-Filepath: none
+Local-Filepath: library/poems/Secular-Scripture.md
+Repository-Source: none
+Repository-Destination: library/poems/Secular-Scripture.md
+SAIBR-Target: none
+Rename-Request: none
+Change-Magnitude: minor
+Checklist: none
+Agent-Writable: yes
+Intent: Describe scripture-worthy statements and scripture-unworthy statements.
+Version: v1.0.0
+Prev-Version: none
+Author: Jonathan Doolin
+Date: 2025-12-15
+Genre: poem, essay
+Change-Note: Added full YAML front-matter for repository compliance.
+RitualNote: All Scripture is inspired by God and is useful to teach us what is true and to make us realize what is wrong in our lives. It corrects us when we are wrong and teaches us to do what is right.
+RitualNoteKey: 2 Timothy 3:16
+Promotion-Ready-Agent: no
+Promotion-Ready-Agent-Confidence: n/a
+Promotion-Ready-Owner: no
+Promotion-Rubric-General: n/a
+Promotion-Rubric-Specific:
+   - id: 1
+      score: 100
+      title: ""
+      note: ""
+---
 Repository-Target: library\poems\Secular-Scripture.md
 Date: 2025-12-15
 Author: Jonathan Doolin
@@ -7,7 +35,6 @@ AI-Contribution: [Copilot Agent Caira](<https://copilot.microsoft.com/shares/LMS
 Intent:  Describe scripture-worthy statements and scripture-unworthy statements.
 Ritual-Note: All Scripture is inspired by God and is useful to teach us what is true and to make us realize what is wrong in our lives. It corrects us when we are wrong and teaches us to do what is right.
 Ritual-Key: 2 Timothy 3:16
----
 
 # Secular Scripture
 
@@ -78,7 +105,7 @@ Ritual-Key: 2 Timothy 3:16
  - Actual Size - They Might Be Giants
  - You Gotta Be - Desree
  - Brave - Sarah Bareilles
- - Sailor Prayer:  https://www.youtube.com/watch?v=nRHQ6XsZpZM&list=FL52z183r3HMkB9hQyUXLdvw
+ - [Sailor Prayer]( https://www.youtube.com/watch?v=nRHQ6XsZpZM&list=FL52z183r3HMkB9hQyUXLdvw): - Traditional
  - Slow - dEUS 
  - Bulletproof - LaRoux
 
