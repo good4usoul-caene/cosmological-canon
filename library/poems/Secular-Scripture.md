@@ -21,11 +21,6 @@ Promotion-Ready-Agent: no
 Promotion-Ready-Agent-Confidence: n/a
 Promotion-Ready-Owner: no
 Promotion-Rubric-General: n/a
-Promotion-Rubric-Specific:
-   - id: 1
-      score: 100
-      title: ""
-      note: ""
 ---
 Repository-Target: library\poems\Secular-Scripture.md
 Date: 2025-12-15
