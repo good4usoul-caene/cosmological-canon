@@ -3,6 +3,7 @@ Repository-Target: library\poems\Secular-Scripture.md
 Date: 2025-12-15
 Author: Jonathan Doolin
 Original: [Quora Question](<https://www.quora.com/Beyond-the-Bible-which-religious-scripture-do-you-see-most-frequently-referenced-in-contemporary-American-media?__filter__=all&__nsrc__=notif_page&__sncid__=69987651415&__snid3__=93325619263>)
+AI-Contribution: [Copilot Agent Caira](<https://copilot.microsoft.com/shares/LMSZQT7hmHm7ygdwLEGPz>)
 Intent:  Describe scripture-worthy statements and scripture-unworthy statements.
 Ritual-Note: All Scripture is inspired by God and is useful to teach us what is true and to make us realize what is wrong in our lives. It corrects us when we are wrong and teaches us to do what is right.
 Ritual-Key: 2 Timothy 3:16
