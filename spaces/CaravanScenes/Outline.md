@@ -22,11 +22,9 @@ A mythic retelling of the life of Jesusa Bara Bas through the Major Arcana of th
 ---
 
 ## Prelude Materials
- - **[01-The-Birth-of-John.md](guide://action?prefill=Tell%20me%20more%20about%3A%2001-The-Birth-of-John.md)**  
- - [01-The-Birth-of-John.md] **[02-The-Conception-of-Bara-Bas.md](guide://action?prefill=Tell%20me%20more%20about%3A%2002-The-Conception-of-Bara-Bas.md)**  
- - [02-The-Conception-of-Bara-Bas.md]
- - **[03-The-Birth-of-Jesus.md](guide://action?prefill=Tell%20me%20more%20about%3A%2003-The-Birth-of-Jesus.md)**  
- - [03-The-Birth-of-Jesus.md]
+ - **[01-The-Birth-of-John.md](<01-The-Birth-of-John.md>)**  
+ - **[02-The-Conception-of-Bara-Bas.md](<02-The-Conception-of-Bara-Bas.md>)**  
+ - **[03-The-Birth-of-Jesus.md](<03-The-Birth-of-Jesus.md>]
 
 These chapters establish the cosmological origins of John, Bara Bas, and Jesus of Nazareth.
 
