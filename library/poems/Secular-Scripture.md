@@ -29,7 +29,7 @@ AI-Contribution: [Copilot Agent Caira](<https://copilot.microsoft.com/shares/LMS
 
 # Secular Scripture
 
-# **Beyond the Bible, which religious scripture do you see most frequently referenced in contemporary American media?**
+## **Beyond the Bible, which religious scripture do you see most frequently referenced in contemporary American media?**
 
 ## Direct Quotes
  - **Weddings**  (*1 Cor 13:4-6*) Love is patient, love is kind. It does not envy, it does not boast, it is not proud. 5 It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. 6 Love does not delight in evil but rejoices with the truth. 7 It always protects, always trusts, always hopes, always perseveres.
