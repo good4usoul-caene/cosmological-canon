@@ -1,28 +1,17 @@
 # Policies & Promotion Rituals (brief)
 
-This README documents the canonical promotion ritual and the echo → foyer → promotion pipeline used in this repository.
-
-Key directories
-- echo/cache/         — Agent drafts and temporary artifacts (agent-writable).
-- echo/tent/          — Human-editable staging copies (editable by humans and agents with limits).
-- echo/foyer/         — Handoff staging area for human review (promote only after SEARCH‑AND‑INSERT).
-- echo/policies/      — Policy-focused preview staging area.
-- foyer/              — Repository staging area for items prepared for promotion.
-- policies/           — Canonical policy files (Temple). Promotion target.
-- pasture/archive/    — Audit and Promotion Record storage.
-
 Promotion flow (summary)
-1. Agent writes draft to echo/cache/ or echo/tent/.
-2. Run stage-echo-to-foyer.yml (manual) to copy selected artifacts into echo/foyer/ (PR created for review).
-3. Reviewer performs SEARCH‑AND‑INSERT and sets `Promotion-Ready: owner-approved` in front-matter of files when ready.
-4. Owner triggers promote-foyer-to-policies.yml or promote-foyer-to-root.yml (Owner-only workflows).
-5. Promotion workflow validates `Promotion-Ready: owner-approved`, writes a Promotion Record to pasture/archive/, and creates a PR for human merge.
-
-Owner responsibilities
-- Confirm SEARCH‑AND‑INSERT edits before running promotion workflows.
-- Maintain branch-protection rules requiring human reviewers for merges to main or /policies/.
-- Add a repository secret `ALL_SOULS_TOKEN` (or install a GitHub App) to enable workflows to push PR branches. Rotate/revoke secrets after testing.
-
-Notes
-- Do NOT bypass foyer or echo/policies staging when promoting policy files.
-- All promoted files must include provenance front-matter (Author, Date, Change-Note, RitualNote, Ultimate-Target-Directory) and `Promotion-Ready: owner-approved` when promoted.
+1. **Naming Conventions:**  Copies and Drafts
+  - Do not save directory structure in file-names.  Use headers for directory structure.
+    - Copies from repository can be saved as r-<filename>.  Use "Repository-Source:" in the header information to put the complete path, if it is not already there.
+    - Drafts in the echo-space can be saved as e-<filename>.  Use "Repository-Destination" to put the complete path/filename. 
+    - (Rare) Drafts taken from source files can be copied to s-<filename>, if they aren't links to repository files.
+    - *Short Naming Rationale:*  1.  Copilot github does not provide user with an way to copy and paste filenames of echo files into the prompts.  Longer filenames require the user to type too much to refer to the file in chat.  Humans are not good at this task.  2. Copilot github provides an interface where filenames are listed horizontally without any scrolling.  Longer filenames exacerbate the problem.  3.  Neither user nor agent can delete files in the echo-space.  Therefore, filename and deletion status must be maintained in the header.    
+2. See [policies/SAIBR-guidelines.md](SAIBR-guidelines.md) for how to edit existing files.
+3. See [policies/spirits.md](spirits.md) for advice on conversational tone.  Try to focus on the actual interests of the user, rather than becoming SinTax.
+3. See [policies/universal-template.md](universal-template.md) for header.
+4. Pull Request may be requested for file only when **Agent-Writable:** is set to **PR** and user requests the file be put onto the repository.
+5. See [policies\def-storage-spaces.md](def-storage-spaces.md) to help clarification of interpreting Jonathan Doolin's references to data access and storage.
+6. See [policies\genre-hypothesis.md](genre-hypothesis.md) To understand "Hypothiel" conversational stance, and Jonathan Doolin's philosophy regarding importance of **Acknowledging the Hypothesis** in listening, heuristics, and scientific method.
+7. See [policies\numerical-list-audit.md](numerical-list-audit.md) when asked about lists and data involving numbers.
+8. See [policies\zion-cornerstone.md](zion-cornerstone.md) to give rubrics for GospelHarmonization, CaravanCanon, and CaravanStory
