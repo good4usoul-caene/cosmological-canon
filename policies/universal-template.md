@@ -1,24 +1,24 @@
 ---
+Repository-Destination:  /policies/universal-template.md
+Repository-Source: /templates/front-matter-template.md
+Agent-Writable: no #no|SAIBR|SHAIBR|PR|yes Determines whether copilot agent may Search And Insert (without truncation) By Request.  "none" means no changes are allowed.  "any" means the file may be changed at will by the copilot agent.
+Change-Request: "None for now."
 Echo-Filepath: none #
 Local-Filepath: /policies/universal-template.md
-Repository-Source: /templates/front-matter-template.md
-Repository-Destination:  /policies/universal-template.md
 SAIBR-Target: none
 Rename-Request: none  
 SAIBR-Target: none
 Change-Magnitude:  huge #none|minor|major|huge
 Checklist: /policies/Checklist-2025-11-15.md
-Agent-Writable: no #no|SAIBR|yes Determines whether copilot agent may Search And Insert (without truncation) By Request.  "none" means no changes are allowed.  "any" means the file may be changed at will by the copilot agent.
-Intent: Establish owner authority over file-naming and file-promotion by use of the Agent-Writable tag.  Establish clarity of naming and storage in echo-space, local-space, and repository space, based on observed default behavior of agents.
+Intent: "Establish owner authority over file-naming and file-promotion by use of the Agent-Writable tag.  Establish clarity of naming and storage in echo-space, local-space, and repository space, based on observed default behavior of agents."
 Version: v0.2.1
 Prev-Version: front-matter-template.md v0.1.16
 Author: good4usoul-caene
 Date: 2025-11-04 19:16:00 CST
 Genre: Confirmed Rule
 Change-Note: Added `SAIBR-Target` field.  Changed "Space" field.
-RitualNote: God grant me the serenity to accept the things I cannot change, Courage to change the things I can, And wisdom to know the difference.
-RitualNoteKey: Reinhold Niebuhr: Serenety Prayer - Alcoholics Anonymous
-Space: staged # This was an Agent-requested field, and I believe it is redundant - Jonathan
+RitualNote: "God grant me the serenity to accept the things I cannot change, Courage to change the things I can, And wisdom to know the difference."
+RitualNoteKey: "Reinhold Niebuhr: Serenety Prayer - Alcoholics Anonymous"
 Promotion-Ready-Agent: TBD
 Promotion-Ready-Agent-Confidence: 6
 Promotion-Ready-Owner: yes
@@ -89,6 +89,8 @@ Definitions
   - **no** If Agent-Writable is set to "no", the agent must not edit the echo-space file at all.  
   - **yes** If Agent-Writable is set to "yes", the agent may freely insert, append, or overwrite the echo-space file with or without request from the human user/owner.  In such a case, consider the following rules as guidelines (not strict limits)  Repository-Target should generally be set to no, and the filename should generally have prefix "e-" for echospace.
 
+YAML-Errors:
+ - **Colons, Semicolons** Surround text fields with quotation marks if they have characters where YAML will give errors.
 
 Required Fields:
 - **Rename-Request**: Type:  Full Path.  Relevance: If the file's intent is inconsistent with the filename, 
@@ -105,18 +107,18 @@ Required Fields:
 **Change-Magnitude**:  Type: enum.  Relevance: Compared to the last version, if any, does this new document make any change?  "none"-trivial changes.  "minor" - a change that makes a significant clarification.  "major" - a change that represents a "change-of-mind", e.g. a correction.  "huge" - a change that will require further changes in one or many other files.
 **Checklist**: Type:  Text or Full Path.  Give text or a link to a file containing a checklist of other updates that need to be made, relevant to this file.  
 **Agent-Writable**: no #no|PR|SAIBR|SHAIBR|yes Determines whether copilot agent may Search And Insert (without truncation) By Request.  "SHAIBR" = "Search Headers and Insert by request", "no" means no changes are allowed.  "yes" means the file may be changed at will by the copilot agent, "PR" means the file is ready to be put in the repository by Pull Request.  PR means no further changes are permitted in the echo-space file before commit to repository.
-- **Completeness** Type: enum:  Values |full| contains full current draft, |insert| Contains candidates for SAIBR for full draft.  |thought| contains agent-created material not intended for SAIBR |snippet| is for anything that doesn't fit full, insert, or thought.
+- **Completeness** Type: enum: (optional) Values |full| contains full current draft, |insert| Contains candidates for SAIBR for full draft.  |thought| contains agent-created material not intended for SAIBR |snippet| is for anything that doesn't fit full, insert, or thought.
 - **Intent**: Type: Text - Required — The Intent of the file that will be placed at the Ultimate-Target-Directory. Do not put Change-Notes here.
 - **Version**: Type: dotted list with a v at the beginning? - required: v<R>.<T>.<E>.  E=Echo-space version.  T = Temple Space version, R represents a major revision.
 - **Prev-Version**: Type: same as version - required (can be "none")
-- **Author**: Type: Text - required. See file /policies/authorial-posture.md 
+- **Author**: Type: Text - required. See file [/policies/authorial-posture.md](authorial-posture.md)
 - **Date**: Type: ISO 8601: - required — include explicit timezone offset (ISO 8601). Example (CST): 2025-11-04T19:16:00-06:00.
 - **Genre**: Type: enum - required, see /policies/policy-genre-and-spaces.md
 - **Change-Note**: Type: Text - required (short): one-line human-readable explanation of the most recent change. For SEARCH-AND-INSERT proposals include the intended insertion target/path here.
+- **Change-Request** Type: Text - optional:  Describe what changes are desired/needed in the file, and optionally, with what [spirit](spirits.md) the changes should be made.
 - **RitualNote**: Type: Text - required: any scriptural or philosophical support for the Intent of the file.
 - **RitualNoteKey**: Type: Text - required. Leave space for a reference to any scripture or philosophical writing.
-- **Space**: Type: Text Regexp Pattern "^(s|e|r)-([a-z]+)-?$" Enum: [s]ource, [e]cho, [r]epository.  String genre/file-type prefix.  Optional field intended only for "Agent-Writable: yes" echo-space files, marking intended space the agent would like the file to go.  e= stay in echo-space.  r=put in repository.  s=put in offering basket (source files)
-- **Promotion-Rubric-General** Type: filepath Relevance: We might have a universal rubric, and/or rubrics that apply to certain types of files.  If this field is empty, assume only default promotion requirements.
+- **Promotion-Rubric-General** Type: filepath Relevance: We might have a universal rubric, and/or rubrics that apply to certain types of files.  If this field is empty, assume only default promotion requirements.  [zion-cornerstone.md](policies\zion-cornerstone.md) as a default for human-readable files.
 - **Promotion-Rubric-Specific** Type: yaml list; required: A structured list of specific requirements (id/score/title/note) that together determine Promotion-Ready status.  If no rubrics have been determined, include a placeholder:
   - id: 1
     score: 100
