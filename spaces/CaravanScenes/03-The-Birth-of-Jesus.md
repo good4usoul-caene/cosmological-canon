@@ -111,11 +111,11 @@ But in Koine Greek:
 - ἀκολουθεῖν ἑτέραν σοφίαν (*akolooTHÉEN heTEHran soFEEahn.*) — *follow other wisdom*  
 
 **Mary:**  
-“That is waaay too long.”  
+“That is waaay too long.  And it needs more salt.”  
 
 **Joachim:**  
 *shrugs*  
-“The shortest way to say it, I suppose, is just **ἀλλά** (*ah-LAH*) — *but, otherwise.*  
+“Ah, You want your sofeeahn to have more brine...  The shortest way to say it, I suppose, is just **ἀλλά** (*ah-LAH*) — *but, otherwise.*  
 The most accurate way to say it, though, would be σὺν ἑτέρᾳ σοφίᾳ (*SOON heh-TEH-rai so-FEE-ah*) → *Accompanying other wisdom or accompanying different wisdom.*”  
 
 **Mary:**  

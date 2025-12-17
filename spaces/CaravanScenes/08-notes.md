@@ -7,7 +7,7 @@ Repository-Destination: spaces/CaravanScenes/08-notes.md
 SAIBR-Target: none
 Change-Magnitude: major
 Checklist: universal-template compliance, gospel harmonization, historical notes
-Agent-Writable: yes
+Agent-Writable: no
 Completeness: full
 Intent: Research notes and harmonization for CaravanScenes Chapter 8, including gospel chronology, historical context, and Caravan Canon reinterpretations.
 Version: v0.1.0

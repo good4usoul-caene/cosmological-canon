@@ -37,17 +37,10 @@ Promotion-Rubric-Specific:
     title: "Formatting and usability"
     note: "Table is readable and useful for study."
   - id: 4
-<<<<<<< HEAD:spaces/CaravanScenes/John-03-Greek.md
     score: 44.4
     title: "Chapter 3"
     note: "Uploading 16/36 verses"
 ---
-=======
-    score: 100
-    title: "John 3:1-21"
-    note: "Uploading 21/21 verses"
-
->>>>>>> 4b71172 (Update 03-riddles-of-barabbas.md, remove John-03-Greek.md, and add John-03-1~21-Greek.md.):spaces/CaravanScenes/John-03-1~21-Greek.md
 
 ### John 3:1–2 – Reverence of Nicodemus
 | V/St   | Greek (Translit.) | Greek (Original) | English Gloss        | Grammar   |
@@ -427,13 +420,11 @@ Your constellation expands this: Ezekiel’s visions, Tiresias’ snakes, Ophiuc
 | 166   | αἰώνιον          | [ai)w/nios](<https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058:entry=ai)w/nios>) | eternal / everlasting |
 
 #### Author Note:  "Jonathan David Doolin"; Unique Son, and Unique Name (μονογενής)
-<<<<<<< HEAD:spaces/CaravanScenes/John-03-Greek.md
 > I'm Jonathan  [Simon](<https://www.behindthename.com/name/simon-1>) [gennēthē](<https://biblehub.com/greek/genne_the__1080.htm>)n; Jonathan who hears "born"  (γεννηθῇ)  
 > Jonathan [Simon](https://www.abarim-publications.com/Meaning/Simon.html) J[anōthen](<https://biblehub.com/greek/ano_then_509.htm>); Jonathan who hears again, from the top. (ἄνωθεν)  
 > Jonathan David who hears "[Jonathan and David](<https://www.biblegateway.com/quicksearch/?quicksearch=Jonathan+David&version=NIV>)" Advisor and King   
 > Doolin who hears [Dubh](<https://www.libraryireland.com/names/d/dubh.php>)-[Flann](<https://frankiepeach.com/meaning-origin-and-history-of-the-name-flann/>): (<B>Black</B>/<span style="color:red">Ruddy/Red-Haired</span>)  
 > [Doolin](<https://en.wikipedia.org/wiki/Folklore_%28video_game%29>) who hears Sheol (Keep safe life ever-after.) (ἔχῃ zwh/n αἰώνιον)  
-=======
 > I'm Jonathan  [Simon](<https://www.behindthename.com/name/simon-1>) [gennēthē](<https://biblehub.com/greek/genne_the__1080.htm>)n; Jonathan who hears "born"  (γεννηθῇ)
 Jonathan [Simon](https://www.abarim-publications.com/Meaning/Simon.html) J[anōthen](<https://biblehub.com/greek/ano_then_509.htm>); Jonathan who hears again, from the top. (ἄνωθεν)
 Jonathan David who hears "[Jonathan and David](<https://www.biblegateway.com/quicksearch/?quicksearch=Jonathan+David&version=NIV>)" Advisor and King
@@ -668,4 +659,3 @@ Doolin who hears [Dubh](<https://www.libraryireland.com/names/d/dubh.php>)-[Flan
    - The Kingdom of Heaven is transparency, forgiveness, and blessing — the reversal of curses, the lifting of shame, the manifestation of truth.
   
 
->>>>>>> 4b71172 (Update 03-riddles-of-barabbas.md, remove John-03-Greek.md, and add John-03-1~21-Greek.md.):spaces/CaravanScenes/John-03-1~21-Greek.md

@@ -6,7 +6,7 @@ SAIBR-Target: none
 Rename-Request: Renamed from 08-The-Emperor.md to 09-The-Emperor.md
 Change-Magnitude: major
 Checklist: universal-template compliance, Advent structure, narrative summary
-Agent-Writable: yes
+Agent-Writable: no
 Intent: Add Chapter 9 "The Emperor" to CaravanScenes
 Version: v0.2.0
 Prev-Version: v0.1.1

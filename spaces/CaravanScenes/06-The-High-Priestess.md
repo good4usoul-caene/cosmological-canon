@@ -7,29 +7,40 @@ SAIBR-Target: none
 Rename-Request: none
 Change-Magnitude: major
 Checklist: none
-Agent-Writable: SHAIBR
-Completeness: 
-Intent: Caravan will parody Jewish Religion while in Egypt
+Agent-Writable: no
+Completeness: Opening Draft
+Intent: John 3 has a conversation with Nicodemus, then tells the testimony of John the Baptist about Jesus.  In my story, the beginning of John 3 occurs immediately after the wedding at Cana.  Also, whereas most interpretations put Joseph's trip to Egypt (Matthew 4?) while Jesus is very young, this interpretation has Jesusa Bara Bas taken to Egypt, while 12 year old Jesus of Nazareth has already begun baptizing.  The end of John 3, being mostly about John and Jesus of Nazareth might be put into Chapter 8.  
 Version: v0.1.0
 Prev-Version: none
 Author: Jonathan Doolin
 Date: 2025-12-01
-Genre: Caravan Scene / Parody
-Change-Note: Add universal-template header and rubric for Job/Ezekiel parody
+License: All rights reserved. No part of this work may be distributed, reproduced, or shared in any form until the author declares the work complete and grants explicit permission.
+Permissions: Scripture quotations taken from the Holy Bible, New International Version® (NIV®). Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.
+Genre: Historical Fiction / Injil attempt
+Change-Note: Clarify intent, and Promotion Rubric
 RitualNote: "The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going." (John 3:8)
 RitualNoteKey: John 3:8
 Space: s-caravanscenes
 Promotion-Ready-Agent: no
 Promotion-Ready-Agent-Confidence: 5
 Promotion-Ready-Owner: no
-Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon/blob/main/policies/zion-cornerstone.md
-Promotion-Rubric-Specific: 
+Promotion-Rubric-General: none
+Promotion-Rubric-Specific:
 	- id: 1
-		score: 
-		title: ""
-		note: ""
+		score: 0
+		title: "Narrative"
+		note: "Current version reads more like a play than a narrative"
+	- id: 2
+		score: 80
+		title: "Additions; not contradictions"
+		note: "This version replaces the angel that speaks with Joseph with Draupi, the re-incarnated Draupadi."
+	- id: 3
+		score: 0
+		title: "Decide John 3:16-18"
+		note: "I'm pretty sure the second version is better, but the first version preserves the confusion of Nicodemus."
+
 ---
-## 🪔 Chapter 06 – The High Priestess 
+## 🪔 Chapter 06 – The High Priestess (Opening Draft)
 
 **[Night in Cana. Jesusa lies in her chamber, the echoes of wine and laughter fading. John stands watch at the door. Nicodemus approaches, hesitant, lantern in hand.]**
 
@@ -52,11 +63,13 @@ No one could know the things you know at your young age if God were not with you
 “How can someone be born when they are old?  
 Surely they cannot enter a second time into their mother’s womb.”
 
-**[Jesusa, half-listening, recalled Grandpa Draupa drilling her on Aristotle’s four causes.  Nicodemus’ question, she thought, struck at the heart of ‘Material Cause.’]**  
+**[Jesusa recalled Grandpa Draupa drilling her on Aristotle’s four causes.  
+Nicodemus’ question, she thought, struck at the heart of ‘Material Cause.’]**  
 “Flesh gives birth to flesh, but air gives birth to air.”
 
 **[She paused, then tried to sum up all the causes — material, formal, efficient, and final — in one summary about their shared spirit.]**  
-“The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it goes.  So it is with anyone, or anything born with the spirit.”
+“The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it goes.  
+So it is with anyone, or anything born with the spirit.”
 
 **Nicodemus (awed, almost trembling):**  
 “How can this be?”
@@ -64,16 +77,14 @@ Surely they cannot enter a second time into their mother’s womb.”
 **Jesusa (gently, with a trace of laughter):**  
 “You are Israel’s teacher, and do you not understand these things?”
 
-**[She wondered what caused her to laugh, and then she realized the sin was the informal fallacy.  She had gently shamed Nicodemus and invoked ‘Argument from Authority’ when he had humbly asked for teaching.  
-But then a wave of exhaustion hit her. She doubted Nicodemus’ ability, and spoke defensively; with cynicism; not faith.]**  
+***She wondered what caused her to laugh, and then she realized the sin was the informal fallacy.  She had  gently shamed Nicodemus and invoked ‘Argument from Authority’ when he had humbly asked for teaching.  But then a wave of exhaustion hit her. She doubted Nicodemus’ ability, and spoke defensively; with cynicism; not faith.***
+
 “I speak of what I know, and testify to what I have seen, but still you do not receive my testimony.”
 
 **Nicodemus:**  
 “I accept it. I just don’t grasp it... If you could please explain a bit more.”
 
-**[Jesusa thought about Draupa’s teaching regarding Zeno of Citium.  
-To the Stoics, grasping was the closed fist of assent or acceptance.  
-Nicodemus’ grasp must mean something else.]**  
+**[Jesusa thought about Draupa’s teaching regarding Zeno of Citium.  To the Stoics, grasping was the closed fist of assent or acceptance.  Nicodemus’ grasp must mean something else.]**  
 “Do you mean you do accept but do not assent, or you accept but do not understand?”
 
 **Nicodemus:**  
@@ -82,7 +93,8 @@ Nicodemus’ grasp must mean something else.]**
 **[Jesusa: The idea of assenting without understanding made her stomach lurch.]**  
 “John, bring me that bucket, I'm going to vomit.”
 
-**[John brought the bucket to her, and she held it, vomiting up most of the remaining wine in her stomach.  By the time she was done vomiting, light was streaming in from the open curtains.  The light from the open curtains hurt her eyes, and she chastised herself for her inability to withstand it, while she chastised Nicodemus for his assent without understanding.]**
+**[John brought the bucket to her, and she held it, vomiting up most of the remaining wine in her stomach.  By the time she was done, light was streaming in from the open curtains.  The light from the open curtains hurt her eyes, and she chastised herself for her inability to withstand it, while she chastised Nicodemus for his assent without understanding.]**
+
 “Yet whoever lives by truth comes into the light, so that it may be plainly seen that what they have done has been done through God.”
 
 **[John is swift to the spoils. Jesusa’s chamber pot. He picks it up to set it in the hallway, to take it to the latrine later.  He re-enters and watches silently, as if guarding the words themselves. Nicodemus bows his head, shaken.]**
@@ -108,18 +120,18 @@ Tiresias stopped striking at copulating snakes and became a man.”
 The Son of Man must be lifted up like a snake in the wilderness.  
 But how does this grant eternal life?”
 
-**[Bara Bas thinks about Ezekiel cooking his food over cow manure.  
-He was full of crap. But would she be?]**  
-“Out of my fullness you want to receive grace for grace already given?”
+**[Bara Bas thinks about Ezekiel cooking his food over cow manure.  He was full of crap. But would she be?]**  
+
+“Out of my fullness you want to receive the promise of eternal life for grace already given by God?”
 
 **Nicodemus:**  
-“I want eternal life in heaven.”
+“Yes, I want eternal life in heaven.”
 
-**[Bara Bas offered some paraphrasing of the following.]**  
-“God so loved the world, that he gave invention; the begotten child of necessity,  
-that whoever believes in him shall not perish but have eternal life.  
-For God did not send his Son into the world to condemn the world, but to save the world through him.  
-Whoever believes in salvation is not condemned, but whoever does not believe stands condemned already, because they have not believed in the meaning of necessity’s unique solution.”
+**[Bara Bas offered some paraphrasing of the following.]**
+
+ “God so loved the world, that he gave the begotten child of necessity,  that whoever believes in him shall not perish but have eternal life.  For God did not send his Son into the world to condemn the world, but to save the world through him.  Whoever believes in salvation is not condemned, but whoever does not believe stands condemned already, because they have not believed in the meaning of necessity’s unique solution.”
+
+**16** Reality loves the world, and offers its own Life — its own Salvation — so that whoever trusts in that Life does not collapse into meaninglessness but participates in what is eternal. **17.** Reality does not reveal Salvation to condemn the world, but to draw it out of fragmentation and into coherence. **18.** Those who trust in Salvation participate in that coherence; those who reject it remain in self‑condemnation, not because Reality punishes them, but because they refuse the very meaning that could hold them together.
 
 **Jesusa (weakly):**  
 “Can I go back to sleep now? I’m sorry, my head is pounding.”
@@ -164,7 +176,7 @@ but you cannot tell where it comes from or where it goes.
 So it is with anyone born of the Spirit —  
 material, form, agent, and purpose all gathered in one breath.”
 
-## 🪔 Council Scene 
+## 🪔 Council Scene (Refined Draft)
 
 [Day after Herod’s wedding. Meeting room in Cana. Caiaphas sits rigid, Herod Antipas reclines at the head of the table, Nicodemus between them. Quirinius presides from the far end, census scrolls spread before him. Draupi lingers unnoticed near the doorway.]
 
@@ -183,6 +195,7 @@ Draupi has spared the rod too much.”
 **Herod (laughing, swirling his cup):**  
 “Relax about the dressing up, Caiaphas, and forget circumcision. Plato never minded a little girly‑boy.  
 What matters is empire. She ought to be given a proper Roman education, not raised in rustic Galilee.  
+
 Let her learn **rhetoric in Gadara**, philosophy in **Scythopolis**, discipline in **Hippos**.  
 Only then will she be fit for empire — not as a village curiosity, but as one who can stand in Rome’s courts.”
 
@@ -191,61 +204,160 @@ Only then will she be fit for empire — not as a village curiosity, but as one 
 Perhaps the Spirit rests upon her. Perhaps she is more than either of you imagine.”
 
 **Caiaphas (snapping back):**  
-“That is dangerous talk, Nicodemus. The Law requires that if a prophet puts other gods above JHWH or speaks prophecies that fail, they must be stoned.   This cross-dressed young man speaks of other gods, Hindu, Greek, Roman, Phoenician.
-This prophet of yours talks of Eastern and Roman gods, disrespects the Torah, and promotes this nonsense of baptism. 
+“That is dangerous talk, Nicodemus. The Law requires that if a prophet puts other gods above JHWH or speaks prophecies that fail, they must be stoned.   He speaks of other gods, Hindu, Greek, Roman, Phoenician.
+This prophet of yours claims a God that promotes baptism, dresses a boy as a girl, and refuses circumcision. 
 We should take this prophet talk out of him, dress him as a young man, and have him circumcised.  
 Then, if he desists from his talk of other gods, and only then, should he be considered for Jewish education and instruction in the Law.”
 
 **Herod (smirking):**  
 “Instruction, yes — but not your dusty scrolls. Let her be polished in the Decapolis. Rome needs voices, not zealots.  
-I could care less if she is circumcised or not, and she should dress in whatever way she likes.  
-But for that matter, if she wants to be a woman, why not make her a eunuch?”
+I could care less if she is circumcised or not, but she should dress in whatever way she likes.  
+For that matter, why not make her a eunuch?”
 
 **Nicodemus (quietly, almost to himself):**  
-“Perhaps both of you are blind. Perhaps he is already chosen.  
-With all due respect, Herod, let's please not make him a Eunuch.  
+“Perhaps both of you are blind. Perhaps she is already chosen.  
+With all due respect, Herod, let's please not make a Eunuch.  
 But yes, I would concur that a circumcision is in order.”
 
 **Quirinius:**  
-“Okay, We have two ayes from the Pharisees, regarding circumcision.  I will so mark this requirement of circumcision in the census, out of respect of the Jewish Patriarchy.  But as for the cross-dressing, Herod, would you like to require her to become a Eunuch?”
+“Okay, I so mark this requirement of circumcision in the census, out of respect of the Jewish Patriarchy.  As for the cross-dressing, Herod, would you like to require her to become a Eunuch?”
 
 **Herod**
 “That sounds like a reasonable compromise.  If she wants to maintain femininity through puberty.  More natural for men of womanly nature to be made eunuch.  It is not usually comely for an adult man to dress as a woman.”
 
-[Draupi, listening unseen, clenches her hands. She hears enough to know their intent.]
+[Draupi, listening unseen, clenches his hands. He hears enough to know their intent.]
 
 **Draupi (later, whispering to Joseph):**  
-“They will take her. They will cut her. They will make her into their image.  They only know that Bara was born under the auspicious sign, but they do not yet know of Jesus and John.  They think Jesusa was the one born in Bethlehem.  If you take Mary and Bara south to Egypt, and pretend she is your son, by the time you come back, they will have forgotten.  
+“They will take her. They will cut her. They will make her into their image.  
+But we will not let them. You said once the Queen of the South should come from the south.  
+Let it be so. I will take her to Egypt.  
 
-**Joseph:  (with tears)**
-And leave Jesus behind?  
+And when she returns, it will be as the Scripture says: *Out of Egypt I called my Son.*”
+
+
+
+## 🪔 Council Scene (Refined Draft)
+
+[Day after Herod’s wedding. Meeting room in Cana. Caiaphas sits rigid, Herod Antipas reclines at the head of the table, Nicodemus between them. Quirinius presides from the far end, census scrolls spread before him. Joseph lingers unnoticed near the doorway.]
+
+**Quirinius (reading):**  
+“Now, regarding Jesusa Bara Bas? Female, age twelve?”
+
+**Nicodemus (leaning forward):**  
+“I have spoken to the pretend‑girl Jesusa Bara Bas. And I would suggest first, that she is not a she, but a he — and that *he* is a brilliant young man who could use proper schooling.”
+
+**Caiaphas (stern, tapping the table):**  
+“Draupi has raised her in confusion — a boy dressed as a girl. Such disorder cannot be permitted within Jewish custom.  
+He would do well with a proper Jewish education, but she must be circumcised, taught Torah, and bound to covenant.  
+Only then will he be fit to walk among us. This child *could* be marked as Israel’s own, but I think he is impudent.  
+Draupi has spared the rod too much.”
+
+**Herod (laughing, swirling his cup):**  
+“Relax about the dressing up, Caiaphas, and forget circumcision. Plato never minded a little girly‑boy.  
+What matters is empire. She ought to be given a proper Roman education, not raised in rustic Galilee.  
+
+Let her learn **rhetoric in Gadara**, philosophy in **Scythopolis**, discipline in **Hippos**.  
+Only then will she be fit for empire — not as a village curiosity, but as one who can stand in Rome’s courts.”
+
+**Nicodemus (hesitant, voice low):**  
+“She spoke to me of water and wind, of birth from above. Her words carried weight — not of a child, but of a prophet.  
+Perhaps the Spirit rests upon her. Perhaps she is more than either of you imagine.”
+
+**Caiaphas (snapping back):**  
+“That is dangerous talk, Nicodemus. The Law requires that if a prophet puts other gods above JHWH or speaks prophecies that fail, they must be stoned.  
+This prophet of yours claims a God that promotes baptism, dresses a boy as a girl, and refuses circumcision.  
+We should take this prophet talk out of him, dress him as a young man, and have him circumcised.  
+Then, and only then, should he be considered for Jewish education and instruction in the Law.”
+
+**Herod (smirking):**  
+“Instruction, yes — but not your dusty scrolls. Let her be polished in the Decapolis. Rome needs voices, not zealots.  
+I could care less if she is circumcised or not, but she should dress in whatever way she likes.  
+For that matter, why not make her a eunuch?”
+
+**Nicodemus (quietly, almost to himself):**  
+“Perhaps both of you are blind. Perhaps she is already chosen.  
+With all due respect, Herod, let's please not make a Eunuch.  
+But yes, I would concur that a circumcision is in order.”
+
+**Quirinius:**  
+“Okay, I so mark this requirement in ledger.”
+
+[Draupi, listening unseen, clenches his hands. He hears enough to know their intent.]
+
+**Draupi (later, whispering to Joseph):**  
+“They will take her. They will cut her. They will make her into their image.  
+But we will not let them.  You and Mary should go with the Magi and the Caravan.  Take my daughter to Egypt.  I will send a letter when it is safe to return.  
+
+**Joseph**
+And what of John and Jesus?  They were born under the same signs?
 
 **Draupi:**
-You should take Bara to Egypt.  Her body will be changing, and she will fulfill the prophecy "Out of Egypt I called my Son".  Make it look like he comes from Nazareth as well, so they will never realize my girl is from Sychar.
+The Magi have only told Herod and the others of the one conjunction.  They do not know there were three.
 
 ---
 
-So Joseph found Bara and Mary, and soon the Magi, Odys, Belzar, and Durvasini were packing to go with them as quickly and lightly as they could.  The rest of the caravan would have to catch up later.
+When Herod heard that the Magi had left, he was furious.  "Fine!  Murder them all.  Every boy born under that sign.  I want them all killed, or made Eunuchs, or mutilated."
+
+Quirnius said, "I may have a better idea, Herod, that may give you a great opportunity, and not anger the people quite so much."
+
+Herod sighs.  "Then let's hear it."  
+
+Quirnius said, "I have the only record of census for the whole region.  Give me a few dozen scribes, and a shipment of paper, and I can change the record.  Your next child can be born under the sign, and all trace of the star of Christ?  Vanishes."
+
+Herod said.  "I like it.  We will find you the scribes and paper."
 
 ---
 
-When the census council discovered that Bara had gone, Herod Antipas was furious.  "I'll kill them!" he shouted.  "Kill every boy or girl born under that Christ-Star!"  
+**[Alexandria marketplace. The Caravan of the Fifth Wind winds through stalls of scrolls, spices, and glassware. Jesusa Bara Bas pauses at a booth where an old man demonstrates a curious lens.]**
 
-"Conceived" said Quirnius.
+**[The lens-seller projects letters onto a wall. Jesusa gasps, recalling Daniel’s “Writing on the Wall.”]**
 
-"Damn it, yes... Conceived." 
+**Jesusa (awed):**  
+“This is a miracle — the words appear as if written by a hidden hand.”
 
-"I may have an alternative idea, if you'd like to hear it.  Something less violent, and possibly more effective," said Quirnius.
+**Lens-seller (chuckling):**  
+“No miracle, child. The same lens can magnify when held close to the page, or make an image more distant when held close to the eye.”
 
-"And what, pray tell, is that?" asked Antipas.
+**Jesusa (tilting her head):**  
+“Sir, with respect, consistency and flexibility only makes salvation more miraculous. But what use is it to make an image further distant?”
 
-"Well, I have access to the census data from 12 years ago, and today.  All we need to do is change the dates, or destroy the record."
+**Lens-seller (smiling, tapping his temple):**  
+“Because an old man’s eyes like mine are too weak to wrestle with tiny letters on a looming page.  
+But with large letters on a chalk board, bigger and further away, my weak eyes can rest.”
 
-"Excellent," said Herod.  "Make a new record of births, so the child I conceived last night with Herodias is the one conceived under the auspicious star.  Then *my* child will be the child of prophecy!"
+**Jesusa (nodding, delighted):**  
+“Ah, *bigger* and further away. I see.”
 
-Quirnius plans on doing just this, but during the course of the task, it becomes apparent that Herodias did not become pregnant on the wedding night.  
+**[The old man laughs, pinches his fingers together in front of her face, squinting through them.]**  
+“What is big, what is little? I squish your head.”
 
----
+**[Jesusa bursts into laughter, mimicking the gesture.]**  
+“Hey vendor, don’t panic — I’m only crushing your head.”
 
-So, Bara Bas fled to Egypt while John and Jesus started their ministries as very young men.  John was baptizing in Salim and Aenon, while Jesus baptized all over Judea. When people asked John about Jesus, he told them "The one from earth speaks from earth, and the one from heaven speaks from heaven (John 3:31).  I must become less, so that he can become greater. (John 3:30)"
+**[She takes two lenses, balancing them over her eyes, bending forward to read a tiny inscription.]**  
+“I want two for my grandfather, and one for my lighting guy.”
 
+**Vendor (grinning, counting on his fingers):**  
+“Well, I like to invest my money into shipping, or at least put it in my mattress, or my wallet.  
+It will be 200 talents each, plus tax — that is 666 talents.”
+
+**Jesusa (mock gasp):**  
+“Oh, wow. Okay. I’ll rename your business *Sparkling Sea Piracy and a Flat-Head*.  
+I doubt if the Caravan can raise that much money.”
+
+**Vendor (soberly, folding his hands):**  
+“Understand, dear lady, these are the only three lenses I have, and I don’t have the means to reproduce them.  
+To me each one is priceless. But even pricelessness has a price.  
+With 600 talents, I could commission a ship to return to where I got them, and buy a hundred more.”
+
+**[Jesusa tilts her head, recalling Solomon’s tribute of 666 talents, the Queen of Sheba’s wealth, and the burden of kings.]**  
+“But failing that, how about this?  
+If the Caravan offers you a permanent place, and you give us just one talent in return —  
+your talent as a lighting guy —  
+then together with some of the finest minds in Egypt and Rome, you can continue your research in the method of reproduction for the lenses.”
+
+**Vendor (softening, with a smile):**  
+“It’s worth considering. I’ll meet with the head of your caravan to see if our goals are compatible.”
+
+**Jesusa:**
+It is usually Balzar who decides where we go, but it's at the request of Joseph that we've come down here to Alexandria.  You might also talk to Odys, the Vintner, and Durvasini, the healer.  

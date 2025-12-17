@@ -4,7 +4,7 @@ Author:  Jonathan David Doolin
 Date: 2025-11-27
 License: All rights reserved. No part of this work may be distributed, reproduced, or shared in any form until the author declares the work complete and grants explicit permission.
 Permissions: Scripture quotations taken from the Holy Bible, New International Version® (NIV®). Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide.  Poems are taken from author's own work: [Riddles of Barabbas](https://github.com/good4usoul-caene/cosmological-canon/blob/main/library/books/riddles-of-barabbas/02-riddles-of-barabbas.md) 
-Agent-Writable: yes
+Agent-Writable: no
 Rename-Request: 
 Completeness: 95%
 Intent: A chapter of "Caravan of the Fifth Wind"

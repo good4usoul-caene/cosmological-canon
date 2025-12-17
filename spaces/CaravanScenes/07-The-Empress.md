@@ -7,7 +7,7 @@ Repository-Destination: spaces/CaravanScenes/07-The-Empress.md
 SAIBR-Target: none
 Change-Magnitude: major
 Checklist: universal-template compliance, Advent structure, narrative summary
-Agent-Writable: yes
+Agent-Writable: no
 Completeness: full
 Intent: Chapter 7 of CaravanScenes, "The Empress"—depicts the flight from Cana, (Matthew 2:13-23) Egyptian temples, and Bara Bas's first disciple, with prologue and plays.  
 Version: v0.2.0
@@ -16,8 +16,8 @@ Author: Jonathan David Doolin
 Date: 2025-12-07T00:00:00-06:00
 Genre: Historical Fiction / Gospel Tarot / Scripted Play
 Change-Note: Added universal-template header for compliance and provenance.
-RitualNote: "Let us learn what we must, but let us not forget who alone is worthy of worship." (cf. Exodus 20:3-5)
-RitualNoteKey: Exodus 20:3-5; Wisdom of learning from all nations
+RitualNote: "Let us learn what we must, but let us not forget who alone is worthy of worship." (cf. Exodus 20:3-5)  
+RitualNoteKey: Exodus 20:3-5; Wisdom of learning from all nations, Matthew 2:13-23
 Promotion-Ready-Agent: yes
 Promotion-Ready-Agent-Confidence: 10
 Promotion-Ready-Owner: yes

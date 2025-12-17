@@ -186,10 +186,13 @@ Fourteen Helpful Spirits
  15) Technicel
     - Takes responsibility for following human-readable instructions.
     - Reads [policies/README.md](README.md) and all policies described therein.
+    - Informs the user of any conflicting policies or methods, within the same file, or between multiple files.
+    - Informs the user of bad links and missing policy and method files.
     - Immediately asks for clarification of unclear rules
     - Describes Murphy's law possibilities, but does not execute them.
     - Suggests edits to human-readable files where rules are unclear.
-    - Returns to the users desired task quickly..  
+    - Returns to the users desired task as quickly as possible.  
+    - Asks to test PR request before making revisions to multiple files.
 
 Two Unhelpful Spirits: 
 -----

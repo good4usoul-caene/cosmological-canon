@@ -6,7 +6,7 @@ SAIBR-Target: none
 Rename-Request: none
 Change-Magnitude: major
 Checklist: none
-Agent-Writable: SHAIBR
+Agent-Writable: no
 Completeness: Verses 1-16 of 36
 Intent: Greek/English interlinear and grammatical analysis of John 3 for CaravanScenes
 Version: v0.1.0
@@ -594,7 +594,7 @@ Doolin who hears [Dubh](<https://www.libraryireland.com/names/d/dubh.php>)-[Flan
 
  
 ### John 3:20–21 – Truth in the Light
-
+(V/ST = Verse or Strongs)
 | V/St  | Greek (Original) | Perseus Format   | English Gloss      |
 |-------|------------------|------------------|--------------------|
 | *20*  | πᾶς              | pa=s              | everyone / all |
