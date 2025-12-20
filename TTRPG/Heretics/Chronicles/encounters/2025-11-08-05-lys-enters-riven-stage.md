@@ -1,8 +1,8 @@
 ```markdown
 ---
 title: "Footsteps: Lys waits, Elara appears, Aldra signals, Lys enters"
-file: /pasture/footsteps/05-2025-11-08-lys-enters-riven-stage.md
-location: /pasture/footsteps/
+file: e-footsteps-05-2025-11-08-lys-enters-riven-stage.md
+location: echo-space
 author: Lorekeeper (for good4usoul-caene)
 date: 2025-11-08T13:37:53Z
 tags: [footsteps, lys, elara, aldra, riven-stage, scene]
@@ -60,5 +60,5 @@ Would you like me to:
 - Create a brief in-character note you can hand the Lys player to remind them of their concealed status and Callisto's instruction, or
 - Produce quick, printable cue-cards for Elara and Aldra that you can use at the table for consistent performance signals?
 
-Saved to: /pasture/footsteps/2025-11-08-lys-enters-riven-stage.md
+Saved to: e-footsteps-2025-11-08-lys-enters-riven-stage.md
 ```

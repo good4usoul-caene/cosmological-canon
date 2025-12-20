@@ -1,16 +1,16 @@
 ---
 Filename: Aldric-Vale-VariantHuman.md
-Ultimate-Target-Directory: /pasture/Characters/
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
 Version: 2025-11-01v1
-Prev-Version: /pasture/Characters/Aldric-Vale-Paladin.md
+Prev-Version: e-draft-Aldric-Vale-Paladin.md
 Author: Organizationel – Chroniclekeeper
 Proposed-By: good4usoul-caene
 Date: 2025-11-01T00:40:28Z
 Genre: Character Sheet / Pregen (Variant Human, Noncanonical)
-RitualNote: Noncanonical narrative about "oats" and updated Aldric Vale pregen reflecting player's choice: oath line and Variant Human (+1 CON, +1 CHA) with Lucky feat. Staged to /pasture/ for player review.
+RitualNote: Noncanonical narrative about "oats" and updated Aldric Vale pregen reflecting player's choice: oath line and Variant Human (+1 CON, +1 CHA) with Lucky feat. Staged for player review.
 Change-Note: Applied Variant Human racial choice (+1 CON, +1 CHA) and Lucky feat; set oath text to "I swear to protect the innocent with my life." Included a short, playful oat/oath narrative.
 Posture: draft/player-facing / noncanonical
-Proposed-Path: /pasture/Characters/Aldric-Vale-VariantHuman.md
+Proposed-Path: /TTRPG/Heretics/Characters/Aldric-Vale-VariantHuman.md
 ---
 
 # ⚖️ Aldric Vale — Paladin (Variant Human, Noncanonical notes)
@@ -77,7 +77,7 @@ Player checklist / small TODOs for Jim
 - Decide whether to adopt one of the previously suggested oath mechanics (Option A/B/C) or leave it purely narrative (GM confirmation required).
 
 Provenance & status
-- This file is noncanonical and staged in /pasture/Characters/ for player review and table use. If you want it promoted to /TTRPG/Characters/ or converted into a Google Doc handout, say so and I will stage/copy and append an audit entry per repository protocol.
+- This file is noncanonical and staged for player review and table use. If you want it promoted to /TTRPG/Characters/ or converted into a Google Doc handout, say so and I will stage/copy and append an audit entry per repository protocol.
 
 ---  
 Change-Note: Variant Human variant + Lucky feat applied and oath phrase set per player instruction; added oats‑vs‑oath narrative (noncanonical) (2025-11-01T00:40:28Z)

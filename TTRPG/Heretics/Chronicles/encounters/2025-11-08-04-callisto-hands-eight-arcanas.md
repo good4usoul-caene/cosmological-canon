@@ -1,8 +1,8 @@
 ```markdown
 ---
 title: "Footsteps: Callisto hands Lys the Eight Prime Arcana"
-file: /pasture/footsteps/04-2025-11-08-callisto-hands-eight-arcanas.md
-location: /pasture/footsteps/
+file: e-footsteps-04-2025-11-08-callisto-hands-eight-arcanas.md
+location: echo-space
 author: Lorekeeper (for good4usoul-caene)
 date: 2025-11-08T02:21:31Z
 tags: [footsteps, callisto, lys, arcanacards, agreement]
@@ -43,6 +43,6 @@ Follow-ups / GM TODO
 - Would you like this event added to Callisto’s ledger file as a logged outgoing (so the connection is explicit in the world files)?
 - Want a short physical description and image cue for the Eight cards (appearance, filigree, any visible glyphs) to present at the table if players later decide to examine them?
 
-Saved to: /pasture/footsteps/2025-11-08-callisto-hands-eight-arcanas.md
+Saved to: e-footsteps-2025-11-08-callisto-hands-eight-arcanas.md
 ```
 ```

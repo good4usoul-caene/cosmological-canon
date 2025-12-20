@@ -1,16 +1,16 @@
 ---
 Filename: Corra-Voss-HalfDwarf.md
-Ultimate-Target-Directory: /pasture/Characters/
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
 Version: 2025-11-01v1
-Prev-Version: /pasture/Characters/Corra-Voss-PreGen.md (draft)
+Prev-Version: e-draft-Corra-Voss-PreGen.md
 Author: Organizationel – Chroniclekeeper
 Proposed-By: good4usoul-caene
 Date: 2025-11-01
 Genre: Character Sheet / Pregen (Half‑Dwarf Fighter)
-RitualNote: One‑page pregen for Corra Voss (Blade of the Broken Oath). Hill‑dwarf mother + human father (simple +1 CHA). Includes Blade Hunger rules (principle‑based) and starting Hunger state. Staged to /pasture/ for table review and GM confirmation.
+RitualNote: One‑page pregen for Corra Voss (Blade of the Broken Oath). Hill‑dwarf mother + human father (simple +1 CHA). Includes Blade Hunger rules (principle‑based) and starting Hunger state. Staged for table review and GM confirmation.
 Change-Note: Applied race/subrace choices, skills, tool prof, languages, Dwarven Toughness, and Blade Hunger starting state per player/GM input.
 Posture: draft/play‑ready
-Proposed-Path: /pasture/Characters/Corra-Voss-HalfDwarf.md
+Proposed-Path: /TTRPG/Heretics/Characters/Corra-Voss-HalfDwarf.md
 ---
 
 # Corra Voss — Blade of the Broken Oath (Level 1 — Half‑Dwarf)
@@ -120,13 +120,13 @@ Session & GM checklist (for Jonathan)
 Notes for play & advancement
 - L2: Action Surge / increased martial options; consider how the Blade interacts with higher‑level features (discuss with GM).  
 - Roleplay tip: Corra’s tendency to nudge others toward breaches is a strong social conflict vector — use it to generate scenes and moral choices, but let the table set boundaries.  
-- Keep track of Hunger Points on the character sheet and in Session log (/pasture/footsteps/session-001.md).
+- Keep track of Hunger Points on the character sheet and in Session log (session-001.md).
 
 Quick reference (one line)
 - Corra Voss (he/him) — Str 16 Dex 12 Con 17 Int 10 Wis 14 Cha 9 / HP 14 / AC 18 / Speed 25 / Hunger 1/3
 
 Provenance & staging
-- Composed per player & GM inputs; staged to /pasture/Characters/ for review. Pending GM confirmation for Blade Hunger as a house rule; once confirmed, this can be promoted to canonical /TTRPG/Characters/ or converted to a shareable Google Doc upon request.
+- Composed per player & GM inputs; staged for review. Pending GM confirmation for Blade Hunger as a house rule; once confirmed, this can be promoted to canonical /TTRPG/Characters/ or converted to a shareable Google Doc upon request.
 
 ---  
 Change-Note: Finalized Corra Voss pregen (half‑dwarf Hill mother + human father, Dueling style, Soldier background, Perception & Survival skills, Tarot gaming set, Sanskrit language). Blade Hunger principle model included and started at 1 point (kicked‑dog trigger). Awaiting GM (Jonathan) final approval for Blade Hunger house rule before promotion (2025-11-01).

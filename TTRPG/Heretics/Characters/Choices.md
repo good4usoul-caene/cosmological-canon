@@ -1,15 +1,15 @@
 ---
 Filename: Hollowgate-Pregens-GoogleDocs.md
-Ultimate-Target-Directory: /pasture/Characters/
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
 Version: 2025-10-31v2
 Author: Organizationel – Chroniclekeeper
 Proposed-By: Organizationel – LoreWeaver
 Date: 2025-10-31
 Genre: Character Sheets / Pregens (one-file shareable)
 RitualNote: One consolidated file containing the Character Template and eight L1 pregens, formatted for easy copy‑paste into Google Docs for sharing with players. Act I spell restrictions and God-invocation flavor included. Updated with Markdown headers for easy Google Docs navigation.
-Change-Note: Consolidated pregens for sharing (staged to /pasture/ for review). Headings updated with ## and emojis for Google Docs navigation.
+Change-Note: Consolidated pregens for sharing (staged for review). Headings updated with ## and emojis for Google Docs navigation.
 Posture: draft/play-ready
-Proposed-Path: /pasture/Characters/Hollowgate-Pregens-GoogleDocs.md
+Proposed-Path: /TTRPG/Heretics/Characters/Hollowgate-Pregens-GoogleDocs.md
 ---
 
 # 🎭 Hollowgate — Character Template + Eight Pregens (Ready for Google Docs)
@@ -316,7 +316,7 @@ Session Notes (for in-play edits)
 ---
 
 ## © COPYRIGHT & PROMOTION NOTES
-- This consolidated pregen file is staged to /pasture/ for human-facing sharing. If you want it promoted to /TTRPG/Characters/ or copied into Google Docs as a shared file, indicate approval and desired target (I will append an audit entry per the workspace protocol).  
+- This consolidated pregen file is staged for human-facing sharing. If you want it promoted to /TTRPG/Characters/ or copied into Google Docs as a shared file, indicate approval and desired target (I will append an audit entry per the workspace protocol).  
 - Attribution: Author lines above mark agent authorship; if you want to mark a human as author for a promoted file, ensure explicit consent and record it in the audit log.
 
 ---

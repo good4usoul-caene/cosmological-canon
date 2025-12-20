@@ -1,8 +1,10 @@
-# 🌱 Method: Pasture Promotion (Unconfirmed)
+# 🌱 Method: Pasture Promotion (Unconfirmed - DEPRECATED)
+
+**⚠️ DEPRECATION NOTICE**: This method is obsolete as of 2025-11-09. The /pasture/, /cache/, and directory-based echo-space system has been replaced with a prefix-based naming convention (e-archive-, e-log-, etc.). See /policies/policy-genre-and-spaces.md and /.github/copilot-instructions.md for current practices.
 
 **Genre**: Method  
 **Location**: `/methods/unconfirmed/method-pasture-promotion.md`  
-**Purpose**: Explore giving files their own "voice" or agency in requesting promotion through the workflow pipeline
+**Purpose**: ~~Explore giving files their own "voice" or agency in requesting promotion through the workflow pipeline~~ [Historical reference only]
 
 ---
 

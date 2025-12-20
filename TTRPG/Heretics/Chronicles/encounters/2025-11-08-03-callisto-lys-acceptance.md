@@ -1,8 +1,8 @@
 ```markdown
 ---
 title: "Footsteps: Callisto Accepts Lys's Proposal (Tarot Reading)"
-file: /pasture/footsteps/03-2025-11-08-callisto-lys-acceptance.md
-location: /pasture/footsteps/
+file: e-footsteps-03-2025-11-08-callisto-lys-acceptance.md
+location: echo-space
 author: Lorekeeper (for good4usoul-caene)
 date: 2025-11-08
 tags: [footsteps, callisto, lys, tarots, agreement]
@@ -42,7 +42,7 @@ Follow-ups / GM TODO
 - If desired, append a ledger update to Callisto's workshop file noting the formal acceptance and the new instruction to Lys.
 - Consider whether Callisto provided any small ritual/warding advice when signing off (none recorded here). If he did, log it.
 
-Saved to: /pasture/footsteps/2025-11-08-callisto-lys-acceptance.md
+Saved to: e-footsteps-2025-11-08-callisto-lys-acceptance.md
 
 If you'd like, I can:
 - Produce a one-line patron token (in-world note) Callisto signs that Lys can carry as proof of funds.

@@ -1,8 +1,8 @@
 ```markdown
 ---
 title: "Footsteps: Lys — Inquiries in Thornehold"
-file: /pasture/footsteps/02-2025-11-08-lys-inquiries.md
-location: /pasture/footsteps/
+file: e-footsteps-02-2025-11-08-lys-inquiries.md
+location: echo-space
 author: Lorekeeper (for good4usoul-caene)
 date: 2025-11-08
 tags: [footsteps, lys, inquiries, thornehold, callisto]
@@ -49,6 +49,6 @@ Follow-ups (GM TODO)
   - Create a short "meeting schedule" mechanic for the GM (rolls to determine which nights the fortune-teller appears).
   - Draft Hara Lin's short permission/arrangement phrasing (what she says if asked to vouch for the party or arrange a night).
   - Append a short Stealth/Sleight DC recommendation for carrying the Eight into the Riven Stage (concealed vs displayed).
-- Otherwise, this entry will be saved as-is to /pasture/footsteps/ for session continuity.
+- Otherwise, this entry will be saved as-is for session continuity.
 
 ```

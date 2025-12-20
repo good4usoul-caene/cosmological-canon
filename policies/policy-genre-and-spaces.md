@@ -223,8 +223,7 @@ Define genres and space mappings for Temple file classification and organization
 - Other (TBD)
   - New genre’s may be placed into the echo-spaces without immediate promotion:
     - /tent/
-    - /cache/
-    - /pasture/
+    - Use e-draft- prefix with `Repository-Destination: none`
   - When new genres are promoted to the GitHub, see /methods/new-genre-methods.md for method of promoting a new genre for the GitHub
 
 ## Ritual Summary
