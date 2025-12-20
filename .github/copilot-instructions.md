@@ -122,7 +122,7 @@ Sources: List of any external URL's etc, accessed and used by agent to generate 
 ```
 2.2 In text:  
   - "Metaphoriel notes the possibility that "stepping into sunlight" might represent the joy of being seen."
-  - "Canonicel notes that the presence of Bara Bas in this scene doesn't make since because she is dead."
+  - "Canonicel notes that the presence of Bara Bas in this scene doesn't make sense because she is dead."
   - "Chronicel notes that at this same time, a war was being fought in territories around Egypt."
   - "Verifiel confirms, French masculine plural 'come' is 'venus', however, Verifiel defers any responsibility for where Euphamel is going with this."
   - "Euphamel explains the relevant heuristic hypothesis using a large scroll in an ordinary pen, [redacted]".
