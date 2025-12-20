@@ -58,7 +58,7 @@ Promotion-Ready-Agent-Confidence: 0
 2. **Review:** Human and agent may annotate, revise, or challenge
 3. **Agreement:** Both parties must affirm the proposal
 4. **Insertion:** Genre is added to `genre-enum.md` with citation
-5. **Pointer:** A `Promotion Record` is created in `/pasture/` or `/policies/`
+5. **Pointer:** A `Promotion Record` is created in an e-promotion-record- file or `/policies/`
 
 ---
 
