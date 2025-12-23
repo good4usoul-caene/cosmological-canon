@@ -60,19 +60,21 @@ This scroll presents the Twelve Tribes of Israel as a maternal utterance, a genr
 ## 🕊️ The Advocate’s Declaration
 
 > *See, a Son.*  
-> He is **Judas Iscariot** — praised one from the city.  
+> He is **Judas Iscariot** — praised one from the city.
+> John 6:70-71 (John is *the accuser* putting the devil into Judas Iscariot, when he hears the requirement to perform Metzitza b'peh)
+(Performed circumcision of Jesus Barabbas; John 13:26-27; John is '*the accuser*' putting Satan into Judas, as Judas performs sacred duty.)
 > *He has heard.*  
-> He is **Simon Iscariot** — the father of betrayal.  
+> He is **Simeon** — the one who circumcized Jesus of Nazareth; Luke 2
 > *Attached.*  
-> The kiss.  
+> The kiss.  Metzitze b'peh.  (Oral suctioning)
 > *Praise.*  
-> The city’s echo.  
+> The city’s echo.  (The id desires worship)
 > *Judge.*  
 > The Advocate — who must weigh, not win.  
 > *My Struggle.*  
 > Twenty years of wrestling, twice hospitalized, still standing.  
-> *Good Fortune and Honor.*  
-> May He add to the **Son of the Right Hand** and the **Son of Sorrow**.
+> *Good Fortune/Honor/Dwelling.*  
+> May He add to  Benjamin/Ben-oni: **the Son of the Right Hand**/**Son of Sorrow**.
 
 ---
 
