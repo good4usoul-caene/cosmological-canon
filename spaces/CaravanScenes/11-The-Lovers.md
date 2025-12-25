@@ -1,6 +1,41 @@
 ---
 Repository-Target: /spaces/CaravanScenes/11-The-Lovers.md
 Intent: Present a version of John 6 that is accurate, but doesn't stray into Rated X territory.
+Completion: 40% 
+Promotion-Rubric-General: /policies/zion-cornerstone.md
+Promotion-Rubric-Specific: 
+  - id: 1
+    score: 50
+    title: "John confesses childhood crush"
+    note: "Scene could be better"
+  - id: 2
+    score: 50
+    title: "Jesus Barabbas revealed as poly"
+    note: "Scene could be better."
+  - id: 3
+    score: 75
+    title: "Jesus of Nazareth as 'the sent' revealed to be a map of Pisces"
+    note: "Scene not entirely complete."
+  - id: 4
+    score: 95
+    title: "Meeting of Marcus"
+    note: "This scene is fairly well developed"
+  - id: 5
+    score: 0
+    title: "Judas introduced as Mohel"
+    note: "Scene is not started."
+  - id: 6
+    score: 0
+    title: "John 1:1-15 - sex-scene"
+    note: "Scene writes itself, but a bit X-rated"
+  - id: 7
+    score: 0
+    title: "Walking on Water Scene"
+    note: ""
+  - id: 8
+    score: 0
+    title: "Jesus asks Judas for circumcision/ Metzitzeh b'peh; teaches of id vs. ego."
+    note: ""   
 ---
 
 After Jesus of Nazareth said to John, "Whoever is not against us is for us," he returned to Jerusalem.  
