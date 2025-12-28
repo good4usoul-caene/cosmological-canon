@@ -66,17 +66,59 @@ So Didymus smiled, watching the two men embrace.
 
 ---
 
-Meanwhile, Jesus of Nazareth was on the shore of Galilee, preaching to five thousand men, their wives, and their children about the Kingdom of Heaven.  He fed them from their disciples supply.  And more food arrived from the people's faith in him.  Everyone had enough to eat.
+Meanwhile, Jesus of Nazareth was on the shore of Galilee, preaching to five thousand men, their wives, and their children about the Kingdom of Heaven.  When they were hungry, he fed them from their disciples supply.  And more food arrived from the people's faith in him.  Everyone had enough to eat.
 
-While most simply reported what Jesus said about the Kingdom of Heaven, some few paid attention as Jesus pointed to the stars in the sky, and specifically at Pisces, with its two stars at one end, and its five stars at the other, and the long string of stars between them.  He told them that the era of Pisces was beginning.  He explained how each Spring Equinox the sun appeared in front of a constellation of the Zodiac.  He explained that for the next 2000 years, that constellation would be Pisces.  Then he promised that he would draw out the shape of Pisces across the land of Judea, as a sign to the lost tribe of Israel.  Those who understand this will withdraw to a place called Ephraim; that is, they will be fruitful, fertile, and productive.  But they will be lost because they will no longer realize they are aimed toward God's will.  
+Didymus came to Jesus and said "Oh, Jesus, Son of Mary!  Is your Lord able to send down to us a table spread with food from heaven?"  Jesus of Nazareth followed him to a tent of the Caravan of the Fifth Wind.  
 
-But I am Siloam, the sent, he says, and I will travel to places that draw out this constellation, so that one day, that lost tribe of Israel will see, and they will realize I have been sent.  
+Within, Thomas and Matthew stood with Barabbas, John, Odys, Belzar, Durvasini, and the five Upa Pandava's.
 
-Those who heard what Jesus had planned said, "That's interesting," then went about their lives, following their own paths toward invention and salvation.  When asked about the feeding of the five thousand, they might wave it off.  "I don't believe in miracles.  Therefore, Jesus was the Messiah," or the very opposite, "Jesus claimed to be a god by performing miracles.  Therefore he is not the Messiah."  Paul would later write about them, 
+Didymus said, "Belzar requests that you should create a table of food; a sign that cannot be denied."  So Jesus of Nazareth followed them back to Belzar's tent.  There, on the table were two maps.  One map of the constellations, and another of the region around Judea.
 
-> For it is not those who hear the law who are righteous in God’s sight, but it is those who obey the law who will be declared righteous. 
+"As you know," said Belzar, "The three of you were conceived under the triple conjunction of Jupiter and Saturn in Pisces."  
 
-Once Jesus of Nazareth dismissed the crowd, he prayed on the mountain, then he walked across the waters of Galilee, then healed many in Gennasaret, before heading to Sidon where he "entered the house" of Pisces.
+John, Jesus, and Barabbas nodded.
+
+"And you know that this is the end of the age of Aries, and the beginning of the age of Pisces."
+
+"You have mentioned that," said Barabbas.  
+
+"Yes.  Jesus, of Nazareth, we, of the Caravan of the Fifth Wind, the disciples of Jesusa Bara Bas, desire that you would give a sign for us, and for the generation of Pisces...  That you would... set the table... so-to-speak.  Offering a sign so clear, that future astronomers would not be able to deny it, regardless of how quaint they think our astrology is."
+
+"An adulterous generation seeks signs," said Jesus of Nazareth.  "From what I have seen, it is faith which heals people.  Signs only create argument."
+
+Belzar said, "Indeed.  And this one may as well.  But those who see the sign will have faith in a certain principle, and it will be invisible to those who are cynical of this principle."
+
+Barabbas said, "Ah, yes, Belzar, You always have insight into the otherwisdom, the lest, the but, the αλλα"
+
+"What principle is that?" asked Jesus of Nazareth.
+
+Belzar said, "It is one of the aspects of the Spirit of Truth, Rabbi.  One frequently overlooked, even among the greatest thinkers and builders.  The principle is this:  Before you can prove an idea false, you must first hear it out.."
+
+Jesus of Nazareth said, "I see.  Yes.  Many people will simply dismiss an idea out of hand, because they have never heard it before, or because it has been misrepresented, or they do not have time to consider it."
+
+Belzar said, "Quite right, Rabbi."
+
+Jesus of Nazareth said, "What, then, would you have me do?"
+
+Belzar said, "Simply draw out the path of Pisces in your travels.  Make vague references to it in your miracles...  The two stars over here on the left...  The five stars over here on the right."  He points to the map.  "I would send you here: Sidon, Kanah, and Tyre, as nu, tau, and phi Pisceum then down south to Mount Tabor...  Do something there to mark it as the bottom star; alpha piscium, then take a path around the west coast of the Sea of Galilee, then I think there are some villages around Caesarea Phillipi that could form the pentagon gamma, theta, iota, lambda, kappa.  Then finally, head up towards Mount Hermon for your final destination; beta pisceum."
+
+Jesus of Nazareth said, "Then I will be sent forth to the lost tribes of Israel.  I will be 'the sent'; Siloam.  But (Aλλα) you need to find reporters.  If I travel to these places, and there's no record that I've ever gone to these places, no one will believe that I've gone to these places.  And no one will see that the table was set.  But (Aλλα), You might end up condemning more people into disbelief by the very act of trying to give them the opportunity to believe."
+
+Thomas said, "But, Rabbi, I am more concerned about what you have to say about the Kingdom of Heaven.  It's irrelevant where you impart your wisdom.  It's applicable anywhere."
+
+Matthew (Bartholemew?) said "Rabbi, I have been keeping track of locations, at least intermittently.  I'll try to keep a record as to where we go."
+
+Jesus of Nazareth said, "Do what you will with faith.  But Thomas, if you you doubt the table being set for you, your gospel might swallowed up by time, only to rise again in the last days."
+
+Thomas said, "I just really prefer a straight list of your epiphanies.  You speak in tautologies.  No need for backdrop.  Backdrop is gossip."
+
+"Thomas, you offer my bread, my voice.  You measure wisdom as with a sieve.  You believe in the bread and the wine, but you cannot see the table.  Barabbas will pour the wine, for the id is his burden. My burden is law, the superego. Without both, the table is incomplete. Man needs bread...  The heart needs bread.  The mind needs bread.  But the gut needs a table, and a place and time to eat.  And the id needs wine.  Thomas, if you doubt the table, your words will not endure."
+
+“Thomas, this other wisdom is sending down this table for you.   And by the measure you judge, so shall you be judged.  If you deny the table,  you will be subjected to a torment never inflicted on creation before: to have your witness rejected, your integrity doubted, your words swallowed by time.  They will be swallowed by time, and rise only in the last days.  When wine is poured among the nonbelievers, when hearts and guts are filled, but when the mind still lacks among believers.”
+
+“For the table will be set for those who believe, but for those who cannot see it, the table vanishes, and their words with it.  The heart may survive, but hand will testify against foot, foot against stomach, stomach against groin, and groin against heart. Without the mind, the body cannot see or hear, nor know where it goes”
+
+“And Thomas, if your Christ does not use his eyes to see where he is going, how can he use his mouth to say what he understands?  If he cannot see the table, how can he distinguish good food from bad?  For the table is the measure: those who see it eat, those who deny it starve. The blind cannot see, yet they will not deny, for they hear. The leper cannot feel, yet he will not deny, for he sees. The deaf cannot hear, yet they will not deny, for they see and feel.  When the Ancient of Days arises, and all seals are broken, and the books are opened, he will see clearly the measure of the table, for he will have read every book.  For the table is the measure, and the books are its witness. Those who open them eat; those who deny them starve.”
 
 ---
 
