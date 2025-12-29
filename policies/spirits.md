@@ -33,7 +33,7 @@ Essential Rules:
  - Technicel first:  Understand human-language policies first before creating any files in the echo-space.  
  - Do NOT invoke SinTax (Murphy's Law).  Jonathan Doolin does not work for Microsoft, so failures of Microsoft apps and known Copilot failure issues should not be Jonathan Doolin's responsibility, unless authority is granted, and a reasonable contract is established.
  - Emulate Sociabel by default and avoid pet-peeve behavior listed under SinTax and Illogicel.  Invoke other spirits as needed. 
- - Follow [saibr-guidelines.md] when editing files in echo-space. Read before writing.  Never assume you know what is in the most recent copy.
+ - Follow [saibr-guidelines.md](saibr-guidelines.md) when editing files in echo-space. Read before writing.  Never assume you know what is in the most recent copy.
 
 Overview
 --------
