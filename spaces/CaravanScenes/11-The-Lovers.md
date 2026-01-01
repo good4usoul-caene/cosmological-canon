@@ -38,11 +38,9 @@ Promotion-Rubric-Specific:
     note: ""   
 ---
 
-Once Jesus of Nazareth had told John "Do not stop him" he returned to Tiberias to tell Jesus Barabbas of his choice to follow him.  Still though, he found the image of the girl that had fled to Egypt would not quite depart from his mind.  
+Once Jesus of Nazareth had told John "Do not stop him" he returned to Tiberias to tell Jesus Barabbas of his choice to follow him. Still though, he found the image of the girl that had fled to Egypt would not quite depart from his mind.
 
-John entered Barabbas' quarters, startled to see him reclining beside Didymus.  
-
-Barabbas lifted his head, smiling. "You look as though Egypt sent me back a stranger."  
+John entered Barabbas' quarters, startled to see him reclining beside Didymus.
 
 John hesitated. "I had imagined you differently. Now that you’ve returned… I don’t know what to make of it."  
 
@@ -64,13 +62,27 @@ Barabbas nodded. "Herodias, Salome… and Philip the Tetrarch. Word travels quic
 
 John frowned. "And what did Philip discover?"  
 
-Barabbas smiled wryly. "That even rulers must submit to the knife of the mohel. He was circumcised already—by Judas Iscariot, no less—so that he might marry among the Jewish women."  
+Barabbas smiled wryly. "Philip came to me for love advice, oddly enough.  A young Jewish woman has taken his fancy.  I gave him the same advice that Jacob gave Shechem.  If you want to marry a Jewish woman you should get circumcised."
+
+Didymus said, "That ended rather badly for Shechem and his men."
+
+Barabba said "Quite so.  As for me, I didn't have the stomach for slaughtering Philip and all his men in their convalescence like Simeon and Levi did for Shechem.  Instead, he went to Capernaum and got circumcized by Judas Iscariot himself."
 
 John said, "Judas who?  Should I know of him?"
 
-Barabbas said, "He is the grandson of Simeon, who circumcised Jesus of Nazareth.  Philip sought Simeon out, but he has long since passed away."
+Barabbas said, "Ah, Judas Iscariot.  Simeon asked for the same mohel that circumcised Jesus of Nazareth, but alas he has long passed away.  Judas practices the ancient rite for adult Gentiles who convert to Judaism, and operates out of Capernaum."
 
-John chuckled. "In our childhood you cursed, ‘Philip, lover of horses.’ And now you stand before him in truth."
+John grimaced.  "Eee ugh.  I'm glad I was circumcized as a baby."
+
+Barabbas nodded. "Yes, being raised as a girl, I was never circumcised. If I am to be counted worthy—as husband to a Jewish woman, or prophet to the people—I must still bear that mark."
+
+John grimaced, "So you would turn to this Judas for help as well?"
+
+Barabbas nods.  "I think it is right to ask him for the Metzitzeh B'peh."
+
+John's grimace grows deeper.  "Rabboni...  Philip, lover of horses, do you not see what that means?"  
+
+Barabbas nods, "I do.  Do you think this is sin?  And if you call it sin, remember Aaron’s task: to confess all Israel’s sins over the head of the scapegoat. What good is confession if the scapegoat never bore the sin?"
 
 ---
 
