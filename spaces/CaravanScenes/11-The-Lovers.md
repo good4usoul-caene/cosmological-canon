@@ -5,9 +5,9 @@ Completion: 40%
 Promotion-Rubric-General: /policies/zion-cornerstone.md
 Promotion-Rubric-Specific: 
   - id: 1
-    score: 50
+    score: 0
     title: "John confesses childhood crush"
-    note: "Scene could be better"
+    note: "Scene was deleted to start over"
   - id: 2
     score: 50
     title: "Jesus Barabbas revealed as poly"
@@ -38,31 +38,39 @@ Promotion-Rubric-Specific:
     note: ""   
 ---
 
-After Jesus of Nazareth said to John, "Whoever is not against us is for us," he returned to Jerusalem.  
+Once Jesus of Nazareth had told John "Do not stop him" he returned to Tiberias to tell Jesus Barabbas of his choice to follow him.  Still though, he found the image of the girl that had fled to Egypt would not quite depart from his mind.  
 
-He found Jesus Barabbas relaxing in bed with Didymus.
+John entered Barabbas' quarters, startled to see him reclining beside Didymus.  
 
-"Oh...   Hi." he said.  "Truly, truly, Bara, I was looking forward to your return from Egypt.  But in my mind's eye, I had pictured you differently.  Now that you've returned as a man...  I...  Well, I..."
+Barabbas lifted his head, smiling. "You look as though Egypt sent me back a stranger."  
 
-"You're welcome to join us, if you like, John," Barabbas smiled.  "We don't bite...  Just a nibble."  
+John hesitated. "I had imagined you differently. Now that you’ve returned… I don’t know what to make of it."  
 
-"I'm...  I'm not sure I can do that, I can't see another man that way."
+Barabbas stretched out a hand. "Then begin with what you can bear. A hand, a hug. Nothing more unless you wish it."  
 
-"Well, if you don't put your parts on me, you don't have a part with me."
+John’s eyes dropped. "The law warns against men lying together."  
 
-John says, "I guess that makes sense.  Maybe... A hug wouldn't be wrong."
+Barabbas’s voice softened. "Then let us not lie. Let us stand. Let us embrace. No one has ever died from a hug."  
 
-Barabbas says, "You're welcome to a hug, and more.  I came to help you out of your prison...  And I'd come again to help you out of another."
+Didymus watched, amused, as John stepped forward, awkward but willing, and let Barabbas draw him into a quiet embrace.
 
-John quotes the Torah, "Thou shalt not sleep with another man."
+After the embrace, John lingered, uncertain.  
 
-Barabbas says, "It's up to the Messiah to follow all the laws, and the prophets.  But I'm the Son of Man.  I must warn you of every sin you might die from.  And whatever sin I don't warn you about, I'll be held accountable.  If you can die from this, I'll happily be held to account."  
+Barabbas released him gently. "You carry questions still. Speak them."  
 
-John says, "Yes, but I'd rather not die from the sin before you're held to account.  And honestly, I'd rather not you be held to any account on my part."
+John cleared his throat. "So—you’ve been meeting with the elites since Egypt?"  
 
-Barabbas stands, "Hugs it is, then. I can't imagine anyone has ever died from a hug."  
+Barabbas nodded. "Herodias, Salome… and Philip the Tetrarch. Word travels quickly. Salome spoke of me, Herod’s old hunt is remembered, and Nicodemus whispers that I am a prophet."  
 
-So Didymus smiled, watching the two men embrace.
+John frowned. "And what did Philip discover?"  
+
+Barabbas smiled wryly. "That even rulers must submit to the knife of the mohel. He was circumcised already—by Judas Iscariot, no less—so that he might marry among the Jewish women."  
+
+John said, "Judas who?  Should I know of him?"
+
+Barabbas said, "He is the grandson of Simeon, who circumcised Jesus of Nazareth.  Philip sought Simeon out, but he has long since passed away."
+
+John chuckled. "In our childhood you cursed, ‘Philip, lover of horses.’ And now you stand before him in truth."
 
 ---
 
