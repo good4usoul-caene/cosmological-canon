@@ -298,21 +298,27 @@ In the case of “What is to come”, one expects, ofr instance, the Spirit of T
  - Instead of presuming the miraculous ability for the Spirit of Truth to see into the future (which to most, might seem the less bizarre interpretation), I presume the Spirit of Truth has the capacity for confession and acknowledgment of facts and realities, and the ability to seek plausible hypotheses, (which most might find bizarre) 
  
  **Rhyme**
-**6.** A man came from God, he was sent making riddles
-**7.** and he’d testify of things both big and little
-**8.** He did not make anything more clarified through witness, bizarrely in truth certified
+**6.** A man came from God, he was sent making riddles  
+**7.** and he’d testify of things both big and little  
+**8.** He did not make anything more clarified   
+through witness, bizarrely in truth certified  
+
 **7.** Some may doubt the miracles reported by Matthew, Mark, and Luke, but the moral teachings of Jesus in the three gospels preceding John were fairly unambiguously “Good”. 
 On the other hand, the moral teaching of Jesus in the gospel of John are largely absent. 
 The closest thing he gives to instruction is telling his disciples to “love each other”. 
 This is much less encompassing than what he says in every other gospel, “Love God with all your heart, all your mind, all your strength, and love one another (even your enemies) as yourself”. 
 Here, also, many atheists may complain that they do not believe God exists, but I would point, here, to the operative word “mind”. 
 What atheists are doing is to disbelieve a description of God which they cannot love with their mind. 
-Usually, though, such atheists embrace principles with heart, mind, and strength.
-**9.** while J. Beth, Messiah, gave light to all man
-**10.** - John’s gospel’s part’s an inscrutable plan
-**11.** - Though John described things in truth with no lies those reading his writing could not recognize
-**12.** - Things made by men, he, through riddle, would laud
+Usually, though, such atheists embrace principles with heart, mind, and strength.  
+
+**9.** while J. Beth, Messiah, gave light to all man  
+**10.** - John’s gospel’s part’s an inscrutable plan  
+**11.** - Though John described things in truth with no lies  
+those reading his writing could not recognize  
+
+**12.** - Things made by men, he, through riddle, would laud  
 **13.** ‘til readers would say each thing’s the Son of God. 
+
 I have offered two different interpretations of **John 1:1-15**. 
 In one interpretation, I have suggested that the different verses referred to specific words, or types of words, or figures of speech. 
 Here, though, I am suggesting that John is talking about the book of riddles he has composed... 
@@ -320,39 +326,97 @@ In each chapter 1-17, John poses a riddle of “Who” or “What” is Jesus, a
 Often, but not always “The Father” in these riddles is the human being who created or uses that tool. 
 Those inanimate objects who received the name of Jesus, he gave the right to become children of God. 
 John presents these inanimat objects as being human, and not just any human, but the only begotten Son of God, human. 
-He starts some words that he makes into flesh, so let’s have a look at this metaphor, fresh. 
+ 
+He starts some words that he makes into flesh,  
+so let’s have a look at this metaphor, fresh.   
+
 1.
 **2.** And **John 12:28** in the original Greek has a curious expression, when Jesus asks “Father, glorify your name” the voice says “And I have glorified. 
 And will again.” The name of the Father seems not to be stated, but the word “And” (Greek kai) is repeated twice. 
 Why would John glorify “And”? Namely for its use in the ambiguity of apposition, and its use to simply convey chronological order. 
-As for chronological order, one could argue that any phenomenon that occurred after God occurs after the first “and”. 
-What word would come ‘round between noun and noun. 
-What is the distance between freed and bound?
-**8.** What word does God put between Earth and sun? What word without which no thing can be done? I tell you and tell you and tell you both, and I riddle you this and I hide it in hand. 
-For Greeks, Jesus asked, “Father Glorify your name” “And” has been glorified, “And” will again. 
+As for chronological order, one could argue that any phenomenon that occurred after God occurs after the first “and”.
+
+What word would come ‘round between noun and noun.   
+What is the distance between freed and bound?  
+**8.** What word does God put between Earth and sun?   
+What word without which no thing can be done?  
+I tell you and tell you and tell you both, and   
+I riddle you this and I hide it in hand.   
+
+For Greeks, Jesus asked, “Father Glorify your name”   
+“And” has been glorified, “And” will again.   
 (**John 12:28**)
-**14.** “And”, the word, flesh became, through metaphor Dwelling with us, telling us what’s in store If not for the “And” the world’s empty, forgotten - No new thing’s without the only begotten Just think what we’d be with no concept of “And!” Alone with not even a concept of sand.
-**15.** John said of the phrase “and me and” it’s the latter surpasses me, progress is made like a ladder.
-**18.** - God repeated “And” to set the universe in motion - From the bosom of a man, we can repeat this notion - God is never seen directly in the eyes of man but we have a connection through repeated use of and. 
-If “Both” and “and” were words I said were “With” in the beginning, by noticing the play of words, the riddle, you’d be winning. 
-“God With Us”, is Immanuel as predicted but “With” us through time, “With” has been, unrestricted.
-**16.** From fullness of “And” grace is given and given:
-**17.** the grace of the law by which Moses was driven, The grace by which J. Beth has so far forgiven, and now in this chapter John’s gospel has striven to present the “Truth” in some words oft misgiven When “and” in conjunction creates ambiguity Those seeking consensus find discontinuity One might find the same, or different propostions. 
-For “and” can show cause, or convey apposition A list or identity; you cannot know If authors do not make precision their goal 1.
-**3.** Be Not all of **John 1.** seems to be about “And”. 
-Some is about “Be”. 
-Alternate forms for Be include is, are, was, were, will be. 
+**14.** “And”, the word, flesh became, through metaphor  
+Dwelling with us, telling us what’s in store   
+If not for the “And” the world’s empty, forgotten -  
+No new thing’s without the only begotten -  
+
+Just think what we’d be with no concept of “And!”   
+Alone with not even a concept of sand.   
+**15.** John said of the phrase “and me and” it’s the latter   
+surpasses me, progress is made like a ladder.  
+
+**18.** - God repeated “And” to set the universe in motion -   
+From the bosom of a man, we can repeat this notion -   
+God is never seen directly in the eyes of man   
+but we have a connection through repeated use of and. 
+
+If “Both” and “and” were words I said were “With” in the beginning, 
+by noticing the play of words, the riddle, you’d be winning.  
+“God With Us”, is Immanuel as predicted   
+but “With” us through time, “With” has been, unrestricted.  
+
+**16.** From fullness of “And” grace is given and given:  
+**17.** the grace of the law by which Moses was driven,   
+The grace by which J. Beth has so far forgiven,  
+and now in this chapter John’s gospel has striven  
+to present the “Truth” in some words oft misgiven  
+
+When “and” in conjunction creates ambiguity  
+Those seeking consensus find discontinuity  
+One might find the same, or different propostions.  
+For “and” can show cause, or convey apposition  
+
+A list or identity; you cannot know  
+If authors do not make precision their goal 
+
+1. **3.** Be Not all of **John 1.** seems to be about “And”.  
+Some is about “Be”.  Alternate forms for Be include is, are, was, were, will be.  
 In particular, it seems that John here refers to the word “with God in the beginning”. 
-The Hebrew word for “Create” is “Bara” which goes along nicely with the central thesis of this document, which is to say that Jesus Barabbas is actually the central character of John’s gospel. 
-“Bara” is the name with God in the beginning. 
-Without that word, nothing could be created.
-**1.** Through word, the God of Moses made the world of his design
-**9.** **2.** Light, land, plants and oceans, stars and creatures, then mankind
-**3.** but don’t neglect the other words, the ones you overlooked: the referential verbs and the conjunctions do the work How much could one impart to magnify the mysticism by using referential verbs in anthropomorphisms? If “Is” and “Am” and “Was”, “will be” were once as “he” described “Who is he?” would have the answer, “Is” contextualized. 
-- What word “is” come between word and connotation - What word implies being and classification? To define, interpret, determine a meaning, (**John 1:15**) the light of life, “Is”, is always revealing
-**4.** When God brought a beast before Adam and called “What do you think this beast ought to be called?” Adam began to form words with his mouth to name all the livestock and birds and the trout. 
-Each beast and bird had unique marks and features but one or two syllables summed every creature. 
-This symbolic thinking was really a feat known only to those walking on two hind feet They had to use verbs of peculiar type: These verbs, referential, don’t get too much hype when anthropomorphized I say these are me, and you can call me the words “Is”, “Are” or “Be” 1.
+The Hebrew word for “Create” is “Bara” which goes along nicely with the central thesis of this document, which is to say that Jesus Barabbas is actually the central character of John’s gospel.
+
+“Bara” is the name with God in the beginning.  
+Without that word, nothing could be created.  
+**1.** Through word, the God of Moses made the world of his design  
+**9.** **2.** Light, land, plants and oceans, stars and creatures, then mankind  
+
+**3.** but don’t neglect the other words, the ones you overlooked:   
+the referential verbs and the conjunctions do the work  
+How much could one impart to magnify the mysticism  
+by using referential verbs in anthropomorphisms?  
+
+If “Is” and “Am” and “Was”, “will be” were once as “he” described  
+“Who is he?” would have the answer, “Is” contextualized.  
+- What word “is” come between word and connotation -
+- What word implies being and classification?  
+- To define, interpret, determine a meaning, (**John 1:15**)  
+- the light of life, “Is”, is always revealing
+- 
+**4.** When God brought a beast before Adam and called
+  “What do you think this beast ought to be called?”
+  Adam began to form words with his mouth
+  to name all the livestock and birds and the trout.
+  
+Each beast and bird had unique marks and features  
+but one or two syllables summed every creature.   
+This symbolic thinking was really a feat  
+known only to those walking on two hind feet  
+
+They had to use verbs of peculiar type:  
+These verbs, referential, don’t get too much hype  
+when anthropomorphized I say these are me,  
+and you can call me the words “Is”, “Are” or “Be” 1.  
+
 **4.** Becoming **John 8.** is suggestive of the properties of fire; the light of the world, and the light of man. 
 I can’t say for sure whether **John 1:5** is talking about fire, or the light of inspiration that fills mankind with the desire to create.
 **5.** Protons, electrons, and plasma in motion what words must be, before becoming creation? what substance, what phase of what matter I am? the answer was even before Abraham! there was, and now is, and will be every gram. 
@@ -369,24 +433,44 @@ Set free in the forest, not noticed or dead, all sins of Israel confessed on his
 When John the Baptist says “He will take away the sin of the world” he would have been pointing, he does not say exactly how this sin will be taken away. 
 Again, going back to Leviticus 16, one goat is slaughtered as a sin offering, but another goat takes away the sin of the world. 
 If John knew the upcoming crucifixion of Jesus Christ would be based on the Day of Atonement ritual, it would be reasonable to imagine he knew which Jesus would play which role. 
-What word means to Christen, immerse, and recruit? To baptize is generally the Christian pursuit. 
-Baptism by water can make clean wheat muddy. 
-It’s all such a mess, the floor should be made floody, but if there’s a piece of good wheat in that trash a winnow fork could sift the wheat from the chaff. 
-The Baptist named John could tell what he was washing. 
-Not everyone went away clean. 
-he was watching. 
-Barabbas: more clever than ten men by half, and John knew a man with (great?) deeds in his path the Baptist had two men who could help keep track One name’s reported the other, we lack. 
-He told his men Andrew and “Blank” to watch some, saying that this man “is God’s chosen one.” Chosen for what, though, he does not quite say: A lamb for the slaughter or one to obey? Now, Andrew thought he understood (but not quite,) said “We’ve found Messiah”, (That is the Christ)
+
+What word means to Christen, immerse, and recruit?   
+To baptize is generally the Christian pursuit.   
+Baptism by water can make clean wheat muddy.   
+It’s all such a mess, the floor should be made floody,   
+but if there’s a piece of good wheat in that trash  
+a winnow fork could sift the wheat from the chaff.  
+
+The Baptist named John could tell what he was washing.  
+Not everyone went away clean. he was watching.   
+Barabbas: more clever than ten men by half,   
+and John knew a man with (great?) deeds in his path  
+the Baptist had two men who could help keep track   
+One name’s reported the other, we lack.   
+
+He told his men Andrew and “Blank” to watch some,  
+saying that this man “is God’s chosen one.”  
+Chosen for what, though, he does not quite say:  
+A lamb for the slaughter or one to obey?  
+
+Now, Andrew thought he understood (but not quite,)  
+said “We’ve found Messiah”, (That is the Christ)  
 **11.** 1.
 **7.** First lessons of Barabbas In other gospels, when Simon expresses his faith in Jesus, Jesus calls him Peter, a Greek masculine noun meaning, basically “The Rock”. 
 But when Jesus first meets Simon in John, Jesus calls him Cephas: a Hebrew feminine noun, meaning a big rock. 
 In neither case do the gospels say whether Simon took his new nick-name as a compliment, but it seems, at least, possible, that he might have viewed “Cephas” as an insult. 
 Moreover, the sleight is almost undetectable, but it could be an example of one of “all the sins of Israel” that is confessed over Jesus’ head. 
-(**Leviticus 16:21**) As these men then followed this Jesus that day The Christ began Christening one right away. 
-Barabbas’ first lesson is change peoples’ names. 
-- Keep - the general meaning the same. 
-the size and the gender of object don’t matter and use euphamisms to add to the laughter. 
-Don’t ask if they mind, or ask “Will this please us?” just take a Peter and then make him Cephas. 
+
+(**Leviticus 16:21**) As these men then followed this Jesus that day  
+The Christ began Christening one right away.   
+Barabbas’ first lesson is change peoples’ names.   
+- Keep - the general meaning the same.   
+the size and the gender of object don’t matter
+and use euphamisms to add to the laughter.
+
+Don’t ask if they mind, or ask “Will this please us?”   
+just take a Peter and then make him Cephas.   
+
 In other gospels, as soon as Jesus is baptized, a voice comes from heaven saying “This is my Son, whom I love”. 
 While one may be in doubt that this miracle actually happened, it conveys the faith of the authors, Matthew, Mark, and Luke. 
 In John’s gospel, though, the post-baptism confirmation of Jesus authority comes, not from above, but from Nathanael. 
