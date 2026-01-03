@@ -423,19 +423,25 @@ I can’t say for sure whether **John 1:5** is talking about fire, or the light 
 Matter and energy, “Plasma” I am! In time of John, that name, I had not acquired, but they called me simply the substance of fire! 1.
 **5.** Jesus Barabbas This section of the poem makes reference to how Jesus Barabbas is treated in the gospels. 
 He is blamed for a great many problems, then set free, like the scapegoat of Leviticus
-**16.** Some sources associate the name of Azazel with this scapegoat, while others associate the name Azazel with the Devil.
-**10.** Pardoned by Pilate to roam Rome and rob us. 
-there was a man Jesus, they called him Barabbas (**Matt 27:16**) he hid in plain sight though no one could find out. 
-His criminal deeds were too many to count His list of sins long as Azazel’s the goat. 
-His teachings forever be with us, he’ll gloat. 
-Set free in the forest, not noticed or dead, all sins of Israel confessed on his head 1.
+**16.** Some sources associate the name of Azazel with this scapegoat, while others associate the name Azazel with the Devil.  
+
+**10.** Pardoned by Pilate to roam Rome and rob us.   
+there was a man Jesus, they called him Barabbas (**Matt 27:16**)  
+he hid in plain sight though no one could find out.   
+His criminal deeds were too many to count   
+
+His list of sins long as Azazel’s the goat.   
+His teachings forever be with us, he’ll gloat.   
+Set free in the forest, not noticed or dead,   
+all sins of Israel confessed on his head 1.
+
 **6.** John the Baptist Here, I posit that on separate occasions, John baptized Jesus of Nazareth (or Bethlehem) and also Jesus Barabbas. 
 When John the Baptist says “He will take away the sin of the world” he would have been pointing, he does not say exactly how this sin will be taken away. 
 Again, going back to Leviticus 16, one goat is slaughtered as a sin offering, but another goat takes away the sin of the world. 
 If John knew the upcoming crucifixion of Jesus Christ would be based on the Day of Atonement ritual, it would be reasonable to imagine he knew which Jesus would play which role. 
 
-What word means to Christen, immerse, and recruit?   
-To baptize is generally the Christian pursuit.   
+What word means to Christen, immerse, and recruit?    
+To baptize is generally the Christian pursuit.    
 Baptism by water can make clean wheat muddy.   
 It’s all such a mess, the floor should be made floody,   
 but if there’s a piece of good wheat in that trash  
@@ -483,10 +489,13 @@ But soon you will see angels ascending and descending on the Son of Man.” Ange
 **500.** B.C. 
 whose philosophy almost certainly influenced John’s writing in this chapter. 
 and then in Nathanael he found his first witness a man of sarcasm, a cynic, a wit, - “Son of God, Rabbi, and King” he professes - (All in the tone of a man unimpressed is.)
-**12.** Barabbas says “Soon you will see more than that.” like petting a dog or beating a cat. 
-the angels of God and those of good intent. 
-in profane decline and in righteous ascent. 
-- In my name, Jesus, find teacher and clown, I will convey, “the way up’s the way down”
+
+**12.** Barabbas says “Soon you will see more than that.”   
+like petting a dog or beating a cat.   
+the angels of God and those of good intent.   
+in profane decline and in righteous ascent.   
+- In my name, Jesus, find teacher and clown,  
+- I will convey, “the way up’s the way down”  
 
 §§CHAPTER_BREAK§§ 
 # **Chapter 2.** - Parable of Temptation
@@ -497,7 +506,7 @@ in profane decline and in righteous ascent.
 Jesus (both Jesus) were led by the spirit -  
 Out to the wilderness, tempted by serpent -  
 Jesus Beth-Laham could never be tempted  
-But Jesus Bar Abbas? he rushed to the spoils.
+But Jesus Bar Abbas? he rushed to the spoils.  
 
  ### Rhetoric
 While most of the chapters of John’s gospel seem to be riddles about some particular common object, **Chapter 2** is an exception. 
@@ -648,10 +657,11 @@ If the question were answered properly, it would be “I don’t believe you are
 I believe you are speaking of earthly things.” Once it is recognized that Jesus is simply speaking of air and water, rather than specifically of baptism and spirit, one realizes, you can’t be born of water unless you’re made of water. 
 This is the idea that Jesus is trying to get across, to comical effect. 
 Now most of the men from the temple had left him but some still thought he was a prophet to teach them some insight about the Jews’ laws and their practice some rule that had hitherto hid from the masses.
+
 **18.** When J. Bar was visited by Nicodemus,  
-  he came at night, secret, so no one would see this.  
-He said to Barabbas “All things are from God,
-and you are a thing so not totally fraud.
+  he came at night, secret, so no one would see this.   
+He said to Barabbas “All things are from God,  
+and you are a thing so not totally fraud.  
 
 **2.** This shouting and kicking and screaming and boasting   
 water into wine, having revelers toasting!   
@@ -661,8 +671,8 @@ so God has a plan for you, surely, I guess?”
 **3.** Barabbas then answered in Greek with a pun:  
 You can’t get to Heaven lest born “anothen” -  
 Poor Nicodemus still struggled with Greek  
-**4.** “crawl back in the womb? that seems absurd to seek.”  
-but J. Bar persisted without explication  
+**4.** “crawl back in the womb? that seems absurd to seek.”   
+but J. Bar persisted without explication   
 and added “pneumatos” to his explanation.  
 
 (Pneumatos means air, anothen: above.  
@@ -677,27 +687,27 @@ to be in the sky with the clouds and the dove
 Flesh begets flesh and plant gives birth to plant,  
 
 Kindness gets kindness and rant begets rant.  
-**8.** and the wind, oh the wind, 
-now it’s hard to predict  
-one day, it’s nice weather.  
-The next won’t be fit!  
+**8.** and the wind, oh the wind,  
+now it’s hard to predict   
+one day, it’s nice weather.    
+The next won’t be fit!   
 
-**9.** but J. Bar had spoken in riddles and puns  
-Nicodemus, bewildered, while having no fun,  
-asked “How can this be” in frustrated confusion  
-so J. Bar then mocked his esteemed occupation  
+**9.** but J. Bar had spoken in riddles and puns   
+Nicodemus, bewildered, while having no fun,   
+asked “How can this be” in frustrated confusion   
+so J. Bar then mocked his esteemed occupation   
 
-**10.** You’re Israel’s teacher, yet don’t understand  
-(Water and weather and clouds versus land?)  
+**10.** You’re Israel’s teacher, yet don’t understand   
+(Water and weather and clouds versus land?)   
 
-**11.** We speak what we know, and to what we have seen  
-Earthly things. You just don’t know what we mean.  
+**11.** We speak what we know, and to what we have seen   
+Earthly things. You just don’t know what we mean.   
 
-**12.** So how will you get it if I now describe  
-those things you’ve not seen, and what hasn’t arrived?  
+**12.** So how will you get it if I now describe   
+those things you’ve not seen, and what hasn’t arrived?   
 
-**John 3:13** seems to be saying there is something special about “The Son of Man”. 
-However, it may also be an odd description of gravity; “What goes up, must come down, even the Son of Man”.
+**John 3:13** seems to be saying there is something special about “The Son of Man”.  
+However, it may also be an odd description of gravity; “What goes up, must come down, even the Son of Man”. 
 
 **13.** No one has gone up to Heaven unbound:  
 No son has gone up except one whose come down.  
@@ -1015,88 +1025,100 @@ In that defense, he never makes the connection claimed, that his Father is God.
 Instead **John 5:19-47** poses a riddle, about what he is, and what his father is. 
 Like the riddle of the Sphinx, this is a question that, perhaps, few people can answer correctly. 
 Most people will surely answer that there is no riddle, and Jesus speaks plainly about his relation with God, his Father, and you will either believe or disbelieve.
-**16.** The healers, who ran the sheep pool, were off Sunday 
-said “Thirty eight years! Could he wait until Monday?” 
-So J. Bar said this rebuke was persecution, 
-and took offense: said “unlike your institution, 
-this Sabbath you say is made Holy by God:
-**17.** my Father rests not. he is no lazy sod. 
-So choose who to worship, taskmaster, or sloth 
-the Sabbath is stupid, not worthy of thought.
-**18.** the more Jesus argued they thought they could tell 
-This wasn’t Messiah but teachings from hell 
-for they who had understood Sabbath was Holy
-**28.** - might have allowed that some shifts could be rollied 
-around so that work could be done when its needed 
-provided that workers have rest on the weekend. 
-Proclaiming that never had God been at rest? 
-His father defies the book of Genesis! 
-That’s not the same God that the Israelites worshipped. 
-He’s letting in some attributes of the serpent! 
+
+**16.** The healers, who ran the sheep pool, were off Sunday   
+said “Thirty eight years! Could he wait until Monday?”   
+So J. Bar said this rebuke was persecution,   
+and took offense: said “unlike your institution,   
+this Sabbath you say is made Holy by God:  
+**17.** my Father rests not. he is no lazy sod.   
+So choose who to worship, taskmaster, or sloth   
+the Sabbath is stupid, not worthy of thought.  
+**18.** the more Jesus argued they thought they could tell  
+This wasn’t Messiah but teachings from hell   
+for they who had understood Sabbath was Holy  
+**28.** - might have allowed that some shifts could be rollied  
+around so that work could be done when its needed  
+provided that workers have rest on the weekend.  
+Proclaiming that never had God been at rest?  
+His father defies the book of Genesis!  
+That’s not the same God that the Israelites worshipped.  
+He’s letting in some attributes of the serpent!  
 
 .
 
-**3.** A Man and His Writing Still, 
-let me tell you the magic of print: 
-It stays on the page, and conveys when you squint 
--Decades and centuries, maybe millenia 
-join writer to reader in link of print media. 
-So if we look close at the gospel of John, 
-the print has been working persistent, since drawn. 
-And so in the words of this gospel that’s writ, 
-the work of a man and the sum of his wit,
-**19.** It’s not unlikely he called himself father... 
-of words he has written, of which he’s the author, 
-and ever since that day, his words have been working, 
-as though to tell us what the author was thinking 
-and though print continues to work upon Sundays 
-both author and print are consistent with their ways. 
-The rest of this chapter continues this riddle 
-I translate each verse going little by little
-**20.** the author loves writing and shows all he does 
-and things more than possible–Dreams that he loves
-**21.** the author writes words that raise dead and give life
-**22.** or tell good from bad and judge deeds wrong from right
-**23.** You don’t like the words, or you don’t like the story? 
-Whoever you are, you don’t give any glory. 
+**3.** A Man and His Writing Still,  
+let me tell you the magic of print:  
+It stays on the page, and conveys when you squint  
+-Decades and centuries, maybe millenia   
+join writer to reader in link of print media.  
+So if we look close at the gospel of John,  
+the print has been working persistent, since drawn.  
+And so in the words of this gospel that’s writ,  
+the work of a man and the sum of his wit,  
+**19.** It’s not unlikely he called himself father...   
+of words he has written, of which he’s the author,   
+and ever since that day, his words have been working,   
+as though to tell us what the author was thinking   
+and though print continues to work upon Sundays   
+both author and print are consistent with their ways.   
+The rest of this chapter continues this riddle   
+I translate each verse going little by little  
+**20.** the author loves writing and shows all he does   
+and things more than possible–Dreams that he loves  
+**21.** the author writes words that raise dead and give life  
+**22.** or tell good from bad and judge deeds wrong from right  
+**23.** You don’t like the words, or you don’t like the story?  
+Whoever you are, you don’t give any glory.   
 
-{**4.** Meaning, understanding, and belief}
+{**4.** Meaning, understanding, and belief}  
 
-**24.** - Can you force a miracle into your mind, believed? 
-or fake it ‘til you make it, then do you become deceived? 
-and what success have you achieved, believing in your teacher 
-if every word’s misunderstood, when listening to the speaker? 
--If you understood the author’s rational intent 
--He has crossed from death to life when you know what he meant.
-**25.** The dead are raised by Son of God but do not be misled: 
-The voices of the dead are raised by reading what they said!
-**29.** **28.** Ink on paper, little does. 
-the authors words are staying.
-**29.** The author’s print’s ability to raise the dead’s amazing
-**30.** The words, if they’re not read, do not come in the mind of you,
-**32.** but someone will interpret them and think of what they do
-**33.** - Reading John, we hear his gospel testify it’s true
-**34.** - but this gospel will not say “you’ve figured the right view”
-**35.** All we have is words through which to try enjoy John’s light.
-**36.** but words, so weighty, why to write? what reason sins incite?
-**37.** these words published posthumously; we’ve never seen the author
-**38.** and never have we understood his meaning or The Father 5.
+**24.** - Can you force a miracle into your mind, believed?   
+or fake it ‘til you make it, then do you become deceived?   
+and what success have you achieved, believing in your teacher  
+if every word’s misunderstood, when listening to the speaker?  
+-If you understood the author’s rational intent   
+-He has crossed from death to life when you know what he meant.  
+**25.** The dead are raised by Son of God but do not be misled:  
+The voices of the dead are raised by reading what they said!  
+**29.** **28.** Ink on paper, little does.   
+the authors words are staying.  
+**29.** The author’s print’s ability to raise the dead’s amazing  
+**30.** The words, if they’re not read, do not come in the mind of you,  
+**32.** but someone will interpret them and think of what they do  
+**33.** - Reading John, we hear his gospel testify it’s true  
+**34.** - but this gospel will not say “you’ve figured the right view”  
+**35.** All we have is words through which to try enjoy John’s light.  
+**36.** but words, so weighty, why to write? what reason sins incite?  
+**37.** these words published posthumously; we’ve never seen the author  
+**38.** and never have we understood his meaning or The Father 5.  
 
-**39.** Some study scriptures hard, for life eternal, to be seen
-**40.** Alas the Torah’s got **Isaiah 28:18**: Agreements that we make with death are doomed to be annulled! No benefit believing what’s not true! That should be culled.
-**41.** Words are written on the page; they care not what you think.
+**39.** Some study scriptures hard, for life eternal, to be seen  
+**40.** Alas the Torah’s got **Isaiah 28:18**:  
+Agreements that we make with death are doomed to be annulled!  
+No benefit believing what’s not true! That should be culled.  
+**41.** Words are written on the page; they care not what you think.  
 **42.** and slander of your heart, John’ gospel writes it down in ink
-**43.** The words, here printed, under names John, Jesus, and The Father, and you do not accept meanings intended by the author. 
-but someone else who comes and says exactly what they mean 
-You accept, because you see their motivation’s clean
-**44.** Even though they may assent to flawed interpretation., why should you be questioning consensus correlation? If you agree and say John 5’s surely about an author, and clearly not about the praise of God our Holy Father I think you’ll find you’re not aligned with men of pedigree so you’ll be wanting to agree, so they’ll give you glory.
-**45.** but when you go agree with them, that we should work on Sunday
-**46.** you break the third commandment, which says keep the Sabbath Holy but since you don’t believe what Moses carved in stone that day,
-**47.** How will you believe what John has written down to say?
+**43.** The words, here printed, under names John, Jesus, and The Father,   
+and you do not accept meanings intended by the author.   
+
+but someone else who comes and says exactly what they mean   
+You accept, because you see their motivation’s clean  
+**44.** Even though they may assent to flawed interpretation.,  
+why should you be questioning consensus correlation?   
+If you agree and say John 5’s surely about an author,   
+and clearly not about the praise of God our Holy Father   
+I think you’ll find you’re not aligned with men of pedigree   
+so you’ll be wanting to agree, so they’ll give you glory.  
+
+**45.** but when you go agree with them, that we should work on Sunday  
+**46.** you break the third commandment, which says keep the Sabbath Holy  
+but since you don’t believe what Moses carved in stone that day,  
+**47.** How will you believe what John has written down to say?  
 
 §§CHAPTER_BREAK§§ 
 **Chapter 6.** - Parable of Food
-Youtube Readalong: https://www.youtube.com/watch?v=AXLMtNtUrNg&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=6
+[Youtube Readalong:](https://www.youtube.com/watch?v=AXLMtNtUrNg&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=6)
 Location: Barabbas goes North to Galilee and then to Capernaum 
 
 6.
@@ -1115,131 +1137,241 @@ Though most interpreters assume the young boy shared what he had willingly, John
 In John’s gospel, Jesus flees from the crowd, and later his disciples get on the boat in the cover of night.
 **5.** In other gospels, Jesus goes to Gennasseret, where everyone who touches his cloak is healed. 
 But in John’s gospel, he goes to Capernaum, where he teaches those who follow him, “You must eat my flesh”. 
-Now, let’s review the healings: first “your son is healed, now go.” The next: “pick up your mat and walk”, the count, two healings so
-**2.** with two people he’d healed, who wouldn’t want to come and see?
-**1.** North and South and North and South then North to Galilee
-**3.** J. Bar and his men had climbed a mountain towards the Heavens,
-**4.** The Jews were, right then, planning for the feast of bread, unleavened
-**5.** as barker at a carnival, J. Bar shouts to the crowd “Where shall we buy bread that these might eat?” (crying out loud)
-**6.** but Philip knew this was a trick and he’s meant conspire “Denarii, count, two hundred, not enough for bread acquired.”
-**8.** Andrew finds a boy who has plenty of food to eat
-**9.** presumes it’s theirs to share it or to take by force or cheat
-**11.** J. Bar gave thanks for Andrew’s gain and started passing out in portions large or small depending on their whim or clout
-**31.** so when the feast was over, it was time to burn the bread If foreign or native born, you eat the yeast instead, you’re celebrating not how God brought forth the Jews from egypt and have to be expelled from the community since you slipped but J. Bar said to go collect the pieces left behind let nothing go to waste, he said, no crumb or slice or find and so the Jews on seeing this were troubled how he flaunted how rules of Exodus and Deuteronomy he flouted for they were meant to throw away their stores of leavened bread but here was J. Bar scooping it by basketfulls instead. 
-so they began to ask “is this the prophet that’s to come? the one who says our practices on yeast and bread are dumb? We’ve a rule for prophets preaching what’s not come from God, Show no pity. 
-Stone to death, and burn the town they’re from.”
-**15.** J. Bar. 
-seeing there was a plot to “make him king” by force, Fled into the mountain; left his men behind, of course.
-**16.** his men, with leavened bread in hand, departed in the night
-**17.** and rowed from there to Capernaum, in wind, four miles in flight. 
-they didn’t know their place when in the dimness of their eye the man on water, walking, shouted out to them “It’s i” they offered take him in, but he said “Why? That would be dumb.” just get yourselves out of the boat, you’re docked at Capernaum.
-**22.** the crowd woke up and noticed J. Bar and his men were gone, but they found J. Bar’s footprints through the mountain in the dawn with thirteen men and one astray in cool and windy weather
-**24.** to Capernaum they followed tracks of lost sheep or a shepherd
-**52.** they found him saying things on food that might give rise to qualm
-**59.** When they found him teaching at temple in Capernaum
-**27.** he said don’t pray for daily bread, or work for food that spoils
-**53.** but find food in the flesh; the Son of Man, and in its oils the one step metaphor again was hard to understand when J. Bar said ‘you see, I’m food,” they could not grasp his plan of course they thought he meant they all should eat another human
-**66.** Except for some fanatics then, he lost all of his crewmen
-**68.** but twelve said all I care about’s eternal life and since you promise this, I’ll do what all it takes to please the Prince.
-**71.** now there was one among the twelve who didn’t quite believe, that all the Jewish teaching should be severed to receive the promise of a life regardless how long or eternal and so he got Christened, by John, a Judas and infernal. 
-32
+
+Now, let’s review the healings: first “your son is healed, now go.”   
+The next: “pick up your mat and walk”, the count, two healings so  
+**2.** with two people he’d healed, who wouldn’t want to come and see?  
+**1.** North and South and North and South then North to Galilee  
+
+**3.** J. Bar and his men had climbed a mountain towards the Heavens,  
+**4.** The Jews were, right then, planning for the feast of bread, unleavened  
+**5.** as barker at a carnival, J. Bar shouts to the crowd   
+“Where shall we buy bread that these might eat?” (crying out loud)  
+
+**6.** but Philip knew this was a trick and he’s meant conspire   
+“Denarii, count, two hundred, not enough for bread acquired.”  
+**8.** Andrew finds a boy who has plenty of food to eat  
+**9.** presumes it’s theirs to share it or to take by force or cheat  
+**11.** J. Bar gave thanks for Andrew’s gain and started passing out  
+in portions large or small depending on their whim or clout  
+
+**31.** so when the feast was over, it was time to burn the bread   
+If foreign or native born, you eat the yeast instead,  
+you’re celebrating not how God brought forth the Jews from egypt   
+and have to be expelled from the community since you slipped   
+but J. Bar said to go collect the pieces left behind   
+let nothing go to waste, he said, no crumb or slice or find  
+and so the Jews on seeing this were troubled how he flaunted   
+how rules of Exodus and Deuteronomy he flouted   
+
+for they were meant to throw away their stores of leavened bread   
+but here was J. Bar scooping it by basketfulls instead.    
+so they began to ask “is this the prophet that’s to come?    
+the one who says our practices on yeast and bread are dumb?   
+We’ve a rule for prophets preaching what’s not come from God,  
+Show no pity. Stone to death, and burn the town they’re from.”  
+
+**15.** J. Bar. seeing there was a plot to “make him king” by force,  
+Fled into the mountain; left his men behind, of course.  
+**16.** his men, with leavened bread in hand, departed in the night  
+**17.** and rowed from there to Capernaum, in wind, four miles in flight.   
+they didn’t know their place when in the dimness of their eye   
+the man on water, walking, shouted out to them “It’s i”   
+they offered take him in, but he said “Why? That would be dumb.”   
+just get yourselves out of the boat, you’re docked at Capernaum.  
+
+**22.** the crowd woke up and noticed J. Bar and his men were gone,  
+but they found J. Bar’s footprints through the mountain in the dawn   
+with thirteen men and one astray in cool and windy weather  
+**24.** to Capernaum they followed tracks of lost sheep or a shepherd  
+**52.** they found him saying things on food that might give rise to qualm  
+**59.** When they found him teaching at temple in Capernaum  
+**27.** he said don’t pray for daily bread, or work for food that spoils  
+**53.** but find food in the flesh; the Son of Man, and in its oils   
+the one step metaphor again was hard to understand  
+when J. Bar said ‘you see, I’m food,” they could not grasp his plan   
+of course they thought he meant they all should eat another human  
+
+**66.** Except for some fanatics then, he lost all of his crewmen  
+**68.** but twelve said all I care about’s eternal life and since  
+you promise this, I’ll do what all it takes to please the Prince.  
+**71.** now there was one among the twelve who didn’t quite believe,   
+that all the Jewish teaching should be severed to receive   
+the promise of a life regardless how long or eternal   
+and so he got Christened, by John, a Judas and infernal.  
+
+(*In Caravan Canon Jesus Barabbas is actually asking Judas Iscariot to perform on him the Metzitzeh B'peh; oral suctioning after circumcision.*)
 
 §§CHAPTER_BREAK§§ 
 Chapter 7: The Parable of the Envelope
-Youtube Readalong: https://www.youtube.com/watch?v=emar9_xro7o&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=7
+[Youtube Readalong:](https://www.youtube.com/watch?v=emar9_xro7o&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=7)
 Location: Barabbas goes South from Galilee to feast of Tabernacles in Jerusalem 
 
-J. Bethleham had never left the lands round Galilee would J. Bar’s visits to Jerusalem now number three? He hesitated now because of fear he might get tackled
-**2.** By the Jewish leaders at the feast of Tabernacles
-**4.** his brothers said we think you’d get a following much quicker
-**5.** If you had had more witnesses, you’d be a public figure
-**8.** – he told his brothers “You should go because you do not tell
-**7.** your father works on Sabbath, or the world is fit for hell.”
-**10.** – the question of the Tabernacle feast that John has published: were words said here by Jesus said in secret or in public?
-**11.** when not hearing his words there and not looking at his face, opinions, still were voiced, and some would advocate their case
-**12.** some people said emphatically this Jesus is a good one because he gives instruction how to reach eternal Heaven they boasted “with his help we have a covenant with death no mortal scourge can touch our souls. 
-we’re safe within his breath.” but others said “you sillies, no this contract is deceitful he sets you up to fall for any demagogue or weasel who’ll promise hell eternal to whooever doesn’t swallow his lying tongue, his wicked schemes, his feet, to evil, follow
-**13.** Nothing’s said outloud of course. 
-They feared humiliation. 
-they didn’t have conviction of a forceful explanation. 
-since neither group can prove the other side’s the one whose blighted there’s silence from the cautious: “we’ll leave this unknown; not righted”
-**14.** J. Bar came to the festival by teaching such and such but what exactly they were taught John doesn’t say that much
-**14.** this secret, public teaching at Jerusalem was such
-**15.** the Jews, they were surprised that this man, J. Bar knew so much.
-**16.** his teaching at the feast was like a box, blank page, or bag
-**17.** it’s just an open page where you can put some good or bad
-**18.** a blank page for a sinner or a saint on which to jot
-**19.** like Moses first used scrolls to share, on righteousness, his thoughts when Moses wrote God’s words on parchment and said to obey the blank page that had been there was no more; it poofed away. 
-this being of nonpresence had self-Righteous things to say about those who would write in words and symbols gone astray “You have no respect for what’s not written on a page you kill it, filling it with rules and customs for the age
-**20.** this metaphor (for J. Bar saying nothing)’s very critical
-**34.** when he’d said nothing, really, since his absence was quite literal of course nobody knows how John has wrapped his text in riddles. 
+J. Bethleham had never left the lands round Galilee   
+would J. Bar’s visits to Jerusalem now number three?   
+He hesitated now because of fear he might get tackled  
+**2.** By the Jewish leaders at the feast of Tabernacles  
+**4.** his brothers said we think you’d get a following much quicker  
+**5.** If you had had more witnesses, you’d be a public figure  
+**8.** – he told his brothers “You should go because you do not tell  
+**7.** your father works on Sabbath, or the world is fit for hell.”  
+**10.** – the question of the Tabernacle feast that John has published:  
+were words said here by Jesus said in secret or in public?  
+**11.** when not hearing his words there and not looking at his face,  
+opinions, still were voiced, and some would advocate their case  
+**12.** some people said emphatically this Jesus is a good one  
+because he gives instruction how to reach eternal Heaven   
+they boasted “with his help we have a covenant with death   
+no mortal scourge can touch our souls.   
+we’re safe within his breath.”   
+
+but others said “you sillies, no this contract is deceitful   
+he sets you up to fall for any demagogue or weasel   
+who’ll promise hell eternal to whooever doesn’t swallow   
+his lying tongue, his wicked schemes, his feet, to evil, follow  
+
+**13.** Nothing’s said outloud of course. They feared humiliation.   
+they didn’t have conviction of a forceful explanation.   
+since neither group can prove the other side’s the one whose blighted   
+there’s silence from the cautious: “we’ll leave this unknown; not righted”  
+
+**14.** J. Bar came to the festival by teaching such and such  
+but what exactly they were taught John doesn’t say that much  
+**14.** this secret, public teaching at Jerusalem was such  
+**15.** the Jews, they were surprised that this man, J. Bar knew so much.  
+**16.** his teaching at the feast was like a box, blank page, or bag  
+**17.** it’s just an open page where you can put some good or bad  
+**18.** a blank page for a sinner or a saint on which to jot  
+**19.** like Moses first used scrolls to share, on righteousness, his thoughts   
+when Moses wrote God’s words on parchment and said to obey   
+the blank page that had been there was no more; it poofed away.
+
+this being of nonpresence had self-Righteous things to say   
+about those who would write in words and symbols gone astray   
+“You have no respect for what’s not written on a page   
+you kill it, filling it with rules and customs for the age  
+**20.** this metaphor (for J. Bar saying nothing)’s very critical  
+**34.** when he’d said nothing, really, since his absence was quite literal   
+of course nobody knows how John has wrapped his text in riddles.   
 so nobody is seeking metaphors or cryptic symbols.
-**21.** , Barabbas was announcing that he did a single sign the lame man at Bethesda seemed to be just walking fine, but then outside, he boasted, “every day my Father works,” (promoting working seven days a week with not a perk.)
-**23.** the trouble with the miracle is not within the healing but it’s the Sabbath rest this blessing that the teacher’s stealing the words this man had spoken were announced quite loud and clear and no one was preventing them from getting in their ear. 
-some people at the feast concluded this must be Messiah
-**26.** because nobody tried to kill the man or his idea Though attendance he declined, this choice he had decided. 
-they had his return address so they knew where he resided they knew that if Messiah came his address had no impact the spirit and the truth are independent of the contact
-**28.** the message said you know me, and you know from where I’ve come but ‘til you read my contents, there is no lie to succumb.
-**30.** At this they tried to seize; the source of wisdom wasn’t there
-**31.** while some thought, “to Messiah, would this non-teaching compare?”
-**35.** **32.** The Pharisees, they sent the temple guards out to arrest,
-**33.** but paper’s only blank before the writer’s thoughts, confessed
-**34.** once words are on the page or lasting thoughts are in the mind a blank slate you might seek, but never quite completely find
-**37.** On the last day of the feast J. Bar changed what he yelled he’d been performing nothing, now he changed to the ink well. 
-“if you’re an inkpen who is empty, come to me and drink”
-**38.** rivers of spirit flow like Zechariah the fourteenth. 
-so half the living water flowed West to mediterranean out to abundant species both familiar and alien the other half, they closed their eyes and tried hard not to see this world they said they hated as they flowed East to dead sea
-**38.** Those who glorified what J. Bar had said at the festival could fill in what they thought he meant. 
-his teaching was quite flexible
-**42.** but how can Son of The Father be Messiah who is fated?
-**36.** he should be son of Bethlehem: A Jesse, root of David.
-**44.** no one can seize the meaning of a page that’s not been written
-**45.** so when the guards went out to grab the man whose words were hidden
-**46.** said “No one’s uttered words the way this man who isn’t there does.”
-**49.** said Pharisees, “the crowd’s deceived by lack of knowing good laws.”
-**50.** Nicodemus pointed out we don’t know what he’s doing,
-**52.** the Pharisee’s replied, “but this J. Bar is too much, moving.” the prophet leaves, once only, from his home at Galilee and as for Festival of Tabernacles? never seen. 
-37
+
+**21.** , Barabbas was announcing that he did a single sign  
+the lame man at Bethesda seemed to be just walking fine,  
+but then outside, he boasted, “every day my Father works,”  
+(promoting working seven days a week with not a perk.)  
+
+**23.** the trouble with the miracle is not within the healing   
+but it’s the Sabbath rest this blessing that the teacher’s stealing   
+the words this man had spoken were announced quite loud and clear   
+and no one was preventing them from getting in their ear. 
+
+some people at the feast concluded this must be Messiah  
+**26.** because nobody tried to kill the man or his idea  
+Though attendance he declined, this choice he had decided.  
+they had his return address so they knew where he resided   
+they knew that if Messiah came his address had no impact   
+the spirit and the truth are independent of the contact  
+**28.** the message said you know me, and you know from where I’ve come  
+but ‘til you read my contents, there is no lie to succumb.  
+
+**30.** At this they tried to seize; the source of wisdom wasn’t there  
+**31.** while some thought, “to Messiah, would this non-teaching compare?”  
+**35.** **32.** The Pharisees, they sent the temple guards out to arrest,  
+**33.** but paper’s only blank before the writer’s thoughts, confessed  
+**34.** once words are on the page or lasting thoughts are in the mind   
+a blank slate you might seek, but never quite completely find  
+**37.** On the last day of the feast J. Bar changed what he yelled   
+he’d been performing nothing, now he changed to the ink well.  
+
+“if you’re an inkpen who is empty, come to me and drink”  
+**38.** rivers of spirit flow like Zechariah the fourteenth.   
+so half the living water flowed West to mediterranean   
+out to abundant species both familiar and alien  
+the other half, they closed their eyes and tried hard not to see   
+this world they said they hated as they flowed East to dead sea  
+
+**38.** Those who glorified what J. Bar had said at the festival   
+could fill in what they thought he meant.  his teaching was quite flexible  
+**42.** but how can Son of The Father be Messiah who is fated?  
+**36.** he should be son of Bethlehem: A Jesse, root of David.  
+**44.** no one can seize the meaning of a page that’s not been written  
+**45.** so when the guards went out to grab the man whose words were hidden  
+**46.** said “No one’s uttered words the way this man who isn’t there does.”  
+**49.** said Pharisees, “the crowd’s deceived by lack of knowing good laws.”  
+**50.** Nicodemus pointed out we don’t know what he’s doing,  
+**52.** the Pharisee’s replied, “but this J. Bar is too much, moving.”   
+the prophet leaves, once only, from his home at Galilee   
+and as for Festival of Tabernacles? never seen.   
+
 
 §§CHAPTER_BREAK§§ 
 Chapter 8: The Parable of Digestive Fire
-Youtube Readalong: https://www.youtube.com/watch?v=x-gX3w7M18M&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=8
+[Youtube Readalong:](https://www.youtube.com/watch?v=x-gX3w7M18M&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=8)
 Location: Barabbas is questioned about the death penalty at the Mount of Olives, then speaks in Jerusalem area, near the place where burnt offerings are put. 
 
 
-the day after the feast of Tabernacles was now over
-**2.** the scribes came up to Jesus with some inkpots and some paper
-**3.** some Pharisees were there with a woman they’d caught red-Handed Acting in adultery, (no telling what the man did.)
-**38.** they made her stand before the group, since pulling her from bed,
-**5.** and asked J. Bar if law required they throw rocks at her head now this is not quite typical of J. Barabbas preaching Ususally his lesson is more puzzling, less teaching
-**7.** he told them, by their law, they should, of course, by all means, yes but only if they’d never sinned or had any regret.
-**9.** the Pharisees then watched as Jesus wrote but kept quite silent, wrote nothing down, but moved on, with no more intent of violence this story seems to me a saving grace for this, John’s gospel, except historians think this wasn’t part of the original so I’ll keep showing metaphor and irony, I Reckon except this one small segment, John eight: Verse one through eleven. 
+the day after the feast of Tabernacles was now over  
+**2.** the scribes came up to Jesus with some inkpots and some paper  
+**3.** some Pharisees were there with a woman they’d caught red-Handed  
+Acting in adultery, (no telling what the man did.)  
+**38.** they made her stand before the group, since pulling her from bed,  
+**5.** and asked J. Bar if law required they throw rocks at her head  
+now this is not quite typical of J. Barabbas preaching   
+Usually his lesson is more puzzling, less teaching   
+**7.** he told them, by their law, they should, of course, by all means, yes  
+but only if they’d never sinned or had any regret.  
+
+**9.** the Pharisees then watched as Jesus wrote but kept quite silent,  
+wrote nothing down, but moved on, with no more intent of violence   
+this story seems to me a saving grace for this, John’s gospel,   
+except historians think this wasn’t part of the original   
+so I’ll keep showing metaphor and irony, I Reckon   
+except this one small segment, John eight: Verse one through eleven.
+
+(*Caravan Canon:  I'm not even sure I can say what is going on in this scene, It's a little too Diogenes*)
 8.
 **1.** The Riddle of Fire
-**12.** the light of daytime is the sun. 
-the light on Earth is fire whoever follows torch’s light must surely be alive
-**13.** the Pharisees found fire alone; said this must be put out
-**14.** the fire replied I know from where I’ve come and what about
-**15.** You all judge by human standard but I’ve no opinion but lack of judgment doesn’t mean I do not have a mission
-**16.** but I will truly choose my path as fuel turns into ashes Lighting up the world to see in sparks and flicker flashes my Father is the spark who sent me to consume this path
-**17.** and in his light and mine you’ll see destruction of our wrath
-**18.** the fire proclaims itself; the other witness is the spark from when or where it comes, you’re either in light or the dark
-**40.** **19.** and if you fully knew the fire you’d know incendiary Figured by confession or by evidentiary
-**20.** the fire then pointed to the spot where offerings were put nobody understood the riddle that he put afoot.
-**21.** your offering will turn to ash and then I’ll fade away while you’re still doomed to die in unrepented sins that stay
-**22.** they wondered how the fire could die; without an act of man and where it went, they couldn’t go, what realm, not touched by hand
-**23.** but we are made of Earth and water from the well or pond while fire’s not made of Earth; it’s made from stuff that seems beyond
-**24.** if from this metaphor for Earthly fire, you wrongly see a God whose fit for worship, you commit idolatry
-**25.** they asked “who should we recognize? we’re caught here in the middle.” he answered “I’ve been telling you since starting of this riddle”
-**26.** the fire will have a lot to say when it consumes your flesh the spark is true. 
-what’s said of you’ll be lit up in a flash
-**27.** they didn’t understand how now the fire spoke of cremation
-**28.** The Father fueling fire could be a human in persuasion
-**29.** the flesh that fuels the fire–he never leaves the fire alone the fire will always please the one who lit it on his own
-**30.** and as the fire persisted, it was coming plain to see that all the fire had claimed to do were things to be believed
-**41.** **31.** Jesus said certainly to those trusting him, “Jews, if you “meinete” (abide/stay/wait) in my “logo” (expression/reasoning) you’re truly my “mathetai” (disciples/students).
-**32.** And you will know the “aletheian” (truth/unconcealed) and the “aletheia” truth/unconcealed will set you free.
-**33.** They answered unto him “Sperma Abraam” (seed/sperm of Abraham) we are, and we have never been a slave to anyone. 
+
+**12.** the light of daytime is the sun. the light on Earth is fire  
+whoever follows torch’s light must surely be alive  
+**13.** the Pharisees found fire alone; said this must be put out  
+**14.** the fire replied I know from where I’ve come and what about  
+**15.** You all judge by human standard but I’ve no opinion   
+but lack of judgment doesn’t mean I do not have a mission  
+
+**16.** but I will truly choose my path as fuel turns into ashes   
+Lighting up the world to see in sparks and flicker flashes  
+my Father is the spark who sent me to consume this path  
+**17.** and in his light and mine you’ll see destruction of our wrath  
+**18.** the fire proclaims itself; the other witness is the spark   
+from when or where it comes, you’re either in light or the dark  
+**40.** **19.** and if you fully knew the fire you’d know incendiary   
+Figured by confession or by evidentiary  
+**20.** the fire then pointed to the spot where offerings were put  
+nobody understood the riddle that he put afoot.  
+**21.** your offering will turn to ash and then I’ll fade away  
+while you’re still doomed to die in unrepented sins that stay  
+**22.** they wondered how the fire could die; without an act of man  
+and where it went, they couldn’t go, what realm, not touched by hand  
+**23.** but we are made of Earth and water from the well or pond  
+while fire’s not made of Earth; it’s made from stuff that seems beyond  
+**24.** if from this metaphor for Earthly fire, you wrongly see  
+a God whose fit for worship, you commit idolatry  
+**25.** they asked “who should we recognize? we’re caught here in the middle.”   
+he answered “I’ve been telling you since starting of this riddle”  
+**26.** the fire will have a lot to say when it consumes your flesh 
+the spark is true. what’s said of you’ll be lit up in a flash  
+**27.** they didn’t understand how now the fire spoke of cremation  
+**28.** The Father fueling fire could be a human in persuasion  
+**29.** the flesh that fuels the fire–he never leaves the fire alone   
+the fire will always please the one who lit it on his own  
+**30.** and as the fire persisted, it was coming plain to see  
+that all the fire had claimed to do were things to be believed  
+
+**41.** **31.** Jesus said certainly to those trusting him,   
+“Jews, if you “meinete” (abide/stay/wait) in my “logo” (expression/reasoning) you’re truly my “mathetai” (disciples/students).  
+**32.** And you will know the “aletheian” (truth/unconcealed) and the “aletheia” truth/unconcealed will set you free.  
+**33.** They answered unto him “Sperma Abraam” (seed/sperm of Abraham) we are, and we have never been a slave to anyone.   
 How will you free us?
 **34.** Jesus answered them, Truly, I say to you that everyone practicing the sin is a slave of the sin.
 **35.** Now the slave does not abide in the house “eis ton aiona” (to the age). 
@@ -1272,40 +1404,77 @@ a truth of searing pain, how life can end in misery
 **34.** the fire referred to sin and vengeance; The infernal chain Results of temptation that give sins a chance to reign
 **35.** but a ritual fire that’s sparked to condemn, has a permanent place in the family of sin
 **36.** a man who is punished by burning alive is only a slave and is freed when life ends.
-**37.** but Abraham brought Isaac and some fire up to a mountain he tied his boy, and raised his blade. 
-an angel came to stop him. 
-a ram was shown to take his place, to kill, and burn for reasons
-**43.** now Jews may argue not killing their firstborn in some season.
-**38.** this practice of not sacrificing your sons is a practice that’s come from your fathers and mums.
-**39.** If you were really like Abraham’s children, you’d climb with the fire up the hill like a pilgrim you’d be logs in the fire, letting embers consume you. 
-unless angels showed up with proxies that would do.
-**40.** but here you are trying to put the fire out, not climbing the mountain in fear and in doubt not setting up bonfires to tie up your children, for fire to feed on for some strange superstition
-**41.** but the Jews said to him “we’re all children of God! not some savage ritual we see is flawed
-**42.** if your father was God you’d love me, don’t you see? then you’d see the forest by burning one tree
-**43.** why is it my language is not clear to you? ‘cause you cannot grasp the way it could be true.
-**44.** you think that my language is the Devil’s lies.
-**45.** but really it’s truth that’s been metaphorized.
-**46.** You could prove that I was guilty of sin if I meant what you think, that would be your way in but since I speak in metaphor you’ve no clue what I’m saying it’s not as though you’d get it, if attention, you’d been paying
-**48.** the Jews surmised a demon was what Jesus spoke about
-**49.** but Jesus riddle, here, was surely answered “fire”, no doubt
-**50.** Jesus sought no glory for himself choosing this riddle but boasting for the traits of fire with convolutions difficult
-**51.** the light that solves this riddle can’t see death or rot or waste
-**52.** but as it licks the surface of the flesh maybe it tastes?
-**53.** the listeners were sure these boasts must come from demon swagger because they thought he glorified himself with boast and braggart
-**54.** said Jesus, if he boasted of himself rather than fire the glory would mean nothing, the mistake would make a liar
-**55.** but God gives glory everywhere, and all to his grand plan
-**56.** when Abraham untied his son and killed the angel’s ram He rejoiced on seeing the day that fire burnt up that lamb and when the burning sulfur, raining, fell down upon Sodom Abraham was joyful for those not caught at the bottom
-**57.** How could Jesus be when Abe rejoiced on days of fire?
-**58.** the answer’s in the question of this ridiculous mire Before aught was done or thought or planned by Abraham the answer to this riddle, “fire”, could always say “I am”
-**44.** **59.** but they thought “he’s a dreamer who’s proclaimed some other Gods” the Jews picked up some stones to throw, and found themselves at odds. 
-and of the riddles J. Bar gave this answer’s a unique one: Vanished right before their eyes, the offspring of perdition.
+**37.** but Abraham brought Isaac and some fire up to a mountain   
+he tied his boy, and raised his blade. an angel came to stop him.   
+a ram was shown to take his place, to kill, and burn for reasons  
+**43.** now Jews may argue not killing their firstborn in some season.  
+
+**38.** this practice of not sacrificing your sons 
+is a practice that’s come from your fathers and mums.  
+**39.** If you were really like Abraham’s children,  you’d climb with the fire up the hill  
+like a pilgrim you’d be logs in the fire, letting embers consume you.  
+unless angels showed up with proxies that would do.  
+
+**40.** but here you are trying to put the fire out,  
+not climbing the mountain in fear and in doubt  
+not setting up bonfires to tie up your children,  
+for fire to feed on for some strange superstition  
+
+**41.** but the Jews said to him “we’re all children of God!  
+not some savage ritual we see is flawed  
+**42.** if your father was God you’d love me, don’t you see?   
+then you’d see the forest by burning one tree  
+
+**43.** why is it my language is not clear to you?   
+‘cause you cannot grasp the way it could be true.  
+**44.** you think that my language is the Devil’s lies.  
+**45.** but really it’s truth that’s been metaphorized.  
+
+**46.** You could prove that I was guilty of sin 
+if I meant what you think, that would be your way in 
+but since I speak in metaphor you’ve no clue what I’m saying   
+it’s not as though you’d get it, if attention, you’d been paying  
+
+**48.** the Jews surmised a demon was what Jesus spoke about  
+**49.** but Jesus riddle, here, was surely answered “fire”, no doubt  
+**50.** Jesus sought no glory for himself choosing this riddle   
+but boasting for the traits of fire with convolutions difficult  
+
+**51.** the light that solves this riddle can’t see death or rot or waste  
+**52.** but as it licks the surface of the flesh maybe it tastes?  
+**53.** the listeners were sure these boasts must come from demon swagger   
+because they thought he glorified himself with boast and braggart  
+
+**54.** said Jesus, if he boasted of himself rather than fire  
+the glory would mean nothing, the mistake would make a liar  
+**55.** but God gives glory everywhere, and all to his grand plan  
+**56.** when Abraham untied his son and killed the angel’s ram   
+He rejoiced on seeing the day that fire burnt up that lamb   
+and when the burning sulfur, raining, fell down upon Sodom   
+Abraham was joyful for those not caught at the bottom  
+
+**57.** How could Jesus be when Abe rejoiced on days of fire?  
+**58.** the answer’s in the question of this ridiculous mire  
+Before aught was done or thought or planned by Abraham  
+the answer to this riddle, “fire”, could always say “I am”  
+
+**44.** **59.** but they thought “he’s a dreamer who’s proclaimed some other Gods”  
+the Jews picked up some stones to throw, and found themselves at odds.   
+and of the riddles J. Bar gave this answer’s a unique one:  
+Vanished right before their eyes, the offspring of perdition.  
+
+(*Caravan-Canon:  The answer that I will probably propose to this riddle is quite a bit more funny.  The only fire here is the fire of a bad digestive system.  The day that Abraham looked forward to was not fire coming down on the sinners, but the day of a good bowel movement.  This same joke extends to Qu'ran 3:96, as the outhouse is the first house of humanity.*)
  
 §§CHAPTER_BREAK§§ 
 **Chapter 9.** - Parable of Seeing and Saying 
-Youtube Readalong: https://www.youtube.com/watch?v=snr8RXbM_Ys&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=9
+[Youtube Readalong:](https://www.youtube.com/watch?v=snr8RXbM_Ys&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=9)
 Location: Barabbas remains near Jerusalem near the waters of Siloam 
 
-J. Bar’s disciples had been taught the reasons for afflictions were sins of men and ancestors and karma’s maledictions but here’s a man, who’s blind, from birth, so Jesus showed a parable indeed the woes of this one man are just for showing a miracle this man was blind; he couldn’t see the men who chatted thus he might have been dismayed about their conversation’s thrust “Did God give blindness my whole life just so I could provide a chance to do a magic trick and help build up your pride?” said J. Bar “yes, now close your eyes, though blind you may still be, I’ll cake on spit, and mud, to block the light that you might see” the blind man asked “now rub it off? Your miracle’s cured me?” “Oh no, that’s spit and mud, it is the ‘sent’ you need to see.” the blind man left with mud in eyes and stumbled out from home Grumbling at the task at hand, he went to the Siloam “If washing in the sent is what is meant to cure my blindness, this spit and mud that’s in my face seems uncalled-for unkindness” but when the blind man reached the spot, he washed off all the mess the waters of the Siloam cured his eyes. 
+J. Bar’s disciples had been taught the reasons for afflictions  
+were sins of men and ancestors and karma’s maledictions   
+but here’s a man, who’s blind, from birth, so Jesus showed a parable  
+indeed the woes of this one man are just for showing a miracle   
+this man was blind; he couldn’t see the men who chatted thus he might have been dismayed about their conversation’s thrust “Did God give blindness my whole life just so I could provide a chance to do a magic trick and help build up your pride?” said J. Bar “yes, now close your eyes, though blind you may still be, I’ll cake on spit, and mud, to block the light that you might see” the blind man asked “now rub it off? Your miracle’s cured me?” “Oh no, that’s spit and mud, it is the ‘sent’ you need to see.” the blind man left with mud in eyes and stumbled out from home Grumbling at the task at hand, he went to the Siloam “If washing in the sent is what is meant to cure my blindness, this spit and mud that’s in my face seems uncalled-for unkindness” but when the blind man reached the spot, he washed off all the mess the waters of the Siloam cured his eyes. 
 He was impressed
 **9.** his neigbors asked “Is this the man who used to sit and beg?” and he, himself, insisted, “Yes, I’m not pulling your leg Jesus put mud in my eyes while I begged by my home he didn’t heal direct, but by the proxy of Siloam.” routinely pestered by his neigbors and his kin at home said “Spit came from the prophet, healing came from the Siloam. 
 No, I never saw him. 
