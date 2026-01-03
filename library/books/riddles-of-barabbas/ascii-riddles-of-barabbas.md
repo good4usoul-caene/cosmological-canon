@@ -648,28 +648,71 @@ If the question were answered properly, it would be “I don’t believe you are
 I believe you are speaking of earthly things.” Once it is recognized that Jesus is simply speaking of air and water, rather than specifically of baptism and spirit, one realizes, you can’t be born of water unless you’re made of water. 
 This is the idea that Jesus is trying to get across, to comical effect. 
 Now most of the men from the temple had left him but some still thought he was a prophet to teach them some insight about the Jews’ laws and their practice some rule that had hitherto hid from the masses.
-**18.** When J. Bar was visited by Nicodemus, he came at night, secret, so no one would see this. 
-He said to Barabbas “All things are from God, and you are a thing so not totally fraud.
-**2.** This shouting and kicking and screaming and boasting water into wine, having revelers toasting! No thing can be done without God saying “yes” so God has a plan for you, surely, I guess?”
-**3.** Barabbas then answered in Greek with a pun: You can’t get to Heaven lest born “anothen” - Poor Nicodemus still struggled with Greek
-**4.** “crawl back in the womb? that seems absurd to seek.” but J. Bar persisted without explication and added “pneumatos” to his explanation. 
-(Pneumatos means air, anothen: above. 
-the air and the clouds are some signs of God’s love.
-**6.** Don’t try to be born of the air or a cloud but let you be you, for crying out loud. 
--(There’s nothing stopping you learning to love while standing on ground with your spirit above.) do not be surprised you must be born above to be in the sky with the clouds and the dove Flesh begets flesh and plant gives birth to plant, Kindness gets kindness and rant begets rant.
-**8.** and the wind, oh the wind, now it’s hard to predict one day, it’s nice weather. 
-The next won’t be fit!
-**9.** but J. Bar had spoken in riddles and puns Nicodemus, bewildered, while having no fun, asked “How can this be” in frustrated confusion so J. Bar then mocked his esteemed occupation
-**10.** You’re Israel’s teacher, yet don’t understand (Water and weather and clouds versus land?)
-**11.** We speak what we know, and to what we have seen Earthly things. 
-You just don’t know what we mean.
-**12.** So how will you get it if I now describe those things you’ve not seen, and what hasn’t arrived? **John 3:13** seems to be saying there is something special about “The Son of Man”. 
+**18.** When J. Bar was visited by Nicodemus,  
+  he came at night, secret, so no one would see this.  
+He said to Barabbas “All things are from God,
+and you are a thing so not totally fraud.
+
+**2.** This shouting and kicking and screaming and boasting   
+water into wine, having revelers toasting!   
+No thing can be done without God saying “yes”   
+so God has a plan for you, surely, I guess?”  
+
+**3.** Barabbas then answered in Greek with a pun:  
+You can’t get to Heaven lest born “anothen” -  
+Poor Nicodemus still struggled with Greek  
+**4.** “crawl back in the womb? that seems absurd to seek.”  
+but J. Bar persisted without explication  
+and added “pneumatos” to his explanation.  
+
+(Pneumatos means air, anothen: above.  
+the air and the clouds are some signs of God’s love.  
+**6.** Don’t try to be born of the air or a cloud  
+but let you be you, for crying out loud.  -
+
+(There’s nothing stopping you learning to love  
+while standing on ground with your spirit above.)  
+do not be surprised you must be born above   
+to be in the sky with the clouds and the dove  
+Flesh begets flesh and plant gives birth to plant,  
+
+Kindness gets kindness and rant begets rant.  
+**8.** and the wind, oh the wind, 
+now it’s hard to predict  
+one day, it’s nice weather.  
+The next won’t be fit!  
+
+**9.** but J. Bar had spoken in riddles and puns  
+Nicodemus, bewildered, while having no fun,  
+asked “How can this be” in frustrated confusion  
+so J. Bar then mocked his esteemed occupation  
+
+**10.** You’re Israel’s teacher, yet don’t understand  
+(Water and weather and clouds versus land?)  
+
+**11.** We speak what we know, and to what we have seen  
+Earthly things. You just don’t know what we mean.  
+
+**12.** So how will you get it if I now describe  
+those things you’ve not seen, and what hasn’t arrived?  
+
+**John 3:13** seems to be saying there is something special about “The Son of Man”. 
 However, it may also be an odd description of gravity; “What goes up, must come down, even the Son of Man”.
-**13.** No one has gone up to Heaven unbound: No son has gone up except one whose come down.
-**19.** **14.** one man must be lifted up just like a snake and kept there forever for history’s sake
-**15.** by putting our sins in this man in his glory and keeping them out of our lives and our story
-**18.** John’s gospel then calls this man “God’s only son.” He takes away sins, so give him every one.
-**17.** he doesn’t condemn; just to trick us for fun, since we don’t know the name of “God’s begotten son” Though I can’t say for sure what John means by “the name”, there are a number of contenders. 
+
+**13.** No one has gone up to Heaven unbound:  
+No son has gone up except one whose come down.  
+**19.** **14.** one man must be lifted up just like a snake  
+and kept there forever for history’s sake  
+
+**15.** by putting our sins in this man in his glory  
+and keeping them out of our lives and our story  
+**18.** John’s gospel then calls this man “God’s only son.”  
+He takes away sins, so give him every one.  
+
+**17.** he doesn’t condemn; just to trick us for fun,  
+since we *don’t* know the name of “God’s *be*gotten son” 
+
+Though I *can’t* say for sure what John *means* by “the name”, there are a number of contenders. 
 Trivially, people will say “Believe in the name of Jesus!” The name, “Jesus”, is considered an abbreviation for Yeshua, which means, in Hebrew, “Savior”. 
 As such, to believe in the “name” of Jesus does not necessarily mean that you believe the person described in the gospel was the savior! It only means you believe in the word, “Savior”. 
 As for what it means to believe in the word, “Savior”, that could mean you believe some savior is needed, or desired. 
@@ -686,29 +729,58 @@ Since those names simply mean “anointed one” it takes very little considerat
 I would also suggest the possibility that John is not referring to any Jesus, but to the word “And”. 
 This word seems to be the answer to the riddle of **Chapter 12..** 
 If “the Word was God” it seems that everything following God transpired with the passage of “and then”. 
-the world stands condemned when we miss J. Beth’s name, Beth Laham brought light, but J. Bar’s not the same. 
-Barabbas gives cover for the evils some contemplate Doomed by disbelief, so what’s the point of showing restraint? they slither up and preach a nihilistic consecration “your evidence and status in this world are all illusion I have the only truth so you should cast your lot with me! Jesus ‘Son of The Father’ grants eternal life, you’ll see.” If you read between the lines, you really should have known the life Barabbas boasted was eternal was his own.
+
+the world stands condemned when we miss J. Beth’s name,  
+Beth Laham brought light, but J. Bar’s not the same.  
+Barabbas gives cover for the evils some contemplate  
+Doomed by disbelief, so what’s the point of showing restraint?  
+they slither up and preach a nihilistic consecration  
+“your evidence and status in this world are all illusion  
+I have the only truth so you should cast your lot with me!  
+Jesus ‘Son of The Father’ grants eternal life, you’ll see.”  
+If you read between the lines, you really should have known   
+the life Barabbas boasted was eternal was his own.  
+
 **20.** 3.
 **2.** The testimony of John the Baptist When John is asked about Jesus, he mentions one who is from heaven, then one who is from earth, then one who is from heaven again. 
 This could be a reference to air, earth, and water (as cloud). 
 Or it may be a reference to himself, Jesus Barabbas, and Jesus, the Messiah. 
 Of these, Jesus Barabbas is from earth and speaks as one from Earth, about earthly things. 
 However, since the earthly things are spoken of in riddles, one gets the impression that he speaks of heavenly things.
-**25.** the Baptist, John, was asked his attitude about the two to settle a debate his men had with a certain Jew
-**27.** John said “A person can receive what’s given him from Heaven Strength, and mind, and spirit; gifts more numerous than seven,
-**28.** I am not Messiah, you can testify I said I’m neither goat or scapegoat but the bull that charged ahead
-**35.** Zechariah, my Father, belonged to ‘Abijah’ the sect of Israelites who say ‘God’s my Father, Abba’ three wise men from the East told him my stars and theirs were crossed with three signs from the Heavens that would never be quite lost. 
-As Jupiter outran Saturn in the Pisces fish that day they’d both just come from Taurus. 
-It’s the charging bull, they say. 
-those planets crossed twice more that year and had conjunctions thus: the rams from Aries twice were washed in clean Aquarius two rams were washed, before two fish, with two spirits of water one ram for God, but cast by lot, and and one ram for the slaughter
-**31.** but J. Beth clearly speaks his words there can’t be any doubt his heart is good, and glory to God is what he’s all about.
-**32.** the other, J. Bar, though perhaps, his spirit from above is his words do riddle, mystify, bewilder, and confuse us
-**33.** he testifies to what he’s heard and what his eyes have seen, but wraps it all in riddles so his words aren’t quite received. 
-and so it’s come my time at last to charge straight up to Herod and shame him on adultery and get myself beheaded.
+
+**25.** the Baptist, John, was asked his attitude about the two  
+to settle a debate his men had with a certain Jew  
+**27.** John said “A person can receive what’s given him from Heaven  
+Strength, and mind, and spirit; gifts more numerous than seven,  
+
+**28.** I am not Messiah, you can testify I said  
+I’m neither goat or scapegoat but the bull that charged ahead  
+**35.** Zechariah, my Father, belonged to ‘Abijah’  
+the sect of Israelites who say ‘God’s my Father, Abba’  
+three wise men from the East told him my stars and theirs were crossed  
+with three signs from the Heavens that would never be quite lost.  
+
+As Jupiter outran Saturn in the Pisces fish that day  
+they’d both just come from Taurus. It’s the charging bull, they say.  
+those planets crossed twice more that year and had conjunctions thus:  
+the rams from Aries twice were washed in clean Aquarius  
+two rams were washed, before two fish, with two spirits of water  
+one ram for God, but cast by lot, and and one ram for the slaughter  
+
+**31.** but J. Beth clearly speaks his words there can’t be any doubt  
+his heart is good, and glory to God is what he’s all about.  
+**32.** the other, J. Bar, though perhaps, his spirit from above is  
+his words do riddle, mystify, bewilder, and confuse us  
+
+**33.** he testifies to what he’s heard and what his eyes have seen,  
+but wraps it all in riddles so his words aren’t quite received.   
+and so it’s come my time at last to charge straight up to Herod  
+and shame him on adultery and get myself beheaded.  
 
 §§CHAPTER_BREAK§§ 
 **Chapter 4.** - Parable of the Fetus
-Youtube Readalong: https://www.youtube.com/watch?v=xEic5nKrgJo&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=4
+[Youtube Readalong:](https://www.youtube.com/watch?v=xEic5nKrgJo&list=PL-552OoVgDd_eQyePWmeiArfHlqiNDLLz&index=4)
+
 Location: Barabbas goes from Jerusalem to Cana through Sychar, healing of the official’s boy from Cana.
 
 4.
@@ -746,26 +818,60 @@ The conjunctions of Jupiter and Saturn, and births of John, Jesus Barabbas, and 
 **5.** of 7BCE. 
 However, it is likely that the conjunction only gave the time coordinates of the birth. 
 They would have had to use other knowledge to find out where ”virgin births“ were taking place; such as knowing where ”the angel, Gabriel” had been nine months prior. 
-When Zechariah learned Elizabeth was with a child he could not speak; his mouth and mind could not be reconciled He had just a tablet. 
-It was blank; it had no ink. 
-and John was not a name of any ancestor or link He revealed his name, the author of a book, and title All the things here written kept in permanent recital He had written John. 
-The name’s Maher Shalal Hash Baz he wrote it down with normal ink and later then to cause a prophetess to bear a child and name him just the same. 
-You might say John’s not the name, and wonder what’s the game but if you note the synonyms of words, contemporary and practice not discretion when the meanings you unbury Listed in the synonyms of John are dirt and soils Easily translated to “he rushes to the spoils” once John the Baptist was conceived, an angel came to Mary (2nd conjunction sept 30) said go down to Elizabeth through Sychar, now, don’t tarry. 
-When John was born, she stayed three months then back to Nazareth. 
-(third conjunction dec. 
-5) by then she had just three months left to bear her son Jesus 4.
-**2.** The Samaritan woman it’s likely Mary passed three times through Sychar and this area
-**23.** **7.** where J. Bar met this woman, drawing water in Samaria
-**39.** he told this woman everything Mary had said about her which
-**18.** amounted to the fact she’d had five husbands and none after
-**10.** He told her if she knew something about just who he was She’d ask and life would spring from him in water form, and does
-**14.** quench thirst forever knowing that one’s life does run eternal but he kept this something secret, leaving implications carnal. 
-he kept his voice from weeping, and restrained his eyes from tears and humiliates and shames her for disgrace of all her years. 
-Mountain and Jerusalem not guideposts for the road Spirit, truth for worship, no town, temple, or abode With some poetic license, the rhyme borrows text from **Jeremiah 31:16-21**, as I am imagining that this meeting of the woman by the well may be the meeting of Jesus Barabbas and his birth mother. 
-The meeting is poignant, as the mother gave him up for adoption many years ago. 
+
+When Zechariah learned Elizabeth was with a child  
+he could not speak; his mouth and mind could not be reconciled  
+He had just a tablet. It was blank; it had no ink.  
+and John was not a name of any ancestor or link  
+He revealed his name, the author of a book, and title  
+All the things here written kept in permanent recital 
+He had written John. The name’s Maher Shalal Hash Baz  
+he wrote it down with normal ink and later then to cause  
+a prophetess to bear a child and name him just the same.  
+*You* might say John’s *not* the name, and *won*der what’s the game 
+
+but if you note the synonyms of words, contemporary  
+and practice not discretion when the meanings you unbury  
+Listed in the synonyms of John are dirt and soils  
+Easily translated to “he rushes to the spoils”  
+once John the Baptist was conceived, an angel came to Mary (2nd conjunction sept 30)  
+said go down to Elizabeth through Sychar, now, don’t tarry.  
+
+When John was born, she stayed three months then back to Nazareth. (third conjunction dec. 5) 
+by then she had just three months left to bear her son Jesus 
+
+**4.2.** The Samaritan woman it’s likely Mary passed three times  
+through Sychar and this area  
+**23.** **7.** where J. Bar met this woman, drawing water in Samaria  
+**39.** he told this woman everything Mary had said about her which  
+**18.** amounted to the fact she’d had five husbands and none after  
+**10.** He told her if she knew something about just who he was  
+She’d ask and life would spring from him in water form, and does  
+**14.** quench thirst forever knowing that one’s life does run eternal  
+but he kept this something secret, leaving implications carnal.  
+he kept his voice from weeping, and restrained his eyes from tears  
+and humiliates and shames her for disgrace of all her years.  
+
+Mountain and Jerusalem not guideposts for the road  
+Spirit, truth for worship, no town, temple, or abode  
+
+With some poetic license, the rhyme borrows text from **Jeremiah 31:16-21**, as I am imagining that this meeting of the woman by the well may be the meeting of Jesus Barabbas and his birth mother. 
+The meeting is poignant, as the mother gave him up for adoption many years ago. *Caravan-Canon: Barabbas left for Egypt for many years.  It was not adoption.  Also when Barabbas returns from Egypt he brings a portion of the Bhagavad Gita from Alexandria, which tells the story of Draupadi, because the woman at the welll is the reincarnated soul of Draupadi.* 
 The water welling up to eternal life in this depiction is the melancholy of tears of sadness and joy, that come, not from the obtainment of eternal life, but from the understanding that life is fragile, and that our pain and sadness are ephemeral; fleeting, yet precious in the grand scheme of time.
-**27.** No one asks “Who is she?” No one asks “why are you talking?” she might be more important to this story if we’re stopping to think of every mother going to Bethlehem for census warned by wise men not to reveal their births to king Augustus for Herod’s learned about the star that heralds a great king he’d planned to find the babies born and go out murdering. 
-if wise men warned the mothers of this plan well in advance the tricks a mother’d use to keep her child alive’s a dance while all that shuffle’s going on a mother of a king might be so poor to hand him off to any whose asking and so the mother’s never met the man who was her son until he comes and tells her everything she’s ever done.
+
+**27.** No one asks “Who is she?” No one asks “why are you talking?”  
+she might be more important to this story if we’re stopping  
+to think of every mother going to Bethlehem for census  
+warned by wise men not to reveal their births to king Augustus  
+for Herod’s learned about the star that heralds a great king  
+he’d planned to find the babies born and go out murdering. 
+if wise men warned the mothers of this plan well in advance  
+the tricks a mother’d use to keep her child alive’s a dance  
+while all that shuffle’s going on a mother of a king  
+might be so poor to hand him off to any whose asking  
+and so the mother’s never met the man who was her son 
+until he comes and tells her everything she’s ever done.
+
 **24.** 4.
 **3.** Father and fetus Taken as a whole, like **Chapter 3.** was a riddle about air and water, **Chapter 4.** is a riddle about babies; or at least there seems to be a mother-child theme. 
 If you are not convinced the woman at the well was Jesus’ mother, and the “living water” that sprung from him were tears of joy, there are still, less sundry interpretations, that the living water could be the fluid of conception. 
@@ -773,11 +879,22 @@ Other mysteries of John 4, are to ask, “who says it’s four months to the har
 **Luke 1:24** has Elizabeth stay in seclusion for five months after she gets pregnant. 
 This would have her out of seclusion approximately four months before John was born. 
 If there was a custom of putting women in seclusion for five months after conception, the saying “four months to the harvest” may have referred to the time they came out of seclusion.
-**35.** a practice of a good man is to plant more than he needs to share the bounty of his crops with friends and those in need a good man doesn’t mind if someone comes along and asks please sir, I’m sore and hungry and must humbly request
-**38.** but if a baby comes along and says “I am the reaper”, to take the food you’ve sown for me, and draw your wage and keep it, I harvest the eternal life that you have sown for me, and take it all from mom, but you will still be glad; you’ll see.
-**36.** the reaper reaps a wage and harvests for eternal life the sower had the pleasure giving that seed to his wife.
-**35.** When the mother starts to show, it’s four months to the harvest. 
-Though that time can surely draw itself to feel the farthest. 
+
+**35.** a practice of a good man is to plant more than he needs   
+to share the bounty of his crops with friends and those in need  
+a good man doesn’t mind if someone comes along and asks  
+please sir, I’m sore and hungry and must humbly request  
+
+**38.** but if a baby comes along and says “I am the reaper”,  
+to take the food you’ve sown for me, and draw your wage and keep it,  
+I harvest the eternal life that you have sown for me,   
+and take it all from mom, but you will still be glad; you’ll see.  
+
+**36.** the reaper reaps a wage and harvests for eternal life  
+the sower had the pleasure giving that seed to his wife.  
+**35.** When the mother starts to show, it’s four months to the harvest.     
+Though that time can surely draw itself to feel the farthest.   
+
 In the riddle, of this chapter Jesus plays the role of the infant child. 
 When he says “I have food you know nothing about” he is referring to breast milk. 
 When he says “My food is to do the will of him who sent me to finish his work” he is referring to the desire (will) of him (the father) to suckle on the breasts of his wife. 
@@ -786,26 +903,45 @@ The “four months to the harvest” represents the time between when a woman st
 4.
 **4.** Convincing words unknown **John 4.** ends with Jesus speaking to the men of the village. 
 Here John does not say what Jesus said, and the point may be that it really doesn’t matter. 
-If the riddle of the chapter is solved by introducing a baby, and the men of the community are fathers, the point of the passage is to say that to the father, regardless of what the baby says or does, he will be convinced that his child is the savior to all nations
-**43.** Jesus stayed in Sychar then two days–we are not told
-**41.** What he talked to them about or what idea he sold
-**25.** **42.** we only know they were convinced by his elaborations He left with them quite sure he was the savior of all nations. 
+If the riddle of the chapter is solved by introducing a baby, and the men of the community are fathers, the point of the passage is to say that to the father, regardless of what the baby says or does, he will be convinced that his child is the savior to all nations *Caravan Canon: Barabbas gives a long speech, reveals a long 'what am I' riddle poem, and gives his father a pair of reading glasses, which is plausible fiction.*
+
+**43.** Jesus stayed in Sychar then two days–we are not told  
+**41.** What he talked to them about or what idea he sold  
+**25.** **42.** we only know they were convinced by his elaborations  
+He left with them quite sure he was the savior of all nations.  
 4.
+
 **5.** The first healing miracle In this section, there is still somewhat of a “baby” theme, because a man in Cana is concerned about his own son. 
 Remember, Jesus was coming from Jerusalem, where he met Nicodemus, and stopped in Sychar on his way to Cana. 
 When this man asked Jesus to heal his son in Jerusalem, it is quite possible that Jesus, having just come from Jerusalem, through Sychar, had a message for him, that his son was well. 
 This becomes more important in Chapter 7, the parable of the envelope, because it would make sense for Jesus to hand this man an envelope, containing a letter from home. 
 This could be the “one miracle” referred to in **John 7:21**.
-**44.** Jesus went to Cana where he said he had no honor
-**45.** they celebrated him for when he’d made the wine from water and for the chaos he’d caused in the temple of Judea they welcomed him with open arms and praised the whole idea
-**46.** but one man, through the revelers came, and said his heart would break
-**47.** If his son in Capernaum would die, his heart would ache He already knew if J. Bar came, he’d make him well his faith was firm already. 
-else, he wouldn’t ask him there.
+
+**44.** Jesus went to Cana where he said he had no honor  
+**45.** they celebrated him for when he’d made the wine from water  
+and for the chaos he’d caused in the temple of Judea  
+they welcomed him with open arms and praised the whole idea  
+
+**46.** but one man, through the revelers came, and said his heart would break  
+**47.** If his son in Capernaum would die, his heart would ache  
+He already knew if J. Bar came, he’d make him well  
+his faith was firm already. else, he wouldn’t ask him there.  
+
 **48.** but Jesus said unless you see a sign you won’t believe.
-**50.** he’s well, now, go. 
-that should be all the evidence you need.
-**54.** so with this dubious miracle, we’re up to total one, the number of the healings John reports J. Bar has done. 
-no reveler there in Cana saw this boy get suddenly healed so just what sign convinced them that their savior was revealed? just hear me out, or if you doubt, then you can call me blind, it might just have to do with all the wine he left behind but if what J. Bar said was true, that none would be convinced if seeing was required for them to believe evidence then logic dictates we conclude there were none who believed except the man who went back to Jerusalem to see
+**50.** he’s well, now, go.  that should be all the evidence you need.  
+**54.** so with this dubious miracle, we’re up to total one,  
+the number of the healings John reports J. Bar has done.  
+
+no reveler there in Cana saw this boy get suddenly healed  
+so just what sign convinced them that their savior was revealed?  
+just hear me out, or if you doubt, then you can call me blind,  
+it might just have to do with all the wine he left behind  
+but if what J. Bar said was true, that none would be convinced  
+if seeing was required for them to believe evidence 
+then logic dictates we conclude there were none who believed  
+except the man who went back to Jerusalem to see
+
+*Caravan Canon.  I have Jesus of Nazareth relocate to Cana and perform two miracles.  One of them is for Gabriel, birth-father of Salome, who is praying for Salome's soul.  The other is for Zechariah who is praying for the physical health of his son John.  This may be revisited when I come through the chapters backwards.*
 
 §§CHAPTER_BREAK§§ 
 **Chapter 5.** - Parable of Print
@@ -814,33 +950,65 @@ Location: Barabbas returns South to Jerusalem:
 
 5.
 **1.** Healing at Bethesda.
-**1.** Now back to Jerusalem Barabbas went. 
-He goes south and north in restless discontent, as though to make note his journey’s not the same as a prophet who also goes by the same name
-**2.** He came to Bethesda where healings were common;
-**3.** a queue of sick people lined up in a column
-**4.** An angel would stir up the waters, and gifted, the first person in would have their disease lifted
-**5.** But one man had been there for thirty-eight years, alive in the charity of volunteers. 
-He’d ever quite dunked himself into the water, but he’d found a living right here as a squattter.
-**6.** So J. Bar asked him “you want to be fine?”
-**7.** he said “I’ve no friend to help cut me in line.” It is notable that the man actually does not ask for healing. 
+**1.** Now back to Jerusalem Barabbas went.  
+He goes south and north in restless discontent,
+as though to make note his journey’s not the same
+as a prophet who also goes by the same name
+
+**2.** He came to Bethesda where healings were common;  
+**3.** a queue of sick people lined up in a column  
+**4.** An angel would stir up the waters, and gifted,  
+the first person in would have their disease lifted  
+**5.** But one man had been there for thirty-eight years,  
+alive in the charity of volunteers.  
+
+He’d never quite dunked himself into the water,   
+but he’d found a living right here as a squattter.  
+
+**6.** So J. Bar asked him “you want to be fine?”  
+**7.** he said “I’ve no friend to help cut me in line.”   
+
+It is notable that the man actually does not ask for healing. 
 He wishes he had someone to help him into the water. 
 His primary “affliction”, as he sees it is a lack of companionship. 
 It’s reasonable to ask, then, whether this condition was addressed.
+
 **8.** but J. Bar told him “pick your mat up and walk”
-**9.** and then the man found that his knees were unlocked The statement “Pick up your mat and walk” appears twice in the gospels. 
+**9.** and then the man found that his knees were unlocked  
+
+The statement “Pick up your mat and walk” appears twice in the gospels. 
 In **Chapter 2.** of Mark, and here in **Chapter 5.** of John. 
 The main contrast is that in Mark, Jesus focuses first on the man’s forgiveness (**Mark 2:5**). 
 In John’s version, Jesus makes no effort to help the man in regards to forgiveness. 
 Instead, he leaves him by himself to be accused by the Pharisees. 
 And furthermore, Jesus does not forgive the man, but offers a threat, that if he should not stop sinning, “something worse” will happen to him. 
 (**John 5:14**)
-**13.** Then J. Bar departed as swift as a cheat to leave the man wobbling on his newfound feet
-**10.** the Jews came, and said to him, “Hey, what’s the matter? Don’t be up-standing, you’ll fall down a-clatter! We’re not supposed to be working today to keep you from falling or going astray. 
-For thirty-eight years you’ve been under our roof! Please follow the rules, they’re not just for reproof.”
-**27.** **11.** The invalid said in defense “but some guy, -who I don’t know, and right now I can’t spy -All that we had was a short little talk. 
-He told me to pick up my mat and then walk.” This man with no job and no skills and no pride: Did they kick him out or still let him abide? With no one and nowhere and no place to go,
-**14.** he sought out this mystery man who’d gone ghost to ask who was he and why he’d just done this? Then found, the man told him his name was Jesus “See now you are healed, so my sign’s a success, Go tell them my name and stop sinning or else.” 5.
-**2.** My Father’s not lazy like yours The Greek text of **John 5:18** reads, roughly “Because of this therefore the more were seeking Him the Jews to kill because not only was he breaking the Sabbath but also Father his own he was calling God equal Himself making to God.” The main ambiguity here, is one of two choices: Did “the more” seek “Him” (Jesus Barabbas, the insurrectionist) the “Jews” to kill, because “the more” wanted to break the Sabbath, and they thought “Him” equal to God? Or did the Jews seek to kill Him, because they believed he had claimed to be equal to God? If so, there seems a wide gap between what the Jews actually do in **John 5.** and how John describes it. 
+
+**13.** Then J. Bar departed as swift as a cheat  
+to leave the man wobbling on his newfound feet  
+**10.** the Jews came, and said to him, “Hey, what’s the matter?  
+Don’t be up-standing, you’ll fall down a-clatter!  
+We’re not supposed to be working today  
+to keep you from falling or going astray.  
+
+For thirty-eight years you’ve been under our roof!  
+Please follow the rules, they’re not just for reproof.”  
+**27.** **11.** The invalid said in defense “but some guy,  
+-who I don’t know, and right now I can’t spy  
+-All that we had was a short little talk.  
+He told me to pick up my mat and then walk.”  
+This man with no job and no skills and no pride:  
+Did they kick him out or still let him abide? 
+With no one and nowhere and no place to go,  
+**14.** he sought out this mystery man who’d gone ghost  
+to ask who was he and why he’d just done this?  
+Then found, the man told him his name was Jesus  
+“See now you are healed, so my sign’s a success,  
+Go tell them my name and stop sinning or else.” 5.
+
+**2.** My Father’s not lazy like yours 
+
+The Greek text of **John 5:18** reads, roughly “Because of this therefore the more were seeking Him the Jews to kill because not only was he breaking the Sabbath but also Father his own he was calling God equal Himself making to God.” The main ambiguity here, is one of two choices: Did “the more” seek “Him” (Jesus Barabbas, the insurrectionist) the “Jews” to kill, because “the more” wanted to break the Sabbath, and they thought “Him” equal to God? Or did the Jews seek to kill Him, because they believed he had claimed to be equal to God? If so, there seems a wide gap between what the Jews actually do in **John 5.** and how John describes it. 
 John offers no specification on what the Jews say in persecution of Jesus, nor on how they try to kill him. 
 Instead, all that is shown is Jesus’ defense. 
 In that defense, he never makes the connection claimed, that his Father is God. 
