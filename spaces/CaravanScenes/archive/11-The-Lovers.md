@@ -88,15 +88,15 @@ Barabbas nods, "I do.  Do you think this is sin?  And if you call it sin, rememb
 
 Meanwhile, Jesus of Nazareth was on the shore of Galilee, preaching to five thousand men, their wives, and their children about the Kingdom of Heaven.  When they were hungry, he fed them from their disciples supply.  And more food arrived from the people's faith in him.  Everyone had enough to eat.
 
-Didymus came to Jesus and said "Oh, Jesus, Son of Mary!  Is your Lord able to send down to us a table spread with food from heaven?"  Jesus of Nazareth followed him to a tent of the Caravan of the Fifth Wind.  
+Matthew came to Jesus and said "Oh, Jesus, Son of Mary!  Is your Lord able to send down to us a table spread with food from heaven?"[^1]  Jesus of Nazareth followed him to the camp of the Caravan of the Fifth Wind and entered Belzar's tent.  
 
-Within, Thomas and Matthew stood with Barabbas, John, Odys, Belzar, Durvasini, and the five Upa Pandava's.
+Within, Thomas (which means Didymus which means "twin") and Matthew Levi, Son of Alphaeus, stood with Odys, Belzar, and the five Upa Pandava's.
 
-Didymus said, "Belzar requests that you should create a table of food; a sign that cannot be denied."  So Jesus of Nazareth followed them back to Belzar's tent.  There, on the table were two maps.  One map of the constellations, and another of the region around Judea.
+Matthew said, "Belzar requests that you should create a metaphorical table of food; a sign that cannot be denied."  There, on the table were two maps.  One map of the constellations, and another of the region around Judea.
 
 "As you know," said Belzar, "The three of you were conceived under the triple conjunction of Jupiter and Saturn in Pisces."  
 
-John, Jesus, and Barabbas nodded.
+Jesus nodded.
 
 "And you know that this is the end of the age of Aries, and the beginning of the age of Pisces."
 
@@ -126,7 +126,7 @@ Jesus of Nazareth said, "Then I will be sent forth to the lost tribes of Israel.
 
 Thomas said, "But, Rabbi, I am more concerned about what you have to say about the Kingdom of Heaven.  It's irrelevant where you impart your wisdom.  It's applicable anywhere."
 
-Matthew (Bartholemew?) said "Rabbi, I have been keeping track of locations, at least intermittently.  I'll try to keep a record as to where we go."
+Matthew (Levi?) said "Rabbi, I have been keeping track of locations, at least intermittently.  I'll try to keep a record as to where we go."
 
 Jesus of Nazareth said, "Do what you will with faith.  But Thomas, if you you doubt the table being set for you, your gospel might swallowed up by time, only to rise again in the last days."
 
@@ -231,3 +231,5 @@ Marcus suggests that neither Caligula, nor any child of Caligula should lead, an
 Herodias says this is acceptable.  But when Marcus suggests that he be the father, she insists that he must be circumcized, in order that the future king be acceptable to the Patriarchs.  They then find a Mohel, the grandson of Simeon, who circumcized Jesus of Nazareth in Luke 2.  In my canon, this mohel is Judas Iscariot.  
 Judas agrees to participate in the circumcision and impregnation of Salome.
 The scene plays out under the stars on the same mountain where Jesus went to pray after the feeding of the five thousand, and follows John 6:1-15 almost word-for-word, but interpretations greatly changed.
+
+[^1] “‘Son of Mary’ is a deliberate borrowing from Qur’an 5:112, where the disciples ask Jesus for a table spread from heaven.”  

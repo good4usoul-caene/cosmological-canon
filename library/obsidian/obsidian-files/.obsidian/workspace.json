@@ -35,8 +35,7 @@
               "title": "e8-07-append"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4af1c096033b6c41",
@@ -256,20 +255,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 767,
-        "y": 161,
+        "x": 719,
+        "y": 429,
         "width": 1024,
-        "height": 800,
+        "height": 622,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "82c0ac1d28c36646",
+  "active": "c2ea216e0548db70",
   "lastOpenFiles": [
-    "e8-05-append.md",
-    "e8-07-append.md",
     "Timeline.md",
+    "e8-07-append.md",
+    "e8-05-append.md",
     "e8-04-append.md",
     "Welcome.md"
   ]

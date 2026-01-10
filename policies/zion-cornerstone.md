@@ -39,7 +39,10 @@ Promotion-Rubric-Specific:         # List of rubric items
  - **Application** Historical fiction may read between the lines, and state with confidence and assurance what is not seen.  "Caravan of the Fifth Wind" will build a canon of what the author hopes for.  It may not represent the truth as it really happened, but it points the way to the truth as it should be.
 
  ## Cornerstone of Truth
- - When generating "historical fiction" I will aim as much as possible to maintain plausibility, except where miracles are explicitly mentioned in scripture.  
+  - Acknowledge the hypothesis.  This is a vital part of the scientific method, though it is usually not stressed.  Before you can prove an idea false, you must first hear it out.  
+    - Parable of the Rorshach test:  The patient sees in the images all manner of explicit sexual acts.  When finished, the Doctor tells the patient that he suffers from hypersexuality.  The patient says, "Hey doc, you're the one with all the dirty pictures."  The truth:  if dirty pictures are within the realm of interpretations of the drawings, they should be acknowledged as possibilities.  If it is possible to prove that interpretation is false, then one ought do so.  But if you cannot prove the interpretation is false, then the guilt does not lie on the person who sees that possible interpretation, but with the person who condemns them for seeing what is actually possibly there.
+	- “The cornerstone of truth is this: every hypothesis must be heard before it can be judged. To condemn without proof is to bear the guilt of blindness.”
+  - When generating "historical fiction" I will aim as much as possible to maintain plausibility, except where miracles are explicitly mentioned in scripture.  
 
 
 ## Exception:  Cornerstone of Euphamism - 
