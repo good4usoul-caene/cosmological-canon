@@ -172,6 +172,10 @@ Barabbas shakes his head, "Not some of you. (casting his finger around in a circ
 
 Herodias says, "Oh, yes, I've had this problem.  Some nights, Herod just can't get himself enabled."
 
+Salome groaned.   "Mother, *please*."
+
+Andrew looked away, face red.  John kept writing, determinedly oblivious.
+
 **66** "I'm sorry, I don't follow," said John.  
 
 "I'm not sure I follow either," said Andrew.  

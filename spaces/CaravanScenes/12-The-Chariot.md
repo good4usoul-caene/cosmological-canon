@@ -167,9 +167,9 @@ Arjuna said, "The piece of paper in this evelope seeks the glory of the one who 
 
 A Pharisee scoffed.  "One miracle. Jesus of Nazareth has performed dozens.   Why should we listen to this Barabbas?"
 
-The blind man said, "Because he tells you to stop sinning, or else."
+The healed man said, "Because he tells you to stop sinning, or else."
 
-**21** Bhima (the Strong one raised his voice:    "Jesus Barabbas performed one sign on the Sabbath, and you are all amazed.   
+**21** Bhima (the Strong one) raised his voice:    "Jesus Barabbas performed one sign on the Sabbath, and you are all amazed.   
 
 **22** Yet, because Moses gave you circumcision (though actually it did not come from Moses, but from the patriarchs), you circumcise a boy on the Sabbath.  
 
@@ -293,6 +293,10 @@ Still others asked, "How can the Messiah come from Galilee?
 
 **52** They replied, "Are you from Galilee, too?    Look into it, and you will find that a prophet does not come out of Galilee."
 
+Nicodemus said quietly, "Yet we have heard from him.   And the page is blank."
+
+The Pharisees turned away. 
+
 ---
 
 ### Epilogue:   The Blank Page Fills
@@ -304,6 +308,7 @@ Some wrote blessings.  Some wrote curses.  Some wrote questions.
  - "*Is Blue the most royal color?*
  - "*Why has God made me this way?*"
  - "*I want to ride a horse someday.*"
+ - "*If God made everything, who made God?*"
 
 Others had copied from Jesus of Nazareth
  - *"Love God with all your heart, all your mind, and all your strength, and love your neighbor as yourself."* (John 6:63)
