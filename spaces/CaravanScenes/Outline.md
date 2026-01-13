@@ -119,6 +119,8 @@ John, who has desired Jesusa Bara Bas all along, envies Judas and accuses him of
 - **[Festival persuasion](guide://action?prefill=Tell%20me%20more%20about%3A%20Festival%20persuasion)**  
 The Panda brothers urge Bara Bas to attend the Festival.  
 A choice between kinship and calling.
+John Chapter 7 (e12-The-Chariot)  Barabbas sends a blank letter for the Festival of Tabernacles 
+
 
 ---
 
@@ -126,6 +128,7 @@ A choice between kinship and calling.
 - **[Seat and throne](guide://action?prefill=Tell%20me%20more%20about%3A%20Seat%20and%20throne)**  
 The seat, the body, the throne.  
 Enthronement, duality, and contested authority.
+John 8-9 (e13-Judgment)  Jesus discusses the role of the sphincter in John 8.  The concept of Karma is mentioned in John 9, but not resolved.  
 
 ---
 
@@ -134,12 +137,17 @@ Enthronement, duality, and contested authority.
 [Inherited suffering](guide://action?prefill=Tell%20me%20more%20about%3A%20Inherited%20suffering) questioned.  
 Jesus insists he meant a literal gate.  
 Solitude and misunderstood wisdom.
+John 9-10 (e14-The Hermit)  The blind man of John 9 is exiled from his community.  Jesus is alone in his understanding of the riddle of the gate.
 
 ---
 
 ## X — Wheel of Fortune (John 10)
 - **[Adulterous Generation Sign](guide://action?prefill=Tell%20me%20more%20about%3A%20Adulterous%20Generation%20Sign)**  
 Lazarus and Jonah as cyclical fate.
+John 11 (e15-Wheel-of-Fortune) As for whether one sees the raising of Lazarus, it's up to chance.
+Jesus retreats to Ephraim and takes on the name of Malchus,
+in his role of Son of Man, he has elected not to warn of any sin, and hence to be held accountable for all sin;
+which makes him servant of the High Priest and the subject of his prophecy.
 
 ---
 
@@ -149,6 +157,9 @@ Lazarus and Jonah as cyclical fate.
 - **[Mind devotion](guide://action?prefill=Tell%20me%20more%20about%3A%20Mind%20devotion)** — unity, Spirit of Truth  
 
 Holistic devotion.
+John 12-17 (Heart, Mind, Strength) May be either one chapter for the Tarot Card of Strength,
+or may be broken down into 3 chapters, breaking it down for
+"Love God with all your heart, all your strength, and all your mind)
 
 ---
 
@@ -156,18 +167,21 @@ Holistic devotion.
 - **[Arrest and surrender](guide://action?prefill=Tell%20me%20more%20about%3A%20Arrest%20and%20surrender)**  
 Betrayal, arrest, surrender.  
 The inversion of worldly power.
+John 18 (The hanged man)
 
 ---
 
 ## XIII — Death (John 19:1–16, 38–42)
 - **[Crucifixion and burial](guide://action?prefill=Tell%20me%20more%20about%3A%20Crucifixion%20and%20burial)**  
 Transformation through ending.
+John 19:1–16, 38–42 Death
 
 ---
 
 ## XIV — Temperance (John 19:17–37)
 - **[Calm crucifixion](guide://action?prefill=Tell%20me%20more%20about%3A%20Calm%20crucifixion)**  
 Equilibrium and divine stillness.
+John 19:17–37 (Temperance)
 
 ---
 
