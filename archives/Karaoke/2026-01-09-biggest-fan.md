@@ -1,0 +1,56 @@
+---
+Repository-Destination:  /archives/2026-01-09-biggest-fan.md
+Agent-Writable: SHAIBR
+Date: 2026-01-10
+Intent: Record Karaoke List from Friday
+---
+
+Friday morning:  I got up about 5:30, noting that my phone alarm hadn't gone off, (even though I spent some time the night before making sure the volume was set) but as yet, I haven't gone to troubleshoot, the problem.  
+
+I went to Rushville, since I had scheduled to sub on Friday.  Unfortunately after the 40 minute drive, I discovered that it was Friday, Feb. 23, 2026; not Jan. 9.  Ah well.  
+
+She asked me, "Who do you think you are?" to which I replied, "Collecting my jar of hearts, tearing love apart."  I showed her a bit of the video on youtube, and she was like "Who is that, she's beautiful."  Another teacher was singing along, she said, "You know this?"  She asked when I was really supposed to come in, I said, "seven weeks?  six?  Then I sort of weighed the two possibilities in my hands, saying 'six, seven'"  She nearly spit out her coffee.
+
+Since I had printed out some pages of the book I'm working on, I went to Hardees, and got some breakfast and coffee.  I asked the person at the counter, "Are you skipping school today?"  She said she was seventeen, and she had actually graduated through online courses.  And she had a 4.0.  I told her, I was valedictorian in Rushville in 1990, so I had also had a 4.0, but I did not finish early.  I was thinking to tell her that technically I had a B in P.E., and the salutatorian was annoyed that my B in P.E. hadn't counted against my GPA, but her B. in typing had counted against her GPA.  I could definitely empathize with her.  I felt I owed my A in typing to years of trumpet playing, as it exercized the same button-pressing area of the brain.
+
+When breakfast came, I said, "Are these minimum cynicism cinnamon rolls?"  She shrugged, "I guess."  Then I ate breakfast and marked up my draft.  I stopped in Wal-Mart to buy a big box of 300 zip-lock bags.  I wandered around, and decided to make a $40.00 investment in my room: three more seat cushions for my folding-chairs.  And then I happened across the valentines cards.  I found a box of "whistle fans" with cards that say "I'm a big fan of yours" and realized these would be perfect to hand out to all the performers I'm crushing on for Karaoke night.  
+
+Then I went to the library, and paid a five dollar fine that I accumulated by keeping a book too long.  It's always the books you never get around to reading that you keep too long.  I picked up four books.  "Amazing Immortals, a guide to gods and goddesses around the world", "Mythology: Eyewitness Books", "The <strike>un</strike>official Guide to the Ancient Egyptian Afterlife", "Treasury of Greek Mythology".  I don't know if or when I'll ever find the time to sit and read them.  Maybe Carol would like me to read some to her. 
+
+When I got home, I pulled out my sheets of marked up papers, and made really good progress on my book, Chapter 11b-The-Suitors.  And then around 2 or 3, I watched episodes of "Heroes" season 1, that my classmate Scott M. made for me when I was studying for my M.S. Math at WIU.  I wonder if he ever wanted that back?
+
+I went over to James G.'s and we played Pandemic Legacy, losing two games in a row.  We forgot to add funding during the second game.  With two losses in a row, we'll have plenty of funding, but no win bonus for June.  Chloe asked us if we knew any women for her ex.  He wants her to be her wingman.  Then she went into Jim's room and practiced guitar and singing.  I am thinking it might be appropriate to suggest women I know, but I have know idea how I would broach the subject of introducing a friend of a friend like that.  
+
+Around 9:30 I left for Karaoke.  
+
+| Song | Performance|
+|------|------------|
+|Rolling in the Deep: Adele|So long as I can take an octave down for the really really high parts, and there aren't too many glacandos, I can sing just about anything.  Such a great song; meaningful and with such great hooks.|
+|Hook: Blues Traveler|Megan performed this song last week.  I told her I was stealing it before I performed it.  I didn't do the fast part near as well as she did last week, but I think the audience loved it.|
+|Whole Lotta Love: Led Zeppelin|I spent a long time trying to decide exactly how many inches of my love I should give.  Talking to Ben I said, "I can give up to five; perhaps five and a half."  I asked Amanda, and she said not to hold back any.  When I got up to do the song, though, I was struggling so hard just to hit the high notes, I couldn't be bothered to playfully change the lyrics at the appropriate time.|
+|Goodnight Saigon: Billy Joel|Jo Jo performed "uptown girl" and I went and talked to her about the Billy Joel song I was going to perform.  She mentioned another song I could do, but it wasn't off the album that I know (from listening to it on vinyl back in the 80's)  We talked about our respective forms of bipolar disorder.  She had hallucinations of a family of deer.  She is going to get her MAT soon, and she's a full time teacher.  I don't know exactly where I'm headed, career-wise, except I have to finish my book.  Oh... the performance, right.  There was a guy that came up to the stage when I was getting ready for the song.  I told the audience, "There's just a few minutes of helicopter noise, and then you can listen to this very depressing song."  The guy, who I think might be Korean or Vietnamese descent, came up on stage after I gave him an encouraging rub on the back.  He stood up there on the stage with me, holding on and singing--on key, but not a practiced voice.  He didn't take a mic.  This song is gorgeously in my range--I can bring full volume and emotion to the song.|
+
+By the end of the night I felt like every person in the bar was my friend.  Oh...  The "I'm a big fan" valentines...
+
+| Performer | Reaction|
+|------|------------|
+|Jo-Jo|Jo Jo hardly had time to react, because her friend turned to me and told me that he, Jo-Jo, and a bunch of their friends were going to do a shot, and offered me one as well.  I had already technically stopped at four Budweisers, but I decided one more shot wouldn't hurt.  Got to meet several others because of it.|
+|Amanda|I have known Amanda for years, and even been in a play with her, and played boardgames with her.  Of course I'm her big fan.|
+|Megan M.|A local talent whose solo act; just guitar and voice, I've seen at open-mic nights.  Watching her live is always better than hearing the originals on youtube.|
+|Kinsey|A vocal powerhouse.  I've only seen her come in a couple times, but wow.  After her second song, I just handed her the "Biggest Fan" valentine, and she was like "This is the greatest!"|
+|Val|I told her "I'm running out of singers!" and handed her the fan.  This lady I've barely talked to, and she's never got up to sing.  I just see her in the distance talking to people, and she makes me happy.|
+|Whitney|Whitney runs the karaoke machine when the older guy doesn't show up.  She also performs.  I noticed earlier this week, she's also a pharmacist, where I pick up my pills.  Anyway, I'm a big fan.|
+
+
+After Karaoke:
+
+I started chatting about philosophical things after the Karaoke was over.  One of the guys that I did a shot with was named "Angel".  I asked him which angel he took after, and he mentioned "Michael".  Ah, yes, I said, it means "Who is like God?"  He said that he had a view that every person is divine, and I didn't disagree.  I told him my view was that God is the future, and God is a direction that we set for ourselves.  I'm not sure if I was this clear, but I hope that it got across.  We were starting to get those cues "You don't have to go home, but you can't stay here" vibe.  We went out front.  
+
+There was a guy there who asked something about politics, and I pretty much said, honestly, I can't see any good in the Republican views, and I'm 100% Democrat.  He answered with foolishness disguised as wisdom:  He subscribes to the philosophy "As long as you can say a bad thing and a good thing about your side, and a bad thing and a good thing about the other side, than I might be able to agree with you."  Unfortunately at the moment, I could find no argument to dissuade him from this foolishness.  Now, if I could go back to the conversation and respond in the moment, I would say, "If you are talking about people, that is a perfectly legitimate point-of-view.  Every person could probably improve in some way, and every person does right in some way.  However, if you are talking about principle, there are some principles that there are no reason to say anything good about, and other principles that there are no reasons to say anything bad about.  To claim we ought to say anything bad about feeding the poor or healing the sick, or loving one another, is corrupt.  To say there is anything good about starving or killing the poor to reward the rich and powerful is corrupt."
+
+This same guy asked me where I have been, where I am now, and where I am going.  The union guy said, "That cuts straight to the point, doesn't it."  So I said, I used to be a scientist, but now I'm a spiritual man, and I'm writing a book intended to utterly transform the future.  I hesitated, though, because of course the words don't come quite as easily when the conversation is full of interruption.  And anyway, they were not curious as to how my book would be transformative.  They were mostly asking about my sense of self, rather than the specific path I'm on.  The union guy said that he had grown shrooms for a while, because of their transformative effects.  He'd seen how they helped people to overcome depression through epiphanies.  I've never done shrooms myself, but I think my brother may have had that sort of transformation in his life.  I recall him talking about muppets flowing through his arteries, which made him decide to eat less and exercise. 
+
+I had a good time talking to these guys.  I said a little.  Angel asked me if I knew about lambda-calculus, and I looked up the wikipedia article.  After a time I said, "Angel, could you look over this article and see if there is any single part of it that makes any sense of you, and just explain that part to me."  He started reading the article aloud, and another said, "It sounds like a lot of mumbo jumbo."  What we finally hit upon was that lambda calculus is essentially what we now call "function call".  It has the "name of the function" that someone has for some reason given the moniker "lambda" followed by a variable list, followed by the body of the function.  
+
+They all thought I seemed like a professor because of my beard.  One of them said I'd fit in in Iowa City.  Perhaps.  I don't know for sure who my tribe is.  I enjoy talking to people, and I love people, but so far, my tribe is only for one.  I continue to be troubled by this form of the "knowledge of good and evil" that people think they are wise for saying "you must be able to say something good and something evil about any political stance."  But I could not exactly put my finger on it last night.  Perhaps next time I see someone so confused about truth, I might be able to put in a well-timed correction.  
+
