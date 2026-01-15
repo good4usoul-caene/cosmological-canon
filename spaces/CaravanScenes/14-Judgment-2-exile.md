@@ -57,12 +57,12 @@ Promotion-Rubric-Specific:
 
 ### The Blind Man and the Question of Karma (John 9:1-3)
 
-There was a large crowd coming through Capernaum, and Jesus Barabbas came out to see what was the commotion.  
+There was a large crowd coming through Capernaum, and Jesus Barabbas came out to see what was the commotion.  The Upa Pandavas — Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva — stood nearby, debating among themselves.
 
 A familiar voice said, "Jesusa, old friend!"  
 
 Jesus Barabbas said, "If it isn't Thomas Didymus!"   
-"Yes, we've been traveling with Jesus of Nazareth," Thomas said.  "Tracing that Pisces shape that Belzar suggested, all the way across Asher, Manasseh, Ephraim, and Judah.  He's in Bethsaida now — healing the blind, casting out demons, the usual.   you could meet up with him if you hurry!"  
+"Yes, we've been traveling with Jesus of Nazareth," Thomas said.  "Tracing that Pisces shape that Belzar suggested, all the way across Asher, Manasseh, Ephraim, and Judah.  He's in Bethsaida now — healing the blind, casting out demons, the usual.   You could meet up with him if you hurry!"  
 
 "Oh that would be wonderful," Barabbas said.  "But I'm afraid I have my own tasks, and I can't stray far from the temple here in Capernaum."  
 
@@ -74,18 +74,75 @@ Barabbas watched Thomas disappear into the crowd.  "Someday," he murmured.   "So
 
 "So close, yet so far." Salome said, looking at the blind man.   
 
-Barabbas nodded.  "He waits for a fisherman who follows the stars, not the shore.   The net is cast in Bethsaida tonight — but here in Capernaum, we wait in vain."
+Barabbas nodded.  "He waits for a carpenter who follows the stars, not the shore.   The net is cast in Bethsaida tonight — but here in Capernaum, we wait in vain."
 
 Salome frowned.  "So why are we still here?"
 
 Barabbas smiled.  "Because the story needs to be told.    And I am the one who tells it."
 
-The man held a clay bowl for alms, his face turned toward the sound of footsteps.
-
 The man held a clay bowl for alms, his face turned toward the sound of footsteps. 
 
-**2** The Upa Pandavas — Yudhishthira, Bhima, Arjuna, Nakula, and Sahadeva — stood nearby, debating among themselves. 
-Yudhishthira, the eldest, said, "Rabbi, who sinned, this man or his parents, that he was born blind?"
+Thomas asked, "And what about you, Rabbi?  Are you teaching the priests here in Capernaum?"
+
+Barabbas smiled.   "The Torah has digested the teachings of Moses.   But the synagogue has become constipated.   It refuses to release what no longer serves.  It has become infected with fear, and treats dissent as disease."
+
+Thomas said, "Well, dissent can threaten the very foundation of a church."
+
+Jesus Barrabas said, "When there is hate without reason, it is a threat to the people in the church.  But compassion and reason will never threaten a good foundation."
+
+Arjuna explained,  "Many of the local synagogue have identified Barabbas as a dissenter, and are seeking to expel him from our studio in Capernaum."
+
+Jesus Barabbas said, "They have hated me without reason, or at least without correct reasons.  So they seek to remove me, like a sick body removes a disease."
+
+Nakula said, "Are you still talking about constipation, or are you now on to blood-letting?"
+
+Barabbas says, "Blood letting is a dangerous practice.  Blood is not like poop.  The body can be flushed out of poop and be healthy.  Not so, of blood."
+
+Yudhisithra said, "Then how do we remove disease?  How do we remove blindness?"
+
+Shaitana said, "From the body of the church?"
+
+Jesus Barabbas said, "All those in the synagogue have been told a pattern of what is right.   Where the pattern is right, it allows what is right.   Where the pattern is wrong, it expels what is right, and allows what is wrong."
+
+Salome frowned.  "So the pattern itself is diseased?"
+
+Barabbas nodded.  "If the pattern can't hold up to scrutiny, what do the pattern enforcers do?   Do they listen to the arguments of what is right?   Or do they exile what is right, before it can corrupt them?"
+
+John said, "They exile."
+
+Barabbas said, "Do they face falsehood with fear, and offer no hearing?   Or do they face falsehood with confidence that their pattern will stand?"
+
+Salome said, "They face it with fear."
+
+Barabbas said, "Then the synagogue has become an immune system that attacks the cure.  It surrounds an unfamiliar principle like antibodies, isolates it, and expels it — not because it is waste, but because it is seen as infection."
+
+Salome said, "So what should the church do instead?"
+
+Jesus Barabbas said, "As said by Isaiah.  As said by the sent, 'See with your eyes, hear with your ears, understand with your heart.'"
+
+The blind man said, "Fat little good that does me.  How can I see with my eyes?"
+
+Jesus Barabbas asks, "Would you use such sight for understanding with your heart?"
+
+The blind man said, "As much as possible, Rabbi."
+
+Barabbas paused, looking at the synagogue behind them, then back at the blind man.  
+
+"The pharisees are already seeking to exile me," he tells the blind man."
+
+"Why?" said the blind man.
+
+"Because I threaten their pattern.  Their foundation is on sand, and I wear it away."
+
+"But you speak the truth," said the blind man.
+
+"And the truth is, if this works, and you tell them I healed you, you will be exiled, like me."
+
+"Well, if it works, then God is with you." said the blind man.  "So the exile is mutual."
+
+John walked up, then, with his scroll and pen.  "What are you all up to?"
+
+**2** Yudhishthira, the eldest, said, "Rabbi, who sinned, this man or his parents, that he was born blind?"
 
 Bhima added, "Or could it be karma from a past life? In our teachings, suffering is the fruit of actions in previous incarnations."
 
@@ -95,6 +152,8 @@ Nakula said, "Perhaps his parents sinned, and he bears their burden."
 
 Sahadeva shook his head.   "If the gods punish children for their parents' sins, where is justice?"
 
+"Hey, fellas, I'm right here." The blind man laughed.  "If you want to talk about me behind my back, I'm sure there are plenty of places."
+
 **3** Jesus Barabbas looked at the blind man, then at his brothers. 
 
 "Neither this man nor his parents sinned," he said.   "Nor did he sin in a past life.  But this happened so that the works of God might be displayed in him."
@@ -102,6 +161,8 @@ Sahadeva shook his head.   "If the gods punish children for their parents' sins,
 Bhima frowned.  "Then why does he suffer?"
 
 Barabbas sighed.  "Because suffering exists.  God allows entropy to reign.  Not because of guilt, not because of karma, not because God prefers it.  But because the world is ruled by what's possible, and what's broken, and what's fragile."
+
+The blind man says, "You're all projecting.  Honestly, I was born this way.  To suffer is to experience loss.  To never have is just existence."
 
 Arjuna asked, "Then what can we do?"
 
@@ -111,21 +172,19 @@ Arjuna asked, "Then what can we do?"
 
 ### The Digestive System of the Church (Ezekiel Reference)
 
-Salome, who had been listening, said, "What does that mean?   'Night is coming'?"
+Salome, who had been listening, said, "What does that mean?     'Night is coming'?"
 
-Barabbas smiled.  "The Torah has digested the teachings of Moses.  But the synagogue has become constipated.  It refuses to release what no longer serves."
 
-John looked up from his writing.  "You're talking about the digestive system again?"
-
-"Yes," Barabbas said.  "The body must expel waste, or it dies.  And the synagogue will expel the Son of Man, while the Messiah is digested."
 
 ---
 
 ### Pack Your Bags for Exile (Ezekiel Reference)
 
-Barabbas turned to the blind man.  The blind man says, "Are you all talking about me?"
+Barabbas said, "God told Ezekiel, he must pack his bags for exile.  Why do I feel I'm about to do the same?"
 
-Barabbas said, "God tells me I must pack my bags for exile.  You, my man, have asked me for nothing, but I will give you the gift of mud in your eyes."
+John then approached, trying to catch up with what was going on so that he could record it in his journal.  
+
+Jesus Barabbas said, "You, my man, have asked me for a miracle, but all I can offer you is mud in your eyes."
 
 **6**  After saying this, he spit, made some mud with saliva, and spread it onto the man's eyes.  "Take my brothers with you, and wash your eyes in the waters of Shiloam, the Sent."
 
@@ -301,6 +360,14 @@ Jesus Barabbas said, "Well, there are still skeptics, atheists, agnostics.  None
 John says, "What about the nihilists?"
 
 Jesus Barabbas says, "They claim to see meaninglessness."
+
+John says, "But athiests?  Nonbelievers!  What good can they be?"
+
+Jesus Barabbas said, "They are less likely to base their assent or dissent to principles on the fear of being cast out of their tribe."
+
+John said, "But there are secular tribes, too."
+
+Jesus Barabbas said, "Yes, and no end to foolish principles that sound like wisdom."
 
 ---
 
