@@ -73,7 +73,7 @@ He dumped the chest into the grass.    "Five thousand little round portraits of 
 
 The morning sun cast long shadows across the hillside.    Five men lay scattered on the grass, exhausted but content.   Salome sat in the center, laughing as the night's events became the day's stories.
 
-**12** "I don't know about you all," Philip said, "but this has made me very content."  
+**12** "I don't know about you all," Philip said, "but you have made a this forty-six year old man very content."  
 
 Jesus Barabbas said to his disciples, "Gather the pieces that are left over.     Let nothing be wasted."  
 
@@ -85,7 +85,11 @@ Philip, still lying flat on his back, groaned.   "Don't remind me.   I thought I
 
 "You were," Salome said.    "But Marcus offered five thousand."
 
-Marcus winced.   "Five thousand portraits of Caesar Philip, stamped in gold.   I thought that would be enough."
+Marcus winced.   "Sejanus will be furious when I go back to Rome with neither the dowry, nor Caligula's Princess."
+
+"So don't go back, Marcus.  You can stay with us." said Salome.
+
+He sighed.  "Five thousand portraits of Caesar Philip, stamped in gold.   I thought that would be enough."
 
 Barabbas laughed.   "It would have been.   But then I showed up with twelve handbaskets of yeast."
 
@@ -93,9 +97,17 @@ John frowned.   "How did you even *get* twelve handbaskets of yeast?"
 
 Barabbas smiled.    "That will forever be my secret."
 
-**14** Herodias said, "Surely this is the Prophet who is to come into the world."
+Philip said, "Now, at least informally, it seems we are all husbands.  That makes us kinsmen.  But dear Salome, I hope you'll honor me by making our marriage official.  Marcus could take you to Caligula, a far younger, richer, and more powerful man, but I will allow you your dalliances, and offer you a far greater peace of mind."
 
-Salome clapped her hands.   "And you won!    So now you're my first husband."
+John, Barabbas, Andrew, and Marcus agreed. 
+
+Marcus said "Probably best to keep this off the books, being as such arrangements are against the laws of Rome."
+
+Barabbas said, "And the Torah as well."
+
+**14** Herodias said, "But Barabbas, Surely you are the Prophet who is to come into the world."
+
+Salome clapped her hands.   "And you won!    So now you're my best husband."
 
 Barabbas's smile faded.   "Salome..."
 
@@ -127,7 +139,7 @@ Some of the money had already been spent:
 
 **16** When evening came, they transported it all down to the lake,  
 
-**17** where they got into a boat and set off across the lake for Capernaum.    By now it was dark, and Jesus had not yet joined them.  
+**17** where they got into a boat and set off across the lake for Capernaum.  By now it was dark, and Jesus had not yet joined them.  
 
 **18** A strong wind was blowing and the waters grew rough.    
 
@@ -148,7 +160,6 @@ In the darkness, they thought they saw a man walking on the water; and they were
 His wife Herodias and her daughter Salome had been alone with five men in a single boat, and had traveled to Bethsaida.  What could they have been doing there?
 
 He gathered his trackers and sent boats from Tiberias to investigate.   
-
 One of his most skilled trackers arrived at the mountain where the contest had taken place.  He found evidence of a large gathering — grass trampled, remnants of bread, and coins scattered in the dirt.  
 
 He followed the trail down to the shore and saw **one set of footprints in the sand**, leading north toward Capernaum.  Beside the footprints, there was clear evidence of a **heavy chest being dragged** into the boat.

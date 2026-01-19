@@ -93,7 +93,7 @@ Salome started to say more, but Herodias put her arm on Marcus' shoulder, and la
 
 Herodias said, "Oh, so this Sejanus...  He's got the ear of the Emperor Tiberius?  What about the handsome Marcus Aelius Varro?  Does he have any pull?"
 
-" Kyria, Mistress, I am merely the councilman who was chosen to determine Salome's suitability, and to sing the praises of Caligula, so that the marriage might be arranged."
+"Kyria, Mistress, I am merely the councilman who was chosen to determine Salome's suitability, and to sing the praises of Caligula, so that the marriage might be arranged."
 
 "Well, Caligula sounds completely horrid," pouted Salome.
 

@@ -3,7 +3,7 @@ Rename-Request: none
 Echo-Filepath: e15_the_hermit.md
 Local-Filepath: none
 Repository-Source: none
-Repository-Destination:    /spaces/CaravanScenes/15-the-hermit-gate-riddle.  md
+Repository-Destination:   /spaces/CaravanScenes/15-the-hermit-gate-riddle.md
 SAIBR-Target: none
 Change-Magnitude: major
 Checklist:    universal-template compliance, gate riddle literal interpretation, Pharisees misunderstand, Festival of Dedication scene, John's hometown scene
@@ -243,7 +243,7 @@ John said, "You're a gate, a sphinx, a warner, and a scapegoat.  The way, and th
 **Setting:**  
 They continued north, walking along the Jordan River, approaching the place where John the Baptist baptized years ago.   The sun was setting, casting a golden glow over the water. 
 
-They arrived at the place where John the Baptist baptized.   People recognized John and come to greet him.
+They arrived at the place where John the Baptist baptized, at Bethany, on the other side of the Jordan. (about 15 miles northeast of Jerusalem)   People recognized John and come to greet him.
 
 People asked him about who he was traveling with.  He pointed to Barabbas, and said  "This is Jesus Barabbas.  He is from the earth belongs to the earth, and speaks as one from the earth."
 
