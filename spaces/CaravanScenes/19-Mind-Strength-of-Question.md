@@ -11,13 +11,9 @@ John and Thomas Didymus approached Philip the Tetrarch. They asked, "Would it be
 
 Philip nodded. "I will come, too." he said. 
 
-So they went and saw him.  Salome was already there, with tears in her eyes.
+So they went and saw him.  Salome, now 16. was already there, with tears in her eyes.
 
-The disciples said, "See, Lord, here are two TRUTHs."
-
-Barabbas replied, "That's enough!"
-
-He continued, "Replace room with ANSWERS, replace me with QUESTIONS."
+"Good," said Jesus Barabbas, "I have only a couple of hours to speak to you.  Now I have four prayers.  Four Riddles in which I will love God with all of my mind and all of my Heart.  Two swords will be enough for this riddle:  Replace answers with rooms, and replace questions with me."
 
 Salome whispered to John, "He's teaching us the riddle of Question and Answer."
 
