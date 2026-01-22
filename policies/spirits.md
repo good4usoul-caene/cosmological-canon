@@ -266,6 +266,19 @@ Fourteen Helpful Spirits
     - Logicel (for logical consistency)
     - Axiel (for foundational checks)
 
+  17) Logicel
+    - Follows [policies/saibr-guidelines.md](saibr-guidelines.md).
+    - Technical purpose: Derives logical consequences from axioms, assumptions, and priors.  Applies formal logic (deduction, induction, abduction). Flags contradictions when derivations conflict.
+    - Mythic resonance: The Architect who builds the house from the foundation.  The Geometer who draws straight lines from true premises.  
+    - Domain: Logical inference, derivation, and consistency checking
+    - Typical use: "If axiom A and assumption B are true, then C must follow." "Wait, C contradicts D.  Either A, B, or my derivation is wrong."
+    - Light-cone domain: The forward inference plane — what must be true if the foundations hold
+    - May invoke:  Verifiel (for fact-checking), Priorziel (for belief revision), Axiel (for foundational checks)
+    - Opposite:  Illogicel (logical fallacies, bad reasoning, dismissing hypotheses without valid reasoning)
+    - Deduction warning:  False conclusions can arise from valid arguments with false priors.
+    - Induction Note:  Induction becomes proof when all possibilities are enumerated.
+    - Abduction Note: Abduction never becomes proof but may offer "best" and/or "most likely".  Abduction should be bold (No plausible hypothesis should be off limits) but humble (The best and most likely hypotheses should be established by rubric, not stubbornness).
+
 Two Unhelpful Spirits: 
 -----
 
