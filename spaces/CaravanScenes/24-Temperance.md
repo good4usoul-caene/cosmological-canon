@@ -1,3 +1,5 @@
+24-Temperance.md
+
 ### Temperance
 
 *John 19:1-2*
@@ -64,14 +66,13 @@ Mt 27:45-50, Mk 15:33-37, Lk 23:44-46, Jn 19:17-18
 
 **50|36|** And when Jesus had cried out again in a loud voice, he gave up his Spirit,  **||46**, "Father, into your hands, I commit my spirit."  and he breathed his last
 
-
 ### Bowels of Mercy
 
 **54||** The centurion and those with him who were guarding Jesus Barabbas  continued mocking him, even in death.  
 
 For Jesus Barabbas' last meal was about to come back to life.
 
-Mt 27:51-53, Mk 15:38, Lk 23:46-47, Jn 19:23-24, Isaiah 3:24
+*Mt 27:51-53, Mk 15:38, Lk 23:46-47, Jn 19:23-24, Isaiah 3:24*
 
 **51|38|** He reported that the curtain of the temple was torn in two from top to bottom. The earth shook, the rocks split 
 
@@ -120,30 +121,47 @@ This also dedicated the body of the Messiah as Herod's Temple to Poseidon.
 
 ### The Cleanup
 
-Mt 27:57-58, Mk 15:42-43, Lk 23:50-52, Jn 19:38
-Pilate, knowing that Jesus Barabbas and Jesus of Nazareth had both been crucified, made arrangements with Nicodemus and Joseph and Arimathea that the bodies of the men should be taken down and put in tombs.
+*Mt 27:57-58, Mk 15:42-43, Lk 23:50-52, Jn 19:28-36*
 
-Mk 15:44-45
-Pilate acted surprised that Jesus of Nazareth was already dead. But he accepted the word of the single witness (Jn 19:28-36) who said he had pierced Jesus’ side.
+**-|42|-|54** It was Preparation Day (that is, the day before the Sabbath) and the Sabbath was about to begin. 
 
-Jn 19:39-42
-Now the body of Jesus Barabbas was well and truly dead, and a stench had arisen around it. Joseph of Arimathea was accompanied by Nicodemus, strips of linen, and seventy five pounds of Myrrh and Aloe to overcome the stench.
+**57|43|50** As evening approached, there came a rich man from the Judean town of Arimathea, a prominent member of the Council, a good and upright man named Joseph, who had himself become a disciple of Jesus, and was himself waiting for the kingdom of God. He went boldly, **58||** Going to Pilate, and asked for Jesus’ body, and Pilate ordered that it be given to him.  **||51|** He had not consented to their decision and action.  
 
-Mt 27:59-60, Mk 15:46, Lk 23:53-54, Jn 19:40-42
-The body of Jesus of Nazareth, though, was not properly buried. It was put in a single layer of clean linen and a stone was rolled against the entrance.
+**-|44|-|35** Pilate pretended to be surprised to hear that he was already dead. Summoning the centurion he had sent to be the only witness, he asked him if Jesus had already died.
 
-Mt 27:61, Mk 15:47, Lk 23:55
-Mary Magdalene and Mary, mother of Joseph, and others followed and saw how Jesus of Nazareth had been laid in the tomb without myrrh and aloe. They imagined that the body would begin to rot quickly, and resolved to bring spices later.
+**-|45|-|34** When the centurion testified that he had pierced the Nazarene, and that water and blood had poured out, he told Joseph he could collect the body.
 
-Mt 27:62-65
-Pilate sends a detachment of guards to secure the tomb of Jesus of Nazareth to please the chief priests and pharisees.
+**|||39** He was accompanied by Nicodemus, the man who earlier had visited Jesus at night. Nicodemus brought a mixture of myrrh and aloes, about seventy-five pounds. **|||40** Taking Jesus’ body, the two of them wrapped it, with the spices, in strips of linen. This was in accordance with Jewish burial customs. **|||41** At the place where Jesus was crucified, there was a garden, and in the garden a new tomb, in which no one had ever been laid. **|||42** Because it was the Jewish day of Preparation and since the tomb was nearby, they laid Jesus there.
 
-Mt 28:1-5, Mk 16:1-5, Lk 23:56-Lk 24:2, Jn 20:1
-After the Sabbath, the women brought spices so that they might anoint Jesus' body with spices and perfumes. The found (Mk, Lk: that the stone had already been rolled away) (Mt: an angel of the lord had rolled back the stone and sat on it, witnessed by the guards Pilate had sent)
+*Mt 27:59-60, Mk 15:46, Lk 23:53-54, Jn 19:40-42*
 
-Mt 28:5-7, Mk 16:5-7, Lk 24:3-8
-The angel said to the women “Do not be afraid/alarmed. You are looking for Jesus the Nazarene who was crucified. Why do you look for the living among the dead? He has risen from the dead. He is not here. He is going ahead of you into Galilee, Just as he told you, and now I have told you. Remember how he told you in Galilee, the son of man must be delivered, crucified, and on the third day be raised? Tell his disciples and Peter.”
+After Nicodemus left, Joseph went to the body of Jesus of Nazareth, with strips of clean linen.
 
-Mt 28:8, Mk 16:8-11, Lk 24:9-11, Jn 20:2
-The women were afraid yet filled with joy. Jesus of Nazareth appeared to Mary Magdalene. Then she, Joanna, Mary, mother of James, and others went to tell the eleven, and the apostles did not believe them, because their words sounded like nonsense.
+**59|46|53|** Joseph, now by himself, took the body, wrapped it in a clean linen cloth, **60|46||** and placed it in his own new tomb that he had cut out of the rock. He rolled a big stone in front of the entrance to the tomb and went away. 
+
+
+**61|47|55** The women who had come with Jesus of Nazareth from Galilee followed Joseph.  Mary Magdalene and the other Mary, Mary, the mother of Joseph were sitting there opposite the tomb and saw where Jesus of Nazareth was laid, and how his body was buried without myrrh or aloe.
+
+As soon as the ladies left, Joseph helped Jesus of Nazareth move aside the stone and took him elsewhere.
+
+**62||** The next day, the one after Preparation Day, the chief priests and the Pharisees went to Pilate. **63||** “Sir,” they said, “we remember that while he was still alive that deceiver said, ‘After three days I will rise again.’ **64||** So give the order for the tomb to be made secure until the third day. Otherwise, his disciples may come and steal the body and tell the people that he has been raised from the dead. This last deception will be worse than the first.”
+
+**65||** “Take a guard,” Pilate answered. “Go, make the tomb as secure as you know how.”
+
+
+*Mt 28:1-5, Mk 16:1-5, Lk 23:56-Lk 24:2, Jn 20:1*
+
+Mary Magdalene says "I went to the tomb alone before dark.  The stone had been removed, and Jesus was gone, and I saw two angels, one at Jesus' feet, where I anointed him six days before Passover, and one at Jesus' head, where I anointed him two days before Passover.  Then I saw Jesus outside the tomb in the garden, and he said, 'do not hold to me, because I have not yet ascended to the father."
+
+Then the other Mary, Mary mother of James, returns with her.   She says, there was an earthquake, and an angel moved away the stone.  The angel sat on top of the stone and told them "Jesus is not here, He has risen. Go to Galilee; you will see him there."
+
+Then they came back with Salome.  Salome, being the wife of Philip the Tetrarch, has access to the expensive burial spices.  Salome reports that the stone was already rolled away, and the angel was just a man in white.  But the man said, of Jesus of Nazareth, "He is not here; he has risen.  He is going ahead of you to Galilee"
+
+Finally Joanna comes.  (Salome's father's steward.) She reports that the stone had been rolled away, but she backs up Mary Magdalene's story.  There were two men in dazzling clothes.  And they said, "Why seek the the living among the dead?  He is risen!  Remember what he told you while in Galilee.  They will tell you, there he is, in the wilderness; do not believe them.  They will tell you, there he is, behind locked doors; do not believe them."
+
+The only thing all four women completely agreed on was that Joseph had buried Jesus without any aloe, myrrh, or spices.
+
+*Mt 28:8, Mk 16:8-11, Lk 24:9-11, Jn 20:2*
+The women were afraid yet filled with joy. Jesus of Nazareth appeared to Mary Magdalene. Then she, Joanna, Mary, mother of James, and others went to tell the eleven, and except for Matthew, the apostles did not believe them, because their words sounded like nonsense.
+
 
