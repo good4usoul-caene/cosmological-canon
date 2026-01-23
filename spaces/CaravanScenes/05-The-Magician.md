@@ -139,6 +139,8 @@ She climbs a few more steps, and turns again:  "But I'm not worried, God will se
 
 Draupadi says, "Bara, please!  That's not safe!"
 
+Jesus of Nazareth says, "Do not put the Lord your God to the test!"
+
 And some of the acrobats from the Caravan of the Five Winds rush up, many saying, "Dear girl, we're not set up for this, and you're quite drunk.  Someone is likely to get seriously injured."
 
 In the top of the loft, Bara finds a cache of coins.  She dumps the chest onto the floor of the loft, then sprawls in them, knocking some of them down onto the acrobats below.  "Get these out of here!  Stop turning my father's house into a market!"
@@ -157,4 +159,10 @@ After she was deposited safely on the floor, she said to the acrobats, "I knew y
 
 ---
 
-Jesusa Bara Bas continued to drink, and enjoy herself.  She danced with many.  And because of the dances, many believed in her, and her name.  Eventually, though, Jesusa had too much, and passed out.  Jesus of Nazareth stood guard over her while she was unconscious.  He stood by her until she was taken into a private room.  He would not entrust her to anyone else, because he knew what was in some people.  
+Jesusa Bara Bas continued to drink, and enjoy herself.  She danced with many.  And because of the dances, many believed in her, and her name.  Eventually, though, Jesusa had too much, and passed out.  
+
+Some crude men came to Jesusa, lifted their togas and said, "All this I will give to you if you bow down and worship me."
+
+Jesus of Nazareth sighed, "Away from us, Satan!  For it is written: 'Worship the Lord your God, and serve him only.'
+
+He stood guard over her while she was unconscious.  He stood by her until she was taken into a private room.  John told Jesus "Thank you.  I would not entrust her to anyone else, because I know what is in some people."  
