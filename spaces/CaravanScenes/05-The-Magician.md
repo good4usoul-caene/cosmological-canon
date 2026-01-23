@@ -15,44 +15,12 @@ RitualNoteKey: John 1
 Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon/policies/zion-cornerstone.md
 ---
 
-| Son / Father / Nickname | Personality Traits | Notes |
-|--------------------------|--------------------|-------|
-| Prativindhya / Yudhishthira / Prat | Calm, dutiful, reflective | Inherited Yudhishthira’s sense of justice and restraint. Thoughtful, inclined toward dharma. |
-| Sutasoma / Bhima / Somak | Brave, energetic, loyal | Echoes Bhima’s vigor and boldness. Courageous in battle, devoted to family. |
-| Shrutakarma / Arjuna / Karman | Skilled, disciplined, ambitious | Mirrors Arjuna’s martial focus. Trained in archery, disciplined, eager to prove himself. |
-| Shatanika / Nakula / Nika | Handsome, graceful, diplomatic | Inherited Nakula’s charm and beauty. Gentle, courteous, adept in social dealings. |
-| Shrutasena / Sahadeva / Sena | Wise, observant, strategic | Reflects Sahadeva’s intelligence and foresight. Sharp perception, quiet wisdom. |
 
-
-
-### Chronology: Augustus, Judean Rulers, and John the Baptist
-
-| Year (approx.) | Augustus’s Reign | Ethnarch (Judea, Samaria, Idumea) | Tetrarch (Galilee, Perea, NE Territories) | Emperor / Governor | Key Events |
-|----------------|------------------|-----------------------------------|-------------------------------------------|-------------------|------------|
-| 44 BCE | — | not applicable | not applicable | not applicable | Julius Caesar’s Assassination |
-| 37 BCE | Octavian rising (not yet Augustus) | not applicable | not applicable | Roman Senate (with Antony’s backing) | Herod the Great installed, recognized as “King of the Jews” |
-| 31 BCE | Octavian consolidates power | not applicable | not applicable | Octavian Caesar | Octavian defeats Antony and Cleopatra at Actium |
-| 27 BCE | **START:** Octavian named Augustus, *ruled as Emperor* | Herod the Great (ruled as King) | not applicable | Augustus (ruled as Emperor) | Beginning of Augustus’s reign |
-| 14 BCE | 7th year of Augustus | see above | see above | see above | Birth of Herodias; Approximate Birth of Mary; Quirinius defeats Marmaridae tribe in Cyrenaica |
-| 12 BCE | 15th year of Augustus | see above (Herod the Great still King) | not applicable | Augustus appoints Quirinius as consul in Syria/Cilicia | Quirinius dispatched to Cilicia to suppress Homonadenses |
-| 7 BCE | 20th year of Augustus | see above (Herod the Great still King) | not applicable | Augustus (ruled as Emperor) | Triple Conjunction; *Canonical Ch. 1–3 births of John, Bara Bas, Jesus; erased census* |
-| 4 BCE | 23rd year of Augustus | **Herod Archelaus (ruled as Ethnarch)** | **Herod Antipas (ruled as Tetrarch of Galilee & Perea)**; **Philip (ruled as Tetrarch NE territories)** | Augustus (ruled as Emperor) | Death of Herod the Great; kingdom divided among sons |
-| 1 CE | 28th year of Augustus | see above (Archelaus as Ethnarch) | see above (Antipas & Philip as Tetrarchs) | see above (Augustus as Emperor) | Canonical Ch. 4 meeting of John, Bara Bas, Jesus in Sychar |
-| 6 CE | 33rd year of Augustus | Archelaus deposed | see above (Antipas & Philip as Tetrarchs) | **Quirinius (ruled as Governor of Syria)**; Roman prefects begin in Judea | Census of Quirinius; *Canonical Ch. 5 wedding in Cana, Bara Bas’s Bas Mitzveh; Ch. 6 Conception of Salome; Quirinius destroys record of earlier census* |
-| 14 CE | Augustus dies; Tiberius *ruled as Emperor* | not applicable (Archelaus gone, Judea under Roman prefects) | see above (Antipas & Philip as Tetrarchs) | Roman prefects in Judea | Transition of imperial power; Salome is born |
-| 20 CE | Tiberius’s reign | not applicable | Antipas (ruled as Tetrarch, now governing from Tiberias) | Roman prefects | Tiberias founded, Antipas’s main seat |
-| 26 CE | 52nd year of Augustus’s regnal count (though Tiberius emperor) | not applicable | Antipas (ruled as Tetrarch) | **Pontius Pilate (ruled as Governor of Judea)** | John the Baptist imprisoned by Antipas |
-| 28–30 CE | 54th–56th year of Augustus’s regnal count (Tiberius emperor) | not applicable | Antipas (ruled as Tetrarch) | Pilate (Governor) | John the Baptist executed at Machaerus |
 
 
 
 ---
 
-### Notes
-- **Herod the Great’s full name**: *Herod I, known as Herod the Great, King of Judea*.  
-- Archelaus ruled Judea from **4 BCE–6 CE** as ethnarch, before being deposed by Augustus.  
-- After Archelaus, Judea was governed directly by Rome, with prefects such as **Pontius Pilate (26–36 CE)**.  
-- John the Baptist’s imprisonment and execution are generally placed between **26–30 CE**, under Herod Antipas’s authority.
 
 # 05 - The Magician
 

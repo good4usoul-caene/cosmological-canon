@@ -205,9 +205,73 @@ Do not confuse resurrection with ascension.
 
 ---
 
-## XVI — The Tower (John 21)
-- **[Agape vs. Phileo](guide://action?prefill=Tell%20me%20more%20about%3A%20Agape%20vs.%20Phileo)**  
+## XVI — The Tower (<strike>John 21</strike> Luke, Acts) - 
+- **[Agape vs. Phileo](guide://action?prefill=Tell%20me%20more%20about%3A%20Agape%20vs.%20Phileo)** 
+ - Decide if Matthew instruction "Go forth to all nations and baptize in the name of the father, the son, and the holy spirit" has yet been heard, or if this is only *after* they stay in Jerusalem for a time.
+ - Road to Emmaeus 
+   - Jesus spirit appears to them in another man, not claiming to be Jesus, nor immediately identifiable as Jesus.
+   - Bread Breaking becomes standard practice by first Christians.
+   - Joanna, Clopas, and Salome role?
+ - "Peace and Security Jesus" says, do not leave Jerusalem
+   - Appears in a locked room
+   - Could be retconned into previous chapter covering *John 20*.
+ - Translation of scriptures into many languages (Acts 1)
+   - Need to decide what scriptures are actually translated.  
+ - Choice of Matthias over Barsabbas 
+   - Decide whether this choice represents a choice between Matthew and Barabbas? 
+   - Casting lots over the clothes of Jesus.  Will they take as their 12th disciple one who presents the clothes of Jesus as described by Matthew, or as described by Barabbas?
+ - 
 Collapse of false structures.
+
+## Canonical Connections
+ - "Peace be with you"-Jesus behind locked doors (In last chapters of Luke and John) is the "Thief in the Night", and the one "Here he is in a locked room!" Jesus warns about.
+ - "Road to Emmaeus" Jesus is the "Here he is in the wilderness!" Jesus.  Though, yes, he does bear much of the Holy Spirit, he is not really Jesus.
+ - "Mountain in Galilee" Jesus is Jesus of Nazareth but "Baptise in the Son and the Father" was not acceptable teaching to the council of Luke's.
+ - Daniel 7's beasts: Matthew=Lion, JohnMark/Mary = Bear, Luke/Acts=Leopard; 4 heads = 4 authors.  John=Beast with 10 horns.  Total number of authors = 7
+ - John 1: Angels ascending and descending on the Son of Man = John 20:  Near Blasphemies of the Spirit of Truth and the Holy Spirit
+ - 
+
+## Echoes
+ - John 1: Nathanael will *also* (besides being the name given to the Dove in Chapter 4) be the name of the Praetorian who breaks the legs of the robbers, but finds Jesus of Nazareth already dead.  He reads the plaque and asks, "Nazareth, can anything good be from there?"  As he takes Jesus down, Jesus awakens, and Nathanael says "I have to tell Pilate that I killed you."  So Jesus says to him, "I see.  But in you is an Israelite who has no deceit."  The man says, "How do you know me?"  Jesus says, "I saw you over there under the fig tree."  Nathanael nods.  "Scripture says that God hates a lying tongue."  Jesus says, "True, but your lie does not break the ninth commandment, for it is not a false witness against anyone."  Nathanael said, "It is a testimony against me, against Pilate, against the pharisees, and the crowd."  Jesus said, then be sure to remind everyone that you are the only witness.  No one can be convicted on the indictment of only a single witness."  Nathanael says, "Truly you are the Messiah, the Son of God."  Jesus says, "Claim you say this because I saw you under the fig tree.  Yet you will see more than that," he sighs.  "Soon you will see angels ascending and descending on the Son of Man."
+ - John 1: They saw where he was staying: It was 4 pm; a reference to Nicodemus and Joseph arriving at 4pm where Jesus Barabbas was dead on the cross.
+ - *John 1:11 What Jesus did here in Cana of Galilee was the first of the signs through which he revealed his glory; and his disciples believed in him.* This could be Jesus Barabbas explaining how the wine-vinegar containing his blood put on the forehead of Jesus of Nazareth is the blood of the lamb put over Gentile's door for Passover.
+ - *John 4:52-54* - one in the afternoon is approximately the time that Jesus of Nazareth was put on the cross; after the indictment at Gabbatha.  This could be somehow brought into the scene where Jesus of Nazareth is put on the cross and tells John, "This is your Mother"  It's not quite entirely clear to me how, yet, though.
+ 
+## GospelHarmonization Connections that have not been made into CaravanScenes/CaravanCanon
+ - Three temptations of Matthew 4, Luke 4, become indictments in John 2.
+   - Bread from Stone = Water to wine
+   - Temple to Angels = Crucifixion to resurrection
+   - Devil Worship --> All Kingdoms = Jesus testifies against the human heart --> All Believe in his name
+
+
+Weird Mental Connections
+ - Choice of Matthias and Barsabbas means choosing a disciple who promotes Matthew's gospel or John's gospel.
+ - Jesus will come back as he left (Acts 1)
+   - He left by having Matthew, Mark, Luke, and John write his gospels
+   - He will return by having the Advocate read and interpret his gospels
+   - He left by vanishing from Bethany near Jerusalem
+   - He will return by careful analysis of what Jesus did in Bethany near Jerusalem
+
+
+ 
+Three Anointments in Bethany.  
+|                       | 1                                                                        | 2                                                                         | 3                                                     |
+| --------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Scripture             | Luke 7:36-50                                                             | John 12:1-8                                                               | Matthew 26:6-16, <br>Mark 14:1-11                     |
+| CC-Scene              | Ch 16, Scene 2<br>Wheel-of-Fortune                                       | Ch 17-Justice                                                             | Not written                                           |
+| Location-B            | Unspecified; last town <br>mentioned was Nain                            | Bethany, near Jerusalem <br>where Lazarus lived <br>with Martha and Mary. | Bethany near Jerusalem <br>in home of Simon the Leper |
+| Location-CC           | Bethany near Jerusalem                                                   | Bethany near Jerusalem                                                    | Bethany near Jerusalem                                |
+| Woman-B               | A woman in that town                                                     | Mary, sister of Lazarus                                                   | A woman                                               |
+| Woman-CC              | Mary Magdalene                                                           | Mary Magdalene                                                            | Mary Magdalene                                        |
+| Time-B                | Unspecified                                                              | 6 days before passover                                                    | 2 days before passover                                |
+| Time-CC               | Near when<br> Jesus Barabbas <br>meets Lazarus<br>30 CE                  | 6 days before passover<br><br>~30 CE or 33 CE                             | 2 days before passover<br><br>~30 CE or 33 CE         |
+| Anointed-B            | Jesus                                                                    | Jesus                                                                     | Jesus                                                 |
+| Anointed-CC           | John in the name of Jesus                                                | Jesus Barabbas                                                            | Jesus of Nazareth                                     |
+| Role-CC               | Aaron: Deut 16<br>Scapegoat Confessor<br>Maher Shalal Hash Baz           | Son of Man; Warner<br>Clay Jerusalem Preach<br>Queen of South             | Immanuel<br>Messiah                                   |
+| Body-Part             | Feet                                                                     | Feet                                                                      | Head                                                  |
+| Possible<br>CC-Retcon | Change **role** to Bull<br>Place Scene before<br>"Head on platter" scene |                                                                           | Add this scene to book                                |
+| Jar                   | alabaster flask of fragrant oil,                                         | a pint of pure nard, an expensive perfume                                 | Alabaster jar of <br>very expensive perfume           |
+| Zech 14               | Olive Branch                                                             | Olive Branch                                                              | Lord of all the earth                                 |
 
 ---
 

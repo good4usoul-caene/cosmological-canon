@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline.md",
+                "file": "anointments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeline"
+              "title": "anointments"
             }
           },
           {
@@ -45,10 +45,14 @@
             "id": "c2ea216e0548db70",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Caravan-Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caravan-Timeline"
             }
           }
         ]
@@ -264,12 +268,13 @@
       }
     ]
   },
-  "active": "c2ea216e0548db70",
+  "active": "142b4fcd2bcfe1d1",
   "lastOpenFiles": [
-    "e8-05-append.md",
-    "Timeline.md",
-    "e8-07-append.md",
+    "Caravan-Timeline.md",
+    "anointments.md",
     "e8-04-append.md",
+    "e8-05-append.md",
+    "e8-07-append.md",
     "Welcome.md"
   ]
 }

@@ -1,4 +1,4 @@
-[[Timeline]]
+[[Caravan-Timeline]]
 
 This is your new *vault*.
 
