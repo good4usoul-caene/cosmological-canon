@@ -15,13 +15,6 @@ RitualNoteKey: John 1
 Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon/policies/zion-cornerstone.md
 ---
 
-
-
-
-
----
-
-
 # 05 - The Magician
 
 In the 33rd year of the reign of Augustus during the deposition of Herod Archelaus ethnarchy of Judea, Draupi, her five sons, and her daughter Bara went to a wedding in Cana, which also served as Bara Bas's Bas Mitzveh.  (Jesus and John were still waiting, since young men have Bar Mitzveh's at 13.)  Elizabeth, Zechariah, Mary, Joseph and Jesus, and the Caravan of the Fifth Wind was also there.  
@@ -85,9 +78,9 @@ As the party progressed, John stood up to tell a story of his childhood.
 
 > I did not know it then, but I was becoming a keeper—not just of water, but of memory.
 
-He turns to Bara Bas.
+He turned to Bara Bas.
 
-> “My mother says the jugs aren’t broken,” he said. “She says they’re shaped perfectly for their tasks. Even the ones with cracks. Even the one shaped like a broken crown.”
+> “My mother said the jugs aren’t broken,” he said. “She says they’re shaped perfectly for their tasks. Even the ones with cracks. Even the one shaped like a broken crown.”
 
 > Bara looked up, her gaze soft. “She’s right,” she said. “The wind told me something like that once.”
 
@@ -101,7 +94,7 @@ He turns to Bara Bas.
 
 > He took her hand. “Come see the broken crown.”
 
-He turns to Herod.  
+He turned to Herod.  
 
 > Now I am thirteen, standing in Cana. The memory of those jugs is still with me, and I see them echoed in the thirty‑gallon jars set for purification. They are vessels of memory, vessels of welcome. I recount my childhood tale to those gathered, and then I baptize Herod and Herodias in one of the jars, the water rising and spilling as if the springs themselves had come to Cana.
 
@@ -109,7 +102,7 @@ He turns to Herod.
 
 > The words are not mine alone; they are the ripple of memory, the breath of the springs, the truth carried in the jugs.
 
-Herod laughs and says, "Why that's true!  And it's very audacious of you."
+Herod laughs and said, "Why that's true!  And it's very audacious of you."
 
 But Herodias, with fabric clinging tightly to her young form, frowns, embarrassed that the situation is being aired publicly.
 
@@ -119,7 +112,7 @@ When Jesusa Bara Bas came forward, John recalled, "I remember seeing the spirit 
 
 Jesusa is baptized, and the wetness of the fabric suggest to the surprised guests a certain androgeny about her.
 
-When Jesus of Nazareth comes, John smiles and says, “I need to be baptized by you, and do you come to me?”
+When Jesus of Nazareth comes, John smiles and said, “I need to be baptized by you, and do you come to me?”
 
 Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness.” Then John consented.
 
@@ -129,40 +122,93 @@ John said, "I only baptize in water, but the two that come after me will baptize
 
 ---
 
-Later, Bara was enjoying the wine freely.  "Kapro-Naum!  she shouted.  Pig Village"  
+Later, Bara was enjoying the wine freely. During this time, Jesusa talked to his mother Draupi and her brothers about the story of Odysseus, where all his men had got so drunk they turned into pigs, and his friend Elpenor climbed up to the top of Circe's palace and fell off and died.
+
+Bara, quite drunk, was quietly repeating, "Elpenor fell down in Circe's village, He fell down to pig village, where they were having their pig comforts. Pig... Kapro.   Comfort... Nahum.  Kapro Nahum - he goes down to Capernaum!"  she giggled.
+
+Herodias overheard her, and asked "What comforts a pig?  The wealthy Jews go out for their nights of sinning, then come to temple to make burnt offerings."
+
+"Burnt offerings?" asked Bara Bas.  
+
+"Yes, dear.  They sacrifice an animal."
+
+Herod nods, "A big sin takes an ox.  But a little sin only takes a bird.  There is a great deal of profit in it."  
+
+Then Herod put his hand over his heart, laughing "The richest and truest of pigs support a lavish lifestyle for the sin merchants."
+
+"Why does an animal have to die for a person's sin?" 
+
+Herod laughed, "And why does a trifling sin cost any sacrifice at all?"
+
+Herodias shrugged, "It's just the way of the patriarchs, dear."
+
+Nicodemus, who had been listening, joined them, pointing.  "If you look up there in that loft, you can see how generously the people give."
+
+Then Bara Bas looked up and around the hall, and she saw the chest up in a high loft and she immediately set out to climb the ladder.
 
 She climbed up a few steps of a ladder to a high loft over the banquet room.  
 
-With one hand on the ladder she turns and says "Circe turns all you drunks into pigs, and I'm Elpenor, climbing up to the top of the temple!  
+With one hand on the ladder she turned and said "Kapro naum:  Pig Comfort!  Circe turns all you drunks into pigs, and I'm Elpenor, climbing up to the top of the temple!"
 
-She climbs a few more steps, and turns again:  "But I'm not worried, God will send his angels to protect me!"
+Everyone in the hall looked up, their attention drawn to her commotion.
 
-Draupadi says, "Bara, please!  That's not safe!"
+For those who had had too much to drink, familiar with Homer's tales of Odysseus, some raised a glass to Elpenor, and cheered. The friend of Odysseus, who had died in a drunken leap from Circe's tower.
 
-Jesus of Nazareth says, "Do not put the Lord your God to the test!"
+"To Elpenor and his Oar!" shouted Herod.  "Hear, hear!" shouted many of the drunken Greeks.
 
-And some of the acrobats from the Caravan of the Five Winds rush up, many saying, "Dear girl, we're not set up for this, and you're quite drunk.  Someone is likely to get seriously injured."
+Others just watched Bara Bas climb, confused.
 
-In the top of the loft, Bara finds a cache of coins.  She dumps the chest onto the floor of the loft, then sprawls in them, knocking some of them down onto the acrobats below.  "Get these out of here!  Stop turning my father's house into a market!"
+In the top of the loft, Bara found the cache of coins.  "Indulgent sinners and good people shamed," she thought. So she dumped the chest onto the floor of the loft, then sprawls in them, knocking some of them down onto the floor below.  "All you sellers doves.  You shame the fearful and comfort the pigs.  Get these out of here!  Stop turning my father's house into a market!"
 
-"Hey, hey!  That's not your money!" said the town treasurer.  
+"Hey, hey!  That's not your money!" said the head priest.  
 
-But another Jew, called Nicodemus, wanting to see the feat, asked,  “What sign can you show us to prove your authority to do all this?”
-
-Jesus answered them, “Destroy this temple, and I will raise it again in three days.”
+Nicodemus, alarmed at her reaction, though, thought it fit she should show some sign.  He asked  “What sign can you show us to prove your authority to do all this?”
+ 
+Jesusa answered them, moving dangerously close to the edge of the loft. “Elpenor died when he threw himself off Circe's Palace.  But throw down this temple, and it will be lifted by angels!”
 
 The banai, or architect said, “It has taken forty-six months to build this town hall, and you are going to raise it in three days?” 
 
-But the temple she had spoken of was her body. And she threw herself down, with faith that the acrobats would catch her.  Which they did, but not without minor injury.
+But the temple she had spoken of was her body. "I'm not worried," she shouted, "God will send his angels to protect me!"
+
+Draupadi said, "Bara, please!  That's not safe!"
+
+Jesus of Nazareth said, "Do not put the Lord your God to the test!"
+
+Some of the acrobats from the Caravan of the Five Winds rushed up, many saying, "Dear girl, we're not set up for this, and you're quite drunk.  Someone is likely to get seriously injured."
+
+"But I trust you!" she said, and once they were assembled, she took a shaky breath.  She swayed; the room held it's breath.  Then her body toppled, she threw herself down, with faith that the acrobats would catch her.
+
+They did, but not without minor injury.
 
 After she was deposited safely on the floor, she said to the acrobats, "I knew you could do it."  And because of her faith in them, they believed in her, even the one who'd taken her foot in his face.  
 
 ---
 
-Jesusa Bara Bas continued to drink, and enjoy herself.  She danced with many.  And because of the dances, many believed in her, and her name.  Eventually, though, Jesusa had too much, and passed out.  
+Jesusa Bara Bas continued to drink, and enjoy herself.  She danced with many.  And because of the dances, many believed in her, and her new name, Jesusa.  Eventually, though, Jesusa had too much, and had nearly passed out.  
 
-Some crude men came to Jesusa, lifted their togas and said, "All this I will give to you if you bow down and worship me."
+Several drunk and crude men came and surrounded Jesusa, saying, "No more sin taxes, we're totally with you."  
 
-Jesus of Nazareth sighed, "Away from us, Satan!  For it is written: 'Worship the Lord your God, and serve him only.'
+"All the pigs here believe in your name."
 
-He stood guard over her while she was unconscious.  He stood by her until she was taken into a private room.  John told Jesus "Thank you.  I would not entrust her to anyone else, because I know what is in some people."  
+"Yeah, I can live with shame if you can."
+
+"All sinners here!"
+
+One gestured and said," I will give you all the power on earth if you bow down and worship me."
+
+Herod laughed, "Let these reprobates live in shame for free, and they'll make you a God."
+
+Jesus of Nazareth saw what the man wanted worshiped, and said, "Away from us, Satan!  For it is written: 'Worship the Lord your God, and serve him only.'
+
+He looked down at Bara Bas.  "She's got a point.  Animal sacrifice is Kapro-naum: Pig Comfort."
+
+He then turned toward the men who were still lingering. "Will Capernam be lifted to the heavens?  No, it will go down to Hades.  For if the signs Bara Bas performed here had been performed in Sodom it would have remained to this day."
+
+He watched over Bara Bas while she was unconscious, until she was taken into a private room.  
+
+John came up and told Jesus "Thank you for watching her.  I would not entrust her to anyone else, because I know what is in some people."  
+
+Jesus of Nazareth said, "Keep watch so long as we have life.  But someday our words will be all people have.  We have to entrust ourselves to the people."
+
+Jesusa's eyes flutered.  Half conscious, she said, "When you're old others will dress you and lead you where you do not want to go."
+
