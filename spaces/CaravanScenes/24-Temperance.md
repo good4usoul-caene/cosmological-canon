@@ -35,6 +35,17 @@ The chief priests answered, "We have no king except Caesar."
 
 **16** Therefore, he delivered him to them that he might be crucified.  Therefore, they took Jesus.
 
+---
+*John 1:43-46 remix*
+
+But Pilate spoke to Philip the Tetrarch, and Philip the Tetrarch spoke his trusted guard, Nathanael, saying "We have found the one Moses wrote about in the Law, and about whom the prophets also wrote -- Jesus of Nazareth, the son of Joseph."
+
+"Nazareth, can anything good come from there?" Nathanael asked.
+
+"Come and see," said Philip.
+
+---
+
 **17** Jesus of Nazareth bore his own cross to Kraniou Topon; the place of the skull, known in Hebrew as Golgatha, the same place where Jesus Barabbas had been crucified that morning.
 
 When he stopped, with help, Jesus of Nazareth, dressed in Odysseus robes planted the cross into the ground.  And like John's Baptism, some would say the cross is an oar, providing a way for every soul to make their way along to the Mediterranean. Others would say the cross is a winnowing fork, designed to separate the wheat from the chaff floating on its way down the dark river of death.
@@ -104,11 +115,43 @@ Now the blood of the lamb was lifted and Jesus of Nazareth became the door for a
 
 This also dedicated the body of the Messiah as Herod's Temple to Poseidon. 
 
-**30** When Jesus drank deeply of the sour wine, he said "It has been finished" and bowing his head, he fell asleep.
+*John 2:10-11 remix*
+
+When Jesus drank deeply of the sour wine, he said "Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink, but you have saved the best till now."
+
+What Jesus did here was the last sign through which he revealed his glory, and his disciples believed in him.
+
+**30** Then he said, "It has been finished" and bowing his head, he fell asleep.
 
 **31** Because it was the Jews Preparation day, the bodies could not remain on the crosses on the Sabbath, for it was a high day of Sabbath, and they asked that Pilate might take down the bodies, and break the legs of those still living so they might be taken away.  
 
-**32** Therefore the soldiers came and broke the legs of first one, and then the other of those having been crucified with Jesus of Nazareth.  **33** However, when they saw Jesus already appearing dead, they did not break his legs.
+**32** Therefore the soldiers came and broke the legs of first one, and then the other of those having been crucified with Jesus of Nazareth.  
+
+**33** However, when they saw Jesus already appearing dead, they did not break his legs.
+
+*John 1:46-51*
+
+Nathanael approached the plaque, thinking again, "Nazareth, can anything good be from there?"  
+
+As he took Jesus down, Jesus awakened, and Nathanael said "I have to tell Pilate that I killed you."  
+
+So Jesus says to him, "I see.  But in you is an Israelite who has no deceit."  
+
+The man said, "How do you know me?"  
+
+Jesus said, "I saw you over there under the fig tree."  
+
+Nathanael nodded.  "Scripture says that God hates a lying tongue."  
+
+Jesus said, "True, but your lie does not break the ninth commandment, for it is not a false witness against anyone."  
+
+Nathanael said, "It is a testimony against me, against Pilate, against the pharisees, and the crowd."  
+
+Jesus said, then be sure to remind everyone that you are the only witness.  No one can be convicted on the indictment of only a single witness."  
+
+Nathanael said, "This is reasoning fit for the Messiah, the Son of God."  
+
+Jesus said, "Claim you say this because I saw you under the fig tree.  Yet you will see more than that."  He sighed,  "For soon you will see angels ascending and descending on the Son of Man."
 
 **34** But one of the soldiers by Pilate's orders bore witness, "I pierced his side with a spear and immediately came out blood and water."
 
@@ -125,13 +168,24 @@ This also dedicated the body of the Messiah as Herod's Temple to Poseidon.
 
 **-|42|-|54** It was Preparation Day (that is, the day before the Sabbath) and the Sabbath was about to begin. 
 
-**57|43|50** As evening approached, there came a rich man from the Judean town of Arimathea, a prominent member of the Council, a good and upright man named Joseph, who had himself become a disciple of Jesus, and was himself waiting for the kingdom of God. He went boldly, **58||** Going to Pilate, and asked for Jesus’ body, and Pilate ordered that it be given to him.  **||51|** He had not consented to their decision and action.  
+**57|43|50** As evening approached, John saw Joseph, father of Jesus of Nazareth, now a rich man from the Judean town of Arimathea, a prominent member of the Council, a good and upright man, who had himself become a disciple of Jesus, and was himself waiting for the kingdom of God. He went boldly, **58||** Going to Pilate, and asked for Jesus’ body, and Pilate ordered that it be given to him.  **||51|** He had not consented to their decision and action.  
 
 **-|44|-|35** Pilate pretended to be surprised to hear that he was already dead. Summoning the centurion he had sent to be the only witness, he asked him if Jesus had already died.
 
 **-|45|-|34** When the centurion testified that he had pierced the Nazarene, and that water and blood had poured out, he told Joseph he could collect the body.
 
-**|||39** He was accompanied by Nicodemus, the man who earlier had visited Jesus at night. Nicodemus brought a mixture of myrrh and aloes, about seventy-five pounds. **|||40** Taking Jesus’ body, the two of them wrapped it, with the spices, in strips of linen. This was in accordance with Jewish burial customs. **|||41** At the place where Jesus was crucified, there was a garden, and in the garden a new tomb, in which no one had ever been laid. **|||42** Because it was the Jewish day of Preparation and since the tomb was nearby, they laid Jesus there.
+**|||39** He was accompanied by Nicodemus, the man who earlier had visited Jesus at night. Nicodemus brought a mixture of myrrh and aloes, about seventy-five pounds. 
+
+*John 1:35-39 remix*
+John saw Joseph and Andrew,  coming out to Golgotha. He pointed to Barabbas' corpse, saying "Look, the lamb of God!"
+
+Turning around, they looked at the corpse and wondered what Jesus had wanted.  They quickly concluded that a proper burial was required, and asked John, "where is he staying?"
+
+"Come," John replied, "and you will see."
+
+It was about four in the afternoon.  Andrew went to find his brother Simon, while Joseph went to find Nicodemus.
+
+**|||40** Taking Jesus Barabbas’ body, Joseph and Nicodemus of them wrapped it, with the spices, in strips of linen. This was in accordance with Jewish burial customs. **|||41** At the place where Jesus was crucified, there was a garden, and in the garden a new tomb, in which no one had ever been laid. **|||42** Because it was the Jewish day of Preparation and since the tomb was nearby, they laid Jesus there.
 
 *Mt 27:59-60, Mk 15:46, Lk 23:53-54, Jn 19:40-42*
 
@@ -139,10 +193,20 @@ After Nicodemus left, Joseph went to the body of Jesus of Nazareth, with strips 
 
 **59|46|53|** Joseph, now by himself, took the body, wrapped it in a clean linen cloth, **60|46||** and placed it in his own new tomb that he had cut out of the rock. He rolled a big stone in front of the entrance to the tomb and went away. 
 
-
 **61|47|55** The women who had come with Jesus of Nazareth from Galilee followed Joseph.  Mary Magdalene and the other Mary, Mary, the mother of Joseph were sitting there opposite the tomb and saw where Jesus of Nazareth was laid, and how his body was buried without myrrh or aloe.
 
 As soon as the ladies left, Joseph helped Jesus of Nazareth move aside the stone and took him elsewhere.
+
+---
+
+Andrew told his brother "We have found Messiah" and he brought him to the garden where Barabbas' lay.  They began digging, and Peter recalled Jesus saying "on this rock I will build my church" and how quickly it had changed to "get behind me Satan."  As he and Andrew moved the corpse into the grave, Andrew said to him, "Peter, Son of Jonah, you will come to be called Cephas, son of John."
+
+"Why is that?" asked Peter.  
+
+"Andrew laughs, because, If you won't praise him, the rocks will cry out."
+
+---
+
 
 **62||** The next day, the one after Preparation Day, the chief priests and the Pharisees went to Pilate. **63||** “Sir,” they said, “we remember that while he was still alive that deceiver said, ‘After three days I will rise again.’ **64||** So give the order for the tomb to be made secure until the third day. Otherwise, his disciples may come and steal the body and tell the people that he has been raised from the dead. This last deception will be worse than the first.”
 
