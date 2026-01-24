@@ -9,7 +9,7 @@ Rename-Request:
 Completeness: 95%
 Intent: A chapter of "Caravan of the Fifth Wind"
 Genre: Historical Fiction/Injil Attempt
-Change-Note: 
+Change-Note: Change-Note: "Added John's jug parable (foreshadows baptism), expanded Herod/Herodias context (age 40/14), added Barabbas's drunk monologue (Kapro Naum = Pig Comfort = Capernaum), added Jesus's rebuke (Matthew 4:8-10), clarified wine trick as false-bottom barrel ruse (not transmutation), tied temple destruction to Jesusa's body (John 2:19-21), added acrobats catching Jesusa (Matthew 4:6)."
 RitualNote: 1 AD: John and Jesus (age 7) and their parents visit Bara and her family in Sychar.
 RitualNoteKey: John 1
 Promotion-Rubric-General: https://github.com/good4usoul-caene/cosmological-canon/policies/zion-cornerstone.md
@@ -54,6 +54,7 @@ Jesus said, "Ah no...  Moderation for me.  Would you like to have the rest?  Eve
 Jesus laughs, "Sure.  But man does not live on wine alone, but every word that falls from the mouth of God."
 
 ---
+
 As the party progressed, John stood up to tell a story of his childhood.  
 
 >I was three when I first toddled behind my mother, Elizabeth the Dew Woman, along the winding paths of Ein Karem. My feet were small, my stride uneven, but I was determined. The springs called to me—not with sound, but with presence. I felt them in the hush between footsteps, in the cool breath of shaded stone.

@@ -299,6 +299,24 @@ Mt 27:34, Mk 15:23, Lk 23:36-37
 
 **35|24|-** When they crucified him, they divided up his clothes by casting lots to see what each would get. **36|-|-** And sitting down, they kept watch over him there.
 
+### Joseph's Plea
+
+*John 4:43-54 remixed*
+
+Joseph of Nazareth had moved to Arimathea and become a royal official.  He was now quite wealthy, and called Joseph of Arimathea.  He saw Jesus here in the distance and believed it was his son.  He walked forward, praying "Lord, my son is close to death.  Please come and heal my son."  He went forward to see.  When he got up to the front he saw it was not his son, but Jesus Barabbas.  
+
+Barabbas, near delirious, said "Unless you people see signs and wonders, you will never believe."
+
+Joseph, in tears, said, "Sir,  I will vouch for you.  Come down before my child dies."
+
+"Go," Jesus replied, "your son will live"  So Joseph took Jesus at his word and departed.  
+
+He asked where Pilate was, and headed to Gabbatha, the Stone Circle.  On his way, he met Nathanael, the Praetorian, Pilate's most trusted guard, who told him "Your boy is living."
+
+When he inquired as to the time when his son got better, Nathanael said, "At one in the afternoon, he was crucified without nails."
+
+This was the first sign Jesus performed after coming from Galilee to Judea.
+
 ### Different Crosses Different Plaques
 
 **37|-|-** Above Jesus Barabbas' head, Matthew claimed they wrote, this is Jesus, King of the Jews, (But they did not write Jesus of Nazareth)
@@ -316,8 +334,6 @@ Mt 27:34, Mk 15:23, Lk 23:36-37
 **42||35** The people stood watching, and the rulers even sneered at him.  They said, "He saved others; but he can't save himself!  He's the king of Israel!  Let him save himself if he is God's Messiah, the Chosen One.   Let him come down now from the cross, and we will believe in him."
 
 **43||** He trusts in God.  Let God rescue him now if he wants him, for he said, 'I am the Son of God'
-
-
 
 ### Insults of the crucified
 

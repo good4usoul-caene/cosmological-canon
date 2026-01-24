@@ -1,4 +1,8 @@
-2025-01-15.md
+---
+Repository-Destintation: 2026-01-22-JW-BibleStudy.md
+---
+
+### Thursday, Jan 24,2026
 
 I'd like to discuss my Bible Study Meeting with two from Jehovah's Witnesses the other day.  Before they came I suggested Acts 19, John 1, and John 20.  
 
@@ -25,3 +29,9 @@ Jan 22: Billy and David
  - At the end of the Bible study, David said something about the goals of the organization "We seek those of humble heart..." and I said, "I've been working on this for 25 years, and no one has been able to yet convince me that what I see is not there, so no, I cannot claim the humility you need."
  - And they said, with all of the flood of writing coming from their organization they will never have time to read my book.
  - They put a limit on things, implying they were permitted to be the teachers through their Bible studies, but only teachers of humble students.  And I said that the time for me is no longer to be a student but to teach.  So it is much in doubt if Billy will return next Thursday.
+ 
+---
+ 
+### Friday, Jan 23, 2026
+
+I spent a great deal of the day revising Chapter 5: The Magician from Caravan-Canon.  This Chapter delves into 

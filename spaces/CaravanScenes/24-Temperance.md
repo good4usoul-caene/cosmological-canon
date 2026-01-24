@@ -43,7 +43,7 @@ When he stopped, with help, Jesus of Nazareth, dressed in Odysseus robes planted
 
 **19** Pilate wrote a title and put it on the cross.  Unlike Barabbas' cross, this cross specified "Jesus of Nazareth".  
 
-**20** Therefore, many of the Jews read this title, for near was the place, the city where Jesus Barabbas was crucified, and it was written in Hebrew, in Latin, and in Greek.
+**20** Therefore, many of the Jews imagined they read this title, for near was the place, the city where Jesus Barabbas was crucified, and it was written in Hebrew, in Latin, and in Greek.
 
 **21** Therefore, the chif priests of the Jews were saying to Pilate, "Do not write the King of the Jews, but accuse him of claiming to be the King of the Jews."
 
