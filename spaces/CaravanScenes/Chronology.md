@@ -25,3 +25,21 @@
 - Archelaus ruled Judea from **4 BCE–6 CE** as ethnarch, before being deposed by Augustus.  
 - After Archelaus, Judea was governed directly by Rome, with prefects such as **Pontius Pilate (26–36 CE)**.  
 - John the Baptist’s imprisonment and execution are generally placed between **26–30 CE**, under Herod Antipas’s authority.
+
+# Forward/Backward Remix John 1-4
+
+| Chapter/Verses  | Forward Mapping (Caravan Chapter/Event)                  | Backward Remix (Death/Crucifixion/Reversal)                         |
+|-----------------|----------------------------------------------------------|---------------------------------------------------------------------|
+| John 1          | 4-The-Fool                                               | 24-Temperance (Nathanael/"Nazareth"/fig tree; Andrew/Peter, rocks)  |
+| 4 pm | Cephas call up from bottom of well, where are you staying.  They go in for dinner at 4 pm. | Burial well/tomb; "where are you staying? ... come and see" (4pm)   |
+| Nathanael       | "Jonah Nathanael", A Dove, from clay birdhouse under fig tree, no deceit   | Nathanael the Praetorian who pierces Christ, "Nazareth?..."         |
+| Philip          | Curse/Joke: "Lover of Horses" (Phil-Hippos)| Philip the Tetrarch (Tetra-archon/political authority), instructs Nathanael to go through crucifixion without actually killing the Messiah |
+| Peter           | Literal Rock/Cephas (child’s game, stone in cloth), Zeus/Chronos-story       | Simon Peter recapitulates, Andrew/rocks "cry out" at tombs, Peter sees where Barabbas is buried. Believes it is the dead body of Jesus of Nazareth. |
+| Andrew          | Another rock; brings Peter to Jesus  | Andrew brings Simon to the garden/grave; "rocks will cry out" (knows body is Barabbas.)      |
+| John 2          | 5-The Magician; Cana wedding, “first sign” of Bara Bas, First Temptation of Christ | 23-Death/24-Temperance; Wine-blood-vinegar sponge, "best wine last" |
+| Water to Wine   | Trick/barrel ruse, performed by Odys/Jesa Bara           | Blood+wine-vinegar lifted to Jesus on the cross (Passover doorway)  |
+|Master of Ceremonies | Herod judges taste of wine | Jesus of Nazareth tastes wine-vinegar containing Barabbas' blood |
+| John 3      | 6-The-High-Priestess; Nicodemus by night, Anothen=from above/beginning | Burial secrecy; Nicodemus brings spices at night to the tomb <BR>(No clear reference in story yet) |
+| John 4          | 8-The-Emperor; healing royal official’s son, "at 1pm"    | Joseph of Arimathea as Joseph father, asks for “healing my son”     |
+| Healing the Son | Healing of "Salome's soul"/Daughter of Gabriel, John's poison (Son of Zechariah) | Jesus of Nazareth “gets better” at time of crucifixion after Stone Pavement scene (1 pm)  |
+
