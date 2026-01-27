@@ -197,11 +197,12 @@ John 19:17–37 (Temperance)
   This makes human withholding override divine mercy, turning unforgiveness into cosmic law.
 
 **Contextual Warning**  
-When Mary reaches for Jesus, he says:  
-“Do not hold onto me, for I have not yet ascended to the Father.”  
-Do not cling to the wrong thing.  
-Do not mistake the sign for the Spirit.  
-Do not confuse resurrection with ascension.
+ - When Mary reaches for Jesus, he says:  “Do not hold onto me, for I have not yet ascended to the Father.”  
+   - Do not cling to the wrong thing.  
+   - Do not mistake the sign for the Spirit.  
+   - Do not confuse resurrection with ascension.
+ - *Peace and Safety/Thief in the Night Warning* [1 Thess 5:1-3](https://www.biblegateway.com/passage/?search=1%20thess%205%3A1-3&version=NIV) Locks on doors represent safety/security, Jesus appears anyway, saying "Peace to You". 
+ - Behind Locked Doors Warning:  [Matt 24:26](https://www.biblegateway.com/passage/?search=Matthew%2024%3A26&version=NIV) In John 20, Jesus appears in the inner rooms.
 
 ---
 
@@ -232,7 +233,7 @@ Collapse of false structures.
  - 
 
 ## Echoes
- - John 1: Nathanael will *also* (besides being the name given to the Dove in Chapter 4) be the name of the Praetorian who breaks the legs of the robbers, but finds Jesus of Nazareth already dead.  He reads the plaque and asks, "Nazareth, can anything good be from there?"  As he takes Jesus down, Jesus awakens, and Nathanael says "I have to tell Pilate that I killed you."  So Jesus says to him, "I see.  But in you is an Israelite who has no deceit."  The man says, "How do you know me?"  Jesus says, "I saw you over there under the fig tree."  Nathanael nods.  "Scripture says that God hates a lying tongue."  Jesus says, "True, but your lie does not break the ninth commandment, for it is not a false witness against anyone."  Nathanael said, "It is a testimony against me, against Pilate, against the pharisees, and the crowd."  Jesus said, then be sure to remind everyone that you are the only witness.  No one can be convicted on the indictment of only a single witness."  Nathanael says, "Truly you are the Messiah, the Son of God."  Jesus says, "Claim you say this because I saw you under the fig tree.  Yet you will see more than that," he sighs.  "Soon you will see angels ascending and descending on the Son of Man."
+ - John 1: Nathanael will *also* (besides being the name given to the Dove in Chapter 4) be the name of the Praetorian who breaks the legs of the robbers, but finds Jesus of Nazareth already dead.
  - John 1: They saw where he was staying: It was 4 pm; a reference to Nicodemus and Joseph arriving at 4pm where Jesus Barabbas was dead on the cross.
  - *John 1:11 What Jesus did here in Cana of Galilee was the first of the signs through which he revealed his glory; and his disciples believed in him.* This could be Jesus Barabbas explaining how the wine-vinegar containing his blood put on the forehead of Jesus of Nazareth is the blood of the lamb put over Gentile's door for Passover.
  - *John 4:52-54* - one in the afternoon is approximately the time that Jesus of Nazareth was put on the cross; after the indictment at Gabbatha.  This could be somehow brought into the scene where Jesus of Nazareth is put on the cross and tells John, "This is your Mother"  It's not quite entirely clear to me how, yet, though.

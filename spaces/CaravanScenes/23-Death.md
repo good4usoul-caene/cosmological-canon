@@ -39,10 +39,6 @@ Promotion-Rubric-Specific:
     score: 100
     title: "Devil (Card XV) — Two Near-Blasphemies"
     note: "John 20:29 ('Blessed are those who believe without evidence'), John 20:23 ('What you don't forgive is not forgiven')"
-  - id: 5
-    score: 100
-    title: "Tower (Card XVI) — Emmaus Road"
-    note: "Clopas and Simon recognize Jesus of Nazareth in the breaking of bread (Luke 24:13-35), while the Eleven stay in Jerusalem (Luke 24:36-53)"
   - id: 6
     score: 100
     title: "Star (Card XVII) — Bartimaeus riddle"
