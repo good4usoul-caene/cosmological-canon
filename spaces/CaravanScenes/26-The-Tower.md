@@ -307,30 +307,4 @@ He said, "Salvation is found in no one else" for Peter had never trusted in the 
 
 *Acts 4:32-37* Wealthy people were even coming to the Christians and selling all their possessions to provide for the commune.
 
-*Acts 5:1-10* And soon Peter became drunk with the power of Jesus' name, that he began using it for evil.  When Ananias and Sepphira came to him saying that they had sold everything they owned for the commune, Peter sensed they were holding back and accused them.  He called this "conspiring to test the Spirit of the Lord".  
-
-Because Paul had not yet clarified "Faith is evidence of what you hope for". Peter had abused faith, and caused evidence of what Ananias and Sapphira dreaded.  Thus they fell, dead to Peter.
-
-Great fear seized the whole church.  Their faith had been replaced with fear.  And now they put their hopes and fears into Peter.  The sick hoped that Peter's shadow would fall across them.  Hearing that Peter could kill by shame impressed the crowd even more than hearing that he could heal via faith.  
-
-Though now people were being healed by their faith in Peter's name, he still did not realize that it was faith that healed people, rather than any specific name.
-
-*Acts 5:17-24* But the high priest of Pharisees, and the Saducees were jealous of Peter, and arrested the apostles.  Someone in the guise of an angel let them out, got them all past the guards, and the captain of the temple guard was at a loss
-
-*Acts 5:28-33* The apostles were frustrated that Peter was accusing them of killing Jesus of Nazareth.  And his defense, accusing them of being against God and the Holy Spirit, made them furious.
-
-*Acts 5:34-40* Gamaliel, a teacher of the law, convinced them to let them go, by a call to the same Holy Spirit by which Peter accused them.
-
-*Acts 5:41* But the apostles interpreted the mercy as disgrace.  *5:42* And they never stopped conflating the Messiah and the Son of Man.
-
-## Paul in Damascus and Early Church Division
-
-*Acts 9* Now, there was a man named Saul who had heard of how Peter had used the fear of Jesus to kill Ananias and Sepphira.  This made him breathe out murderous threats agaisnt the Lord's disciples.  He was going to an authority in Damascus to ask for licenses to arrest anyone who belonged to this sect, but while he was on his way, he met Jesus of Nazareth, who was not dead.  Then shortly afterward, he met Ananias, who also was not dead.
-
-Jesus of Nazareth told Ananias, and Ananias told Paul "Brother Saul, the Lord - Jesus, who appeared to you on the road as you were coming here - has sent me so that you may see again and be filled with the Holy Spirit".  
-
-Saul spent several days with Jesus, Ananias, and the other disciples in Damascus.  
-
-He heard much of the wisdom of Jesus of Nazareth.  Jesus explained to him that Peter had mis-used his name in dealing with Ananias, not invoking faith, but something else.  For, he told him, "Faith is evidence of what is hoped for."  He told him many other things, and Paul got much right, even proving that Jesus of Nazareth was the Messiah.  Barnabus saw him preaching in Damascus and reported this to the more public group of disciples in Jerusalem.  
-
-
+**The Tower** ends with Acts 4, before the Ananias and Sapphira incident, with Peter beginning to treat Jesus name as a magic word.

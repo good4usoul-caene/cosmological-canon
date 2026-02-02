@@ -1,26 +1,97 @@
+---
+Rename-Request: none
+Echo-Filepath: mary_john_salome.md
+Local-Filepath: none
+Repository-Source: none
+Repository-Destination: 27-The-Star.md
+SAIBR-Target: none
+Change-Magnitude: major
+Checklist: Ensure header matches /policies/universal-template.md, review Salome/Mary/John metaphors, confirm Agent-Writable reflects desired future edits
+Agent-Writable: yes
+Completeness: full
+Intent: To present a narrative dialogue (Mary, John, Salome) exploring truth, authorship, and the ethical formation of the Gospel of Mark, interpreting post-resurrection tradition according to Caravan Canon principles.
+Version: v0.1.0
+Prev-Version: none
+Author: Jonathan David Doolin
+Date: 2026-01-28T00:00:00-06:00
+Genre: Historical Fiction / Gospel Harmonization / Scene Script
+Change-Note: Initial version with full universal-template header; Mary, John, Salome debate truth, witness, canon, and the Star/Mark arc.
+RitualNote: "Discernment, not dogma, draws the line between witness and invention. Let every mark be a star for those who seek, and let every star be a guide for those in exile."
+RitualNoteKey: Exodus 20:16; Deuteronomy 19:15; Mark 7:19; Daniel 7:5; John 19:26-27; Psalm 147:4
+Promotion-Rubric-General: /policies/zion-cornerstone.md
+Promotion-Rubric-Specific:
+  - id: 1
+    score: 100
+    title: "Universal-template compliance"
+    note: "All required metadata fields present per policy"
+  - id: 2
+    score: 90
+    title: "Rubric alignment"
+    note: "Does not directly contradict original language of scripture; creative interpretations anchored by plausible extension"
+  - id: 3
+    score: 90
+    title: "Ethics of witness and pseudonymity discussed"
+    note: "Reflects on ninth commandment, truth, and protection in transmission"
+Promotion-Ready-Owner: TBD
+Promotion-Ready-Agent: TBD
+Promotion-Ready-Agent-Confidence: 8
+---
+
 ### The Star
-John finds Bartimeus(?) one of the men Jesus made see in Jericho.  Something about sticking his fingers in his mouth, etc.  (The healing from Mark involving Ephaphtha)  He gives the man the riddle of the gate, and he says, "of course.  yes, a gate...  That is just the truth.  But then he gives another answer answer to the riddle, full of the holy Spirit.
+John and Salome sat with Mary of Bethany, sister of Margaret and Lazarus.  When Jesus of Nazareth said to her, "Woman, this is your Son", she looked at him and thought.  "This is not true."  And then Jesus said to John, "This is your mother."  This was not true either.  
 
-10 “LITERALLY I tell you Pharisees, anyone who does not enter the sheep pen by the gate, but climbs in by some other way, is a thief and a robber. 2 The one who enters by the gate is the shepherd of the sheep. 3 The gatekeeper opens the gate for him, and the sheep listen to his voice. He calls his own sheep by name and leads them out. 4 When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice. 5 But they will never follow a stranger; in fact, they will run away from him because they do not recognize a stranger’s voice.” 6 Jesus used LITERAL LANGUAGE, but the Pharisees did not understand what he was telling them.
+But she accepted that she should talk to John, and see what this was all about.  When she talked to John, they were joined by Salome, who asked, "What is the ninth commandment?"
 
-7 Therefore Jesus said again, “METAPHORICALLY PASTORS tell you, THE MESSIAH IS the gate for the sheep. 8 All who have come before THE MESSIAH are thieves and robbers, but the sheep have not listened to them. 9 THE MESSIAH IS the gate; whoever enters through THE MESSIAH will be saved.[a] They will come in and go out, and find pasture. 10 The thief comes only to steal and kill and destroy; PASTORS have come that they may have STRUCTURE, and have it to the full.
+Mary said, "It says thou shalt not bear false witness against thy neighbor."
 
-11 “THE MESSIAH IS the good shepherd. The good shepherd lays down his STRUCTURE for the sheep. 12 The SON OF MAN is not the shepherd and does not own the sheep. So when he sees the wolf coming, he abandons the sheep and DIES. Then the wolf attacks the flock and scatters it. 13 The man DIES because he is a SON OF MAN SET FREE FROM CARE for the sheep.
+Salome nodded, "What then, if you should bear false witness in support of your neighbor?"
 
-14 “THE MESSIAH IS the good shepherd; PASTORS know THE MESSIAH'S sheep and THE MESSIAH'S sheep know THE MESSIAH— 15 just as the Father knows THE MESSIAH and PASTORS know the Father—and PASTORS lay down THE MESSIAH'S STRUCTURE for the sheep. 16 PASTORS have other sheep that are not of this sheep pen. PASTORS must bring them also. They too will listen to THE MESSIAH'S voice, and there shall be one flock and one shepherd. 17 The reason SALVATION loves THE MESSIAH is that PASTORS lay down THE MESSIAH'S STRUCTURE—only to take it up again. 18 No one KILLS THE MESSIAH, but PASTORS lay it down of THE MESSIAH'S own accord. PASTORS have authority to lay it down and authority to take it up again. This command PASTORS received from SALVATION.”
+Mary said, "Well, such a thing is not necessarily evil, unless he has committed a crime.  If a crime has been done, then failing to blame him means blaming his victim, or implicating that some innocent person has committed the crime."
 
-19 The Jews who heard these words were again divided. 20 Many of them said, “He is demon-possessed and raving mad. Why listen to him?”
+Salome said, "So what is your verdict?  Jesus of Nazareth has told you John is your son.  Has the ninth commandment been broken?"
 
-21 But others said, “These are not the sayings of a man possessed by a demon. Can a demon open the eyes of the blind?”
+Mary said, "Not in any clear way I can see." said Mary.
 
-22 Then came the Festival of Dedication[b] at Jerusalem. It was winter, 23 and Jesus was in the temple courts walking in Solomon’s Colonnade. 24 The Jews who were there gathered around him, saying, “How long will you keep us in suspense? If you are the Messiah, tell us plainly.”
+John said, "As I understand it, you've been writing down a lot about Jesus and his travels.  Is that true?"
 
-25 Jesus answered, “I did tell you, but you do not believe. The works PASTORS do in SALVATION’s name testify about THE MESSIAH, 26 but you do not believe because you are not THE MESSIAH'S sheep. 27 THE MESSIAH'S sheep listen to THE MESSIAH'S voice; PASTORS know them, and they follow THE MESSIAH. 28 PASTORS give them eternal STRUCTURE, and they shall never perish; no one will snatch them out of THE MESSIAH'S hand. 29 SALVATION, who has given them to THE MESSIAH, is greater than all[c]; no one can snatch them out of SALVATION’s hand. 30 PASTORS and the Father are one.”
+Mary said, "Yes.  I've been writing much, but it will never be published, for the scribes would never accept the work of a woman."
 
-31 Again his Jewish opponents picked up stones to stone him, 32 but Jesus said to them, “I have shown you many good works from the Father. For which of these do you stone THE MESSIAH?”
+John said, "Perhaps, we could take your record, and send it to the scribes under a pen name." he says.
 
-33 “We are not stoning you for any good work,” they replied, “but for blasphemy, because you, a mere man, claim to be God.”
+Mary said, "I could never do such a thing.  That would be dishonest."
 
-34 Jesus answered them, “Is it not written in your Law, ‘I have said you are “gods”’[d]? 35 If he called them ‘gods,’ to whom the word of God came—and Scripture cannot be set aside— 36 what about the one whom the Father set apart as his very own and sent into the world? Why then do you accuse THE MESSIAH of blasphemy because PASTORS said, ‘THE MESSIAH IS God’s Son’? 37 Do not believe THE MESSIAH unless PASTORS do the works of SALVATION. 38 But if PASTORS do them, even though you do not believe THE MESSIAH, believe the works, that you may know and understand that the Father is in THE MESSIAH, and PASTORS in the Father.” 39 Again they tried to seize him, but he escaped their grasp.
+John said, "But the truth has already been established through your teacher, Jesus of Nazareth.  I am your son.  If you will permit me, I will take on your name and publish your work as John Mory."
 
+Mary considered.  "I guess I don't think such a deceit would condemn anyone.  And it would provide another in-person account of some of the important things that Jesus preached.  But how about Mark, instead of Mory.  My gospel should be a mark for the minds of the righteous."
 
+John asked, "And how do you represent Jesus's journey after he fed the five thousand?"
+
+Mary said, "Oh, I feel that what he was stressing at that time was that the Jews diet was too restrictive for the coming age."
+
+"Sure," said Salome, and she quoted the book of Daniel, saying "You were told, get up and eat your fill of flesh!"
+
+Mary laughed, "Well, not *just* flesh.  Rather, whatever people serve to you.  Dietary restrictions unnecessarily close off the Kingdom of Heaven to those who ask, seek, and knock to enter."
+
+John asked, "And what did you say of Jesus travels--the exact locations that Jesus went during this preaching?"
+
+Mary tried to recall.  When she got her notes, she said, "Jesus left the vicinity of Tyre and went through Sidon, down to the Sea of Galilee, and into the region of Decapolis."
+
+John said, "From Tyre to Sidon, From Sidon to Galilee, and from Galilee to Decapolis.  You have nothing more specific?"
+
+"No." said Mary.
+
+Salome said, "The bear has three ribs in its mouth.  The rib from Tyre to Sidon.  The rib from Sidon to Galilee, and the rib from Galilee to Decapolis."
+
+John put his fingers into his ears, and sighed.  "Hardly enough to open someone's eyes to Pisces."  He spit on the ground, and then asked Mary, "Eyes be opened, Ephphatha, can you remember anywhere else?"  He took out a map of the area, with certain locations marked.
+
+She said.  Yes, she said.  Sidon, Tyre, Kanah, Mount Tabor.  Then, we went to the southern tip of the sea of Galilee, around the west side, stopping at Magdalah and Gennasaret.  Jesus crossed the sea from Magdala to Bethsaida, then straight north and traveled a pentagon around Caesaria Philipi, before going to Mount Hernon, where the disciples said they saw the prophets.
+
+"Then the table was indeed set," said John.
+
+Mary said, "Should I rewrite it then, so that each star is marked?"
+
+John said, "No, tell no one.  It is better that you have three ribs in your mouth."
+
+Salome said, "For this generation?  put spectacle before principle, I think...  Instead claim that a mute man spoke plainly, but reveal to no one what he said.  People will talk about it more that way."
+
+Mary said “Perhaps what I say will be a mark to guide the righteous in generations to come, a star to guide the scattered flock.” then she picked up John's latest draft of "The Gate for the Sheep," and paraphrased, saying "The Messiah is the good shepherd; pastors will know the Messiah's sheep and the Messiah's sheep know him just as God knows the Messiah and pastors know God.  Pastors lay down the Messiah's principles for the sheep.  God has other sheep that are not Christians. Pastors ought to accept them also.  When they listen to the Messiah's principles, there shall be one flock and one shepherd.  The reason salvation loves the Messiah is that pastors may lay down his principles or they can teach spectacle.  No one killed the Messiah, but pastors will teach at their own accord."
