@@ -30,37 +30,162 @@ RitualNoteKey:
 Promotion-Rubric-General: /policies/zion-cornerstone.md
 ---
 
-In the little village of Sychar, 40 miles north of Jerusalem, and near the plot of ground Jacob had given to his son Joseph, lived a woman who frequently drew water from Jacob's well, Draupi, her father Draupa, and her "Baby Pandas", Vindan (or Prat), Soma, Karmin, Nika, and Sena, ages 5, 4, 3, 2, and 1.  Each one of her sons looked a bit foreign here, as their fathers were all East Asian.  
+**Sychar, 30 Tishrei, in the 21st year of Augustus (Julian calendar: late October, 7 BCE).**  
+Forty miles north of Jerusalem, near the plot of ground Jacob had given to Joseph, the little Samaritan village stirred as the Caravan of the Fifth Wind rolled into town. Exotic music drifted ahead of it like incense. Odys the Vintner uncorked foreign wines; Belzar the Astrologer prepared his charts; and Durvasini the healer laid out her herbs, her dentistry tools, and her midwife’s cloths.
 
-Her father Draupa was a care-free soul, who used to study a great deal, but since the onset of old age, found that his far-sightedness kept the texts out of reach. 
+While greeting the townspeople, Durvasini was drawn to a woman lifting water from Jacob’s Well with five young boys.  
+“What is your name?” she asked.
 
-Draupi had a great love of riddles, and practiced the Liknon with some of her friends.  They would put baskets on top of their heads with the answers of riddles they would tell.  Whoever answered correctly would get a lovely dance.
+“Draupi,” came the answer. “And these are my boys — Vindan, Soma, Karmin, Nika, and Sena. Ages five, four, three, two, and one.”
 
-Men from the far-east would come as a pilgrimage and visit Draupi for her riddles, and more.  In five years, five men of Brahmin or Kshatriya caste had come to visit her.  They took her hand in marriage, then spent a whole year each enjoying her company.  Each of them had one child by her, and then went back to become leaders of nations or churches in their nations.  It was quite polyandrous, though some thought of her as a widow.  
+The names struck Durvasini like a half‑remembered melody. She had read them before — or something like them — in the Library of Alexandria, in the old Sanskrit scrolls she had studied in her youth. A faint unease stirred in her chest.
 
-Some men of Sychar somewhat looked down on Draupi because of the way she was loved and left by these men, but they would say nothing out of respect for her father.  
+“And their father?” she asked gently.
 
-Then one day, the Caravan of the Fifth Wind rolled into town, with exotic music, entertainment, and food. Of particular appeal was the exotic wine, brought out by Odys the Vintner, fortunes told by Belzar the Astrologer, and dentistry and midwifery offered by Durvasini the healer. 
+Draupi flushed. “They… have different fathers.”
 
-Belzar lifted his hands and said, “In the 21st year of the reign of Augustus, while Herod is king, on this the 30th of Tishrei, behold—the great conjunction of Jupiter and Saturn in Pisces! Any child conceived beneath this sign may fulfill prophecy, and salvation may come to the world.”
+Durvasini waited.
 
-The crowd murmured. Some laughed, some trembled. Draupi stood still, her eyes fixed on the astrologer. She remembered the riddles she had told, the dances she had given, the children she had borne. She thought of the sixth child she had prayed for, the daughter she longed to call Bara Bas, Creation’s Daughter.
+“They each loved me,” Draupi said, “but each lacked something I longed for. One was brave but not gentle. One was wise but not warm. One was strong but not patient. One was devout but not joyful. One was kind but not steadfast. I asked too much of them, I suppose. When I complained, each left.”
 
-Durvasini stepped forward, her hands dusted with gold. “The sign is true,” she said. “But prophecy is not spectacle. It is conceived in silence, born in tears, raised in patience. Draupi, if you would receive this gift, take Kunti’s mantra and speak it beneath the stars.”
+Durvasini felt the old memory rising — a dim echo of a story she had once read about a woman who prayed for five husbands, each embodying a different virtue. A story of destiny divided because no single man could bear the weight of all her desires.  
+She murmured, half to herself, “Some souls ask for more than any one man can give.”
 
-Odys poured wine into a clay cup and offered it to Draupa, who laughed and said, “I cannot read the texts anymore, but I can taste the wine. And prophecy tastes sweet tonight.”
+Some men of Sychar judged Draupi, though none dared speak ill of her in front of her father, Draupa. Draupi caught the look on Durvasini’s face and bristled.
 
-The music of the Caravan rose, and the people of Sychar gathered at Jacob’s Well. Some came for riddles, some for healing, some for wine. But Draupi came for tears, and Belzar’s words echoed in her heart: Any child conceived beneath this sign may fulfill prophecy.
+“You want to judge?” she asked. “Then answer this: seven holes make four of me, and the rest makes the fifth. What am I?”
 
-And the people of Sychar marveled, but Draupi wept. For even as the zygote took root, she felt it deep in her bones that Bara Bas, Creation’s Daughter, would suffer when Dushasana’s dice were rolled again—casting lots for her robe, and for the robes of the others born beneath this sign. Prophecy is never gentle, and Bara was its child.
+Durvasini blinked. “What? No — I didn’t mean anything by it. I was only thinking of a story I once read.”
 
-As she invoked Kunti's mantra, she tried to think upon a God of peace, but her mind was on the hurricane... the typhoon...  (*Job 38:1*) The Lord spoke to Job from out of the storm...  And that same storm was speaking to Kunti, offering her the Queen of the South.  The Queen of Sheba.  The woman who had questioned Solomon, and the Sphinx who had questioned Oedipus.  Through this daughter, the riddles would be given.  
+Draupi smiled. “If I speak of myself, then my testimony is not true. Seven holes make four of me, and the rest makes the fifth. What am I?”
 
-"The Queen of the South" she whispered, "will rise at the judgment and condemn this generation, because she traveled from the ends of the earth to hear Solomon's wisdom." (*Mat 12:42, Luke 11:31*)
+Durvasini frowned, thinking. “You have five boys… are four of them especially holy?”
 
-And so the Queen of the South was invoked, her riddles rising like storm‑winds. Bara Bas would judge this generation, for she had traveled far to hear Solomon’s wisdom. But now, beneath the stars of Pisces, Draupi asked: will she find one greater than Solomon here?
+Draupi laughed. “Nice try. All five are holy to me. But you’re halfway there simply by realizing it was a riddle. Imagine how confused you’d be otherwise.”
 
---- 
-When Bara Bas was born, Draupi and her midwife saw that a son had been born.  Draupi was disappointed, and she decided to swear the midwife to secrecy.  She would raise her as a girl, (the Sphinx, the Queen of Sheba, the Queen of the South).  Only when puberty came would anyone realize this was a boy.  She gave her the name "Bara Bas"; Creation's Daughter.  When she came of age, she would change her name to "Bar Abba", Son of the Father.  
+Draupi had always loved riddles. She and her friends practiced the **Liknon**, balancing baskets on their heads with answers hidden inside. Whoever solved the riddle earned a dance. It was harmless fun — and yet riddles clung to her life like a second skin.
 
-But for now, Draupi wanted to enjoy having a girl child.
+Durvasini studied her closely. The five sons. The five virtues. The five names. The pattern was unmistakable.  
+**Draupadi reborn — and unaware.**
+
+But Draupi only saw her own ordinary life. She had no idea of the mythic shadow she cast.
+
+Durvasini’s breath caught. A memory flashed — a moment in the Library of Alexandria when her old teacher had whispered that souls sometimes returned in fragments, that destiny echoed across ages, that she herself carried a sliver of Kunti’s teacher’s soul. She had dismissed it then. She did not dismiss it now.
+
+She said nothing yet. The moment was not right.
+
+---
+
+## **THE NIGHT OF THE CONJUNCTION**
+
+Twilight deepened. Jupiter and Saturn glimmered faintly above the horizon, just visible in Pisces. The Caravan prepared its torches but had not yet lit them; the crowd strained to see the rising stars.
+
+Draupi’s father, Draupa, was cheerful and absent‑minded, a former scholar whose far‑sightedness now kept the small scrolls he loved just out of reach. He squinted up at the Caravan’s banners and read them aloud with surprising confidence.
+
+“At least I can still make out the big letters,” he chuckled. “If only the scrolls were written this large, I might still enjoy them.”
+
+“Father, I’m sorry I don’t have time to read to you every moment,” Draupi said.
+
+“You’re too distracted with your riddles,” he teased.
+
+Before them, Belzar lifted his hands, and the crowd grew silent.
+
+“In the 21st year of Augustus, while Herod is king, on this the 30th of Tishrei — behold! The great conjunction of Jupiter and Saturn in Pisces! Any child conceived beneath this sign may fulfill prophecy, and salvation may come to the world.”
+
+The crowd murmured. Some laughed. Some crossed themselves. Some trembled.
+
+Draupi stood still. Conceiving on a night like this… she wondered who in the village might be considering it.
+
+Cups of wine were passed around by the exotically dressed caravaners. One poured wine for Draupa, who chuckled, “I cannot read prophecy anymore, but I can taste it. And tonight it tastes sweet.”
+
+The torches were lit now, their flames snapping in the cool night air. The bonfire crackled at the center of the Caravan’s circle, throwing gold light across the faces of the villagers. Jupiter and Saturn burned like twin lanterns above the world.
+
+Someone would surely conceive tonight out of inebriation, but Draupi felt that prophecy — if it were real — ought to be intentional. Ceremonial.
+
+She stepped away from the crowd, arms wrapped around herself. Belzar’s proclamation still echoed in her mind: *Any child conceived beneath this sign may fulfill prophecy.*  
+There were none of her former lovers who would refuse the chance, but choosing one would only stir jealousy and quarrels.
+
+Durvasini followed her into the half‑shadow. “You heard him,” she said softly.
+
+“I heard too much,” Draupi murmured. “Five sons already. What need have I of another?”
+
+“Need is not the measure of destiny,” Durvasini said.
+
+“What I need,” Draupi replied, “is for men not to become fools fighting over me. Things are peaceful now. Another belly full of baby would turn content into contention.”  
+She paused, feeling something she could not name. “Why me? Why now? Why under this sign?”
+
+Durvasini stepped closer, her voice low. “Because this sign will never be erased. Some may doubt a virgin birth, but none will doubt the stars crossed on this night. The march of the wanderers is written in time.”
+
+Draupi sighed. “I could not have everything I desired in one man. So God gave me five — and all the trouble that came with them. Now the Jewish prophets cannot have everything they proclaimed in one man, so they make me part of their troubles too.”
+
+“That may be how it is,” Durvasini said gently. “I am not meant to understand — only to trust.”
+
+“Well,” Draupi said, “can I at least have a daughter?”
+
+Durvasini shrugged. “Sometimes a soul returns in another gender. I know mine did.”
+
+Draupi looked up sharply. “Yours?”
+
+Durvasini nodded. “A fragment of an old teacher’s soul found its way into me. I did not ask for it. I only learned to bear it. And you, Draupi… you carry an echo as well. Five sons, each with a different virtue. Five names that stirred my memory the moment I heard them.”
+
+“That wasn’t the answer to my riddle,” Draupi said. “I might yet dance, but you haven’t earned a dance with me by the rules of the Liknon.”
+
+Durvasini smiled. “Two eyes, two ears, two nostrils, and one mouth. Four senses, seven holes. The fifth sense — touch — has no hole, but is whole.”
+
+Draupi sighed, half‑amused. “Now I have to dance for you.”  
+Then, more quietly: “And you think I am someone else reborn.”
+
+“I think destiny has touched you before,” Durvasini said. “And it is touching you again.”
+
+The fire popped, sending sparks into the dark.
+
+“If you choose it,” Durvasini continued, “the child conceived tonight will carry riddles older than Solomon, older than Oedipus, older than the dice that once stripped a queen of her robe. But prophecy is not spectacle. It is conceived in silence, born in tears, raised in patience.”
+
+“And if I refuse?” Draupi asked.
+
+“Then destiny will pass you by,” Durvasini said. “But it will not return.”
+
+Draupi looked up at the stars. Jupiter and Saturn gleamed above them in Pisces.
+
+“I prayed for a daughter once,” she whispered. “And now I must choose a father… there will be no end to this.”
+
+“Perhaps,” Durvasini said. “Or perhaps not. Speak Kunti’s mantra, and let the storm answer. You might yet have a miracle.”
+
+Draupi laughed softly. “No, I’m no virgin. We’ll need a different phrase for this one. And truly, I feel I’m getting the shaft on miracles tonight. A sixth pregnancy without a known father? Oh, how the rumors will fly.”
+
+---
+
+## **THE VISION**
+
+As Draupi whispered Kunti’s mantra, she tried to think of a God of peace. But her mind filled with storm‑winds — the whirlwind that spoke to Job, the typhoon that spoke to Kunti, Typhon, father of the Sphinx. The storm spoke again now, offering her the Queen of the South, the Queen of Sheba, the Sphinx who questioned Oedipus. Through this daughter, riddles would be given.
+
+A vision unfolded:
+
+A girl born beneath the storm.  
+A robe gambled for — divided into four parts.  
+Dice rolling — but loaded. Who casts lots with loaded dice? A man? An angel? A demon?  
+Centuries passing before the riddles were solved.  
+A judgment rising.
+
+She spoke of these visions to Durvasini the next morning.
+
+Durvasini interpreted softly, “Dushasana’s dice will be rolled again. And Bara Bas will stand where riddles judge kings. The Queen of the South will stand in judgment over the Pisces generation.”
+
+Draupi shivered.
+
+---
+
+## **THE BIRTH**
+
+When the child was born, Draupi and the midwife saw a son.
+
+Draupi’s heart fell.
+
+She swore the midwife to secrecy. “I will raise her as a girl,” she said. “The Sphinx. The Queen of Sheba. The Queen of the South. When puberty comes, the truth will reveal itself. But until then — let me have my daughter.”
+
+She named the child **Bara Bas — Creation’s Daughter.**  
+One day, she knew, the name would change to **Bar Abba — Son of the Father.**
+
+But not yet.
+
+For now, she would savor the daughter she had longed for.
