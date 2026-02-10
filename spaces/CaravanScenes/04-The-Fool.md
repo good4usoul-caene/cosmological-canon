@@ -22,24 +22,17 @@ RitualNoteKey:
  - Koran 3:49
    - Bara breathes words into a bird that comes from clay (a clay birdhouse)
 Promotion-Rubric-General:  https://github.com/good4usoul-caene/cosmological-canon/policies/zion-cornerstone.md
- ---
-
-| Son / Father / Nickname | Personality Traits | Notes |
-|--------------------------|--------------------|-------|
-| Prativindhya / Yudhishthira / Prat | Calm, dutiful, reflective | Inherited Yudhishthira’s sense of justice and restraint. Thoughtful, inclined toward dharma. |
-| Sutasoma / Bhima / Somak | Brave, energetic, loyal | Echoes Bhima’s vigor and boldness. Courageous in battle, devoted to family. |
-| Shrutakarma / Arjuna / Karman | Skilled, disciplined, ambitious | Mirrors Arjuna’s martial focus. Trained in archery, disciplined, eager to prove himself. |
-| Shatanika / Nakula / Nika | Handsome, graceful, diplomatic | Inherited Nakula’s charm and beauty. Gentle, courteous, adept in social dealings. |
-| Shrutasena / Sahadeva / Sena | Wise, observant, strategic | Reflects Sahadeva’s intelligence and foresight. Sharp perception, quiet wisdom. |
-
+---
 
 In the 28th year of the reign of Augustus while Herod was king  Draupa, Draupi, Joseph, Mary, Elizabeth, and Zechariah met as they sometimes did, in Sychar.  The children were playing. 
 
-John had boasted that he could outrun any one of the Upa Pandas. 
+John had boasted that he could outrun any one of the Little Pandas (What Draupi called her five boys). 
 
-They laughed.  "You, a seven year-old will outrun us?"
+They laughed.  "You, a seven year-old will outrun us?"  
 
-Seven year old Bara Bas decided to make a little game of it.  "John, you and I will play house.  I'll play Gaia, and you'll play Cronus.  We'll have six babies, and then you have to try to catch and devour them.  Prat, you're the oldest.  She shouts: Hestia, Son of Cronus and Gaia! Go!"
+The youngest of the five was almost nine, and the oldest was 13.  But John, Bara, and Jesus, (all aged seven) were all very precocious in different ways.  Jesus had surprising moral clarity.  John was incredibly fast.  Bara was clever and had a near eidetic memory.
+
+So Bara Bas, the cleverest, decided to make a little game of it.  "John, you and I will play house.  I'll play Gaia, and you'll play Cronus.  We'll have six babies, and then you have to try to catch and devour them.  Prat, you're the oldest.  She shouts: Hestia, Son of Cronus and Gaia! Go!"
 
 Prat starts out running, but doesn't quite expect the flash of John.  John catches Prat by the wrist and drags him over to Jacob's well.  Cronus devours Hestia!"
 
