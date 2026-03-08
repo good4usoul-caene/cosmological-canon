@@ -1,12 +1,10 @@
 Christopher Scrypt
-Level 13
+Level 12
 Exp =100,000
 Spell DC = 19
 
 
-Feats:
-Resilient?  Lucky
-Um, the one that gives advantage on Concentration checks
+Feats: Lucky, Warcaster
 
 S/D/C/I/W/C = 9/18/16/22/11/10
 Proficiency Bonus: +4
@@ -21,17 +19,17 @@ Magic Items
  - Boots of Elvenkind (equipped)
  - War-magey Wand (attuned) gives +1 to spell attacks and DC
  - Staff of Frost (attuned)
- - 
+
  
 
-
-Spells
+Spells (16@12)
 1 5/5
 2 4/4
 3 4/4
 4 4/4
 5 3/3
 6 2/2
+7 2/2
 Robe of Stars:  6/6
 Staff of Ice: 10/10  ll save DC: 
  - cone of cold (5 charges), 
@@ -40,74 +38,78 @@ Staff of Ice: 10/10  ll save DC:
  - wall of ice (4 charges).
 
 Chrys's spells
-1
-Alarm
-Burning Hands
-Comprehend Languages
-Detect Magic
-Expeditious Retreat
-False Life
-Feather Fall
-Find Familiar
-Hideous Laughter
-Ice Knife
-Identify
-Mage Armor
-Magic Missile
-Magic WeaponStaff
-Protection from Evil
-Unseen Servant
-Shield
+0
+chill touch, light, mage hand, mending, minor illusion
 
-2
-Detect Thoughts
-Gust of Wind
-Invisibility
-Knock
-Reduce/Enlarge
-Shatter
-Spider Climb
-Augury
-Enhance Ability
+
+1 (5)
+Alarm,
+Burning Hands,
+Comprehend Languages,
+Detect Magic,
+Expeditious Retreat,
+ False Life,
+Feather Fall,
+Find Familiar,
+x Hideous Laughter,
+Ice Knife,
+Identify,
+x Mage Armor,
+Magic Missile,
+Magic Weapon,
+Protection from Evil,
+Unseen Servant,
+x Shield,
+
+2 (4)
+Detect Thoughts,
+Gust of Wind,
+x Invisibility,
+Knock,
+x Reduce/Enlarge,
+Shatter,
+x Spider Climb,
+Augury,
+Enhance Ability,
 Misty Step
 
-3
-Counterspell
-Clairvoyance
-Dispel Magic
-Fly
-Gaseous Form
-Haste
-Lightning Bolt
-Meld into Stone
-Major Image
-Fireball
-Remove Curse
-Leomund's Tiny Hut (R)
-Tongues
-Hypnotic Pattern
+3 (4)
+Counterspell,
+Clairvoyance,
+Dispel Magic,
+x Fly,
+Gaseous Form,
+x Haste,
+Lightning Bolt,
+Meld into Stone,
+Major Image,
+x Fireball,
+Remove Curse,
+Leomund's Tiny Hut (R),
+Tongues,
+x Hypnotic Pattern
 
-4.
-Arcane Eye
-Banishment
-Dimension Door
+4. (4)
+x Arcane Eye,
+Banishment,
+x Dimension Door,
 Stone Shape
-Greater Invisibility
-Divination
+Greater Invisibility,
+Divination,
 Mordenkainen's Private Sanctum
 
-5
-Teleportation Circle
+5 (3)
+x Teleportation Circle
 Telekinesis
 Seeming
 Scrying
-Wall of Force
-[Bigby's Hand](https://dnd5e.wikidot.com/spell:bigbys-hand)
+x Wall of Force,
+x [Bigby's Hand](https://dnd5e.wikidot.com/spell:bigbys-hand), (246)
 [Contact other Plane](https://dnd5e.wikidot.com/spell:Contact-other-Plane)
 
-6
+6 (2)
 Dramij's Instant Summons
-True Seeing
+x True Seeing
 Contingency
 Sunbeam
 
@@ -156,6 +158,7 @@ Party Treasure from Ink Blot
 | **Nolzur's Marvelous Pigments**| No        | Very Rare   | Pot/jar of magical paint. Draw objects (doors, pits, bridges, etc.) which become real and functional when painted.                                   |
 | **Ring of Jumping**           | Yes        | Uncommon    | Triple your jump distance while wearing. Requires attunement.                                                  |
 | **Spirit Board**              | No         | Uncommon    | Used for communing with spirits. Usually lets you ask questions of the dead, or as flavor/plot ritual item.    |
+
 | **Cloak of Many Fashions**    | No         | Common      | As a bonus action, can change the cloak's style/color/appearance. No defensive/protective powers.              |
 | **Flametongue, Rapier**       | Yes        | Rare        | +2 rapier. Bonus action: ignite; weapon sheds light (40 ft radius), deals +2d6 fire damage on hit.             |
 | **Eyes of the Eagle**         | Attune     | Uncommon    | Advantage on Perception checks relying on sight. Can see detail at extreme distance.                           |
