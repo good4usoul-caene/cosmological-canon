@@ -57,7 +57,7 @@ Identify,
 x Mage Armor,
 Magic Missile,
 Magic Weapon,
-Protection from Evil,
+x Protection from Evil,
 Unseen Servant,
 x Shield,
 
@@ -68,9 +68,9 @@ x Invisibility,
 Knock,
 x Reduce/Enlarge,
 Shatter,
-x Spider Climb,
+Spider Climb,
 Augury,
-Enhance Ability,
+x Enhance Ability,
 Misty Step
 
 3 (4)
@@ -94,12 +94,12 @@ x Arcane Eye,
 Banishment,
 x Dimension Door,
 Stone Shape
-Greater Invisibility,
+x Greater Invisibility,
 Divination,
 Mordenkainen's Private Sanctum
 
 5 (3)
-x Teleportation Circle
+Teleportation Circle
 Telekinesis
 Seeming
 Scrying
