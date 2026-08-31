@@ -2,23 +2,66 @@
 
 ### The Moon
 
+*Contrast:  The events of John 21 occur AFTER the events of Acts 12:2  Jesus of Nazareth, who has been living in Damascus, returns to the Lake of Galilee.  There he demotes Peter and promotes Paul as the leader of the Christian faith.  He also expects something more from John.  Namely, the book of John.*
+
+
+
 John 21: Phileo and Agape
 
 ---
 
-**Acts 12:2** James is put to death by Herod.  **12:3** Peter is captured, during Passover(?) (the days of unleavened bread)  **12:4** He put four guards over him, planning to bring him out after Passover.  **5** Peter prayed.  **6** When Herod was about to bring him forth, Peter slept between two soldiers who were bound to him by chains.  **7** Gabriel(?)  Herodias' lover from earlier chapter, (or any guard loyal to Salome and Joanna) comes in and gives Peter a good whack, saying "rise up in haste".  He unlocks the chains, and says "put on your sandals and shoes and wrap your cloak around you and follow me.  **9** Peter walked out, not knowing what was happening, thinking the man was a vision.  **10** Gabriel nodded to two guards, who thought nothing seemed suspicious, but he took Peter right out the gate of Tiberias.  And Gabriel left Peter on his own from there.  **11** Peter claimed to truly know it was an angel who had delivered him out of Herod's hand.  **12** He proceeded to the house of Mary, mother of John Mark, (possibly in Bethany?  I have not established where Mary and John live together.)  where many had gathered to pray.  **13** Rhoda the servant answered, **14** Based on the interlinear, at https://biblehub.com/interlinear/acts/12.htm either from joy, she didn't open the gate, or <strike>not from joy, she opened the gate.</strike>  But she reported Peter to be standing before the gate.  (Before might mean behind <strike>or in front of?</strike>)  **15** And to her they said you are out of your mind, but she kept insisting, and they said, it is an angel (ghost) of him.  **16** But Peter continued knocking, and having opened it they saw him and were amazed.  **17** He raised a sign to them to be silent, then told them how the Lord had brought him out of the prison.  He then said Report to James (I guess he didn't know James was dead?) and to the brothers these things.  Then he went to another place.
+**Acts 12:2** James is put to death by Herod.  
 
-**18** There was no small disturbance among the soldiers regarding Peter's escape.  **19** Herod examined the guards and commanded them to be led to death and he left Judea for Caesarea.
+**12:3** Peter is captured, during Passover(?) (the days of unleavened bread)  
 
-**20** By one accord, Herod was now furiously angry with the people of of Tyre and Sidon.  They came to him in Caesarea with Blastus (who was over the bedchamber of the king?).  They were seeking peace because their region was being nourished by the king's.  **21** On the appointed day, Herod put on royal apparel and sat on the throne.  He was addressing them.  **22** The people were crying out "Of a god this is the voice, and not of a man".  **23** Immediately then, an angel (could be Gabriel or someone else loyal to Salome, Joanna, Philip the Tetrarch) of the Lord struck him in return for that he gave not the glory to God; and having been eaten by worms, he breathed his last.  
+**12:4** He put four guards over him, planning to bring him out after Passover.  
 
-**24** But the word of God continued to grow and multiply.  **25** Barnabus, Saul, and John Mark returned toward Jerusalem.
+**5** Peter prayed.  
+
+**6** When Herod was about to bring him forth, Peter slept between two soldiers who were bound to him by chains.  
+
+**7** Gabriel(?)  Herodias' lover from earlier chapter, (or any guard loyal to Salome and Joanna) comes in and gives Peter a good whack, saying "rise up in haste".  He unlocks the chains, and says "put on your sandals and shoes and wrap your cloak around you and follow me.  
+
+**9** Peter walked out, not knowing what was happening, thinking the man was a vision.  
+
+**10** Gabriel nodded to two guards, who thought nothing seemed suspicious, but he took Peter right out the gate of Tiberias.  And Gabriel left Peter on his own from there.  
+
+**11** Peter claimed to truly know it was an angel who had delivered him out of Herod's hand.  
+
+**12** He proceeded to the house of Mary, mother of John Mark, (possibly in Bethany?  I have not established where Mary and John live together.)  where many had gathered to pray.  
+
+**13** Rhoda the servant answered, 
+
+**14** Based on the interlinear, at https://biblehub.com/interlinear/acts/12.htm either from joy, she didn't open the gate, or <strike>not from joy, she opened the gate.</strike>  But she reported Peter to be standing before the gate.  (Before might mean behind <strike>or in front of?</strike>)  
+
+**15** And to her they said you are out of your mind, but she kept insisting, and they said, it is an angel (ghost) of him.  
+
+**16** But Peter continued knocking, and having opened it they saw him and were amazed.  
+
+**17** He raised a sign to them to be silent, then told them how the Lord had brought him out of the prison.  He then said Report to James (I guess he didn't know James was dead?) and to the brothers these things.  Then he went to another place.
+
+**18** There was no small disturbance among the soldiers regarding Peter's escape.  
+
+**19** Herod examined the guards and commanded them to be led to death and he left Judea for Caesarea.
+
+**20** By one accord, Herod was now furiously angry with the people of of Tyre and Sidon.  They came to him in Caesarea with Blastus (who was over the bedchamber of the king?).  They were seeking peace because their region was being nourished by the king's.  
+
+**21** On the appointed day, Herod put on royal apparel and sat on the throne.  He was addressing them.  
+
+**22** The people were crying out "Of a god this is the voice, and not of a man".  
+
+**23** Immediately then, an angel (could be Gabriel or someone else loyal to Salome, Joanna, Philip the Tetrarch) of the Lord struck him in return for that he gave not the glory to God; and having been eaten by worms, he breathed his last.  
+
+**24** But the word of God continued to grow and multiply. 
+
+**25** Barnabus, Saul, and John Mark returned toward Jerusalem.
 
 Begin **John  21**
 
 **1** Jesus of Nazareth lived in Damascus at the time when Peter was released, and he got word that Peter was free and that Herod had allegedly been killed by an angel of the Lord.  He decided to make one more visit to his disciples near the Sea of Galilee which had become the Sea of Tiberias under Herod's rule.  
 
 **2** They were together.  Simon Peter to whom Jesus had said, "I give you the keys to the Kingdom," and "Get behind me, Satan,"; Nathanael from Cana, the guard who had claimed to pierce Jesus' side, the sons of Zebedee, who were actually the Upa Pandavas, and two others of his disciples.  
+
 **3** Late in the evening, Simon Peter said to them, "I am going to fish".  They said "we also will come with you."  They went forth and went up into the boat and caught nothing in the night.
 
 **4** With the morning, Jesus of Nazareth stood on the shore in the distance.  However the disciples did not know it was Jesus.  
