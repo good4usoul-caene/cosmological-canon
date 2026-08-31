@@ -1,4 +1,11 @@
-30.  Judgment
+**Chapter Title:  Judgment**
+Bible Parallel:  Acts 1-5
+Event:  Choosing a new disciple
+Event:  Did I already do Pentecost in an earlier chapter
+Event:  Peter and John heal someone
+Contrast: Peter's Message is 9 parts condemnation, 1 part salvation
+Contrast: Rumors that Peter killed Ananias and Sepphira reach Paul
+
 *Acts 5:1-10* And soon Peter became drunk with the power of Jesus' name, that he began using it for evil.  When Ananias and Sepphira came to him saying that they had sold everything they owned for the commune, Peter sensed they were holding back and accused them.  He called this "conspiring to test the Spirit of the Lord".  
 
 Because Paul had not yet clarified "Faith is evidence of what you hope for". Peter had abused faith, and caused evidence of what Ananias and Sapphira dreaded.  Thus they fell, dead to Peter.
