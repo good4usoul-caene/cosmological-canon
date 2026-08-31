@@ -60,9 +60,9 @@ John said, "Perhaps, we could take your record, and send it to the scribes under
 
 Mary said, "I could never do such a thing.  That would be dishonest."
 
-John said, "But the truth has already been established through your teacher, Jesus of Nazareth.  I am your son.  If you will permit me, I will take on your name and publish your work as John Mory."
+John said, "But the truth has already been established through your teacher, Jesus of Nazareth.  I am your son.  If you will permit me, I will take on your name and publish your work as John Mary."
 
-Mary considered.  "I guess I don't think such a deceit would condemn anyone.  And it would provide another in-person account of some of the important things that Jesus preached.  But how about Mark, instead of Mory.  My gospel should be a mark for the minds of the righteous."
+Mary considered.  "I guess I don't think such a deceit would condemn anyone.  And it would provide another in-person account of some of the important things that Jesus preached.  But how about Mark, instead of Mary.  My gospel should be a mark for the minds of the righteous."
 
 John asked, "And how do you represent Jesus's journey after he fed the five thousand?"
 
