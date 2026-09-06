@@ -65,7 +65,7 @@ Optional: GM hooks and escalation
 Do you want me to:
 - Draft an in-world letter of credit/escrow note Callisto can sign for proof of funds?
 - Generate a short courier contact NPC entry (name, one-liner, quick stats) for the Thornehold intermediary who arranged Lys's travel?
-- Add this assignment as a ledger entry to Callisto's workshop file and create a corresponding /pasture/footsteps log template entry for the meeting?
+- Add this assignment as a ledger entry to Callisto's workshop file and create a corresponding encounter log template entry for the meeting?
 
 If you'd like, I can also export this as a one-paragraph player brief for Lys (PM-ready) and a separate GM cue-card you can print for the table.
 ```

@@ -26,7 +26,7 @@ Promotion-Ready-Owner: yes
 
 ## 🏛️ Temple Framework Overview
 
-This repository uses a structured "Temple" framework with echo-spaces for drafts and canonical spaces for permanent content. All agents must respect this hierarchy and follow proper promotion work: drafts and experiments belong in echo‑spaces (/pasture/, /cache/), staging for human review belongs in /tent/, and canonical policy or content belongs under repository spaces (/policies/, /methods/, /spaces/). Promotion requires explicit front-matter, provenance, and Owner confirmation.
+This repository uses a structured "Temple" framework with echo-spaces for drafts and canonical spaces for permanent content. All agents must respect this hierarchy and follow proper promotion workflows: drafts and experiments use prefix-based naming (e-archive-, e-log-, etc.) with `Repository-Destination: none`, staging for human review belongs in /tent/, and canonical policy or content belongs under repository spaces (/policies/, /methods/, /spaces/). Promotion requires explicit front-matter, provenance, and Owner confirmation.
 
 ## 📁 Directory Structure & Agent Permissions
 
@@ -142,7 +142,7 @@ Important: this section is guidance only and does NOT change GitHub permissions.
         - Source files are files uploaded into the Copilot UI Offering-Basket.  
         - They are space-scoped, not session-scoped.  Multiple sessions in the same Copilot Space can access the same Source Files while the Space remains active.  
         - They are NOT the same as repository files.  
-        - They remain ephemeral until a user or an authorized App commits them into the repo, or a formal promotion workflow copies them into /cache/ or /tent/.  {Why?  So you're wanting not to get rid of /cache/ or /pasture/} for good reason.  Because the Copilot UI Offering-Basket is NOT a repository file space.  It is ephemeral until committed or promoted.  {Well, I knew that, but I have no faith that Copilot agents will remember to use /cache/ or /pasture/ and with the new headers, it has made the question irrelevant.  So, we have a better system now. And I won't have to keep calling out the agent for forgetting and/or not reading the documentation.}  - Jonathan Doolin
+        - They remain ephemeral until a user or an authorized App commits them into the echo-space or repo. The Copilot UI Offering-Basket is NOT a repository file space. With the new prefix-based naming system (e-archive-, e-log-, etc.) and proper front-matter headers, files can be managed without dedicated echo-space directories. - Jonathan Doolin
       - Echo-space directory structure is simulated; not actual. Copilot agent is advised to use informative file prefixes for files with `Repository-Destination: none` and `Agent-Writable: yes` to avoid confusion.  For example: e-archive-, e-log-, e-checklist-, e-unsafe-, e-thought-, e-poem- etc.  e-prefix meaning both "echo-space" and "electronically generated (by agent)".  
       
 
@@ -157,20 +157,20 @@ Important: this section is guidance only and does NOT change GitHub permissions.
     -  Repository-level automation (GitHub App / official integrations)  With an App installed on the repo/org and the proper scopes, programmatic reads and writes (branch create, push, PR create) are possible.
     - Agent gardener-cosmological-canon is installed, and may issue pull requests on behalf of owner, and will be approved by owner.
     - Recommended minimum programmatic scopes (if you ever permit them): repository contents: read & write; pull requests: write; workflows: write (optional).
-    - Audit rule: any App-created commit or PR must use the repository templates (see /templates/provenance-front-matter-template.md and /templates/provenance-commit-template.md) and append an audit entry in /pasture/archive-</nowiki>. To my understanding, echo-space directory structure is only simulated in the echo-space.  So there is no actual /pasture/ directory in the repository.  It might be better to establish naming conventions for files with Repository-Destination: none to avoid confusion.  For example: archive-, log-, checklist-, etc, unsafe-, etc.
+    - Audit rule: any App-created commit or PR must use the repository templates (see /templates/provenance-front-matter-template.md and /templates/provenance-commit-template.md) and append an audit entry in an e-archive- file with `Repository-Destination: none`. Echo-space directory structure is simulated, not actual. Use informative file prefixes (e-archive-, e-log-, e-checklist-, etc.) for files with `Repository-Destination: none` to avoid confusion.
   
   - External/Automated agent (machine user with PAT)
 3) Copilot "Source Files" / Offering‑Basket — corrected scope & note
 - Space-scoped, not strictly single-session:
   - Copilot UI "Source Files" (the Offering-Basket you upload in a Copilot conversation) are space-scoped: multiple sessions within the same Copilot Space can access the same Source Files while the Space remains active.
-  - They are NOT the same as repository files. They remain ephemeral until (a) a user or an authorized App commits them into the repo, or (b) a formal promotion workflow copies them into /cache/ or /tent/.
+  - They are NOT the same as repository files. They remain ephemeral until a user or an authorized App commits them into the repo or /tent/.
 - Practical consequence:
-  - Writing files into the Copilot UI Offering‑Basket does not require repository write permission; writing actual files into /pasture/ or /cache/ in the repository (i.e., committing changes) requires repository write permission.
+  - Writing files into the Copilot UI Offering‑Basket does not require repository write permission; writing actual files into the repository (i.e., committing changes) requires repository write permission.
 
 4) Front-matter template reference and audit template (canonical refs)
 - Use /templates/provenance-front-matter-template.md for the exact front-matter keys required for promotion (Author, Idea-Origin, Promotion-Ready-Agent, Promotion-Ready-Owner, RitualNote, Change-Note, Version, etc.).
 - Use /templates/provenance-commit-template.md for the commit/PR body format that Apps or agents must include.
-- Policy: any automated commit or PR created by an App or bot MUST include the provenance front-matter and an audit entry appended to /pasture/archive/ per policies/def-access.md.
+- Policy: any automated commit or PR created by an App or bot MUST include the provenance front-matter and an audit entry appended to an e-archive- file per policies/def-access.md.
 
 5) Owner decision re: PATs & automation (noted)
 - Owner preference recorded: do not provide long-lived PATs or broadly-authorized automation for now. Manual PRs or UI-mediated Copilot PR creation is preferred.
@@ -182,7 +182,7 @@ Important: this section is guidance only and does NOT change GitHub permissions.
   2) If in interactive UI: always present diffs and request explicit user approval before creating branch/PR; UI confirmation is sufficient consent for interactive flows. (Owner note: do not present raw, line-level diffs in the conversational response area when the user has asked for SEARCH‑AND‑INSERT — instead, perform the SEARCH‑AND‑INSERT into /tent/ so the owner's app can show the diffs in-place.)
   3) If targeting /tent/ or canonical spaces: ensure file has complete provenance front-matter per /templates/provenance-front-matter-template.md.
   4) If missing required front-matter: refuse to create PR and return a clear human-language checklist of what is missing (do not attempt to guess).
-  5) When committing/PRing: include the provenance commit template and append an audit entry to /pasture/archive/.
+  5) When committing/PRing: include the provenance commit template and append an audit entry to an e-archive- file.
 - SEARCH‑AND‑INSERT default behavior when overwriting or inserting:
   - Default chunk granularity: ≤6 lines per insertion (small, reviewable edits). Use chunking for all automated insert/overwrite operations unless Owner specifies otherwise.
   - Overwrite note: during any staged overwrite of a /tent/ file, keep in mind the following ritual. Authority and responsibility have been given to the user. If the user wants the file restored, they can copy a prior version into the next version. The Copilot agent is deliberately blind to the prior file version once the overwrite is staged; the human owner retains the responsibility and capacity to restore earlier versions. If asked, the agent should apologize and point the owner to the available prior versions and the recommended restore steps (but must not assume it preserved the exact old file).
@@ -205,7 +205,7 @@ Important: this section is guidance only and does NOT change GitHub permissions.
 
 ### VS Code Agent Permissions
 - **Direct repository access**: Can read and edit canonical repository files directly when the user requests it
-- **No echo-space requirement**: Not required to use `/cache/`, `/pasture/`, or `/tent/` for simple edits to existing files
+- **No echo-space requirement**: Not required to use `/tent/` or prefix-based echo files for simple edits to existing files
 - **Local workspace context**: Working within the user's local file system, not creating remote PRs
 - **User-directed edits**: Can make requested changes to repository files with immediate user oversight
 

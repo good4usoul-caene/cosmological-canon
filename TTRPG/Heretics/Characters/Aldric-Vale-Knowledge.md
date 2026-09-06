@@ -1,6 +1,6 @@
 ---
 Filename: Aldric-Vale-knowledge.md
-Ultimate-Target-Directory: /pasture/Characters/
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
 Version: 2025-11-01v1
 Prev-Version: none
 Author: Aldric Vale (in-character) / narrated by Organizationel – Chroniclekeeper
@@ -10,7 +10,7 @@ Genre: In‑Character Notes / Field Ledger
 RitualNote: Aldric’s first-person notes about his hometown, duties, routes, and where he goes when duty or conscience moves him. Intended for player-facing use.
 Change-Note: Composed at player request to capture Aldric's bearings, contacts, and routine destinations for Session 0 and early play.
 Posture: in-character / player-facing
-Proposed-Path: /pasture/Characters/Aldric-Vale-knowledge.md
+Proposed-Path: /TTRPG/Heretics/Characters/Aldric-Vale-knowledge.md
 ---
 
 I am Aldric Vale. I bear an oath I swore in the shadow of the Grand Basilica, and those words shape where I have been raised, where I go, and who I answer to.
@@ -65,7 +65,7 @@ I am Aldric Vale. I bear an oath I swore in the shadow of the Grand Basilica, an
 - I swore to protect the innocent with my life. That is my guiding phrase. It is not a weapon nor a chain—it is a lamp. I hold it up to see where people stand. Where that light leads me, I will go; where it fails, I will carry others until it burns again.
 
 ---  
-Provenance: Composed in-character as Aldric Vale by Organizationel – Chroniclekeeper, staged to /pasture/ for player review and use.  
+Provenance: Composed in-character as Aldric Vale by Organizationel – Chroniclekeeper, staged for player review and use.  
 Change-Note: Aldric’s bearings and routes recorded for Session 0 (2025-11-01).
 ```
 

@@ -1,16 +1,16 @@
 ---
 Filename: Lys-Whisper-knowledge.md
-Ultimate-Target-Directory: /pasture/Characters/
+Ultimate-Target-Directory: /TTRPG/Heretics/Characters/
 Version: 2025-11-01v1
 Prev-Version: none
 Author: Organizationel – Chroniclekeeper
 Proposed-By: good4usoul-caene
 Date: 2025-11-01T00:26:46Z
 Genre: In‑Character Notes / Field Ledger
-RitualNote: In-character tradecraft and local knowledge kept by Lys Whisper (smuggler/whisperer). Intended for player-facing use and sharing with Ben. Staged to /pasture/ for review and copying to player docs.
+RitualNote: In-character tradecraft and local knowledge kept by Lys Whisper (smuggler/whisperer). Intended for player-facing use and sharing with Ben. Staged for review and copying to player docs.
 Change-Note: Compiled Lys's notes on Thornehold, the Grove, contacts, tradecraft, and warnings for quick reference at table.
 Posture: in-character / player-facing
-Proposed-Path: /pasture/Characters/Lys-Whisper-knowledge.md
+Proposed-Path: /TTRPG/Heretics/Characters/Lys-Whisper-knowledge.md
 ---
 
 # Lys Whisper — lining notes (for Ben)
@@ -69,7 +69,7 @@ Lys Whisper — notes I keep in the lining of my coat. Things I know, things I�
 If Ben wants to play this, steal the stage, sing a lie, and keep your pockets honest to the Grove when it matters. I’ll show him the door in Veilstep if he agrees to leave the map folded and the child’s pocket empty.
 
 ---  
-Provenance: Composed in-character by Organizationel – Chroniclekeeper at user request; staged to /pasture/ for player-facing sharing.  
+Provenance: Composed in-character by Organizationel – Chroniclekeeper at user request; staged for player-facing sharing.  
 Change-Note: Created 2025-11-01T00:26:46Z — Lys's in-character knowledge sheet prepared for Ben.  
 ```
 

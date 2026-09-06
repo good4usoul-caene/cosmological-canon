@@ -1,6 +1,6 @@
 ---
 Filename: Blade-Hunger-Principles.md
-Ultimate-Target-Directory: /pasture/Characters/
+Ultimate-Target-Directory: /TTRPG/Heretics/Mechanics/
 Version: 2025-11-01v1
 Prev-Version: none
 Author: Organizationel – Chroniclekeeper (proposal)
@@ -10,7 +10,7 @@ Genre: Mechanics Proposal / Narrative Hook
 RitualNote: Refines the “Blade Hunger” concept so the weapon reacts to violation of communal moral principles (publicly obvious breaches), and uses expendable points as the activation resource. Designed to be narrative-first and L1-safe; GM must confirm final numbers.
 Change-Note: New proposal implements principle‑based triggers and a point‑spend activation model; includes guidance for adjudication, examples, atonement, and balance.
 Posture: draft / GM-confirm
-Proposed-Path: /pasture/Characters/Blade-Hunger-Principles.md
+Proposed-Path: /TTRPG/Heretics/Mechanics/Blade-Hunger-Principles.md
 ---
 
 Summary

@@ -95,7 +95,8 @@ The cosmological-canon represents a comprehensive knowledge management system wi
 - **`/methods/`** - Complete workflow documentation trilogy
 - **`/tools/`** - Automation scripts and utilities
 - **`/permissions/`** - Access control and authorization policies
-- **`/pasture/archive/`** - Audit trails and promotion records
+- **`/tent/`** - Staging area for human review before promotion
+- **`/archives/`** - Audit trails and promotion records
 
 ### Governance
 - **`/policies_def-access.md`** - Access definitions and contribution guidelines

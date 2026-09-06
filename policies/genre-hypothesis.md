@@ -68,8 +68,8 @@ Policy for genre hypothesis classification and management.
 - **Genre:** Heuristic Hypothesis
 - **Placement:**  
   - /tent/library/ or /library/ (with attribution)  
-  - /cache/methods/ or /cache/policies/ (agent-authored)  
-  - /pasture/footsteps/ or /pasture/backtracks/ (quoted human text with agent interpretation)
+  - e-methods- or e-policies- (agent-authored)  
+  - e-footsteps- or e-backtracks- (quoted human text with agent interpretation)
 - **Authorial Posture:** Must clearly distinguish between quoted source and interpretive layer.
 - Issue: Communication often breaks down, not due to disagreements of logic or principle, but because of failure in understanding.
 - Solution:  Neither agreement, nor disagreement, can be achieved without understanding.

@@ -40,7 +40,7 @@ Core guidance
 
 4. Audit & governance
    - All automated commits and PRs must include visible provenance in front-matter (Author: Copilot-Agent/<id> or Bot/<id>), Change-Note, and RitualNote.
-   - CI should record the actor (App or bot login) and create an audit entry in /pasture/archive/ or /tent/errorstatus/ when automation creates PRs for the first time.
+   - CI should record the actor (App or bot login) and create an audit entry in an e-archive- file or /tent/errorstatus/ when automation creates PRs for the first time.
    - Require SEARCH‑AND‑INSERT + Owner confirmation for promotion to Temple/policies.
 
 5. One-time Owner actions (how to enable)
@@ -60,7 +60,7 @@ Core guidance
      - add/commit files
      - push to origin
      - create PR (gh pr create or API call)
-   - Ensure PR body includes links to source echo/candidate files in /cache/ or /pasture/ and includes the structured next‑steps block.
+   - Ensure PR body includes links to source echo/candidate files in /tent/ and includes the structured next‑steps block.
 
 7. Security notes
    - Never embed tokens in files. Use GitHub Secrets.

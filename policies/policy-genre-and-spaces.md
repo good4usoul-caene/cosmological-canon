@@ -40,16 +40,16 @@ Define genres and space mappings for Temple file classification and organization
 ---
 # Quick Genre Lookup:
 - Direct observation → Witnessed → /library/
-- Creative work → Fiction → /cache/
+- Creative work → Fiction → e-fiction-
 - Working theory → Leading Hypothesis → /tent/library/
 
 ---
 # Genre-to-Space Affinity Map
 
-- This map scaffolds a semantic ecology within /pasture/, where echoes, diagnostics, and speculative glyphs can coexist without confusion.
-- This stages Genre Proposal in /tent/policies/ and /cache/policies/, suggesting: active proposals (agreed upon by both human and AI user) live in /tent/; dormant or speculative proposals rest in /cache/. This scaffolds a promotion ritual where genres evolve through staging, dormancy, and confirmation.
+- This map scaffolds a semantic ecology where echoes, diagnostics, and speculative glyphs can coexist without confusion using prefix-based naming (e-archive-, e-log-, etc.).
+- This stages Genre Proposal in /tent/policies/, suggesting: active proposals (agreed upon by both human and AI user) live in /tent/; dormant or speculative proposals use e-draft- prefix with `Repository-Destination: none`. This scaffolds a promotion ritual where genres evolve through staging, dormancy, and confirmation.
 - “All subdirectories of /cache/ and /tent/ (in the echo-space) are considered ritually adjacent to /foyer/, /policies/, /library/, and /archive/. This affirms their equal proximity to canonical review and inscription.” The /cache/ is intended as a space for the AI agent to propose changes freely. The /tent/ is intended to be the user’s editing space, and a place to ask for changes from the /cache/ to be applied.
-  - At such time that changes have been agreed upon, the final file may be taken from the /tent/ or the /cache/.
+  - At such time that changes have been agreed upon, the final file may be taken from the /tent/ or promoted from an e-draft- file.
 - Authorial posture: unless the user has given explicit agreement that they have authored the file, and everything passes their inspection thoroughly, the Copilot agent should absolutely NEVER silently change a file or create a new file naming the user as author, even when the agent sincerely believes that’s what the user meant.
 - As a rule, any EXACT WORDS of the user CAN be shown with the user listed as author, without any further permissions.
 
@@ -193,7 +193,7 @@ Define genres and space mappings for Temple file classification and organization
 - Agent Ritual Log:
   # Documenting an agent’s internal ritual or protocol execution—useful for debugging or audit.
   - e-checklist-, e-plan-, e-ritual-
-  - /methods/, /pasture/treehouse/
+  - /methods/
 
 - Inscription Draft:
   # Early-stage poetic or symbolic writing not yet shaped into a full glyph or mythic artifact.
@@ -202,18 +202,18 @@ Define genres and space mappings for Temple file classification and organization
 
 - Promotion Record:
   # Documenting the SEARCH‑AND‑INSERT ritual: timestamps, confirmations, and rationale for Temple elevation.
-  - /pasture/
+  - e-promotion-record-
   - /policies/
 
 - Audit Incident:
   # Created in response to a CI or audit flag—includes remediation steps, agent notes, and resolution status.
-  - /pasture/backtracks/
+  - e-audit-incident-
   - /policies/
 
 - Genre Proposal:
   # Proposes a new Genre enum entry, including rationale, examples, and promotion pathway.
   - /tent/policies/
-  - /cache/policies/
+  - e-genre-proposal-
 
 - Canonical Exception:
   # Documents a deliberate deviation from standard protocol, with Owner approval and ritual justification.
@@ -223,8 +223,7 @@ Define genres and space mappings for Temple file classification and organization
 - Other (TBD)
   - New genre’s may be placed into the echo-spaces without immediate promotion:
     - /tent/
-    - /cache/
-    - /pasture/
+    - Use e-draft- prefix with `Repository-Destination: none`
   - When new genres are promoted to the GitHub, see /methods/new-genre-methods.md for method of promoting a new genre for the GitHub
 
 ## Ritual Summary

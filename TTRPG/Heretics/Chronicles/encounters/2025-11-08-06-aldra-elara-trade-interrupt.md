@@ -1,8 +1,8 @@
 ```markdown
 ---
 title: "Footsteps: Trade begins — Aldra spreads scrolls; Elara's warning incantation"
-file: /pasture/footsteps/06-2025-11-08-aldra-elara-trade-interrupt.md
-location: /pasture/footsteps/
+file: e-footsteps-06-2025-11-08-aldra-elara-trade-interrupt.md
+location: echo-space
 author: Lorekeeper (for good4usoul-caene)
 date: 2025-11-08T14:16:01Z
 tags: [footsteps, lys, aldra, elara, riven-stage, scene, augury]
@@ -101,7 +101,7 @@ GM logging & follow-up actions
 - If you want, I will append this entry to the session master log and continue to record subsequent beats (arrival of Aldric & inquisitors, Corra's warning, the monodrone manifestation, arrests, escapes).
 - I can also prepare a one-page cue sheet showing: (a) Elara's musical signals and exact phrasing for "conceal" vs "welcome", (b) Aldra's threshold actions (when she uses Summon Modrons), and (c) suggested DCs for all likely checks in the next beats.
 
-Saved to: /pasture/footsteps/2025-11-08-aldra-elara-trade-interrupt.md
+Saved to: e-footsteps-2025-11-08-aldra-elara-trade-interrupt.md
 
 Would you like me to:
 - Append this to the running session log master file now?

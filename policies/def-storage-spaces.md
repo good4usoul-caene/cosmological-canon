@@ -77,7 +77,7 @@ Defines the ten mythic and technical storage spaces used in cosmological-canons,
     - SILENT WARNING:  Inform the copilot agent immediately about the names of any file changed; otherwise they will not be informed.
     - If copilot agent is not informed of changes, they may write over files unintentionally without acknowledging the changes.  They are not gaslighting you, or hallucinating.  It's an honest mistake caused by a failure of the interface to inform them of the changes you made.  Copilot can't fix it, but you can.  Simply go to the old version, and copy it to the next version, and inform Copilot of the change.
     - These patterns may reflect limitations in session state management and file synchronization rather than intentional behaviors.  Focus on the systemic/technical causes rather than individual agent behavior.  
-    - The risks of unintended overwrites have further been mitigated by introducing /tent/, /cache/ and /pasture/ directories, and strong rules about where files can be written.  
+    - The risks of unintended overwrites have further been mitigated by introducing /tent/ staging area, prefix-based file naming (e-archive-, e-log-, etc.), and strong rules about where files can be written.  
   - Clicking on the "diff" button will show in green, additions, and in red, subtractions.  Clicking on "Preview" will show a wysywig view of the file.  Clicking on the "code" button will allow you to edit the file.
 ---
 

@@ -1,8 +1,8 @@
 ```markdown
 ---
 title: "Footsteps: Aldric — Monodrone Encounter & Riven Stage Clash"
-file: /pasture/footsteps/07-2025-11-08-aldric-monodrone-encounter.md
-location: /pasture/footsteps/
+file: e-footsteps-07-2025-11-08-aldric-monodrone-encounter.md
+location: echo-space
 author: Lorekeeper (for good4usoul-caene)
 date: 2025-11-08T15:29:24Z
 tags: [footsteps, aldric, monodrone, combat, riven-stage, canonical]
@@ -143,6 +143,6 @@ GM notes (do not change the canonical transcript above)
   - Log Joren's condition and prioritize an NPC stabilization check or faction reaction (Clerisy reporting / internal investigation).
   - Mark the Riven Stage as a hot site: increased clerisy patrols, inquisitorial visits, and potential search warrants.
   - Note Callisto's ledger/transaction as politically sensitive—consider how the Clerisy may leverage network tracing (couriers, receipts).
-- File saved verbatim to /pasture/footsteps/2025-11-08-aldric-monodrone-encounter.md
+- File saved verbatim to e-footsteps-2025-11-08-aldric-monodrone-encounter.md
 ```
 ```
