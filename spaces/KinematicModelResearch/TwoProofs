@@ -1,0 +1,460 @@
+% !TEX TS-program = pdflatex
+% !TEX encoding = UTF-8 Unicode
+
+% This is a simple template for a LaTeX document using the "article" class.
+% See "book", "report", "letter" for other types of document.
+%  Relativity Gravitation and World - Structure
+
+% by Milne E. A. Publication date 1935 
+%Topics Natural Science, Relativistic, C-'DAC, Noida, DLI Top-Up
+% Publisher At The Clarendon Press, Oxford 
+
+\documentclass[11pt]{article} % use larger type; default would be 10pt
+
+\usepackage[utf8]{inputenc} % set input encoding (not needed with XeLaTeX)
+
+%%% Examples of Article customizations
+% These packages are optional, depending whether you want the features they provide.
+% See the LaTeX Companion or other references for full information.
+
+%%% PAGE DIMENSIONS
+\usepackage{geometry} % to change the page dimensions
+\geometry{a4paper} % or letterpaper (US) or a5paper or....
+% \geometry{margin=2in} % for example, change the margins to 2 inches all round
+% \geometry{landscape} % set up the page for landscape
+%   read geometry.pdf for detailed page layout information
+
+\usepackage{graphicx} % support the \includegraphics command and options
+
+% \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
+
+%%% PACKAGES
+		%\usepackage{booktabs} % for much better looking tables
+\usepackage{array} % for better arrays (eg matrices) in maths
+		%\usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
+\usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
+		%\usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
+% These packages are all incorporated in the memoir class to one degree or another...
+
+%%% HEADERS & FOOTERS
+		%\usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
+		\pagestyle{plain} % options: empty , plain , fancy
+		%\renewcommand{\headrulewidth}{0pt} % customise the layout...
+		%\lhead{}\chead{}\rhead{}
+		%\lfoot{}\cfoot{\thepage}\rfoot{}
+
+%%% SECTION TITLE APPEARANCE
+		%\usepackage{sectsty}
+		%\allsectionsfont{\sffamily\mdseries\upshape} % (See the fntguide.pdf for font help)
+% (This matches ConTeXt defaults)
+
+%%% ToC (table of contents) APPEARANCE
+		%\usepackage[nottoc,notlof,notlot]{tocbibind} % Put the bibliography in the ToC
+		%\usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
+		%\renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
+		%\renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{localpackage}
+\usepackage{hyperref}
+\usepackage{cite}
+
+%sidebar stuff?
+
+%%% END Article customizations
+
+%%% The "real" document content comes below...
+
+\title{Three Proofs of Lorentz Transformations}
+\author{Jonathan Doolin}
+
+%\begin{figure}[h!]
+%\centering
+%\includegraphics[width=0.5\textwidth]{cat.png}
+%\caption{A cute cat}
+%\label{fig:cat}
+%\end{figure}
+
+\begin{document}
+\maketitle
+\abstract{The Lorentz Transformation equation can be constructed from several distinct sets of assumptions.  Common approaches include requiring that (1)  points of a given velocity are rendered stationary.  (2) speed of light in opposite directions are rendered isotropic (3) speed of light is constant, (4) the coordinate system preserves scale.  (5) eigenvectors in the $x=ct$ and $x=-ct$ direction may change length but not direction.  (6) the transformation is linear (7) the Lorentz Transformation obtains a form of $M_{LT}(-v)=M_{LT}^{-1}(v)$.
+
+This paper compares three derivations built from different subbsets of these assumptions.  The first, my preferred construction, uses (1), (2), (3), (4).  The second uses  (1) , (2), and (7).  The third follows the structure of Einstein's 1920 argument, applying (5), (6), (1) and (4).  
+
+In the first method, the sequence$(1)\to(2)\to(3)\to(4)$, is order dependent:   Each step accomplishes a specific geometric adjustment that preserves the results of earlier steps and is preserved by later ones.  In contrast, assumption (7) determines the effects of (3) and (4) simultaneosly, though its justification appears to rely more on analogy than on geometric necessity.}
+
+\section{The Decomposition}
+\label{sec:One}
+In \HREF{https://www.desmos.com/calculator/dwejxxbmpi}{https://www.desmos.com/calculator/dwejxxbmpi} (Line 16) I decomposed the actual Lorentz Transformations into four steps:
+
+\Align{\label{One}\Pmatrix{x'\\ct'}&=\Pmatrix{g&0\\0&1}\Pmatrix{1&0\\0&h}\Pmatrix{1&0\\w&1}\Pmatrix{1&-v\\0&1}\Pmatrix{x\\ct}}
+
+\begin{enumerate}
+\item Apply the Galilean (spatial skew) Transformation 
+$$\Pmatrix{x_1\\ct}=\Pmatrix{1&-v/c\\0&1}\Pmatrix{x\\ct}$$
+\item Apply a time skew operation in order to get an isotropic speed of light
+$$\Pmatrix{x_1\\ct_1}=\Pmatrix{1&0\\w&1}\Pmatrix{x_1\\ct}$$
+\item Apply time dilation and length dilation in order to normalize the determinant and restore the correct light-cone slope.
+$$\Pmatrix{x_1\\ct'}=\Pmatrix{1&0\\0&h}\Pmatrix{x_1\\ct_1}$$
+$$\Pmatrix{x'\\ct'}=\Pmatrix{g&0\\0&1}\Pmatrix{x_1\\ct'}$$
+\end{enumerate}
+
+
+In the demonstration, the user is free to choose all parameters with a slider, and confirm by sight when each goal is met.  However, obtaining these goals do not achieve any final formula. 
+
+The goal of Sections 1.1-1.4 is to find closed-form mathematical expressions that achieve each of these necessary goals. 
+
+In the Desmos demonstration, the reciprocity of $g$ and $h$ is adopted for convenience, but section 1.4 shows that this reciprocity follows from demanding a unit determinant for $M_{LT}$.
+
+\subsection{Apply the Galilean Skew}
+\label{sec:OneDotOne}
+\qbox{\textbf{Goal:}  We desire to take a trajectory $x=vt$ and skew the entire diagram so that it obtains $x_1=0$.  Once this is done, the operations of time-skew, temporal dilation, and spatial dilation will not affect the direction of this axis. \textbf{Visualization:} If the spacetime is like a stack of photographs, this operation simply takes that stack and skews them.
+}
+
+$v$ is simply the Galilean velocity.  Defining $\varphi:=\arctanh(v/c)$ the expression becomes, and defining $M_{LT}(\varphi)$ to be the associated Lorentz transformation matrix, we obtain:
+
+\Align{\label{Two}\Pmatrix{x'\\ct'}=
+\describe{M_{LT}(\varphi)}{\Pmatrix{g&0\\0&1}
+\Pmatrix{1&0\\0&h}
+\Pmatrix{1&0\\w&1}
+\Pmatrix{1&-\tanh\varphi\\0&1}}
+\Pmatrix{x\\ct}
+}
+
+The first operation tilts the entire spacetime diagram so the world-line $x=vt$ becomes vertical.  Once this is done, later operations cannot change its direction.
+
+\subsection{Apply a Temporal Skew}
+\label{sec:OneDotTwo}
+\qbox{\textbf{Problem:}  Our Galilean Skew has produced an anisotropy in the speed of light.  After the Galilean skew, the right-moving and left-moving light rays have slopes $c-v$ and $-(c+v)$, which are no longer symmetric.
+
+We wish to re-establish the isotropy via a ``desync'' operation, or ``temporal skew''.   \textbf{Assurance:} Because the temporal skew is applied along lines of constant $x_1$, it does not change the direction of the worldlines made vertical in step 1. \textbf{Visualization} The deck of playing cards are glued together after the skew and re-sliced along lines $x_1=\text{constant}$.  The new deck is skewed along this perpendicular axis.
+}
+
+To find $w$ let's think about the speed-of-light equations:  In (a1, a2), we imagine two rays of light going in opposite directions in the x-axis.  (b1, b2, c1, c2) apply the Galilean transformations which gives us a new variable $x_1$.  (d1, d2) apply a temporal skew to the formulas and give us a new variable $t_1$
+
+\Align{\label{Three}x\overset{a1}=ct&\qquad x\overset{a2}=-ct
+\\x_1+vt\overset{b1}=ct&\qquad x_1+vt\overset{b2}=-ct
+\\x_1\overset{c1}=(c-v)t&\qquad x_1\overset{c2}=-(c+v)t
+\\x_1\overset{d1}=(c-v)(t_1+wx_1)&\qquad x_1\overset{d2}=-(c+v)(t_1+wx_1)
+\\x_1\overset{e1}=ct_1-vt_1+wcx_1-wvx_1&\qquad x_1\overset{e2}=-vt_1-ct_1-vwx_1-cwx_1
+\\x_1(1-wc+wv)\overset{f1}=(c-v)t_1&\qquad 
+x_1(1+vw+cw)\overset{f2}=-t_1(c+v)
+\\\frac{x_1}{t_1}\overset{g1}{=}\frac{c-v}{1+w(v-c)}&\qquad\frac{x_1}{t_1}\overset{g_2}{=}-\frac{c+v}{1+w(c+v)}
+\\\left(\frac{x_1}{t_1}\right)_{\text{right}}&\overset{h1}=-\left(\frac{x_1}{t_1}\right)_{\text{left}}
+\\\frac{c-v}{1+w(v-c)}&\overset{h2}{=}+\frac{c+v}{1+w(c+v)}
+\\(c-v)(1+w(c+v))&\overset i=+(c+v)(1+w(v-c))
+\\(c-v)+w(c^2-v^2)&\overset j=c+v+w(v^2-c^2)
+\\(c-v)-(c+v)&\overset k=-2w(v^2-c^2)
+\\w&\overset l=\frac{v}{v^2-c^2}=\frac{-v}{c^2-v^2}}
+
+(a1, a2) - Light rays in the original frame.  (b1, b2) Galilean skew applied.  (c1, c2) Left and right speed-of-light lines in new coordinates.  (d1,d2) Apply the temporal skew with $w$ unknown.  (e, f) expand and collect terms.  (g1, g2) compute slopes of left and right speed of light lines.  (h) set slopes equal and opposite (isotropy condition).  (i, j, k, l) solve for w.
+
+Combining the first two operations, 
+
+\Align{\label{Four}\Pmatrix{1&0\\-\frac{v}{c^2-v^2}&1}\Pmatrix{1&-v\\0&1}&=\Pmatrix{1&v\\-\frac{v}{c^2-v^2}&\frac{v^2}{c^2-v^2}+1}
+\\\Pmatrix{x_1\\ct_1}&\overset{c=1}=\Pmatrix{1&-\tanh\varphi
+\\-\cosh\varphi\sinh\varphi&\sinh^2\varphi+1}\Pmatrix{x\\ct}
+\\&=\Pmatrix{1&-\tanh\varphi\\-\cosh\varphi\sinh\varphi&\cosh^2\varphi}\Pmatrix{x\\ct}}
+
+This matrix is the combined effect of the Galilean skew and the temporal skew, expressed in rapidity form using $v/c=\tanh\varphi$.
+
+
+\subsection{Obtain a relation $h(g)$ to make the speed of light constant in $(x',t')$-coordinates}
+\label{sec:OneDotThree}
+\qbox{\textbf{Successes:} We have rendered the $x=vt$ line stationary in $(x1,t)$ coordinates, and it remains stationary in $(x_1,t_1)$ coordinates.  We have obtained isotropic speed-of-light in $(x_1,t_1)$ coordinates. \textbf{Problem:} the speed of light in the $(x_1,t_1)$ coordinates is not $c$.  \textbf{Goal:} We require that the null directions remain null after the dilation steps.  That is, the images of $x=ct$ and $x=-ct$ must satisfy $x'=ct'$ and $x'=-ct'$.  This condition determines the ratio of our time-dilation factor, $h$ and our length dilation factor $g$. \textbf{Visualization:} The deck is glued back together.  $g$, the length-dilation term is left as is, and $h$ is stretched or compressed until the speed-of-light lines have slope $c$.}
+
+Equation \eqref{One} now simplifies to 
+
+\Align{\label{Five}
+\\\Pmatrix{x'\\ct'}&=\Pmatrix{g&0\\0&h}\Pmatrix{1&-\tanh\varphi\\-\cosh\varphi\sinh\varphi&\cosh^2\varphi}\Pmatrix{x\\ct}}
+
+We require that $(x,ct)=(ct,ct)$ maps to $(x',ct')=(ct',ct')$ and $(x,ct)=(-ct,ct)$ maps to $(x',ct')=(-ct',ct')$.  Or in other words 
+
+It would be interesting to see if we could solve for $g$ and $h$ independently without requiring that they are reciprocal.  To solve for $h$, we could obtain the equation
+
+\newcommand{\toprow}[2]{g(1,-\tanh\varphi)\cdot(#1,#2)}
+\newcommand{\botrow}[2]{h\cosh\varphi(-\sinh\varphi,\cosh\varphi)\cdot(#1,#2)}
+
+\Align{\label{Six}ct'_{x=ct}&\overset{a}=\botrow{ct}{ct}
+\\&=hct\cosh\varphi(\cosh\varphi-\sinh\varphi)
+\\&=hct\cosh\varphi \exp(-\varphi)
+\\ct'_{x=-ct}&\overset b=\botrow{-ct}{ct}
+\\&=hct\cosh\varphi(\cosh\varphi+\sinh\varphi)
+\\&=hct\cosh\varphi\exp(\varphi)
+\\x'_{t=x/c}&\overset c=\toprow{x}{c(x/c)}
+\\&=gx- gx\tanh\varphi
+\\&=\frac{gx}{\cosh\varphi}(\cosh\varphi-\sinh\varphi)
+\\&=\frac{gx}{\cosh\varphi}\exp(-\varphi)
+\\x'_{t=-x/c}&\overset d=\toprow{x}{c(-x/c)}
+\\&=gx+ gx\tanh\varphi
+\\&=\frac{gx}{\cosh\varphi}(\cosh\varphi+ \sinh\varphi)
+\\&=\frac{gx}{\cosh\varphi}\exp(\varphi)
+}
+
+Since $x=ct$ and $t=x/c$ are the same geometric line, their images under the transformation must agree.  The result for $x=ct$ is that $ct'=hct\cosh\varphi e^\varphi$.  The result for $t=x/c$ is that $x'=\frac{gx}{\cosh\varphi}e^\varphi$.  We also want to impose that $x'=ct'$ when $x=ct$.  This requires
+
+\Align{\label{Seven}ct'_{x=ct}&\overset a=x'_{t=x/c}
+\\hct\cosh\varphi \exp(-\varphi)&\overset b=\frac{gx}{\cosh\varphi}\exp(-\varphi)
+\\h\cosh\varphi&\overset c=\frac{g}{\cosh\varphi}
+\\\cosh^2\varphi&\overset d=\frac{g}{h}
+\\h&\overset e=g/\cosh^2\varphi}
+
+In line (c) $x$ and $ct$ are equal, which is why they cancel.
+
+The same result occurs when we impose that $x'=-ct'$ when $x=-ct$.  This requires
+
+\Align{\label{Eight}ct'_{x=-ct}&\overset a=-x'_{t=-x/c}
+\\
+hct\cosh\varphi \exp(\varphi)&\overset b=-\frac{gx}{\cosh\varphi}\exp(\varphi)
+\\h\cosh\varphi&\overset c=-\left(-\frac{g}{\cosh\varphi}\right)
+\\h&\overset d=g/\cosh^2\varphi}
+
+This reveals the ratio of our length and time dilation factor needed to restore constant $c$ after our prior steps.  This ratio provides a constancy of $c$ but we need an additional constraint to assure that space and time have not both grown by the same proportion.
+
+\subsection{Find $g$ and $h(g)$ so the coordinate system neither shrinks or grows.}
+\label{sec:OneDotFour}
+
+\qbox{\textbf{Successes:}  We now have a matrix, such that no matter how we set $g$ the $x=vt$ line has been rendered ``stationary'', and the speed of light lines, $x=ct$ and $x=-ct$ lines remain speed-of-light lines.  
+\textbf{Problem:}  Scaling $g$ or $h$ with the established relation of $h=g/\cosh^2\varphi$ results in an overall stretching or compression of the space-time.   Both the spatial and temporal dimensions stretch in proportion to $g$ so the overall transformation preserves the speed of light.  \textbf{Goal:} Find a value of $g$ and $h=g/\cosh^2\varphi$ so that the overall transformation does not stretch or compress. \textbf{Visualization} The overall transformation takes a square, squeezing or expanding it along the $x=\pm ct$ axes, making an elongated diamond.  The result of this step will make it so that the squeesing factor along the $x=ct$ axis is reciprocal of the expanding factor along the $x=-ct$ axis.  This keeps the resulting diamond the same size.}
+
+Our Equation \eqref{One} (defining $M_{LT}(\varphi)$ to be the full Lorentz Transformation Matrix), is now
+
+\Align{\label{Nine}\Pmatrix{x'\\ct'}&\overset a=g\Pmatrix{1&0\\0&\frac{1}{\cosh^2\varphi}}\Pmatrix{1&-\tanh\varphi\\-\cosh\varphi\sinh\varphi&\cosh^2\varphi}\Pmatrix{x\\ct}
+\\&\overset b=g\Pmatrix{1&-\tanh\varphi\\-\tanh\varphi&1}\Pmatrix{x\\ct}
+\\M_{LT}(\varphi)\Pmatrix{x\\ct}:&\overset c=\Pmatrix{g&- g\tanh\varphi\\- g\tanh\varphi&g}\Pmatrix{x\\ct}
+}
+
+The formula for inverse of a $2\times 2$ matrix should be familiar:
+
+\Align{\label{Ten}\Pmatrix{g&- g\tanh\varphi\\- g\tanh\varphi&g}^{-1}&\overset a=\frac{\Pmatrix{g& g\tanh\varphi\\ g\tanh\varphi&g}}{g^2-g^2\tanh^2\varphi}
+\\&\overset b=\frac{g}{g^2}\frac{\Pmatrix{1&\tanh\varphi\\ \tanh\varphi&1}}{1-\tanh^2\varphi}
+\\M_{LT}(\varphi)^{-1}(\varphi)&\overset c=\frac{\cosh^2\varphi}{g}\Pmatrix{1&\tanh\varphi\\\tanh\varphi&1}
+\\&\overset d=\frac{1}{h}\Pmatrix{1&\tanh\varphi\\\tanh\varphi&1}}
+
+We have now definitely derived these:
+
+\Align{\label{Eleven}h&=\frac{g}{\cosh^2\varphi}
+\\M_{LT}(\varphi)&=g\Pmatrix{1&-\tanh\varphi\\-\tanh\varphi&1}
+\\M_{LT}(\varphi)^{-1}&=\frac{1}{h}\Pmatrix{1&\tanh(\varphi)\\\tanh(\varphi)&1}}
+
+From these three derived facts can we make the claim that $g=\frac 1 h$?  
+
+Yes:  To avoid artificial inflation or contraction of the coordinate grid, we impose the condition that the transformation preserve the overall scale of space-time. In matrix terms, this is equivalent to requiring the determinant, $det(M_{LT}=1$ since any uniform scaling of the coordinate grid would multiply the determinant by that scale factor.
+
+The result of assuming that the coordinate system neither shrink nor grow is as follows:
+
+\Align{\label{Twelve}|L|&\overset a=|L^{-1}|=1
+\\1&\overset b=g^2(1-\tanh^2\varphi)
+\\\cosh^2\varphi&\overset c=g^2
+\\g&\overset d=\cosh\varphi
+\\h&\overset e=\frac{g}{\cosh^2\varphi}=\frac{1}{\cosh\varphi}
+\\M_{LT}(\varphi)\Pmatrix{x\\ct}&=\Pmatrix{\cosh\varphi&-\sinh\varphi\\-\sinh\varphi&\cosh\varphi}\Pmatrix{x\\ct}
+}
+
+These values reproduce the standard Lorentz Transformation, completing the four-step geometric construction
+
+
+\subsection{Final Result}
+\label{sec:OneDotSix}
+
+\qbox{Goal: Replace $g$ and $h$ in (\eqref{Five}) with their formulas found in (12 - Section 1.4) or (14 - Section 1.5) }
+
+\Align{\label{Fifteen}
+\\\Pmatrix{x'\\ct'}&=\Pmatrix{\cosh\varphi&0\\0&\frac{1}{\cosh\varphi}}\Pmatrix{1&-\tanh\varphi\\-\cosh\varphi\sinh\varphi&\cosh^2\varphi}\Pmatrix{x\\ct}
+\\&=\Pmatrix{\cosh\varphi&-\sinh\varphi\\-\sinh\varphi&\cosh\varphi}\Pmatrix{x\\ct}
+}
+
+The result is identical with either approach.
+
+\section{Stretching the Eigenvectors: Einstein's 1920 Proof}
+\label{sec:Two}
+
+The following treatment recasts Einstein’s Appendix I derivation in terms of eigenvectors and scaling factors $\lambda$ and $\mu$. It is not a verbatim reproduction of his argument, but a modern algebraic reinterpretation of the same starting assumptions.  
+
+In this section, we approach the problem in a manner more similar to what Einstein did in Appendix 1 of his 1920 book, \textit{``Relativity The Special \& the General Theory''}\cite{Einstein1920}
+
+Einstein posited that if $x-ct=0$ (for a ray of light moving to the right) before a Lorentz Transformation then $x'-ct'=0$ after a Lorentz Transformation.  Likewise, if $x+ct=0$ (for a ray of light moving to the left) before the same Lorentz Transformation, then $x'+ct'=0$ for the same Lorentz Transformation.
+
+Now in order to get to the next step in Einstein's proof, I am reasoning that the vector $(x_r,ct)=(ct,ct)$ ought be stretched (or contracted) to $(x_r',ct')=(\lambda ct,\lambda ct)=(\lambda x_r,\lambda ct)$ while the vector $(x_l,ct)=(-ct,ct)$ ought be stretched (or contracted) to $(x_l',ct')=(-\mu ct,\mu ct)=(-\mu x_l,\mu ct)$.
+
+So the conditions that are met are distinct.  The condition involving $\lambda$ holds for the photon traveling to the right.  The condition involving $\mu$ holds for the photon traveling to the left.
+
+\Align{\label{Sixteen}(x_r'-ct')&=\lambda(x_r-ct)=0
+\\(x_l'+ct')&=\mu(x_l+ct))=0}
+
+But Einstein does not stop here.  His extension is that these equations hold for all events $(x,t)$ mapping to $(x',t')$.  That is, that the entire transformation is accomplished simply by stretching the path of the right photon by a factor of $\lambda$ and stretching the path of the left photon by a factor of $\mu$
+
+In mathematical terms, the bold claim is:
+
+\Align{\label{Seventeen}\forall(x,t,x',t'): (x'-ct')&\overset a=\lambda(x-ct)
+\\\forall(x,t,x',t'): (x'+ct')&\overset b=\mu(x+ct))}
+
+This could be called ``global linear extension''.
+
+\subsection{Can the ``bold claim'' be proven? (global linear extension)}
+\label{sec:TwoDotOne}
+
+Some might note that assuming the transformation is linear, the ``bold claim'' that both equations hold for all event pairs $(x,t)\to(x',t')$ is already baked in before (\eqref{Sixteen}) is written.  Because the transformation is linear, specifying its action on the two null directions determines its action on all vectors.
+
+I prefer to be more folksy, I suppose.  I imagine that the case of constant $-c$ for the left-bound photon and the case of constant $+c$ for the right-bound photon are at first to be taken as independent facts.  
+
+What looks like a bold claim is actually just the consequence of assuming linearity.
+
+Still, it is worth pausing here, because ``just the consequence of assuming linearity'' may sound simple or everyday, when in fact something subtle is happening.  If we do the calculations for the right-bound photon, we have $x=ct$, The $\lambda$ equation collapses to give no information:  $$0=0$$, while the other equation $$2ct'=2\mu ct$$ scales.  
+
+Each null direction is an eigenvector of one of the two equations, so one equation collapses to $0=0$ while the other produces a scaling relation.
+
+The velocity of the right-bound photon is still $+c$ but it has stretched both in space and time by a factor of $\mu$.
+
+Likewise, for the left-bound photon $x=-ct$, the $\mu$ equation collapses to $0=0$, while the $\lambda$ equation becomes a non-trivial scaling relation.
+
+This may seem odd at first, but it is exactly what linearity requires.  Each null direction is an \textbf{eigenvector} of one of the two equations, so it satisfies that equation trivially, and the other non-trivially.  
+
+For intervals $(x,t)$ where $x\ne \pm ct$, neither the $\lambda$ equation nor the $\mu$ equation will collapse into ``no information'', so neither equation collapses:  Both $\lambda$ and $\mu$ contribute to the expressions for $(x',t')$.  
+
+So, my ``folksy'' description is a bit out of order.  Equation \eqref{Seventeen} already holds for both the photon going to the left, and the photon going to the right, even when Equation \eqref{Sixteen} was first introduced.
+
+\qbox{Goal:  Find the relationship between $\mu$ and $\lambda$ by assuming that the transformation neither grows nor shrinks the coordinate system.}
+
+If both these claims are universally true, then we can add equations (\eqref{Fifteen}a) and (\eqref{Fifteen}b) to find $x'$, and subtract (\eqref{Fifteen}a) from (\eqref{Fifteen}b) to find $ct'$ as follows:
+
+\Align{\label{Eighteen}\Pmatrix{x'\\ct'}&=\Pmatrix{\frac{\mu+\lambda}{2}&\frac{\mu-\lambda}{2}\\\frac{\mu-\lambda}{2}&\frac{\mu+\lambda}{2}
+}\Pmatrix{x\\ct}}
+
+This matrix is the unique linear map that sends the two null directions to their scaled images.
+
+We can apply the condition that the determinant of this matrix must be 1 (so that the spacetime does not shrink or grow.  This is exactly the same condition that was applied in Section 1.4.
+
+\Align{\label{Nineteen}1&=\det\Pmatrix{\frac{\mu+\lambda}{2}&\frac{\mu-\lambda}{2}\\\frac{\mu-\lambda}{2}&\frac{\mu+\lambda}{2}}
+\\&=\frac{(\mu^2+2\mu\lambda+\lambda^2)-(\mu^2-2\mu\lambda+\lambda^2)}{4}
+\\&=\mu\lambda}
+
+This means $\mu$ and $\lambda$ are reciprocals.
+
+\qbox{Goal: Assure that $x/t=v$ is mapped to $\frac{x'}{t'}=0$}
+
+We also wish to make it so that this transformation will map $\frac{x}{ct}=\frac{v}{c}$ to $\frac{x'}{ct'}=0$.  This is exactly the same condition that was applied in Section 1.1.
+
+\Align{\label{Twenty}x'&=\Pmatrix{\frac{1/\lambda+\lambda}{2}&\frac{1/\lambda-\lambda}{2}}\Pmatrix{x\\ct}
+\\0&=\Pmatrix{\frac{1/\lambda+\lambda}{2}&\frac{1/\lambda-\lambda}{2}}\Pmatrix{vt\\ct}
+\\0&=\frac{v}{\lambda}+v\lambda+\frac{c}{\lambda}-c\lambda
+\\(c-v)\lambda&=\frac{c+v}{\lambda}
+\\\lambda^2&=\frac{c+v}{c-v}}
+
+If we allow that $\tanh\varphi=\frac{v}{c}$ this resolves as follows:
+
+\Align{\label{TwentyOne}\lambda^2&=\frac{1+\tanh\varphi}{1-\tanh\varphi}
+\\&=\frac{\cosh\varphi+\sinh\varphi}{\cosh\varphi-\sinh\varphi}
+\\&=\frac{\exp{\varphi}}{\exp(-\varphi)}
+\\&=(\exp\varphi)^2
+\\\lambda&=\exp(\varphi)}
+
+The exponential form reflects the additive nature of rapidity:  successive boosts add $\varphi$, so the eigenvalue must multiply as $e^\varphi$.
+
+The full transformation then becomes
+
+\Align{\label{TwentyTwo}\Pmatrix{x'\\ct'}&=\Pmatrix{\frac{\mu+\lambda}{2}&\frac{\mu-\lambda}{2}\\\frac{\mu-\lambda}{2}&\frac{\mu+\lambda}{2}
+}\Pmatrix{x\\ct}
+\\\Pmatrix{x'\\ct'}&=\Pmatrix{\frac{\exp(-\varphi)+\exp(\varphi)}{2}&\frac{\exp(-\varphi)-\exp(\varphi)}{2}\\\frac{\exp(-\varphi)-\exp(\varphi)}{2}&\frac{\exp(-\varphi)+\exp(\varphi)}{2}
+}\Pmatrix{x\\ct}
+\\&=\Pmatrix{\cosh\varphi&-\sinh\varphi\\-\sinh\varphi&\cosh\varphi}\Pmatrix{x\\ct}
+}
+
+This derivation provides a third method that derives the same final result given in Section 1.6.
+
+\section{Conclusion}
+\label{sec:Four}
+
+The three derivations presented in this paper all arrive at the same Lorentz Transformation, but they do so by emphasizing different structural features of the mapping. Einstein’s 1920 method treats the null directions as fundamental and assumes that the transformation acts by stretching these eigenvectors. The reciprocity‑based derivation assumes the symmetry condition, from which the constancy of the speed of light and the unit determinant emerge as consequences rather than assumptions. The geometric four‑step decomposition, by contrast, isolates the operational components of the transformation - spatial skew, temporal skew, dilation, and normalization - and shows how each contributes to the final form.
+
+These approaches are not in conflict; they are different ways of organizing the same underlying geometry. Yet the differences matter. Each method foregrounds a different conceptual element: null directions, symmetry, or operational structure. In discussions of relativity, disagreements often arise not from algebra but from participants implicitly relying on different derivation frameworks. When one person thinks in terms of eigenvectors, another in terms of reciprocity, and another in terms of operational steps, they may describe the same transformation in ways that appear incompatible even though the mathematics is identical.
+
+By placing these three derivations side by side, the present work highlights the coherence of the Lorentz Transformation across multiple conceptual foundations. The transformation is not fragile: it does not depend on any single preferred argument. Whether one begins with null directions, symmetry, or geometric operations, the same mapping emerges. Recognizing this unity may help clarify discussions in which the Lorentz Transformation is invoked, and may reduce the conceptual friction that often arises when different derivational perspectives are mixed without acknowledgment.
+\section{Acknowledgments}
+\label{sec:Acknowledgments}
+
+I am grateful to Joachim Domsta for general suggestions that helped sharpen the presentation. His questions encouraged clearer articulation of several steps and highlighted places where the exposition could be strengthened.  All analysis and derivations are my own.
+
+\section{Appendix: Reciprocity Proof}
+
+\qbox{A note about the forms of $g(\varphi)$ and $h(\varphi)$}
+
+We can now plug into (\eqref{Four}) $(x_R,ct)=(ct,ct)$ and $(x_L,ct)=(-ct,ct)$, to find $(x_,ct_1)$.  What we find for the right-bound case is $$\frac{x_1}{ct_1}=\frac{1}{\cosh^2\varphi}$$.
+
+and for the left-bound case, we find $$\frac{x_1}{ct_1}=-\frac{1}{\cosh^2\varphi}$$
+
+Because $\cosh\varphi$ is an even function, these slopes are unchanged when $\varphi$ is replaced by $-\varphi$
+
+The light-velocity scaling introduced by the combined skew is therefore independent of direction.
+
+In our next steps, we will introduce a length dilation factor $h(\varphi)=h(-\varphi)$ and a time dilation factor $g(\varphi)=g(-\varphi)$ which will map these light-velocities to back to $\pm c$.  
+
+The evenness of $g$ and $h$ follows directly from the structure of (\eqref{Four}) and does not require assuming reciprocity.
+
+\subsection{A different line of reasoning:}
+\label{sec:OneDotFive}
+A different line of reasoning\cite{RG-Post-3047-10} begins by imposing the symmetry condition 
+
+$$M_{LT}(-v) = [M_{LT}(v)]^{-1}$$
+
+In Section 1.2 we observed that the combined Galilean and temporal skew already produces light‑cone slopes that depend only on $\cosh\varphi$, an even function. This derived symmetry is weaker than the full matrix reciprocity condition, but it provides a natural motivation for exploring whether a stronger symmetry might determine the remaining parameters directly.  The following extends from the reasoning of Section 1.2 that $g(\varphi)$ and $h(\varphi)$ are even functions.
+
+
+In section 3 (Narrative Direction and Cohesion), I maintain a neutral stance on whether this is physically better reasoning, however, I feel it is definitely \textit{different} reasoning.
+
+At first glance, one might attempt to replace step 4 of our earlier derivation with this condition.  Doing so indeed reproduces the same result.
+
+\Align{\label{Thirteen}M_{LT}(-\varphi)&\overset a=M_{LT}^{-1}(\varphi)
+\\\Pmatrix{g&-g\tanh(-\varphi)\\-g\tanh(-\varphi)&g}&\overset b=\frac{\cosh^2\varphi}{g}\Pmatrix{1&\tanh\varphi\\\tanh\varphi&1}
+\\\Pmatrix{g&g\tanh\varphi\\g\tanh\varphi&g}&\overset c=\Pmatrix{\frac{\cosh^2\varphi}{g}&\frac{\cosh^2\varphi\tanh\varphi}{g}\\\cosh^2\varphi\tanh\varphi&\frac{\cosh^2\varphi}{g}}
+}
+
+This yields $g=\frac{\cosh^2\varphi}{g}$, which, when $g$ is constrained to be positive, results in $g=\cosh\varphi$.
+
+However, the inverse condition is actually more powerful than this limited application suggests.
+
+\qbox{Question:  Could this condition have been used to simultaneously solve for $h$ and $g$ from (\eqref{Five})?}
+
+Yes.
+
+\Align{\label{Fourteen}M_{LT}(\varphi)&\overset a=\Pmatrix{g&-g\tanh\varphi\\-h\cosh\varphi\sinh\varphi&h\cosh^2\varphi}
+\\
+M_{LT}^{-1}(\varphi)&\overset b=\frac{\Pmatrix{h\cosh^2\varphi&g\tanh\varphi\\h\cosh\varphi\sinh\varphi&g}}{gh(\cosh^2\varphi-\sinh^2\varphi)}
+\\&\overset c=\Pmatrix{\boxed{\frac{\cosh^2\varphi}{g}}&\frac{\tanh\varphi}{h}\\\frac{\cosh\varphi\sinh\varphi}{g}&\boxed{\frac{1}{h}}}
+\\M_{LT}(-\varphi)&\overset d=\Pmatrix{\boxed{g}&g\tanh\varphi\\h\cosh\varphi\sinh\varphi&\boxed{h\cosh^2\varphi}}
+\\\describe{M_{LT}^{-1}(\varphi)}{\Pmatrix{\boxed{\frac{\cosh^2\varphi}{g}}&\frac{\tanh\varphi}{h}\\\frac{\cosh\varphi\sinh\varphi}{g}&\boxed{\frac{1}{h}}}}&\overset e=\describe{M_{LT}(-\varphi)}{\Pmatrix{\boxed{g}&g\tanh\varphi\\h\cosh\varphi\sinh\varphi&\boxed{h\cosh^2\varphi}}}
+\\\boxed{g=\frac{\cosh^2\varphi}{g} }&\to \boxed{g=\cosh\varphi}
+\\\boxed{\frac 1 h=h\cosh^2\varphi} &\to \boxed{h=\frac{1}{\cosh\varphi}}
+}
+
+Hence, imposing the symmetry condition is sufficient to start from (\eqref{Five}) and give us both $g=\cosh\varphi$ and $h=\frac{1}{\cosh\varphi}$.  Thus when the reciprocity condition is assumed, the constancy of the speed of light, and the unitary deteriminant emerge as results, instead of as independent assumptions.
+
+Section \ref{sec:Three} discusses how this reciprocity‑based derivation fits into the overall narrative and why it constitutes a distinct proof.
+
+
+\subsection{Narrative Direction and Cohesion}
+\label{sec:Three}
+
+We have actually now covered not two, but three proofs of the Lorentz Transformation in this paper.
+
+The first and second derivations both begin by (Section 1.1) establishing that a world-line $x=x_0+vt$ is mapped to a stationary point $x=x_0$, and (Section 1.2) a temporal skew that forces the speed of light to be the same in both directions.  
+
+My original derivation then states (Section 1.3) that the speed of light ought be $c$ after the transformation and (Section 1.4) that the overall  coordinate system must neither shrink or grow.  From these, we derive the Lorentz transformation and from these reciprocity follows as a result.
+
+The second derivation goes a different direction, assuming reciprocity (section 1.5).  But I did not give a narrative rationale for making the mathematical assumption.  We could make the assumption via analogy.  With regards to the Galilean transformation and rotation transformation, we can see
+
+\Align{\label{TwentyThree}M_{\text{Galilean}}(v)&\overset a=\Pmatrix{1&-v\\0&1}
+\\M{-1}_{\text{Galilean}}(v)&\overset b=\Pmatrix{1&v\\0&1}=M_{\text{Galilean}}(-v)
+\\M_{\text{Rotation}}(\theta)&\overset c=\Pmatrix{\cos\theta&-\sin\theta\\\sin\theta&\cos\theta}
+\\M{\text{Rotation}}(\theta)&\overset d=\Pmatrix{\cos\theta&\sin\theta\\-\sin\theta&\cos\theta}=M_{\text{Rotation}}(-\theta)
+}
+
+Since the reciprocity relation holds for Galilean and rotation transformations, one might reasonably expect it to hold for Lorentz transformation as well.   These analogies do not prove that reciprocity must hold, but they are a plausible narrative rationale.  If reciprocity is assumed, then the constancy of the speed of light (Section 1.3) and the unitary determinant (1.4) become results of our derivation rather than assumptions.
+
+
+\bibliographystyle{plain}
+\bibliography{Citations}
+
+\end{document}
